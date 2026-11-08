@@ -1,0 +1,3557 @@
+{
+  "instance_id": "i032",
+  "firm": {
+    "name": "Quintero & Young LLP",
+    "domain": "quinteroyoung.com"
+  },
+  "user_contact_id": "i032-c000",
+  "matters": [
+    {
+      "matter_id": "i032-m00",
+      "matter_number": "40527-001",
+      "name": "Northwind v. Stratus ('150 Patent)",
+      "client": "Northwind Analytics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Northwind Analytics against Stratus Logistics asserting U.S. Patent No. 10,150,463.",
+      "counterparty": "Stratus Logistics",
+      "opposing_counsel_firm": "Patel & Iyer LLP",
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "40527-001",
+        "10,150,463",
+        "'150",
+        "Stratus Logistics",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i032-c012",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i032-m01",
+      "matter_number": "81888-001",
+      "name": "Tidewater v. Parallax (MSA Dispute)",
+      "client": "Tidewater Analytics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Tidewater Analytics against vendor Parallax Systems.",
+      "counterparty": "Parallax Systems",
+      "opposing_counsel_firm": "Underwood & Varga LLP",
+      "status": "open",
+      "opened_on": "2026-07-25",
+      "key_terms": [
+        "81888-001",
+        "Parallax Systems",
+        "Parallax"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i032-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i032-m02",
+      "matter_number": "55438-001",
+      "name": "Mariner - Data Security Incident",
+      "client": "Mariner Therapeutics",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Mariner Therapeutics's customer database. Forensics by Brightline Cyber.",
+      "counterparty": "Brightline Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "55438-001",
+        "Brightline Cyber",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i032-c018",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i032-m03",
+      "matter_number": "66551-001",
+      "name": "Quarry - Acquisition of Solace Labs (Project Atlas)",
+      "client": "Quarry Energy",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Solace Labs by Quarry Energy. Stock purchase, ~$410 million.",
+      "counterparty": "Solace Labs",
+      "opposing_counsel_firm": "Reyes & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-07-19",
+      "key_terms": [
+        "66551-001",
+        "Project Atlas",
+        "Atlas",
+        "Solace Labs",
+        "Solace"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i032-c021",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i032-m04",
+      "matter_number": "82373-001",
+      "name": "Redwood - Headquarters Lease (915 Embarcadero Center)",
+      "client": "Redwood Materials",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Redwood Materials's new headquarters at 915 Embarcadero Center, landlord Keystone Properties LLC.",
+      "counterparty": "Keystone Properties LLC",
+      "opposing_counsel_firm": "Ito & Mendoza LLP",
+      "status": "open",
+      "opened_on": "2026-07-11",
+      "key_terms": [
+        "82373-001",
+        "915 Embarcadero Center",
+        "Keystone Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c023",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i032-c024",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i032-m05",
+      "matter_number": "40746-001",
+      "name": "Cascade - Series A Financing",
+      "client": "Cascade Therapeutics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Cascade Therapeutics, led by Lumen Ventures. Raising ~$25 million.",
+      "counterparty": "Lumen Ventures",
+      "opposing_counsel_firm": "Underwood & Xu LLP",
+      "status": "open",
+      "opened_on": "2026-07-29",
+      "key_terms": [
+        "40746-001",
+        "Series A",
+        "Lumen Ventures",
+        "Lumen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i032-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i032-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i032-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i032-c026",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i032-c027",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i032-c028",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i032-c000",
+      "name": "Valerie Haddad",
+      "first": "Valerie",
+      "email": "vhaddad@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i032-c001",
+      "name": "Victor Mendoza",
+      "first": "Victor",
+      "email": "vmendoza@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i032-c002",
+      "name": "Aisha Eriksen",
+      "first": "Aisha",
+      "email": "aisha.eriksen@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i032-c003",
+      "name": "Kenji Okafor",
+      "first": "Kenji",
+      "email": "kokafor@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i032-c004",
+      "name": "Zoe Varga",
+      "first": "Zoe",
+      "email": "zvarga@northwindanal.com",
+      "organization": "Northwind Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c005",
+      "name": "Zoe Nakamura",
+      "first": "Zoe",
+      "email": "zoe.nakamura@tidewateranal.com",
+      "organization": "Tidewater Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c006",
+      "name": "Kavya Laurent",
+      "first": "Kavya",
+      "email": "kavyal@marinerther.com",
+      "organization": "Mariner Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c007",
+      "name": "Farid Abbott",
+      "first": "Farid",
+      "email": "farida@quarryener.com",
+      "organization": "Quarry Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c008",
+      "name": "Bianca Underwood",
+      "first": "Bianca",
+      "email": "bianca.underwood@redwoodmate.com",
+      "organization": "Redwood Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c009",
+      "name": "Umar Mendoza",
+      "first": "Umar",
+      "email": "umar.mendoza@cascadether.com",
+      "organization": "Cascade Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c010",
+      "name": "Whitney Kaplan",
+      "first": "Whitney",
+      "email": "wkaplan@northwindanal.com",
+      "organization": "Northwind Analytics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c011",
+      "name": "Grace Park",
+      "first": "Grace",
+      "email": "gpark@pateliyer.com",
+      "organization": "Patel & Iyer LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c012",
+      "name": "Xavier Whitaker",
+      "first": "Xavier",
+      "email": "xavierw@ironbridgetech.com",
+      "organization": "Ironbridge Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c013",
+      "name": "Nikhil Reyes",
+      "first": "Nikhil",
+      "email": "nikhilr@tidewateranal.com",
+      "organization": "Tidewater Analytics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c014",
+      "name": "Kenji Ito",
+      "first": "Kenji",
+      "email": "kenjii@underwoodvarga.com",
+      "organization": "Underwood & Varga LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c015",
+      "name": "Yusuf Okafor",
+      "first": "Yusuf",
+      "email": "yusuf.okafor@nimbusadr.com",
+      "organization": "Nimbus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c016",
+      "name": "Ben Osei",
+      "first": "Ben",
+      "email": "bosei@marinerther.com",
+      "organization": "Mariner Therapeutics",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c017",
+      "name": "Zoe Kaplan",
+      "first": "Zoe",
+      "email": "zoek@brightlinecyber.com",
+      "organization": "Brightline Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c018",
+      "name": "Thomas Tanaka",
+      "first": "Thomas",
+      "email": "thomas.tanaka@riverstonemutual.com",
+      "organization": "Riverstone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c019",
+      "name": "Victor Tanaka",
+      "first": "Victor",
+      "email": "vtanaka@quarryener.com",
+      "organization": "Quarry Energy",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c020",
+      "name": "Carla Morgan",
+      "first": "Carla",
+      "email": "carlam@reyesrosen.com",
+      "organization": "Reyes & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c021",
+      "name": "Victor Delgado",
+      "first": "Victor",
+      "email": "vdelgado@trellistrust.com",
+      "organization": "Trellis Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c022",
+      "name": "Aisha Huang",
+      "first": "Aisha",
+      "email": "aishah@redwoodmate.com",
+      "organization": "Redwood Materials",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c023",
+      "name": "Arjun Kowalski",
+      "first": "Arjun",
+      "email": "arjunk@itomendoza.com",
+      "organization": "Ito & Mendoza LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c024",
+      "name": "Jasmine Jensen",
+      "first": "Jasmine",
+      "email": "jasmine.jensen@latticerealty.com",
+      "organization": "Lattice Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c025",
+      "name": "Pedro Kaplan",
+      "first": "Pedro",
+      "email": "pkaplan@cascadether.com",
+      "organization": "Cascade Therapeutics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c026",
+      "name": "Emma Iyer",
+      "first": "Emma",
+      "email": "emmai@underwoodxu.com",
+      "organization": "Underwood & Xu LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c027",
+      "name": "Sofia Zhang",
+      "first": "Sofia",
+      "email": "szhang@lumenvc.com",
+      "organization": "Lumen Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c028",
+      "name": "Valerie Underwood",
+      "first": "Valerie",
+      "email": "vunderwood@silverpinevc.com",
+      "organization": "Silverpine Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c029",
+      "name": "Emma Underwood",
+      "first": "Emma",
+      "email": "eunderwood@corvidanal.com",
+      "organization": "Corvid Analytics",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c030",
+      "name": "Femi Xu",
+      "first": "Femi",
+      "email": "femix@bluefinnetw.com",
+      "organization": "Bluefin Networks",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i032-c031",
+      "name": "Ximena Varga",
+      "first": "Ximena",
+      "email": "ximenav@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i032-c032",
+      "name": "Olivia Huang",
+      "first": "Olivia",
+      "email": "ohuang@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i032-e000",
+      "thread_id": "i032-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-02T13:24:12.069700",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Huang",
+        "email": "ohuang@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Dear Valerie,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nRegards,\nOlivia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e001",
+      "thread_id": "i032-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T12:34:24.177221",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Mendoza",
+        "email": "vmendoza@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hi Valerie,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nThanks,\nVictor\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e002",
+      "thread_id": "i032-t001",
+      "in_reply_to": "i032-e001",
+      "references": [
+        "i032-e001"
+      ],
+      "timestamp": "2026-06-17T13:09:51.597603",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hello Victor,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jun 17, 2026 at 12:34 PM, Victor Mendoza <vmendoza@quinteroyoung.com> wrote:\n> Hi Valerie,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e003",
+      "thread_id": "i032-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-18T09:04:35.738779",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Varga",
+        "email": "zvarga@northwindanal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Valerie,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e004",
+      "thread_id": "i032-t001",
+      "in_reply_to": "i032-e002",
+      "references": [
+        "i032-e001",
+        "i032-e002"
+      ],
+      "timestamp": "2026-06-18T14:48:28.901672",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Mendoza",
+        "email": "vmendoza@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hi Valerie,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nVictor\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jun 17, 2026 at 01:09 PM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hello Victor,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e005",
+      "thread_id": "i032-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T07:20:24.954258",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Osei",
+        "email": "bosei@marinerther.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Laurent",
+          "email": "kavyal@marinerther.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hello Valerie,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Brightline Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?\n\nBest regards,\nBen Osei\nChief Information Security Officer\nMariner Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m02",
+        "matter_ids": [
+          "i032-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m02"
+          ],
+          "keyword_candidates": [
+            "i032-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e006",
+      "thread_id": "i032-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T10:29:13.442658",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Kaplan",
+        "email": "wkaplan@northwindanal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Dear Valerie,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest regards,\nWhitney\nChief Technology Officer\nNorthwind Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e007",
+      "thread_id": "i032-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T09:39:46.762826",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Kaplan",
+          "email": "wkaplan@northwindanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "subject": "Infringement contentions due August 3",
+      "body": "Hi Whitney,\n\nReminder that our infringement contentions are due August 3. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e008",
+      "thread_id": "i032-t005",
+      "in_reply_to": "i032-e007",
+      "references": [
+        "i032-e007"
+      ],
+      "timestamp": "2026-07-10T20:19:47.366711",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Kaplan",
+        "email": "wkaplan@northwindanal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 3",
+      "body": "Hi Valerie,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nWhitney Kaplan\nChief Technology Officer\nNorthwind Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": [
+            "i032-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e009",
+      "thread_id": "i032-t005",
+      "in_reply_to": "i032-e008",
+      "references": [
+        "i032-e007",
+        "i032-e008"
+      ],
+      "timestamp": "2026-07-13T08:03:39.091929",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Kaplan",
+          "email": "wkaplan@northwindanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 3",
+      "body": "Whitney,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 10, 2026 at 08:19 PM, Whitney Kaplan <wkaplan@northwindanal.com> wrote:\n> Hi Valerie,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": [
+            "i032-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e010",
+      "thread_id": "i032-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T17:33:03.734846",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Underwood",
+        "email": "bianca.underwood@redwoodmate.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Valerie,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nBianca\nGeneral Counsel\nRedwood Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e011",
+      "thread_id": "i032-t006",
+      "in_reply_to": "i032-e010",
+      "references": [
+        "i032-e010"
+      ],
+      "timestamp": "2026-07-17T07:21:45.436043",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Underwood",
+          "email": "bianca.underwood@redwoodmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Bianca,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 15, 2026 at 05:33 PM, Bianca Underwood <bianca.underwood@redwoodmate.com> wrote:\n> Valerie,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m04"
+          ],
+          "thread_candidates": [
+            "i032-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e012",
+      "thread_id": "i032-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T09:42:04.534805",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Xu",
+        "email": "femix@bluefinnetw.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hello Valerie,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nThanks,\nFemi Xu\nRecruiter\nBluefin Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e013",
+      "thread_id": "i032-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T12:39:13.133753",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Tanaka",
+        "email": "vtanaka@quarryener.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Hello Valerie,\n\nGood news: Solace Labs countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nVictor Tanaka\nVP, Corporate Development\nQuarry Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [
+            "i032-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e014",
+      "thread_id": "i032-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T10:03:30.782720",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Park",
+        "email": "gpark@pateliyer.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest regards,\nGrace Park\nPartner\nPatel & Iyer LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e015",
+      "thread_id": "i032-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T07:57:17.621382",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Valerie,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nAisha\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e016",
+      "thread_id": "i032-t010",
+      "in_reply_to": "i032-e015",
+      "references": [
+        "i032-e015"
+      ],
+      "timestamp": "2026-07-31T15:40:52.872808",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Dear Aisha,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 31, 2026 at 07:57 AM, Aisha Eriksen <aisha.eriksen@quinteroyoung.com> wrote:\n> Hi Valerie,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e017",
+      "thread_id": "i032-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:30:05.445606",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hello Valerie,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nThanks,\nAisha Eriksen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e018",
+      "thread_id": "i032-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T12:36:25.468287",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Okafor",
+        "email": "yusuf.okafor@nimbusadr.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Ito",
+          "email": "kenjii@underwoodvarga.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello Valerie,\n\nThis confirms receipt of the demand for arbitration in Tidewater Analytics v. Parallax Systems. The administrative conference is scheduled for September 8. Please confirm your availability.\n\nThanks,\nYusuf Okafor\nCase Administrator\nNimbus Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e019",
+      "thread_id": "i032-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T20:09:01.219613",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Mendoza",
+        "email": "vmendoza@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Valerie,\n\nStatus on my matters this week:\n\n- '150 patent: protective order negotiated; infringement contentions due September 3.\n- Parallax MSA: notice of breach sent, cure period running; damages model in draft.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- 915 Embarcadero Center: second turn of landlord's lease draft; SNDA requested from lender.\n- Series A: financing docs in negotiation with Lumen's counsel; cap table reconciliation in progress.\n\nBest regards,\nVictor Mendoza\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00",
+          "i032-m01",
+          "i032-m02",
+          "i032-m04",
+          "i032-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e020",
+      "thread_id": "i032-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T07:24:49.283523",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Atlas - disclosure schedules open items",
+      "body": "Hi Valerie,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Solace's counsel directly?\n\nBest regards,\nAisha Eriksen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [
+            "i032-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e021",
+      "thread_id": "i032-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:14:48.309497",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Kaplan",
+        "email": "zoek@brightlinecyber.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Osei",
+          "email": "bosei@marinerther.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear Valerie,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nZoe",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m02",
+        "matter_ids": [
+          "i032-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e022",
+      "thread_id": "i032-t012",
+      "in_reply_to": "i032-e018",
+      "references": [
+        "i032-e018"
+      ],
+      "timestamp": "2026-08-21T08:23:13.349144",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Okafor",
+          "email": "yusuf.okafor@nimbusadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Ito",
+          "email": "kenjii@underwoodvarga.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Yusuf,\n\nWorks for me. Let's do Tuesday at noon.\n\nBest regards,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 20, 2026 at 12:36 PM, Yusuf Okafor <yusuf.okafor@nimbusadr.com> wrote:\n> Hello Valerie,\n>\n> This confirms receipt of the demand for arbitration in Tidewater Analytics v. Parallax Systems. The administrative conference is scheduled for September 8. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e023",
+      "thread_id": "i032-t014",
+      "in_reply_to": "i032-e020",
+      "references": [
+        "i032-e020"
+      ],
+      "timestamp": "2026-08-24T08:49:23.312123",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Aisha,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m03"
+          ],
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e024",
+      "thread_id": "i032-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:22:49.540202",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Park",
+        "email": "gpark@pateliyer.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "subject": "Northwind v. Stratus - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nBest,\nGrace Park\nPartner\nPatel & Iyer LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m00",
+        "matter_ids": [
+          "i032-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e025",
+      "thread_id": "i032-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T07:23:43.428832",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Reyes",
+        "email": "nikhilr@tidewateranal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Nakamura",
+          "email": "zoe.nakamura@tidewateranal.com"
+        }
+      ],
+      "subject": "Parallax Systems - repeated SLA failures",
+      "body": "Dear Valerie,\n\nParallax Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nNikhil Reyes\nChief Operating Officer\nTidewater Analytics",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [
+            "i032-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e026",
+      "thread_id": "i032-t017",
+      "in_reply_to": "i032-e025",
+      "references": [
+        "i032-e025"
+      ],
+      "timestamp": "2026-09-02T09:22:29.581337",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Reyes",
+          "email": "nikhilr@tidewateranal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Nakamura",
+          "email": "zoe.nakamura@tidewateranal.com"
+        }
+      ],
+      "subject": "Re: Parallax Systems - repeated SLA failures",
+      "body": "Hi Nikhil,\n\nWorks for me. Let's do Thursday at 3:30 p.m..\n\nBest regards,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 02, 2026 at 07:23 AM, Nikhil Reyes <nikhilr@tidewateranal.com> wrote:\n> Dear Valerie,\n>\n> Parallax Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [
+            "i032-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e027",
+      "thread_id": "i032-t017",
+      "in_reply_to": "i032-e026",
+      "references": [
+        "i032-e025",
+        "i032-e026"
+      ],
+      "timestamp": "2026-09-02T13:43:37.411889",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Reyes",
+        "email": "nikhilr@tidewateranal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Nakamura",
+          "email": "zoe.nakamura@tidewateranal.com"
+        }
+      ],
+      "subject": "Re: Parallax Systems - repeated SLA failures",
+      "body": "Dear Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nNikhil Reyes\nChief Operating Officer\nTidewater Analytics\n\nOn Wed, Sep 02, 2026 at 09:22 AM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hi Nikhil,\n>\n> Works for me. Let's do Thursday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e028",
+      "thread_id": "i032-t017",
+      "in_reply_to": "i032-e027",
+      "references": [
+        "i032-e025",
+        "i032-e026",
+        "i032-e027"
+      ],
+      "timestamp": "2026-09-02T16:57:09.488743",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Reyes",
+          "email": "nikhilr@tidewateranal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Nakamura",
+          "email": "zoe.nakamura@tidewateranal.com"
+        }
+      ],
+      "subject": "Re: Parallax Systems - repeated SLA failures",
+      "body": "Hello Nikhil,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e029",
+      "thread_id": "i032-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T08:05:53.409352",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hello Valerie,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nAisha\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m02",
+        "matter_ids": [
+          "i032-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e030",
+      "thread_id": "i032-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:01:03.660551",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Iyer",
+        "email": "emmai@underwoodxu.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Cascade Series A - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by October 1. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nEmma Iyer\nPartner\nUnderwood & Xu LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e031",
+      "thread_id": "i032-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:31:49.502845",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Morgan",
+        "email": "carlam@reyesrosen.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Solace / Quarry - SPA comments",
+      "body": "Hi Valerie,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Solace customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nCarla",
+      "attachments": [
+        "Solace SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [
+            "i032-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e032",
+      "thread_id": "i032-t018",
+      "in_reply_to": "i032-e029",
+      "references": [
+        "i032-e029"
+      ],
+      "timestamp": "2026-09-07T10:11:26.205965",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Dear Aisha,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 04, 2026 at 08:05 AM, Aisha Eriksen <aisha.eriksen@quinteroyoung.com> wrote:\n> Hello Valerie,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m02",
+        "matter_ids": [
+          "i032-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e033",
+      "thread_id": "i032-t018",
+      "in_reply_to": "i032-e032",
+      "references": [
+        "i032-e029",
+        "i032-e032"
+      ],
+      "timestamp": "2026-09-07T19:49:14.414642",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Valerie,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nAisha\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m02",
+        "matter_ids": [
+          "i032-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m02",
+            "i032-m03",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i032-e034",
+      "thread_id": "i032-t020",
+      "in_reply_to": "i032-e031",
+      "references": [
+        "i032-e031"
+      ],
+      "timestamp": "2026-09-08T14:48:14.643188",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Carla Morgan",
+          "email": "carlam@reyesrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Solace / Quarry - SPA comments",
+      "body": "Carla,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m03"
+          ],
+          "thread_candidates": [
+            "i032-m03"
+          ],
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e035",
+      "thread_id": "i032-t019",
+      "in_reply_to": "i032-e030",
+      "references": [
+        "i032-e030"
+      ],
+      "timestamp": "2026-09-09T08:04:31.921853",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Emma Iyer",
+          "email": "emmai@underwoodxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Cascade Series A - draft financing documents",
+      "body": "Hi Emma,\n\nAdding Victor, who will handle the day-to-day on this.\n\nRegards,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 08:01 AM, Emma Iyer <emmai@underwoodxu.com> wrote:\n> Counsel,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by October 1. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e036",
+      "thread_id": "i032-t019",
+      "in_reply_to": "i032-e035",
+      "references": [
+        "i032-e030",
+        "i032-e035"
+      ],
+      "timestamp": "2026-09-09T13:21:27.536687",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Iyer",
+        "email": "emmai@underwoodxu.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Cascade Series A - draft financing documents",
+      "body": "Counsel,\n\nWorks for me. Let's do Wednesday at 5:00 p.m..\n\nRegards,\nEmma\nPartner\nUnderwood & Xu LLP\n\nOn Wed, Sep 09, 2026 at 08:04 AM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hi Emma,\n>\n> Adding Victor, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e037",
+      "thread_id": "i032-t020",
+      "in_reply_to": "i032-e034",
+      "references": [
+        "i032-e031",
+        "i032-e034"
+      ],
+      "timestamp": "2026-09-09T17:59:13.932083",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Morgan",
+        "email": "carlam@reyesrosen.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Solace / Quarry - SPA comments",
+      "body": "Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nCarla Morgan\n\nOn Tue, Sep 08, 2026 at 02:48 PM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Carla,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m03",
+        "matter_ids": [
+          "i032-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m03"
+          ],
+          "thread_candidates": [
+            "i032-m03"
+          ],
+          "identifier_candidates": [
+            "i032-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e038",
+      "thread_id": "i032-t019",
+      "in_reply_to": "i032-e036",
+      "references": [
+        "i032-e030",
+        "i032-e035",
+        "i032-e036"
+      ],
+      "timestamp": "2026-09-11T08:45:29.569759",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Emma Iyer",
+          "email": "emmai@underwoodxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Cascade Series A - draft financing documents",
+      "body": "Counsel,\n\nWorks for me. Let's do Friday at 3:30 p.m..\n\nBest regards,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e039",
+      "thread_id": "i032-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:07:58.107902",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Mendoza",
+        "email": "vmendoza@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hello Valerie,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest regards,\nVictor Mendoza\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m00",
+            "i032-m01",
+            "i032-m02",
+            "i032-m04",
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e040",
+      "thread_id": "i032-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-17T07:59:00.437919",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Ito",
+        "email": "kenjii@underwoodvarga.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Dear Valerie,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nKenji\nPartner\nUnderwood & Varga LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e041",
+      "thread_id": "i032-t022",
+      "in_reply_to": "i032-e040",
+      "references": [
+        "i032-e040"
+      ],
+      "timestamp": "2026-09-18T08:59:48.815125",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Ito",
+          "email": "kenjii@underwoodvarga.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Hello Kenji,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 17, 2026 at 07:59 AM, Kenji Ito <kenjii@underwoodvarga.com> wrote:\n> Dear Valerie,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e042",
+      "thread_id": "i032-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T08:26:28.429723",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Kaplan",
+        "email": "pkaplan@cascadether.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Mendoza",
+          "email": "umar.mendoza@cascadether.com"
+        }
+      ],
+      "subject": "Series A term sheet from Lumen Ventures",
+      "body": "Valerie,\n\nWe received the attached term sheet from Lumen Ventures last night: $25 million at a $90 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?\n\nThanks,\nPedro",
+      "attachments": [
+        "Lumen Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e043",
+      "thread_id": "i032-t022",
+      "in_reply_to": "i032-e041",
+      "references": [
+        "i032-e040",
+        "i032-e041"
+      ],
+      "timestamp": "2026-09-21T08:50:04.128333",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Ito",
+        "email": "kenjii@underwoodvarga.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nKenji\nPartner\nUnderwood & Varga LLP\n\nOn Fri, Sep 18, 2026 at 08:59 AM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hello Kenji,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e044",
+      "thread_id": "i032-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T17:34:49.129797",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Huang",
+        "email": "aishah@redwoodmate.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 915 Embarcadero Center",
+      "body": "Valerie,\n\nWe've agreed on a non-binding LOI with Keystone Properties LLC for about 42,000 RSF at 915 Embarcadero Center: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nAisha Huang\nDirector of Real Estate\nRedwood Materials",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m04"
+          ],
+          "keyword_candidates": [
+            "i032-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e045",
+      "thread_id": "i032-t023",
+      "in_reply_to": "i032-e042",
+      "references": [
+        "i032-e042"
+      ],
+      "timestamp": "2026-09-22T08:59:37.451343",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Kaplan",
+          "email": "pkaplan@cascadether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Mendoza",
+          "email": "umar.mendoza@cascadether.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Lumen Ventures",
+      "body": "Dear Pedro,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 08:26 AM, Pedro Kaplan <pkaplan@cascadether.com> wrote:\n> Valerie,\n>\n> We received the attached term sheet from Lumen Ventures last night: $25 million at a $90 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e046",
+      "thread_id": "i032-t022",
+      "in_reply_to": "i032-e043",
+      "references": [
+        "i032-e040",
+        "i032-e041",
+        "i032-e043"
+      ],
+      "timestamp": "2026-09-22T13:29:29.219557",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Ito",
+          "email": "kenjii@underwoodvarga.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Hi Kenji,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 08:50 AM, Kenji Ito <kenjii@underwoodvarga.com> wrote:\n> Counsel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": [
+            "i032-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e047",
+      "thread_id": "i032-t023",
+      "in_reply_to": "i032-e045",
+      "references": [
+        "i032-e042",
+        "i032-e045"
+      ],
+      "timestamp": "2026-09-23T14:56:26.051817",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Kaplan",
+        "email": "pkaplan@cascadether.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Mendoza",
+          "email": "umar.mendoza@cascadether.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Lumen Ventures",
+      "body": "Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nPedro Kaplan\n\nOn Tue, Sep 22, 2026 at 08:59 AM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Dear Pedro,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e048",
+      "thread_id": "i032-t024",
+      "in_reply_to": "i032-e044",
+      "references": [
+        "i032-e044"
+      ],
+      "timestamp": "2026-09-23T16:46:20.869455",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Huang",
+          "email": "aishah@redwoodmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 915 Embarcadero Center",
+      "body": "Hi Aisha,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m04"
+          ],
+          "thread_candidates": [
+            "i032-m04"
+          ],
+          "identifier_candidates": [
+            "i032-m04"
+          ],
+          "keyword_candidates": [
+            "i032-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e049",
+      "thread_id": "i032-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T09:52:37.450445",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Varga",
+        "email": "ximenav@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hi Valerie,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nThanks,\nXimena Varga\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e050",
+      "thread_id": "i032-t024",
+      "in_reply_to": "i032-e048",
+      "references": [
+        "i032-e044",
+        "i032-e048"
+      ],
+      "timestamp": "2026-09-25T14:31:26.166987",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Huang",
+        "email": "aishah@redwoodmate.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 915 Embarcadero Center",
+      "body": "Dear Valerie,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nAisha\nDirector of Real Estate\nRedwood Materials\n\nOn Wed, Sep 23, 2026 at 04:46 PM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hi Aisha,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m04"
+          ],
+          "thread_candidates": [
+            "i032-m04"
+          ],
+          "identifier_candidates": [
+            "i032-m04"
+          ],
+          "keyword_candidates": [
+            "i032-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e051",
+      "thread_id": "i032-t023",
+      "in_reply_to": "i032-e047",
+      "references": [
+        "i032-e042",
+        "i032-e045",
+        "i032-e047"
+      ],
+      "timestamp": "2026-09-25T14:37:28.883279",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Kaplan",
+          "email": "pkaplan@cascadether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Mendoza",
+          "email": "umar.mendoza@cascadether.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Lumen Ventures",
+      "body": "Dear Pedro,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 23, 2026 at 02:56 PM, Pedro Kaplan <pkaplan@cascadether.com> wrote:\n> Valerie,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e052",
+      "thread_id": "i032-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T15:40:07.313570",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Ito",
+          "email": "kenjii@underwoodvarga.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Mendoza",
+          "email": "vmendoza@quinteroyoung.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hi Kenji,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nBest,\nValerie Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i032-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e053",
+      "thread_id": "i032-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:08:31.169519",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Okafor",
+        "email": "kokafor@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Hello Valerie,\n\nPre-bills for Tidewater Analytics are ready for your review:\n\n- 81888-001  Tidewater v. Parallax (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nBest,\nKenji Okafor\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e054",
+      "thread_id": "i032-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T16:21:00.910569",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Okafor",
+        "email": "kokafor@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Redwood",
+      "body": "Dear Valerie,\n\nPre-bills for Redwood Materials are ready for your review:\n\n- 82373-001  Redwood - Headquarters Lease (915 Embarcadero Center)\n\nPlease mark up and return by October 4.\n\nThanks,\nKenji Okafor\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m04",
+        "matter_ids": [
+          "i032-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e055",
+      "thread_id": "i032-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T16:05:51.564478",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Underwood",
+        "email": "eunderwood@corvidanal.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Transition planning",
+      "body": "Hello Valerie,\n\nWe've been engaged by Tidewater to replace Parallax Systems as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Parallax under the MSA.\n\nThanks,\nEmma Underwood",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m01",
+        "matter_ids": [
+          "i032-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e056",
+      "thread_id": "i032-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T10:24:34.550115",
+      "folder": "sent",
+      "from": {
+        "name": "Valerie Haddad",
+        "email": "vhaddad@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Kaplan",
+          "email": "pkaplan@cascadether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hello Pedro,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nRegards,\nValerie\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i032-e057",
+      "thread_id": "i032-t030",
+      "in_reply_to": "i032-e056",
+      "references": [
+        "i032-e056"
+      ],
+      "timestamp": "2026-10-14T07:23:42.088636",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Kaplan",
+        "email": "pkaplan@cascadether.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Haddad",
+          "email": "vhaddad@quinteroyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@quinteroyoung.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nPedro\n\nOn Mon, Oct 12, 2026 at 10:24 AM, Valerie Haddad <vhaddad@quinteroyoung.com> wrote:\n> Hello Pedro,\n>\n> Attached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i032-m05",
+        "matter_ids": [
+          "i032-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i032-m05"
+          ],
+          "thread_candidates": [
+            "i032-m05"
+          ],
+          "identifier_candidates": [
+            "i032-m05"
+          ],
+          "keyword_candidates": [
+            "i032-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700032
+}

@@ -1,0 +1,2160 @@
+{
+  "instance_id": "i006",
+  "firm": {
+    "name": "Fischer & Ferreira LLP",
+    "domain": "fischerferreira.com"
+  },
+  "user_contact_id": "i006-c000",
+  "matters": [
+    {
+      "matter_id": "i006-m00",
+      "matter_number": "57886-001",
+      "name": "Bluefin v. Brightline ('558 Patent)",
+      "client": "Bluefin Systems",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Bluefin Systems against Brightline Logistics asserting U.S. Patent No. 10,558,265.",
+      "counterparty": "Brightline Logistics",
+      "opposing_counsel_firm": "Goldberg & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-06-05",
+      "key_terms": [
+        "57886-001",
+        "10,558,265",
+        "'558",
+        "Brightline Logistics",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i006-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i006-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i006-c006",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i006-c007",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i006-c008",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i006-m01",
+      "matter_number": "12287-001",
+      "name": "Tidewater - Data Security Incident",
+      "client": "Tidewater Energy",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Tidewater Energy's customer database. Forensics by Wavecrest Cyber.",
+      "counterparty": "Wavecrest Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-07",
+      "key_terms": [
+        "12287-001",
+        "Wavecrest Cyber",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i006-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i006-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i006-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i006-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i006-c010",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i006-c011",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i006-m02",
+      "matter_number": "12287-002",
+      "name": "Yusuf Patel v. Tidewater",
+      "client": "Tidewater Energy",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Yusuf Patel against Tidewater Energy. Case No. 4:26-cv-09210.",
+      "counterparty": "Yusuf Patel",
+      "opposing_counsel_firm": "Goldberg & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-06-08",
+      "key_terms": [
+        "12287-002",
+        "Yusuf Patel",
+        "Patel",
+        "4:26-cv-09210"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i006-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i006-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i006-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i006-c007",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i006-c013",
+          "role": "mediator"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i006-c000",
+      "name": "Arjun Yamamoto",
+      "first": "Arjun",
+      "email": "arjuny@fischerferreira.com",
+      "organization": "Fischer & Ferreira LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i006-c001",
+      "name": "Rachel Lee",
+      "first": "Rachel",
+      "email": "rachell@fischerferreira.com",
+      "organization": "Fischer & Ferreira LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i006-c002",
+      "name": "Sofia Castillo",
+      "first": "Sofia",
+      "email": "scastillo@fischerferreira.com",
+      "organization": "Fischer & Ferreira LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i006-c003",
+      "name": "Lucia Reyes",
+      "first": "Lucia",
+      "email": "lreyes@fischerferreira.com",
+      "organization": "Fischer & Ferreira LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i006-c004",
+      "name": "Pedro Laurent",
+      "first": "Pedro",
+      "email": "plaurent@bluefinsyst.com",
+      "organization": "Bluefin Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c005",
+      "name": "Ivan Young",
+      "first": "Ivan",
+      "email": "ivany@tidewaterener.com",
+      "organization": "Tidewater Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c006",
+      "name": "Rachel Moreau",
+      "first": "Rachel",
+      "email": "rmoreau@bluefinsyst.com",
+      "organization": "Bluefin Systems",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c007",
+      "name": "James Rosen",
+      "first": "James",
+      "email": "james.rosen@goldbergellis.com",
+      "organization": "Goldberg & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c008",
+      "name": "Pedro Dubois",
+      "first": "Pedro",
+      "email": "pedro.dubois@stratustech.com",
+      "organization": "Stratus Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c009",
+      "name": "Carla Kowalski",
+      "first": "Carla",
+      "email": "ckowalski@tidewaterener.com",
+      "organization": "Tidewater Energy",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c010",
+      "name": "Daniel Castillo",
+      "first": "Daniel",
+      "email": "dcastillo@wavecrestcyber.com",
+      "organization": "Wavecrest Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c011",
+      "name": "Uma Sato",
+      "first": "Uma",
+      "email": "usato@riverstonemutual.com",
+      "organization": "Riverstone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c012",
+      "name": "Nadia Haddad",
+      "first": "Nadia",
+      "email": "nadiah@tidewaterener.com",
+      "organization": "Tidewater Energy",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c013",
+      "name": "Xavier Brennan",
+      "first": "Xavier",
+      "email": "xavierb@copperleafadr.com",
+      "organization": "Copperleaf Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c014",
+      "name": "Elena Sato",
+      "first": "Elena",
+      "email": "esato@driftwoodreporting.com",
+      "organization": "Driftwood Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c015",
+      "name": "Diego Reyes",
+      "first": "Diego",
+      "email": "diego.reyes@orchardreporting.com",
+      "organization": "Orchard Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c016",
+      "name": "Daniel Quintero",
+      "first": "Daniel",
+      "email": "dquintero@lumenadr.com",
+      "organization": "Lumen Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i006-c017",
+      "name": "Olivia Ziegler",
+      "first": "Olivia",
+      "email": "olivia.ziegler@fischerferreira.com",
+      "organization": "Fischer & Ferreira LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i006-e000",
+      "thread_id": "i006-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T08:32:19.561831",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Dubois",
+        "email": "pedro.dubois@stratustech.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hi Arjun,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by June 21.\n\nThanks,\nPedro\nPrincipal\nStratus Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e001",
+      "thread_id": "i006-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T09:31:23.805569",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Quintero",
+        "email": "dquintero@lumenadr.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Arjun,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nThanks,\nDaniel Quintero\nSection Chair\nLumen Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e002",
+      "thread_id": "i006-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T18:34:01.589217",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Haddad",
+        "email": "nadiah@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Demand letter - Yusuf Patel",
+      "body": "Arjun,\n\nWe received the attached demand letter from counsel for Yusuf Patel, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?\n\nBest,\nNadia Haddad\nHead of People\nTidewater Energy",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e003",
+      "thread_id": "i006-t002",
+      "in_reply_to": "i006-e002",
+      "references": [
+        "i006-e002"
+      ],
+      "timestamp": "2026-06-26T12:38:45.275268",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Haddad",
+          "email": "nadiah@tidewaterener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Yusuf Patel",
+      "body": "Hi Nadia,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nArjun Yamamoto\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jun 25, 2026 at 06:34 PM, Nadia Haddad <nadiah@tidewaterener.com> wrote:\n> Arjun,\n>\n> We received the attached demand letter from counsel for Yusuf Patel, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m02"
+          ],
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e004",
+      "thread_id": "i006-t002",
+      "in_reply_to": "i006-e003",
+      "references": [
+        "i006-e002",
+        "i006-e003"
+      ],
+      "timestamp": "2026-06-29T10:50:04.412631",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Haddad",
+        "email": "nadiah@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Yusuf Patel",
+      "body": "Hi Arjun,\n\nAdding Rachel, who will handle the day-to-day on this.\n\nBest,\nNadia Haddad\nHead of People\nTidewater Energy\n\nOn Fri, Jun 26, 2026 at 12:38 PM, Arjun Yamamoto <arjuny@fischerferreira.com> wrote:\n> Hi Nadia,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m02"
+          ],
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e005",
+      "thread_id": "i006-t002",
+      "in_reply_to": "i006-e004",
+      "references": [
+        "i006-e002",
+        "i006-e003",
+        "i006-e004"
+      ],
+      "timestamp": "2026-06-30T19:07:22.215791",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Haddad",
+          "email": "nadiah@tidewaterener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Yusuf Patel",
+      "body": "Hi Nadia,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest regards,\nArjun Yamamoto\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 29, 2026 at 10:50 AM, Nadia Haddad <nadiah@tidewaterener.com> wrote:\n> Hi Arjun,\n>\n> Adding Rachel, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m02"
+          ],
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e006",
+      "thread_id": "i006-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:47:06.666312",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Moreau",
+          "email": "rmoreau@bluefinsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Infringement contentions due July 28",
+      "body": "Hi Rachel,\n\nReminder that our infringement contentions are due July 28. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i006-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e007",
+      "thread_id": "i006-t003",
+      "in_reply_to": "i006-e006",
+      "references": [
+        "i006-e006"
+      ],
+      "timestamp": "2026-07-07T19:10:16.143986",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Moreau",
+        "email": "rmoreau@bluefinsyst.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due July 28",
+      "body": "Arjun,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nRachel Moreau\nChief Technology Officer\nBluefin Systems\n\nOn Mon, Jul 06, 2026 at 09:47 AM, Arjun Yamamoto <arjuny@fischerferreira.com> wrote:\n> Hi Rachel,\n>\n> Reminder that our infringement contentions are due July 28. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00"
+          ],
+          "thread_candidates": [
+            "i006-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i006-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e008",
+      "thread_id": "i006-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T14:07:55.534304",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Ziegler",
+        "email": "olivia.ziegler@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Arjun,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nOlivia Ziegler\nPartner\nFischer & Ferreira LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e009",
+      "thread_id": "i006-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:25:30.835569",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Sato",
+        "email": "esato@driftwoodreporting.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Hi Arjun,\n\nThis confirms the deposition of Yusuf Patel on August 3 at 9:30 a.m. in Case No. 4:26-cv-09210. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nBest regards,\nElena Sato\nScheduling Coordinator\nDriftwood Court Reporting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e010",
+      "thread_id": "i006-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:20:40.512238",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Arjun,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nIvan Young\nGeneral Counsel\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e011",
+      "thread_id": "i006-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T16:25:34.812378",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Reyes",
+        "email": "lreyes@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Dear Arjun,\n\nPre-bills for Tidewater Energy are ready for your review:\n\n- 12287-001  Tidewater - Data Security Incident\n- 12287-002  Yusuf Patel v. Tidewater\n\nPlease mark up and return by August 4.\n\nBest,\nLucia Reyes\nBilling Coordinator\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01",
+          "i006-m02"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e012",
+      "thread_id": "i006-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:31:11.446148",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Reyes",
+        "email": "diego.reyes@orchardreporting.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Deposition confirmation",
+      "body": "Arjun,\n\nThis confirms the deposition of Yusuf Patel on August 17 at 9:30 a.m. in Case No. 4:26-cv-09210. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nBest,\nDiego Reyes",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e013",
+      "thread_id": "i006-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:11:43.651531",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Moreau",
+        "email": "rmoreau@bluefinsyst.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Laurent",
+          "email": "plaurent@bluefinsyst.com"
+        }
+      ],
+      "subject": "Brightline Logistics product launch - possible infringement of '558 patent",
+      "body": "Dear Arjun,\n\nOur engineers looked at the product Brightline Logistics launched last month and believe it practices claims 1 and 7 of our '558 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nRegards,\nRachel Moreau\nChief Technology Officer\nBluefin Systems",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m00"
+          ],
+          "keyword_candidates": [
+            "i006-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e014",
+      "thread_id": "i006-t009",
+      "in_reply_to": "i006-e013",
+      "references": [
+        "i006-e013"
+      ],
+      "timestamp": "2026-08-03T14:19:01.907884",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Moreau",
+          "email": "rmoreau@bluefinsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Laurent",
+          "email": "plaurent@bluefinsyst.com"
+        }
+      ],
+      "subject": "Re: Brightline Logistics product launch - possible infringement of '558 patent",
+      "body": "Rachel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 09:11 AM, Rachel Moreau <rmoreau@bluefinsyst.com> wrote:\n> Dear Arjun,\n>\n> Our engineers looked at the product Brightline Logistics launched last month and believe it practices claims 1 and 7 of our '558 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00"
+          ],
+          "thread_candidates": [
+            "i006-m00"
+          ],
+          "identifier_candidates": [
+            "i006-m00"
+          ],
+          "keyword_candidates": [
+            "i006-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e015",
+      "thread_id": "i006-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:59:16.265125",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Lee",
+        "email": "rachell@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Arjun,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nRegards,\nRachel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e016",
+      "thread_id": "i006-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:21:41.983745",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Brennan",
+        "email": "xavierb@copperleafadr.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Rosen",
+          "email": "james.rosen@goldbergellis.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Arjun,\n\nI have the following dates available for a full-day mediation: August 19 and August 24. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nThanks,\nXavier Brennan\nMediator\nCopperleaf Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e017",
+      "thread_id": "i006-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T09:54:47.536561",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "scastillo@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Arjun,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest,\nSofia\nSenior Associate\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e018",
+      "thread_id": "i006-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T09:26:43.285801",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Arjun,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nThanks,\nIvan Young\nGeneral Counsel\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e019",
+      "thread_id": "i006-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:14:26.293881",
+      "folder": "inbox",
+      "from": {
+        "name": "James Rosen",
+        "email": "james.rosen@goldbergellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Bluefin v. Brightline - proposed protective order",
+      "body": "Arjun,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Thursday.\n\nThanks,\nJames Rosen",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e020",
+      "thread_id": "i006-t014",
+      "in_reply_to": "i006-e019",
+      "references": [
+        "i006-e019"
+      ],
+      "timestamp": "2026-08-19T07:41:57.931534",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "James Rosen",
+          "email": "james.rosen@goldbergellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Lee",
+          "email": "rachell@fischerferreira.com"
+        }
+      ],
+      "subject": "Re: Bluefin v. Brightline - proposed protective order",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m00"
+          ],
+          "identifier_candidates": [
+            "i006-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i006-e021",
+      "thread_id": "i006-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T07:37:51.374816",
+      "folder": "inbox",
+      "from": {
+        "name": "James Rosen",
+        "email": "james.rosen@goldbergellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Yusuf Patel v. Tidewater - Case No. 4:26-cv-09210",
+      "body": "Dear Arjun,\n\nPlease see attached the complaint filed today in Yusuf Patel v. Tidewater Energy, Case No. 4:26-cv-09210. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Tidewater.\n\nBest regards,\nJames",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e022",
+      "thread_id": "i006-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T15:51:08.140556",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Arjun,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest,\nIvan Young\nGeneral Counsel\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e023",
+      "thread_id": "i006-t015",
+      "in_reply_to": "i006-e021",
+      "references": [
+        "i006-e021"
+      ],
+      "timestamp": "2026-08-26T19:07:42.935303",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "James Rosen",
+          "email": "james.rosen@goldbergellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Yusuf Patel v. Tidewater - Case No. 4:26-cv-09210",
+      "body": "James,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nArjun Yamamoto\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 07:37 AM, James Rosen <james.rosen@goldbergellis.com> wrote:\n> Dear Arjun,\n>\n> Please see attached the complaint filed today in Yusuf Patel v. Tidewater Energy, Case No. 4:26-cv-09210. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Tidewater.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m02"
+          ],
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e024",
+      "thread_id": "i006-t016",
+      "in_reply_to": "i006-e022",
+      "references": [
+        "i006-e022"
+      ],
+      "timestamp": "2026-08-28T15:37:26.274903",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Ivan,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 26, 2026 at 03:51 PM, Ivan Young <ivany@tidewaterener.com> wrote:\n> Hello Arjun,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e025",
+      "thread_id": "i006-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:36:06.958032",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Arjun,\n\nTwo quick things.\n\n1. On the security incident, our insurer is asking for an updated budget.\n2. On the Patel matter, the mediator's office sent over dates. Can we lock one in?\n\nRegards,\nIvan\nGeneral Counsel\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01",
+          "i006-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e026",
+      "thread_id": "i006-t016",
+      "in_reply_to": "i006-e024",
+      "references": [
+        "i006-e022",
+        "i006-e024"
+      ],
+      "timestamp": "2026-08-31T09:54:32.710182",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Arjun,\n\nThanks. Separately, on the Patel matter, the mediator's office sent over dates. Can we lock one in?\n\nThanks,\nIvan Young\nGeneral Counsel\nTidewater Energy\n\nOn Fri, Aug 28, 2026 at 03:37 PM, Arjun Yamamoto <arjuny@fischerferreira.com> wrote:\n> Ivan,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m02",
+        "matter_ids": [
+          "i006-m02",
+          "i006-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [
+            "i006-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e027",
+      "thread_id": "i006-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T13:02:38.969615",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Castillo",
+        "email": "dcastillo@wavecrestcyber.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Kowalski",
+          "email": "ckowalski@tidewaterener.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Arjun,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest,\nDaniel Castillo\nIncident Response Lead\nWavecrest Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m01"
+          ],
+          "keyword_candidates": [
+            "i006-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e028",
+      "thread_id": "i006-t018",
+      "in_reply_to": "i006-e027",
+      "references": [
+        "i006-e027"
+      ],
+      "timestamp": "2026-09-04T14:04:22.606006",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Castillo",
+          "email": "dcastillo@wavecrestcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Kowalski",
+          "email": "ckowalski@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Daniel,\n\nAdding Sofia, who will handle the day-to-day on this.\n\nBest regards,\nArjun Yamamoto\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 03, 2026 at 01:02 PM, Daniel Castillo <dcastillo@wavecrestcyber.com> wrote:\n> Arjun,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i006-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e029",
+      "thread_id": "i006-t018",
+      "in_reply_to": "i006-e028",
+      "references": [
+        "i006-e027",
+        "i006-e028"
+      ],
+      "timestamp": "2026-09-04T15:48:03.035383",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Castillo",
+        "email": "dcastillo@wavecrestcyber.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Kowalski",
+          "email": "ckowalski@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hi Arjun,\n\nWorks for me. Let's do Wednesday at noon.\n\nBest regards,\nDaniel Castillo\nIncident Response Lead\nWavecrest Cyber",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [
+            "i006-m01"
+          ],
+          "keyword_candidates": [
+            "i006-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e030",
+      "thread_id": "i006-t018",
+      "in_reply_to": "i006-e029",
+      "references": [
+        "i006-e027",
+        "i006-e028",
+        "i006-e029"
+      ],
+      "timestamp": "2026-09-07T09:31:29.234096",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Castillo",
+          "email": "dcastillo@wavecrestcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Kowalski",
+          "email": "ckowalski@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hello Daniel,\n\nAdding Sofia, who will handle the day-to-day on this.\n\nRegards,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 04, 2026 at 03:48 PM, Daniel Castillo <dcastillo@wavecrestcyber.com> wrote:\n> Hi Arjun,\n>\n> Works for me. Let's do Wednesday at noon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e031",
+      "thread_id": "i006-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T16:46:24.634815",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Kowalski",
+        "email": "ckowalski@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Dear Arjun,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Wavecrest Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 2:00 p.m.?\n\nRegards,\nCarla Kowalski\nChief Information Security Officer\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m01"
+          ],
+          "keyword_candidates": [
+            "i006-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e032",
+      "thread_id": "i006-t019",
+      "in_reply_to": "i006-e031",
+      "references": [
+        "i006-e031"
+      ],
+      "timestamp": "2026-09-09T08:27:17.995451",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "arjuny@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Carla Kowalski",
+          "email": "ckowalski@tidewaterener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Carla,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nArjun\nPartner\nFischer & Ferreira LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 08, 2026 at 04:46 PM, Carla Kowalski <ckowalski@tidewaterener.com> wrote:\n> Dear Arjun,\n>\n> We detected unauthorized access to our customer database last night. It's contained, and we've engaged Wavecrest Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 2:00 p.m.?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [
+            "i006-m01"
+          ],
+          "keyword_candidates": [
+            "i006-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e033",
+      "thread_id": "i006-t019",
+      "in_reply_to": "i006-e032",
+      "references": [
+        "i006-e031",
+        "i006-e032"
+      ],
+      "timestamp": "2026-09-09T18:50:08.399421",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Kowalski",
+        "email": "ckowalski@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@tidewaterener.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Arjun,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nCarla\nChief Information Security Officer\nTidewater Energy\n\nOn Wed, Sep 09, 2026 at 08:27 AM, Arjun Yamamoto <arjuny@fischerferreira.com> wrote:\n> Carla,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01"
+          ],
+          "thread_candidates": [
+            "i006-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e034",
+      "thread_id": "i006-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T10:32:30.013653",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Lee",
+        "email": "rachell@fischerferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Arjun,\n\nStatus on my matters this week:\n\n- '558 patent: protective order negotiated; infringement contentions due September 20.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- Patel: complaint served; mediation being scheduled, deposition outline in draft.\n\nRegards,\nRachel Lee\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m00",
+        "matter_ids": [
+          "i006-m00",
+          "i006-m01",
+          "i006-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m00",
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i006-m00",
+            "i006-m02"
+          ],
+          "keyword_candidates": [
+            "i006-m00",
+            "i006-m01",
+            "i006-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i006-e035",
+      "thread_id": "i006-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T07:17:48.648577",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "arjuny@fischerferreira.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Arjun,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest,\nIvan\nGeneral Counsel\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i006-m01",
+        "matter_ids": [
+          "i006-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i006-m01",
+            "i006-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700006
+}

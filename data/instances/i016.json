@@ -1,0 +1,4114 @@
+{
+  "instance_id": "i016",
+  "firm": {
+    "name": "Chowdhury & Shah LLP",
+    "domain": "chowdhuryshah.com"
+  },
+  "user_contact_id": "i016-c000",
+  "matters": [
+    {
+      "matter_id": "i016-m00",
+      "matter_number": "71529-001",
+      "name": "Corvid - Acquisition of Trellis Robotics (Project Atlas)",
+      "client": "Corvid Energy",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Trellis Robotics by Corvid Energy. Stock purchase, ~$85 million.",
+      "counterparty": "Trellis Robotics",
+      "opposing_counsel_firm": "Quintero & Yamamoto LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "71529-001",
+        "Project Atlas",
+        "Atlas",
+        "Trellis Robotics",
+        "Trellis"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i016-c012",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i016-m01",
+      "matter_number": "91439-001",
+      "name": "Evergreen v. Copperleaf ('204 Patent)",
+      "client": "Evergreen Systems",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Evergreen Systems against Copperleaf Foods asserting U.S. Patent No. 10,204,924.",
+      "counterparty": "Copperleaf Foods",
+      "opposing_counsel_firm": "Goldberg & Brennan LLP",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "91439-001",
+        "10,204,924",
+        "'204",
+        "Copperleaf Foods",
+        "Copperleaf"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i016-c015",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i016-m02",
+      "matter_number": "67774-001",
+      "name": "Silverpine v. Stratus (MSA Dispute)",
+      "client": "Silverpine Systems",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Silverpine Systems against vendor Stratus Robotics.",
+      "counterparty": "Stratus Robotics",
+      "opposing_counsel_firm": "Quintero & Kaplan LLP",
+      "status": "open",
+      "opened_on": "2026-06-05",
+      "key_terms": [
+        "67774-001",
+        "Stratus Robotics",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i016-c018",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i016-m03",
+      "matter_number": "82850-001",
+      "name": "Cascade - CFPB Investigation (CID No. 2026-600)",
+      "client": "Cascade Systems",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Cascade Systems's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-07-26",
+      "key_terms": [
+        "82850-001",
+        "2026-600",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i016-c021",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i016-m04",
+      "matter_number": "44563-001",
+      "name": "Orchard - Data Security Incident",
+      "client": "Orchard Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Orchard Software's customer database. Forensics by Keystone Cyber.",
+      "counterparty": "Keystone Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-10",
+      "key_terms": [
+        "44563-001",
+        "Keystone Cyber",
+        "Keystone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c023",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i016-c024",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i016-m05",
+      "matter_number": "71529-002",
+      "name": "Corvid - Headquarters Lease (281 University Avenue)",
+      "client": "Corvid Energy",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Corvid Energy's new headquarters at 281 University Avenue, landlord Halcyon Properties LLC.",
+      "counterparty": "Halcyon Properties LLC",
+      "opposing_counsel_firm": "Goldberg & Brennan LLP",
+      "status": "open",
+      "opened_on": "2026-07-17",
+      "key_terms": [
+        "71529-002",
+        "281 University Avenue",
+        "Halcyon Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i016-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i016-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i016-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i016-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i016-c026",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i016-c000",
+      "name": "Elena Grant",
+      "first": "Elena",
+      "email": "elena.grant@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c001",
+      "name": "Valerie Huang",
+      "first": "Valerie",
+      "email": "valerieh@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c002",
+      "name": "Ivan Dubois",
+      "first": "Ivan",
+      "email": "idubois@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c003",
+      "name": "Kavya Morgan",
+      "first": "Kavya",
+      "email": "kmorgan@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c004",
+      "name": "Lucia Chowdhury",
+      "first": "Lucia",
+      "email": "lucia.chowdhury@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c005",
+      "name": "Tara Haddad",
+      "first": "Tara",
+      "email": "thaddad@evergreensyst.com",
+      "organization": "Evergreen Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c006",
+      "name": "Farid Okafor",
+      "first": "Farid",
+      "email": "farid.okafor@silverpinesyst.com",
+      "organization": "Silverpine Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c007",
+      "name": "Chen Ziegler",
+      "first": "Chen",
+      "email": "cziegler@cascadesyst.com",
+      "organization": "Cascade Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c008",
+      "name": "Grace Shah",
+      "first": "Grace",
+      "email": "grace.shah@orchardsoft.com",
+      "organization": "Orchard Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c009",
+      "name": "Hannah Rosen",
+      "first": "Hannah",
+      "email": "hrosen@corvidener.com",
+      "organization": "Corvid Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c010",
+      "name": "Victor Ellis",
+      "first": "Victor",
+      "email": "victore@corvidener.com",
+      "organization": "Corvid Energy",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c011",
+      "name": "Liam Haddad",
+      "first": "Liam",
+      "email": "liam.haddad@quinteroyamamoto.com",
+      "organization": "Quintero & Yamamoto LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c012",
+      "name": "Gabriel Sato",
+      "first": "Gabriel",
+      "email": "gabriels@quarrytrust.com",
+      "organization": "Quarry Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c013",
+      "name": "Chen Jensen",
+      "first": "Chen",
+      "email": "cjensen@evergreensyst.com",
+      "organization": "Evergreen Systems",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c014",
+      "name": "Nikhil Jensen",
+      "first": "Nikhil",
+      "email": "nikhilj@goldbergbrennan.com",
+      "organization": "Goldberg & Brennan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c015",
+      "name": "Diego Moreau",
+      "first": "Diego",
+      "email": "diego.moreau@amberlytech.com",
+      "organization": "Amberly Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c016",
+      "name": "Rafael Huang",
+      "first": "Rafael",
+      "email": "rafaelh@silverpinesyst.com",
+      "organization": "Silverpine Systems",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c017",
+      "name": "Carla Ziegler",
+      "first": "Carla",
+      "email": "carla.ziegler@quinterokaplan.com",
+      "organization": "Quintero & Kaplan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c018",
+      "name": "Nadia Shah",
+      "first": "Nadia",
+      "email": "nadias@marineradr.com",
+      "organization": "Mariner Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c019",
+      "name": "Bianca Lindqvist",
+      "first": "Bianca",
+      "email": "biancal@cascadesyst.com",
+      "organization": "Cascade Systems",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c020",
+      "name": "Chen Novak",
+      "first": "Chen",
+      "email": "chenn@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c021",
+      "name": "Olivia Kaplan",
+      "first": "Olivia",
+      "email": "oliviak@latticediscovery.com",
+      "organization": "Lattice Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c022",
+      "name": "Marcus Shah",
+      "first": "Marcus",
+      "email": "marcuss@orchardsoft.com",
+      "organization": "Orchard Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c023",
+      "name": "Daniel Novak",
+      "first": "Daniel",
+      "email": "danieln@keystonecyber.com",
+      "organization": "Keystone Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c024",
+      "name": "Grace Brennan",
+      "first": "Grace",
+      "email": "graceb@driftwoodmutual.com",
+      "organization": "Driftwood Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c025",
+      "name": "Priya Reyes",
+      "first": "Priya",
+      "email": "preyes@corvidener.com",
+      "organization": "Corvid Energy",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c026",
+      "name": "James Rosen",
+      "first": "James",
+      "email": "jrosen@sterlingrealty.com",
+      "organization": "Sterling Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c027",
+      "name": "Bianca Castillo",
+      "first": "Bianca",
+      "email": "bcastillo@bluefinbank.com",
+      "organization": "Bluefin Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i016-c028",
+      "name": "Olivia Moreau",
+      "first": "Olivia",
+      "email": "oliviam@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i016-c029",
+      "name": "Diego Varga",
+      "first": "Diego",
+      "email": "diegov@chowdhuryshah.com",
+      "organization": "Chowdhury & Shah LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i016-e000",
+      "thread_id": "i016-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T12:53:15.376728",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Moreau",
+        "email": "oliviam@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Elena,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nOlivia\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e001",
+      "thread_id": "i016-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:06:41.126722",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Ellis",
+        "email": "victore@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Hello Elena,\n\nGood news: Trellis Robotics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Tuesday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nVictor Ellis\nVP, Corporate Development\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [
+            "i016-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e002",
+      "thread_id": "i016-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T20:49:17.333204",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Castillo",
+        "email": "bcastillo@bluefinbank.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Elena,\n\nWe received a request for an SNDA in favor of Corvid Energy. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nBest regards,\nBianca\nLoan Officer\nBluefin Bank",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e003",
+      "thread_id": "i016-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T07:17:36.149196",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Kaplan",
+        "email": "oliviak@latticediscovery.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hello Elena,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nOlivia Kaplan",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e004",
+      "thread_id": "i016-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:32:30.119833",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Dubois",
+        "email": "idubois@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Elena,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nThanks,\nIvan\nAssociate\nChowdhury & Shah LLP",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e005",
+      "thread_id": "i016-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:37:04.263045",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Brennan",
+        "email": "graceb@driftwoodmutual.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Dear Elena,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Keystone.\n\nBest regards,\nGrace\nClaims Specialist\nDriftwood Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e006",
+      "thread_id": "i016-t004",
+      "in_reply_to": "i016-e004",
+      "references": [
+        "i016-e004"
+      ],
+      "timestamp": "2026-07-27T14:47:55.555659",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Ivan,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 09:32 AM, Ivan Dubois <idubois@chowdhuryshah.com> wrote:\n> Elena,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e007",
+      "thread_id": "i016-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T16:31:34.631666",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Novak",
+        "email": "chenn@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Dear Elena,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nRegards,\nChen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e008",
+      "thread_id": "i016-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T20:08:31.447760",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Elena,\n\nTwo quick things.\n\n1. On the 281 University Avenue lease, the broker says the landlord moved on TI. Did you see that?\n2. On Project Atlas, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest,\nHannah Rosen\nGeneral Counsel\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05",
+          "i016-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e009",
+      "thread_id": "i016-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T15:31:45.378577",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Chowdhury",
+        "email": "lucia.chowdhury@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Evergreen",
+      "body": "Elena,\n\nPre-bills for Evergreen Systems are ready for your review:\n\n- 91439-001  Evergreen v. Copperleaf ('204 Patent)\n\nPlease mark up and return by August 4.\n\nBest regards,\nLucia\nBilling Coordinator\nChowdhury & Shah LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e010",
+      "thread_id": "i016-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T07:46:32.595594",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Shah",
+        "email": "nadias@marineradr.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Ziegler",
+          "email": "carla.ziegler@quinterokaplan.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Elena,\n\nThis confirms receipt of the demand for arbitration in Silverpine Systems v. Stratus Robotics. The administrative conference is scheduled for August 16. Please confirm your availability.\n\nBest,\nNadia Shah\nCase Administrator\nMariner Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e011",
+      "thread_id": "i016-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:14:15.287670",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Jensen",
+          "email": "nikhilj@goldbergbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hi Nikhil,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e012",
+      "thread_id": "i016-t009",
+      "in_reply_to": "i016-e010",
+      "references": [
+        "i016-e010"
+      ],
+      "timestamp": "2026-08-04T07:46:18.219977",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Shah",
+          "email": "nadias@marineradr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Ziegler",
+          "email": "carla.ziegler@quinterokaplan.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Nadia,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 07:46 AM, Nadia Shah <nadias@marineradr.com> wrote:\n> Elena,\n>\n> This confirms receipt of the demand for arbitration in Silverpine Systems v. Stratus Robotics. The administrative conference is scheduled for August 16. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [
+            "i016-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e013",
+      "thread_id": "i016-t009",
+      "in_reply_to": "i016-e012",
+      "references": [
+        "i016-e010",
+        "i016-e012"
+      ],
+      "timestamp": "2026-08-05T17:26:36.075480",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Shah",
+        "email": "nadias@marineradr.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Ziegler",
+          "email": "carla.ziegler@quinterokaplan.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hi Elena,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nNadia Shah\nCase Administrator\nMariner Dispute Resolution\n\nOn Tue, Aug 04, 2026 at 07:46 AM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hello Nadia,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e014",
+      "thread_id": "i016-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T08:42:25.715625",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Shah",
+        "email": "grace.shah@orchardsoft.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Elena,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest regards,\nGrace Shah\nGeneral Counsel\nOrchard Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e015",
+      "thread_id": "i016-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T07:47:49.432411",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Ziegler",
+        "email": "carla.ziegler@quinterokaplan.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest regards,\nCarla Ziegler\nPartner\nQuintero & Kaplan LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e016",
+      "thread_id": "i016-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:11:37.517215",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Huang",
+        "email": "rafaelh@silverpinesyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Okafor",
+          "email": "farid.okafor@silverpinesyst.com"
+        }
+      ],
+      "subject": "Stratus Robotics - repeated SLA failures",
+      "body": "Elena,\n\nStratus Robotics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest,\nRafael Huang\nChief Operating Officer\nSilverpine Systems",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m02"
+          ],
+          "keyword_candidates": [
+            "i016-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e017",
+      "thread_id": "i016-t011",
+      "in_reply_to": "i016-e014",
+      "references": [
+        "i016-e014"
+      ],
+      "timestamp": "2026-08-10T08:26:54.579818",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Grace Shah",
+          "email": "grace.shah@orchardsoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Grace,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 07, 2026 at 08:42 AM, Grace Shah <grace.shah@orchardsoft.com> wrote:\n> Hello Elena,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": [
+            "i016-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e018",
+      "thread_id": "i016-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:16:54.336836",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello Elena,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nValerie\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e019",
+      "thread_id": "i016-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:27:54.856070",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Atlas - disclosure schedules open items",
+      "body": "Hi Elena,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Trellis's counsel directly?\n\nBest,\nValerie Huang\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [
+            "i016-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e020",
+      "thread_id": "i016-t013",
+      "in_reply_to": "i016-e016",
+      "references": [
+        "i016-e016"
+      ],
+      "timestamp": "2026-08-10T10:46:50.634625",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Huang",
+          "email": "rafaelh@silverpinesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Okafor",
+          "email": "farid.okafor@silverpinesyst.com"
+        }
+      ],
+      "subject": "Re: Stratus Robotics - repeated SLA failures",
+      "body": "Hi Rafael,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [
+            "i016-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e021",
+      "thread_id": "i016-t012",
+      "in_reply_to": "i016-e015",
+      "references": [
+        "i016-e015"
+      ],
+      "timestamp": "2026-08-10T11:56:23.007136",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Carla Ziegler",
+          "email": "carla.ziegler@quinterokaplan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e022",
+      "thread_id": "i016-t012",
+      "in_reply_to": "i016-e021",
+      "references": [
+        "i016-e015",
+        "i016-e021"
+      ],
+      "timestamp": "2026-08-11T07:23:29.227092",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Ziegler",
+        "email": "carla.ziegler@quinterokaplan.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nCarla\nPartner\nQuintero & Kaplan LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e023",
+      "thread_id": "i016-t015",
+      "in_reply_to": "i016-e019",
+      "references": [
+        "i016-e019"
+      ],
+      "timestamp": "2026-08-11T09:18:58.349570",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Hi Valerie,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nBest regards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m00"
+          ],
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e024",
+      "thread_id": "i016-t015",
+      "in_reply_to": "i016-e023",
+      "references": [
+        "i016-e019",
+        "i016-e023"
+      ],
+      "timestamp": "2026-08-11T13:56:01.613978",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Hi Elena,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nValerie\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 09:18 AM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hi Valerie,\n>\n> Adding Valerie, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m00"
+          ],
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e025",
+      "thread_id": "i016-t015",
+      "in_reply_to": "i016-e024",
+      "references": [
+        "i016-e019",
+        "i016-e023",
+        "i016-e024"
+      ],
+      "timestamp": "2026-08-12T11:38:08.293175",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Hi Valerie,\n\nWorks for me. Let's do Thursday at 10:30 a.m..\n\nBest regards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 01:56 PM, Valerie Huang <valerieh@chowdhuryshah.com> wrote:\n> Hi Elena,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m00"
+          ],
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e026",
+      "thread_id": "i016-t012",
+      "in_reply_to": "i016-e022",
+      "references": [
+        "i016-e015",
+        "i016-e021",
+        "i016-e022"
+      ],
+      "timestamp": "2026-08-12T17:38:31.535377",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Carla Ziegler",
+          "email": "carla.ziegler@quinterokaplan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Dear Carla,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 07:23 AM, Carla Ziegler <carla.ziegler@quinterokaplan.com> wrote:\n> Counsel,\n>\n> Adding Valerie, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m02",
+        "matter_ids": [
+          "i016-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m02"
+          ],
+          "thread_candidates": [
+            "i016-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e027",
+      "thread_id": "i016-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T08:50:41.488283",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Novak",
+        "email": "danieln@keystonecyber.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Shah",
+          "email": "marcuss@orchardsoft.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Elena,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nDaniel\nIncident Response Lead\nKeystone Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m04"
+          ],
+          "keyword_candidates": [
+            "i016-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e028",
+      "thread_id": "i016-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:40:30.750210",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Jensen",
+        "email": "nikhilj@goldbergbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Evergreen v. Copperleaf - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nThanks,\nNikhil",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e029",
+      "thread_id": "i016-t017",
+      "in_reply_to": "i016-e028",
+      "references": [
+        "i016-e028"
+      ],
+      "timestamp": "2026-08-18T16:52:30.276659",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Jensen",
+          "email": "nikhilj@goldbergbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Re: Evergreen v. Copperleaf - proposed protective order",
+      "body": "Hello Nikhil,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:40 AM, Nikhil Jensen <nikhilj@goldbergbrennan.com> wrote:\n> Counsel,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e030",
+      "thread_id": "i016-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T18:20:55.078733",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "cjensen@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Haddad",
+          "email": "thaddad@evergreensyst.com"
+        }
+      ],
+      "subject": "Copperleaf Foods product launch - possible infringement of '204 patent",
+      "body": "Hi Elena,\n\nOur engineers looked at the product Copperleaf Foods launched last month and believe it practices claims 1 and 7 of our '204 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest regards,\nChen Jensen",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e031",
+      "thread_id": "i016-t018",
+      "in_reply_to": "i016-e030",
+      "references": [
+        "i016-e030"
+      ],
+      "timestamp": "2026-08-24T08:31:45.536142",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Chen Jensen",
+          "email": "cjensen@evergreensyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Haddad",
+          "email": "thaddad@evergreensyst.com"
+        }
+      ],
+      "subject": "Re: Copperleaf Foods product launch - possible infringement of '204 patent",
+      "body": "Chen,\n\nConfirmed. I'll update the checklist.\n\nBest,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 21, 2026 at 06:20 PM, Chen Jensen <cjensen@evergreensyst.com> wrote:\n> Hi Elena,\n>\n> Our engineers looked at the product Copperleaf Foods launched last month and believe it practices claims 1 and 7 of our '204 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e032",
+      "thread_id": "i016-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T08:50:58.166403",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Dear Elena,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nHannah\nGeneral Counsel\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e033",
+      "thread_id": "i016-t018",
+      "in_reply_to": "i016-e031",
+      "references": [
+        "i016-e030",
+        "i016-e031"
+      ],
+      "timestamp": "2026-08-25T20:37:52.809746",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "cjensen@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Haddad",
+          "email": "thaddad@evergreensyst.com"
+        }
+      ],
+      "subject": "Re: Copperleaf Foods product launch - possible infringement of '204 patent",
+      "body": "Dear Elena,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nChen Jensen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [
+            "i016-m01"
+          ],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e034",
+      "thread_id": "i016-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T14:58:13.880029",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Elena,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nHannah\nGeneral Counsel\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e035",
+      "thread_id": "i016-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T09:12:59.843311",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Haddad",
+        "email": "liam.haddad@quinteroyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Trellis / Corvid - SPA comments",
+      "body": "Hi Elena,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Trellis customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nLiam Haddad\nPartner\nQuintero & Yamamoto LLP",
+      "attachments": [
+        "Trellis SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [
+            "i016-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e036",
+      "thread_id": "i016-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:31:23.175251",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Elena,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nHannah Rosen\nGeneral Counsel\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e037",
+      "thread_id": "i016-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:38:27.377992",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Haddad",
+        "email": "thaddad@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hi Elena,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nTara Haddad\nGeneral Counsel\nEvergreen Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e038",
+      "thread_id": "i016-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:48:28.779935",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Dear Elena,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nValerie Huang\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e039",
+      "thread_id": "i016-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T10:45:29.671770",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Elena,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nRegards,\nHannah Rosen\nGeneral Counsel\nCorvid Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e040",
+      "thread_id": "i016-t022",
+      "in_reply_to": "i016-e036",
+      "references": [
+        "i016-e036"
+      ],
+      "timestamp": "2026-09-07T18:08:47.813765",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Rosen",
+          "email": "hrosen@corvidener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Hannah,\n\nAdding Ivan, who will handle the day-to-day on this.\n\nRegards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 08:31 AM, Hannah Rosen <hrosen@corvidener.com> wrote:\n> Hi Elena,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e041",
+      "thread_id": "i016-t022",
+      "in_reply_to": "i016-e040",
+      "references": [
+        "i016-e036",
+        "i016-e040"
+      ],
+      "timestamp": "2026-09-08T14:07:41.029059",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Rosen",
+        "email": "hrosen@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Elena,\n\nThanks. Separately, on Project Atlas, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nThanks,\nHannah Rosen\nGeneral Counsel\nCorvid Energy\n\nOn Mon, Sep 07, 2026 at 06:08 PM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hello Hannah,\n>\n> Adding Ivan, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00",
+          "i016-m05"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [
+            "i016-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i016-e042",
+      "thread_id": "i016-t023",
+      "in_reply_to": "i016-e037",
+      "references": [
+        "i016-e037"
+      ],
+      "timestamp": "2026-09-09T08:45:45.157937",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Tara Haddad",
+          "email": "thaddad@evergreensyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hi Tara,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 09:38 AM, Tara Haddad <thaddad@evergreensyst.com> wrote:\n> Hi Elena,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e043",
+      "thread_id": "i016-t024",
+      "in_reply_to": "i016-e038",
+      "references": [
+        "i016-e038"
+      ],
+      "timestamp": "2026-09-09T09:12:30.142768",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hello Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 09:48 AM, Valerie Huang <valerieh@chowdhuryshah.com> wrote:\n> Dear Elena,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e044",
+      "thread_id": "i016-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T18:20:21.589553",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Elena,\n\nStatus on my matters this week:\n\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for October 3.\n- Stratus MSA: notice of breach sent, cure period running; damages model in draft.\n- CFPB CID: collection 80% complete; first rolling production targeted for September 29.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- 281 University Avenue: second turn of landlord's lease draft; SNDA requested from lender.\n\nThanks,\nValerie Huang\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m00",
+        "matter_ids": [
+          "i016-m00",
+          "i016-m02",
+          "i016-m03",
+          "i016-m04",
+          "i016-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m05"
+          ],
+          "keyword_candidates": [
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e045",
+      "thread_id": "i016-t023",
+      "in_reply_to": "i016-e042",
+      "references": [
+        "i016-e037",
+        "i016-e042"
+      ],
+      "timestamp": "2026-09-11T09:39:47.711611",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Haddad",
+        "email": "thaddad@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Elena,\n\nWorks for me. Let's do Friday at 5:00 p.m..\n\nBest,\nTara\nGeneral Counsel\nEvergreen Systems\n\nOn Wed, Sep 09, 2026 at 08:45 AM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hi Tara,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e046",
+      "thread_id": "i016-t023",
+      "in_reply_to": "i016-e045",
+      "references": [
+        "i016-e037",
+        "i016-e042",
+        "i016-e045"
+      ],
+      "timestamp": "2026-09-14T08:52:48.949711",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Tara Haddad",
+          "email": "thaddad@evergreensyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Tara,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e047",
+      "thread_id": "i016-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:13:33.717791",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Dear Elena,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest regards,\nValerie\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e048",
+      "thread_id": "i016-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T15:28:22.679122",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Jensen",
+        "email": "nikhilj@goldbergbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "281 University Avenue - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nNikhil Jensen",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m05"
+          ],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e049",
+      "thread_id": "i016-t027",
+      "in_reply_to": "i016-e047",
+      "references": [
+        "i016-e047"
+      ],
+      "timestamp": "2026-09-15T17:52:24.456366",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Hello Valerie,\n\nConfirmed. I'll update the checklist.\n\nBest,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 09:13 AM, Valerie Huang <valerieh@chowdhuryshah.com> wrote:\n> Dear Elena,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e050",
+      "thread_id": "i016-t027",
+      "in_reply_to": "i016-e049",
+      "references": [
+        "i016-e047",
+        "i016-e049"
+      ],
+      "timestamp": "2026-09-16T19:02:08.306349",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerieh@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Dear Elena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nValerie\nSenior Associate\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 15, 2026 at 05:52 PM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hello Valerie,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e051",
+      "thread_id": "i016-t027",
+      "in_reply_to": "i016-e050",
+      "references": [
+        "i016-e047",
+        "i016-e049",
+        "i016-e050"
+      ],
+      "timestamp": "2026-09-18T09:34:40.084368",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Valerie,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m00",
+            "i016-m02",
+            "i016-m03",
+            "i016-m04",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e052",
+      "thread_id": "i016-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T18:12:48.677678",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Chen Jensen",
+          "email": "cjensen@evergreensyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Infringement contentions due October 7",
+      "body": "Hello Chen,\n\nReminder that our infringement contentions are due October 7. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nRegards,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e053",
+      "thread_id": "i016-t029",
+      "in_reply_to": "i016-e052",
+      "references": [
+        "i016-e052"
+      ],
+      "timestamp": "2026-09-21T08:06:13.293058",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "cjensen@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 7",
+      "body": "Elena,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nChen\n\nOn Fri, Sep 18, 2026 at 06:12 PM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hello Chen,\n>\n> Reminder that our infringement contentions are due October 7. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e054",
+      "thread_id": "i016-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:55:18.480620",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Ziegler",
+        "email": "cziegler@cascadesyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Lindqvist",
+          "email": "biancal@cascadesyst.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Elena,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2026-600). It asks for documents about our customer data practices going back to 2021. The return date is October 15. Can you call me?\n\nBest,\nChen Ziegler",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m03"
+          ],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e055",
+      "thread_id": "i016-t029",
+      "in_reply_to": "i016-e053",
+      "references": [
+        "i016-e052",
+        "i016-e053"
+      ],
+      "timestamp": "2026-09-21T18:05:13.655401",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Chen Jensen",
+          "email": "cjensen@evergreensyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 7",
+      "body": "Hi Chen,\n\nWorks for me. Let's do Thursday at 5:00 p.m..\n\nBest,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 08:06 AM, Chen Jensen <cjensen@evergreensyst.com> wrote:\n> Elena,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m01",
+        "matter_ids": [
+          "i016-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01"
+          ],
+          "thread_candidates": [
+            "i016-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e056",
+      "thread_id": "i016-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T13:16:36.486580",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Shah",
+        "email": "marcuss@orchardsoft.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Grace Shah",
+          "email": "grace.shah@orchardsoft.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Dear Elena,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Keystone Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 3:30 p.m.?\n\nThanks,\nMarcus Shah\nChief Information Security Officer\nOrchard Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m04"
+          ],
+          "keyword_candidates": [
+            "i016-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e057",
+      "thread_id": "i016-t031",
+      "in_reply_to": "i016-e056",
+      "references": [
+        "i016-e056"
+      ],
+      "timestamp": "2026-09-24T07:33:37.797250",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Shah",
+          "email": "marcuss@orchardsoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Grace Shah",
+          "email": "grace.shah@orchardsoft.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Hello Marcus,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 23, 2026 at 01:16 PM, Marcus Shah <marcuss@orchardsoft.com> wrote:\n> Dear Elena,\n>\n> We detected unauthorized access to our customer database last night. It's contained, and we've engaged Keystone Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 3:30 p.m.?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m04",
+        "matter_ids": [
+          "i016-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m04"
+          ],
+          "thread_candidates": [
+            "i016-m04"
+          ],
+          "identifier_candidates": [
+            "i016-m04"
+          ],
+          "keyword_candidates": [
+            "i016-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e058",
+      "thread_id": "i016-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T14:54:37.422695",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Reyes",
+        "email": "preyes@corvidener.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 281 University Avenue",
+      "body": "Dear Elena,\n\nWe've agreed on a non-binding LOI with Halcyon Properties LLC for about 42,000 RSF at 281 University Avenue: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nPriya Reyes\nDirector of Real Estate\nCorvid Energy",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m05"
+          ],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e059",
+      "thread_id": "i016-t032",
+      "in_reply_to": "i016-e058",
+      "references": [
+        "i016-e058"
+      ],
+      "timestamp": "2026-09-29T11:17:58.951540",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Priya Reyes",
+          "email": "preyes@corvidener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 281 University Avenue",
+      "body": "Priya,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 28, 2026 at 02:54 PM, Priya Reyes <preyes@corvidener.com> wrote:\n> Dear Elena,\n>\n> We've agreed on a non-binding LOI with Halcyon Properties LLC for about 42,000 RSF at 281 University Avenue: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [
+            "i016-m05"
+          ],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e060",
+      "thread_id": "i016-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T11:50:46.233317",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Chowdhury",
+        "email": "lucia.chowdhury@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Cascade",
+      "body": "Dear Elena,\n\nPre-bills for Cascade Systems are ready for your review:\n\n- 82850-001  Cascade - CFPB Investigation (CID No. 2026-600)\n\nPlease mark up and return by October 4.\n\nBest,\nLucia Chowdhury\nBilling Coordinator\nChowdhury & Shah LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i016-m03"
+          ],
+          "keyword_candidates": [
+            "i016-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e061",
+      "thread_id": "i016-t034",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T19:29:50.233666",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Dubois",
+        "email": "idubois@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hi Elena,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest regards,\nIvan\nAssociate\nChowdhury & Shah LLP",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i016-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e062",
+      "thread_id": "i016-t034",
+      "in_reply_to": "i016-e061",
+      "references": [
+        "i016-e061"
+      ],
+      "timestamp": "2026-10-01T16:44:53.379852",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Ivan,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nElena\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e063",
+      "thread_id": "i016-t035",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T09:57:06.897310",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Lindqvist",
+        "email": "biancal@cascadesyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Elena,\n\nThe audit committee wants an update at its meeting on October 26. Could you prepare a short summary of status, exposure, and next steps?\n\nBest,\nBianca\nChief Compliance Officer\nCascade Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e064",
+      "thread_id": "i016-t034",
+      "in_reply_to": "i016-e062",
+      "references": [
+        "i016-e061",
+        "i016-e062"
+      ],
+      "timestamp": "2026-10-05T10:28:15.505391",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Dubois",
+        "email": "idubois@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Elena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nIvan Dubois\nAssociate\nChowdhury & Shah LLP\n\nOn Thu, Oct 01, 2026 at 04:44 PM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hi Ivan,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e065",
+      "thread_id": "i016-t034",
+      "in_reply_to": "i016-e064",
+      "references": [
+        "i016-e061",
+        "i016-e062",
+        "i016-e064"
+      ],
+      "timestamp": "2026-10-06T17:43:11.557885",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Dubois",
+          "email": "idubois@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Dear Ivan,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m05",
+        "matter_ids": [
+          "i016-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m01",
+            "i016-m05"
+          ],
+          "thread_candidates": [
+            "i016-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e066",
+      "thread_id": "i016-t036",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-13T09:57:13.146312",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Varga",
+        "email": "diegov@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Elena,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest,\nDiego Varga\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e067",
+      "thread_id": "i016-t037",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-14T12:40:58.935334",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Lindqvist",
+          "email": "biancal@cascadesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Bianca,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nRegards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e068",
+      "thread_id": "i016-t037",
+      "in_reply_to": "i016-e067",
+      "references": [
+        "i016-e067"
+      ],
+      "timestamp": "2026-10-16T10:09:53.095538",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Lindqvist",
+        "email": "biancal@cascadesyst.com"
+      },
+      "to": [
+        {
+          "name": "Elena Grant",
+          "email": "elena.grant@chowdhuryshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Elena,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nBianca Lindqvist\nChief Compliance Officer\nCascade Systems\n\nOn Wed, Oct 14, 2026 at 12:40 PM, Elena Grant <elena.grant@chowdhuryshah.com> wrote:\n> Hello Bianca,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": [
+            "i016-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i016-e069",
+      "thread_id": "i016-t037",
+      "in_reply_to": "i016-e068",
+      "references": [
+        "i016-e067",
+        "i016-e068"
+      ],
+      "timestamp": "2026-10-19T08:15:50.472156",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Grant",
+        "email": "elena.grant@chowdhuryshah.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Lindqvist",
+          "email": "biancal@cascadesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Huang",
+          "email": "valerieh@chowdhuryshah.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Bianca,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nElena Grant\nPartner\nChowdhury & Shah LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i016-m03",
+        "matter_ids": [
+          "i016-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i016-m03"
+          ],
+          "thread_candidates": [
+            "i016-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700016
+}

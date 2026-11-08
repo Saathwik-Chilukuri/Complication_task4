@@ -1,0 +1,3252 @@
+{
+  "instance_id": "i017",
+  "firm": {
+    "name": "Reyes & Jensen LLP",
+    "domain": "reyesjensen.com"
+  },
+  "user_contact_id": "i017-c000",
+  "matters": [
+    {
+      "matter_id": "i017-m00",
+      "matter_number": "47807-001",
+      "name": "Trellis - Acquisition of Riverstone Systems (Project Juniper)",
+      "client": "Trellis Labs",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Riverstone Systems by Trellis Labs. Stock purchase, ~$240 million.",
+      "counterparty": "Riverstone Systems",
+      "opposing_counsel_firm": "Jensen & Vasquez LLP",
+      "status": "open",
+      "opened_on": "2026-07-13",
+      "key_terms": [
+        "47807-001",
+        "Project Juniper",
+        "Juniper",
+        "Riverstone Systems",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i017-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i017-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i017-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i017-c010",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i017-m01",
+      "matter_number": "47807-002",
+      "name": "Trellis v. Evergreen (MSA Dispute)",
+      "client": "Trellis Labs",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Trellis Labs against vendor Evergreen Payments.",
+      "counterparty": "Evergreen Payments",
+      "opposing_counsel_firm": "Brennan & Patel LLP",
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "47807-002",
+        "Evergreen Payments",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i017-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i017-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i017-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i017-c013",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i017-m02",
+      "matter_number": "29876-001",
+      "name": "Cascade v. Parallax ('926 Patent)",
+      "client": "Cascade Software",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Cascade Software against Parallax Therapeutics asserting U.S. Patent No. 10,926,859.",
+      "counterparty": "Parallax Therapeutics",
+      "opposing_counsel_firm": "Reyes & Yamamoto LLP",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "29876-001",
+        "10,926,859",
+        "'926",
+        "Parallax Therapeutics",
+        "Parallax"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i017-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i017-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i017-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i017-c016",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i017-m03",
+      "matter_number": "44981-001",
+      "name": "Nimbus - Data Security Incident",
+      "client": "Nimbus Materials",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Nimbus Materials's customer database. Forensics by Wavecrest Cyber.",
+      "counterparty": "Wavecrest Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-19",
+      "key_terms": [
+        "44981-001",
+        "Wavecrest Cyber",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i017-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i017-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i017-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i017-c019",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i017-m04",
+      "matter_number": "94582-001",
+      "name": "Lattice - Acquisition of Solace Analytics (Project Cobalt)",
+      "client": "Lattice Systems",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Solace Analytics by Lattice Systems. Stock purchase, ~$650 million.",
+      "counterparty": "Solace Analytics",
+      "opposing_counsel_firm": "Ito & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-06-06",
+      "key_terms": [
+        "94582-001",
+        "Project Cobalt",
+        "Cobalt",
+        "Solace Analytics",
+        "Solace"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i017-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i017-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i017-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i017-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i017-c022",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i017-c000",
+      "name": "Grace Abbott",
+      "first": "Grace",
+      "email": "gabbott@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i017-c001",
+      "name": "Whitney Xu",
+      "first": "Whitney",
+      "email": "whitney.xu@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i017-c002",
+      "name": "Gabriel Lee",
+      "first": "Gabriel",
+      "email": "gabriell@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i017-c003",
+      "name": "Zoe Tanaka",
+      "first": "Zoe",
+      "email": "zoe.tanaka@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i017-c004",
+      "name": "Liam Banerjee",
+      "first": "Liam",
+      "email": "liam.banerjee@trellislabs.com",
+      "organization": "Trellis Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c005",
+      "name": "Elena Ziegler",
+      "first": "Elena",
+      "email": "elenaz@cascadesoft.com",
+      "organization": "Cascade Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c006",
+      "name": "Emma Abbott",
+      "first": "Emma",
+      "email": "emmaa@nimbusmate.com",
+      "organization": "Nimbus Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c007",
+      "name": "Hiro Nakamura",
+      "first": "Hiro",
+      "email": "hiro.nakamura@latticesyst.com",
+      "organization": "Lattice Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c008",
+      "name": "Yara Xu",
+      "first": "Yara",
+      "email": "yarax@trellislabs.com",
+      "organization": "Trellis Labs",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c009",
+      "name": "Jasmine Park",
+      "first": "Jasmine",
+      "email": "jasminep@jensenvasquez.com",
+      "organization": "Jensen & Vasquez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c010",
+      "name": "Marcus Lee",
+      "first": "Marcus",
+      "email": "marcus.lee@tidewatertrust.com",
+      "organization": "Tidewater Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c011",
+      "name": "Valerie Thompson",
+      "first": "Valerie",
+      "email": "valerie.thompson@trellislabs.com",
+      "organization": "Trellis Labs",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c012",
+      "name": "Lucia Young",
+      "first": "Lucia",
+      "email": "lyoung@brennanpatel.com",
+      "organization": "Brennan & Patel LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c013",
+      "name": "Nadia Park",
+      "first": "Nadia",
+      "email": "nadia.park@driftwoodadr.com",
+      "organization": "Driftwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c014",
+      "name": "Aisha Park",
+      "first": "Aisha",
+      "email": "aisha.park@cascadesoft.com",
+      "organization": "Cascade Software",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c015",
+      "name": "Maya Fischer",
+      "first": "Maya",
+      "email": "mfischer@reyesyamamoto.com",
+      "organization": "Reyes & Yamamoto LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c016",
+      "name": "Aisha Reyes",
+      "first": "Aisha",
+      "email": "areyes@corvidtech.com",
+      "organization": "Corvid Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c017",
+      "name": "Umar Weiss",
+      "first": "Umar",
+      "email": "uweiss@nimbusmate.com",
+      "organization": "Nimbus Materials",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c018",
+      "name": "Jasmine Banerjee",
+      "first": "Jasmine",
+      "email": "jasmineb@wavecrestcyber.com",
+      "organization": "Wavecrest Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c019",
+      "name": "Kavya Brennan",
+      "first": "Kavya",
+      "email": "kavya.brennan@marinermutual.com",
+      "organization": "Mariner Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c020",
+      "name": "Victor Grant",
+      "first": "Victor",
+      "email": "victor.grant@latticesyst.com",
+      "organization": "Lattice Systems",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c021",
+      "name": "Pedro Xu",
+      "first": "Pedro",
+      "email": "pxu@itosato.com",
+      "organization": "Ito & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c022",
+      "name": "Thomas Weiss",
+      "first": "Thomas",
+      "email": "tweiss@silverpinetrust.com",
+      "organization": "Silverpine Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c023",
+      "name": "Ivan Whitaker",
+      "first": "Ivan",
+      "email": "ivanw@itosato.com",
+      "organization": "Ito & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c024",
+      "name": "Elena Lee",
+      "first": "Elena",
+      "email": "elena.lee@itosato.com",
+      "organization": "Ito & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c025",
+      "name": "Bianca Kowalski",
+      "first": "Bianca",
+      "email": "bkowalski@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i017-c026",
+      "name": "Whitney Yamamoto",
+      "first": "Whitney",
+      "email": "whitneyy@brightlineadr.com",
+      "organization": "Brightline Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i017-c027",
+      "name": "Olivia Kaplan",
+      "first": "Olivia",
+      "email": "okaplan@reyesjensen.com",
+      "organization": "Reyes & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i017-e000",
+      "thread_id": "i017-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T17:42:30.915238",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Lee",
+        "email": "elena.lee@itosato.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Solace deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nThanks,\nElena Lee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e001",
+      "thread_id": "i017-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T10:55:57.326928",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Xu",
+        "email": "pxu@itosato.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Solace / Lattice - SPA comments",
+      "body": "Grace,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Solace customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nPedro Xu\nPartner\nIto & Sato LLP",
+      "attachments": [
+        "Solace SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e002",
+      "thread_id": "i017-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T20:49:22.162909",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Lee",
+        "email": "gabriell@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Grace,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nRegards,\nGabriel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e003",
+      "thread_id": "i017-t002",
+      "in_reply_to": "i017-e002",
+      "references": [
+        "i017-e002"
+      ],
+      "timestamp": "2026-07-09T07:46:45.092821",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Dear Gabriel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Tue, Jul 07, 2026 at 08:49 PM, Gabriel Lee <gabriell@reyesjensen.com> wrote:\n> Grace,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": [
+            "i017-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e004",
+      "thread_id": "i017-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T10:19:05.787749",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Weiss",
+        "email": "uweiss@nimbusmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Emma Abbott",
+          "email": "emmaa@nimbusmate.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hi Grace,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Wavecrest Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?\n\nThanks,\nUmar Weiss\nChief Information Security Officer\nNimbus Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m03"
+          ],
+          "keyword_candidates": [
+            "i017-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e005",
+      "thread_id": "i017-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T07:42:49.642621",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Thompson",
+        "email": "valerie.thompson@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Banerjee",
+          "email": "liam.banerjee@trellislabs.com"
+        }
+      ],
+      "subject": "Evergreen Payments - repeated SLA failures",
+      "body": "Hi Grace,\n\nEvergreen Payments has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nValerie\nChief Operating Officer\nTrellis Labs",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m01"
+          ],
+          "keyword_candidates": [
+            "i017-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e006",
+      "thread_id": "i017-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T08:40:40.396143",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Young",
+        "email": "lyoung@brennanpatel.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Grace,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nThanks,\nLucia\nPartner\nBrennan & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e007",
+      "thread_id": "i017-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T17:49:10.440823",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Lee",
+        "email": "gabriell@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello Grace,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $780,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nThanks,\nGabriel Lee\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e008",
+      "thread_id": "i017-t005",
+      "in_reply_to": "i017-e006",
+      "references": [
+        "i017-e006"
+      ],
+      "timestamp": "2026-07-16T16:26:57.498183",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Young",
+          "email": "lyoung@brennanpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Wed, Jul 15, 2026 at 08:40 AM, Lucia Young <lyoung@brennanpatel.com> wrote:\n> Grace,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e009",
+      "thread_id": "i017-t006",
+      "in_reply_to": "i017-e007",
+      "references": [
+        "i017-e007"
+      ],
+      "timestamp": "2026-07-17T09:01:40.796532",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Gabriel,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Wed, Jul 15, 2026 at 05:49 PM, Gabriel Lee <gabriell@reyesjensen.com> wrote:\n> Hello Grace,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $780,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e010",
+      "thread_id": "i017-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:39:36.966364",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Grant",
+        "email": "victor.grant@latticesyst.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Project Cobalt - LOI countersigned",
+      "body": "Hi Grace,\n\nGood news: Solace Analytics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Tuesday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nVictor Grant\nVP, Corporate Development\nLattice Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e011",
+      "thread_id": "i017-t005",
+      "in_reply_to": "i017-e008",
+      "references": [
+        "i017-e006",
+        "i017-e008"
+      ],
+      "timestamp": "2026-07-20T10:52:25.217492",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Young",
+        "email": "lyoung@brennanpatel.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nAdding Whitney, who will handle the day-to-day on this.\n\nBest,\nLucia Young\nPartner\nBrennan & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e012",
+      "thread_id": "i017-t005",
+      "in_reply_to": "i017-e011",
+      "references": [
+        "i017-e006",
+        "i017-e008",
+        "i017-e011"
+      ],
+      "timestamp": "2026-07-21T07:14:39.063303",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Young",
+          "email": "lyoung@brennanpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nGrace\nPartner\nReyes & Jensen LLP\n\nOn Mon, Jul 20, 2026 at 10:52 AM, Lucia Young <lyoung@brennanpatel.com> wrote:\n> Counsel,\n>\n> Adding Whitney, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e013",
+      "thread_id": "i017-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T12:35:49.894115",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Brennan",
+        "email": "kavya.brennan@marinermutual.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Grace,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Wavecrest.\n\nRegards,\nKavya Brennan\nClaims Specialist\nMariner Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e014",
+      "thread_id": "i017-t007",
+      "in_reply_to": "i017-e010",
+      "references": [
+        "i017-e010"
+      ],
+      "timestamp": "2026-07-21T17:47:44.550149",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Victor Grant",
+          "email": "victor.grant@latticesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Project Cobalt - LOI countersigned",
+      "body": "Victor,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Mon, Jul 20, 2026 at 09:39 AM, Victor Grant <victor.grant@latticesyst.com> wrote:\n> Hi Grace,\n>\n> Good news: Solace Analytics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Tuesday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": [
+            "i017-m04"
+          ],
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e015",
+      "thread_id": "i017-t007",
+      "in_reply_to": "i017-e014",
+      "references": [
+        "i017-e010",
+        "i017-e014"
+      ],
+      "timestamp": "2026-07-22T07:01:43.707073",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Grant",
+        "email": "victor.grant@latticesyst.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Project Cobalt - LOI countersigned",
+      "body": "Grace,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nVictor Grant\nVP, Corporate Development\nLattice Systems\n\nOn Tue, Jul 21, 2026 at 05:47 PM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Victor,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": [
+            "i017-m04"
+          ],
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e016",
+      "thread_id": "i017-t008",
+      "in_reply_to": "i017-e013",
+      "references": [
+        "i017-e013"
+      ],
+      "timestamp": "2026-07-22T17:01:01.706572",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Brennan",
+          "email": "kavya.brennan@marinermutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Kavya,\n\nWorks for me. Let's do Thursday at noon.\n\nRegards,\nGrace\nPartner\nReyes & Jensen LLP\n\nOn Tue, Jul 21, 2026 at 12:35 PM, Kavya Brennan <kavya.brennan@marinermutual.com> wrote:\n> Hi Grace,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Wavecrest.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": [
+            "i017-m03"
+          ],
+          "identifier_candidates": [
+            "i017-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e017",
+      "thread_id": "i017-t008",
+      "in_reply_to": "i017-e016",
+      "references": [
+        "i017-e013",
+        "i017-e016"
+      ],
+      "timestamp": "2026-07-23T08:52:44.405706",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Brennan",
+        "email": "kavya.brennan@marinermutual.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Grace,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nKavya Brennan\nClaims Specialist\nMariner Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": [
+            "i017-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e018",
+      "thread_id": "i017-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T20:12:19.440561",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Whitaker",
+        "email": "ivanw@itosato.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Solace deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nThanks,\nIvan Whitaker",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e019",
+      "thread_id": "i017-t008",
+      "in_reply_to": "i017-e017",
+      "references": [
+        "i017-e013",
+        "i017-e016",
+        "i017-e017"
+      ],
+      "timestamp": "2026-07-27T09:41:37.227840",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Brennan",
+          "email": "kavya.brennan@marinermutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello Kavya,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Thu, Jul 23, 2026 at 08:52 AM, Kavya Brennan <kavya.brennan@marinermutual.com> wrote:\n> Grace,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": [
+            "i017-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e020",
+      "thread_id": "i017-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:04:03.516361",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Kowalski",
+        "email": "bkowalski@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Dear Grace,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nBianca Kowalski\nMarketing Coordinator\nReyes & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e021",
+      "thread_id": "i017-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T17:33:06.879496",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Nakamura",
+        "email": "hiro.nakamura@latticesyst.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Grace,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nHiro Nakamura\nGeneral Counsel\nLattice Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e022",
+      "thread_id": "i017-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T10:38:26.421980",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Tanaka",
+        "email": "zoe.tanaka@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Cascade",
+      "body": "Grace,\n\nPre-bills for Cascade Software are ready for your review:\n\n- 29876-001  Cascade v. Parallax ('926 Patent)\n\nPlease mark up and return by August 4.\n\nRegards,\nZoe Tanaka",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e023",
+      "thread_id": "i017-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:14:07.438378",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Banerjee",
+        "email": "liam.banerjee@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Dear Grace,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nLiam Banerjee\nGeneral Counsel\nTrellis Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e024",
+      "thread_id": "i017-t013",
+      "in_reply_to": "i017-e023",
+      "references": [
+        "i017-e023"
+      ],
+      "timestamp": "2026-08-04T08:44:04.524792",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Liam Banerjee",
+          "email": "liam.banerjee@trellislabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hello Liam,\n\nConfirmed. I'll update the checklist.\n\nBest,\nGrace\nPartner\nReyes & Jensen LLP\n\nOn Mon, Aug 03, 2026 at 08:14 AM, Liam Banerjee <liam.banerjee@trellislabs.com> wrote:\n> Dear Grace,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e025",
+      "thread_id": "i017-t013",
+      "in_reply_to": "i017-e024",
+      "references": [
+        "i017-e023",
+        "i017-e024"
+      ],
+      "timestamp": "2026-08-04T18:09:07.483451",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Banerjee",
+        "email": "liam.banerjee@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hi Grace,\n\nThanks. Separately, on Project Juniper, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest regards,\nLiam Banerjee\nGeneral Counsel\nTrellis Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00",
+          "i017-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": [
+            "i017-m01"
+          ],
+          "identifier_candidates": [
+            "i017-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e026",
+      "thread_id": "i017-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T09:03:22.264819",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@tidewatertrust.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Grace,\n\nTo open the escrow account for the Juniper transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nThanks,\nMarcus Lee\nVice President, Escrow Services\nTidewater Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e027",
+      "thread_id": "i017-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T14:36:24.411185",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Banerjee",
+        "email": "liam.banerjee@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hi Grace,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nLiam Banerjee\nGeneral Counsel\nTrellis Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e028",
+      "thread_id": "i017-t014",
+      "in_reply_to": "i017-e026",
+      "references": [
+        "i017-e026"
+      ],
+      "timestamp": "2026-08-07T08:37:38.760768",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Lee",
+          "email": "marcus.lee@tidewatertrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hi Marcus,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nGrace\nPartner\nReyes & Jensen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e029",
+      "thread_id": "i017-t014",
+      "in_reply_to": "i017-e028",
+      "references": [
+        "i017-e026",
+        "i017-e028"
+      ],
+      "timestamp": "2026-08-10T09:49:11.842913",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@tidewatertrust.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hello Grace,\n\nQuick follow-up on the below. Any update?\n\nBest,\nMarcus Lee\nVice President, Escrow Services\nTidewater Trust Company\n\nOn Fri, Aug 07, 2026 at 08:37 AM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Hi Marcus,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e030",
+      "thread_id": "i017-t014",
+      "in_reply_to": "i017-e029",
+      "references": [
+        "i017-e026",
+        "i017-e028",
+        "i017-e029"
+      ],
+      "timestamp": "2026-08-10T11:59:49.185066",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Lee",
+          "email": "marcus.lee@tidewatertrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Marcus,\n\nWorks for me. Let's do Monday at 9:00 a.m..\n\nBest,\nGrace Abbott\nPartner\nReyes & Jensen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e031",
+      "thread_id": "i017-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T14:25:57.037382",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Reyes",
+        "email": "areyes@corvidtech.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear Grace,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 9.\n\nBest regards,\nAisha Reyes\nPrincipal\nCorvid Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e032",
+      "thread_id": "i017-t016",
+      "in_reply_to": "i017-e031",
+      "references": [
+        "i017-e031"
+      ],
+      "timestamp": "2026-08-17T16:50:20.257522",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Reyes",
+          "email": "areyes@corvidtech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Aisha,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Mon, Aug 17, 2026 at 02:25 PM, Aisha Reyes <areyes@corvidtech.com> wrote:\n> Dear Grace,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 9.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": [
+            "i017-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i017-e033",
+      "thread_id": "i017-t016",
+      "in_reply_to": "i017-e032",
+      "references": [
+        "i017-e031",
+        "i017-e032"
+      ],
+      "timestamp": "2026-08-18T07:07:55.021399",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Reyes",
+        "email": "areyes@corvidtech.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Grace,\n\nQuick follow-up on the below. Any update?\n\nBest,\nAisha Reyes\nPrincipal\nCorvid Technical Consulting\n\nOn Mon, Aug 17, 2026 at 04:50 PM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Aisha,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": [
+            "i017-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e034",
+      "thread_id": "i017-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T08:18:06.523553",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Lee",
+        "email": "gabriell@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Juniper - disclosure schedules open items",
+      "body": "Dear Grace,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Riverstone's counsel directly?\n\nBest,\nGabriel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m00"
+          ],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e035",
+      "thread_id": "i017-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T07:18:33.483321",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Xu",
+          "email": "pxu@itosato.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Gabriel and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nGrace Abbott\nPartner\nReyes & Jensen LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e036",
+      "thread_id": "i017-t018",
+      "in_reply_to": "i017-e035",
+      "references": [
+        "i017-e035"
+      ],
+      "timestamp": "2026-08-21T08:09:59.363699",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Xu",
+        "email": "pxu@itosato.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hi Grace,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nPedro Xu\nPartner\nIto & Sato LLP\n\nOn Thu, Aug 20, 2026 at 07:18 AM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Counsel,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Gabriel and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m04"
+          ],
+          "thread_candidates": [
+            "i017-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e037",
+      "thread_id": "i017-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:51:44.628912",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Park",
+        "email": "aisha.park@cascadesoft.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Ziegler",
+          "email": "elenaz@cascadesoft.com"
+        }
+      ],
+      "subject": "Parallax Therapeutics product launch - possible infringement of '926 patent",
+      "body": "Hi Grace,\n\nOur engineers looked at the product Parallax Therapeutics launched last month and believe it practices claims 1 and 7 of our '926 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nRegards,\nAisha\nChief Technology Officer\nCascade Software",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m02"
+          ],
+          "keyword_candidates": [
+            "i017-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e038",
+      "thread_id": "i017-t019",
+      "in_reply_to": "i017-e037",
+      "references": [
+        "i017-e037"
+      ],
+      "timestamp": "2026-08-25T13:37:36.800812",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Park",
+          "email": "aisha.park@cascadesoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Ziegler",
+          "email": "elenaz@cascadesoft.com"
+        }
+      ],
+      "subject": "Re: Parallax Therapeutics product launch - possible infringement of '926 patent",
+      "body": "Hi Aisha,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nGrace Abbott\nPartner\nReyes & Jensen LLP\n\nOn Mon, Aug 24, 2026 at 10:51 AM, Aisha Park <aisha.park@cascadesoft.com> wrote:\n> Hi Grace,\n>\n> Our engineers looked at the product Parallax Therapeutics launched last month and believe it practices claims 1 and 7 of our '926 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": [
+            "i017-m02"
+          ],
+          "identifier_candidates": [
+            "i017-m02"
+          ],
+          "keyword_candidates": [
+            "i017-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e039",
+      "thread_id": "i017-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T14:57:48.556006",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Xu",
+        "email": "yarax@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hi Grace,\n\nThe board asked whether we could structure part of the $240 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nThanks,\nYara Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e040",
+      "thread_id": "i017-t020",
+      "in_reply_to": "i017-e039",
+      "references": [
+        "i017-e039"
+      ],
+      "timestamp": "2026-08-26T12:17:58.816023",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Yara Xu",
+          "email": "yarax@trellislabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Dear Yara,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nGrace Abbott\nPartner\nReyes & Jensen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e041",
+      "thread_id": "i017-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T19:44:12.449631",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Yamamoto",
+        "email": "whitneyy@brightlineadr.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Grace,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest,\nWhitney Yamamoto\nSection Chair\nBrightline Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e042",
+      "thread_id": "i017-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:53:16.849738",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Kaplan",
+        "email": "okaplan@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Dear Grace,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nRegards,\nOlivia Kaplan\nProfessional Development Manager\nReyes & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e043",
+      "thread_id": "i017-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T11:22:17.477427",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Xu",
+        "email": "whitney.xu@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hello Grace,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nThanks,\nWhitney Xu\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m01",
+            "i017-m02",
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e044",
+      "thread_id": "i017-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:04:13.640719",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Banerjee",
+        "email": "liam.banerjee@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Grace,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest regards,\nLiam Banerjee\nGeneral Counsel\nTrellis Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e045",
+      "thread_id": "i017-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T10:26:25.757035",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Umar Weiss",
+          "email": "uweiss@nimbusmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Emma Abbott",
+          "email": "emmaa@nimbusmate.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Umar,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Wavecrest.\n\nBest regards,\nGrace Abbott\nPartner\nReyes & Jensen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e046",
+      "thread_id": "i017-t025",
+      "in_reply_to": "i017-e045",
+      "references": [
+        "i017-e045"
+      ],
+      "timestamp": "2026-09-08T16:10:28.302268",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Weiss",
+        "email": "uweiss@nimbusmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Emma Abbott",
+          "email": "emmaa@nimbusmate.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Grace,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nUmar Weiss\nChief Information Security Officer\nNimbus Materials\n\nOn Mon, Sep 07, 2026 at 10:26 AM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Dear Umar,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Wavecrest.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m03",
+        "matter_ids": [
+          "i017-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m03"
+          ],
+          "thread_candidates": [
+            "i017-m03"
+          ],
+          "identifier_candidates": [
+            "i017-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e047",
+      "thread_id": "i017-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T07:41:18.415233",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Banerjee",
+        "email": "liam.banerjee@trellislabs.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Grace,\n\nTwo quick things.\n\n1. On the Evergreen dispute, their account team reached out to our COO again.\n2. On Project Juniper, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nThanks,\nLiam Banerjee\nGeneral Counsel\nTrellis Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m01",
+        "matter_ids": [
+          "i017-m01",
+          "i017-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e048",
+      "thread_id": "i017-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T09:29:58.872269",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Park",
+          "email": "jasminep@jensenvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Dear Jasmine,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Gabriel and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nGrace Abbott\nPartner\nReyes & Jensen LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e049",
+      "thread_id": "i017-t027",
+      "in_reply_to": "i017-e048",
+      "references": [
+        "i017-e048"
+      ],
+      "timestamp": "2026-09-15T20:17:23.986793",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Park",
+        "email": "jasminep@jensenvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hi Grace,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nJasmine Park\n\nOn Tue, Sep 15, 2026 at 09:29 AM, Grace Abbott <gabbott@reyesjensen.com> wrote:\n> Dear Jasmine,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Gabriel and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i017-m00",
+            "i017-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e050",
+      "thread_id": "i017-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T09:39:18.046458",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Fischer",
+        "email": "mfischer@reyesyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Xu",
+          "email": "whitney.xu@reyesjensen.com"
+        }
+      ],
+      "subject": "Cascade v. Parallax - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nBest regards,\nMaya\nPartner\nReyes & Yamamoto LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i017-m02",
+        "matter_ids": [
+          "i017-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i017-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e051",
+      "thread_id": "i017-t027",
+      "in_reply_to": "i017-e049",
+      "references": [
+        "i017-e048",
+        "i017-e049"
+      ],
+      "timestamp": "2026-09-17T13:26:56.571455",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Abbott",
+        "email": "gabbott@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Park",
+          "email": "jasminep@jensenvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Lee",
+          "email": "gabriell@reyesjensen.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Jasmine,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nBest regards,\nGrace\nPartner\nReyes & Jensen LLP\n\nOn Tue, Sep 15, 2026 at 08:17 PM, Jasmine Park <jasminep@jensenvasquez.com> wrote:\n> Hi Grace,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00"
+          ],
+          "thread_candidates": [
+            "i017-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e052",
+      "thread_id": "i017-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:08:51.778224",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Tanaka",
+        "email": "zoe.tanaka@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Trellis",
+      "body": "Dear Grace,\n\nPre-bills for Trellis Labs are ready for your review:\n\n- 47807-001  Trellis - Acquisition of Riverstone Systems (Project Juniper)\n- 47807-002  Trellis v. Evergreen (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nBest regards,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00",
+          "i017-m01"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m00",
+            "i017-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e053",
+      "thread_id": "i017-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:55:16.199753",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Tanaka",
+        "email": "zoe.tanaka@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Lattice",
+      "body": "Dear Grace,\n\nPre-bills for Lattice Systems are ready for your review:\n\n- 94582-001  Lattice - Acquisition of Solace Analytics (Project Cobalt)\n\nPlease mark up and return by October 4.\n\nRegards,\nZoe Tanaka",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m04",
+        "matter_ids": [
+          "i017-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i017-e054",
+      "thread_id": "i017-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T10:00:01.539478",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Lee",
+        "email": "gabriell@reyesjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Abbott",
+          "email": "gabbott@reyesjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Grace,\n\nStatus on my matters this week:\n\n- Project Juniper: seller comments on the SPA in; issues list circulated, signing targeted for October 30.\n- Evergreen MSA: notice of breach sent, cure period running; damages model in draft.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- Project Cobalt: seller comments on the SPA in; issues list circulated, signing targeted for October 24.\n\nBest,\nGabriel Lee\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i017-m00",
+        "matter_ids": [
+          "i017-m00",
+          "i017-m01",
+          "i017-m03",
+          "i017-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m03",
+            "i017-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i017-m00",
+            "i017-m01",
+            "i017-m04"
+          ],
+          "keyword_candidates": [
+            "i017-m01",
+            "i017-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700017
+}

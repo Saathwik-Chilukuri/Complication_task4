@@ -1,0 +1,2641 @@
+{
+  "instance_id": "i028",
+  "firm": {
+    "name": "Shah & Brennan LLP",
+    "domain": "shahbrennan.com"
+  },
+  "user_contact_id": "i028-c000",
+  "matters": [
+    {
+      "matter_id": "i028-m00",
+      "matter_number": "84239-001",
+      "name": "Arjun Haddad v. Riverstone",
+      "client": "Riverstone Analytics",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Arjun Haddad against Riverstone Analytics. Case No. 4:26-cv-08598.",
+      "counterparty": "Arjun Haddad",
+      "opposing_counsel_firm": "Varga & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-06-18",
+      "key_terms": [
+        "84239-001",
+        "Arjun Haddad",
+        "Haddad",
+        "4:26-cv-08598"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i028-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i028-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i028-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i028-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i028-c009",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i028-m01",
+      "matter_number": "56495-001",
+      "name": "Tidewater - Series A Financing",
+      "client": "Tidewater Materials",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Tidewater Materials, led by Orchard Ventures. Raising ~$40 million.",
+      "counterparty": "Orchard Ventures",
+      "opposing_counsel_firm": "Ellis & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-06-18",
+      "key_terms": [
+        "56495-001",
+        "Series A",
+        "Orchard Ventures",
+        "Orchard"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i028-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i028-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i028-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i028-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i028-c012",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i028-c013",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i028-m02",
+      "matter_number": "56495-002",
+      "name": "Tidewater - Acquisition of Mariner Logistics (Project Tundra)",
+      "client": "Tidewater Materials",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Mariner Logistics by Tidewater Materials. Stock purchase, ~$120 million.",
+      "counterparty": "Mariner Logistics",
+      "opposing_counsel_firm": "Iyer & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "56495-002",
+        "Project Tundra",
+        "Tundra",
+        "Mariner Logistics",
+        "Mariner"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i028-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i028-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i028-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i028-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i028-c016",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i028-m03",
+      "matter_number": "13501-001",
+      "name": "Quarry v. Wavecrest (MSA Dispute)",
+      "client": "Quarry Biosciences",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Quarry Biosciences against vendor Wavecrest Systems.",
+      "counterparty": "Wavecrest Systems",
+      "opposing_counsel_firm": "Varga & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-07-14",
+      "key_terms": [
+        "13501-001",
+        "Wavecrest Systems",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i028-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i028-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i028-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i028-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i028-c019",
+          "role": "arbitration_admin"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i028-c000",
+      "name": "Rafael Brennan",
+      "first": "Rafael",
+      "email": "rafaelb@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c001",
+      "name": "Priya Young",
+      "first": "Priya",
+      "email": "pyoung@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c002",
+      "name": "Chen Weiss",
+      "first": "Chen",
+      "email": "cweiss@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c003",
+      "name": "Grace Eriksen",
+      "first": "Grace",
+      "email": "geriksen@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c004",
+      "name": "Emma Goldberg",
+      "first": "Emma",
+      "email": "emma.goldberg@riverstoneanal.com",
+      "organization": "Riverstone Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c005",
+      "name": "Umar Lee",
+      "first": "Umar",
+      "email": "umar.lee@tidewatermate.com",
+      "organization": "Tidewater Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c006",
+      "name": "Zoe Ellis",
+      "first": "Zoe",
+      "email": "zellis@quarrybios.com",
+      "organization": "Quarry Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c007",
+      "name": "Grace Young",
+      "first": "Grace",
+      "email": "gyoung@riverstoneanal.com",
+      "organization": "Riverstone Analytics",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c008",
+      "name": "Yusuf Grant",
+      "first": "Yusuf",
+      "email": "yusufg@vargaokafor.com",
+      "organization": "Varga & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c009",
+      "name": "Emma Osei",
+      "first": "Emma",
+      "email": "emmao@silverpineadr.com",
+      "organization": "Silverpine Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c010",
+      "name": "Marcus Iyer",
+      "first": "Marcus",
+      "email": "miyer@tidewatermate.com",
+      "organization": "Tidewater Materials",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c011",
+      "name": "Wei Grant",
+      "first": "Wei",
+      "email": "wgrant@ellisrosen.com",
+      "organization": "Ellis & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c012",
+      "name": "Tara Mendoza",
+      "first": "Tara",
+      "email": "taram@orchardvc.com",
+      "organization": "Orchard Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c013",
+      "name": "Maya Ferreira",
+      "first": "Maya",
+      "email": "mferreira@brightlinevc.com",
+      "organization": "Brightline Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c014",
+      "name": "Hannah Jensen",
+      "first": "Hannah",
+      "email": "hannahj@tidewatermate.com",
+      "organization": "Tidewater Materials",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c015",
+      "name": "Thomas Jensen",
+      "first": "Thomas",
+      "email": "thomas.jensen@iyerdelgado.com",
+      "organization": "Iyer & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c016",
+      "name": "Kenji Ziegler",
+      "first": "Kenji",
+      "email": "kziegler@halcyontrust.com",
+      "organization": "Halcyon Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c017",
+      "name": "Umar Young",
+      "first": "Umar",
+      "email": "umar.young@quarrybios.com",
+      "organization": "Quarry Biosciences",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c018",
+      "name": "Zoe Thompson",
+      "first": "Zoe",
+      "email": "zthompson@vargaokafor.com",
+      "organization": "Varga & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c019",
+      "name": "Maya Iyer",
+      "first": "Maya",
+      "email": "mayai@pinnacleadr.com",
+      "organization": "Pinnacle Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c020",
+      "name": "Ben Rosen",
+      "first": "Ben",
+      "email": "ben.rosen@iyerdelgado.com",
+      "organization": "Iyer & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c021",
+      "name": "Isabel Zhang",
+      "first": "Isabel",
+      "email": "isabel.zhang@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c022",
+      "name": "Victor Vasquez",
+      "first": "Victor",
+      "email": "vvasquez@shahbrennan.com",
+      "organization": "Shah & Brennan LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i028-c023",
+      "name": "Samuel Xu",
+      "first": "Samuel",
+      "email": "samuelx@corvidcomms.com",
+      "organization": "Corvid Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i028-c024",
+      "name": "Hiro Yamamoto",
+      "first": "Hiro",
+      "email": "hiroy@solaceadr.com",
+      "organization": "Solace Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i028-e000",
+      "thread_id": "i028-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T10:48:06.035110",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "pyoung@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hi Rafael,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nPriya Young\nSenior Associate\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e001",
+      "thread_id": "i028-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T08:02:50.742333",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Goldberg",
+        "email": "emma.goldberg@riverstoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hi Rafael,\n\nBefore the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nEmma",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e002",
+      "thread_id": "i028-t001",
+      "in_reply_to": "i028-e001",
+      "references": [
+        "i028-e001"
+      ],
+      "timestamp": "2026-06-25T12:42:27.016605",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Emma Goldberg",
+          "email": "emma.goldberg@riverstoneanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hi Emma,\n\nQuick follow-up on the below. Any update?\n\nBest,\nRafael Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": [
+            "i028-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e003",
+      "thread_id": "i028-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-26T08:30:08.167262",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Vasquez",
+        "email": "vvasquez@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Rafael,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nVictor\nPartner\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e004",
+      "thread_id": "i028-t001",
+      "in_reply_to": "i028-e002",
+      "references": [
+        "i028-e001",
+        "i028-e002"
+      ],
+      "timestamp": "2026-06-26T08:39:30.663636",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Goldberg",
+        "email": "emma.goldberg@riverstoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hello Rafael,\n\nAdding Priya, who will handle the day-to-day on this.\n\nRegards,\nEmma\n\nOn Thu, Jun 25, 2026 at 12:42 PM, Rafael Brennan <rafaelb@shahbrennan.com> wrote:\n> Hi Emma,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": [
+            "i028-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e005",
+      "thread_id": "i028-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T08:33:06.239976",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Zhang",
+        "email": "isabel.zhang@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Rafael,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest,\nIsabel Zhang\nMarketing Coordinator\nShah & Brennan LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e006",
+      "thread_id": "i028-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:55:37.975439",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "pyoung@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Dear Rafael,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest,\nPriya Young\nSenior Associate\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e007",
+      "thread_id": "i028-t004",
+      "in_reply_to": "i028-e006",
+      "references": [
+        "i028-e006"
+      ],
+      "timestamp": "2026-07-21T17:24:01.595901",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hello Priya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nRafael Brennan\n\nOn Mon, Jul 20, 2026 at 09:55 AM, Priya Young <pyoung@shahbrennan.com> wrote:\n> Dear Rafael,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": [
+            "i028-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e008",
+      "thread_id": "i028-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:06:31.644512",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Jensen",
+          "email": "thomas.jensen@iyerdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Hello Thomas,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Priya and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nRafael",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e009",
+      "thread_id": "i028-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:31:00.745124",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Lee",
+        "email": "umar.lee@tidewatermate.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Dear Rafael,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nBest,\nUmar\nGeneral Counsel\nTidewater Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e010",
+      "thread_id": "i028-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:39:02.895686",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Yamamoto",
+        "email": "hiroy@solaceadr.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Rafael,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nHiro\nSection Chair\nSolace Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e011",
+      "thread_id": "i028-t005",
+      "in_reply_to": "i028-e008",
+      "references": [
+        "i028-e008"
+      ],
+      "timestamp": "2026-07-28T07:08:15.141312",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Jensen",
+        "email": "thomas.jensen@iyerdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nThomas Jensen\n\nOn Mon, Jul 27, 2026 at 08:06 AM, Rafael Brennan <rafaelb@shahbrennan.com> wrote:\n> Hello Thomas,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Priya and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": [
+            "i028-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e012",
+      "thread_id": "i028-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T08:07:06.631152",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Iyer",
+        "email": "mayai@pinnacleadr.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Thompson",
+          "email": "zthompson@vargaokafor.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello Rafael,\n\nThis confirms receipt of the demand for arbitration in Quarry Biosciences v. Wavecrest Systems. The administrative conference is scheduled for August 7. Please confirm your availability.\n\nBest,\nMaya Iyer\nCase Administrator\nPinnacle Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e013",
+      "thread_id": "i028-t008",
+      "in_reply_to": "i028-e012",
+      "references": [
+        "i028-e012"
+      ],
+      "timestamp": "2026-07-28T08:39:26.360615",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Maya Iyer",
+          "email": "mayai@pinnacleadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Thompson",
+          "email": "zthompson@vargaokafor.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Maya,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nRafael Brennan\n\nOn Tue, Jul 28, 2026 at 08:07 AM, Maya Iyer <mayai@pinnacleadr.com> wrote:\n> Hello Rafael,\n>\n> This confirms receipt of the demand for arbitration in Quarry Biosciences v. Wavecrest Systems. The administrative conference is scheduled for August 7. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e014",
+      "thread_id": "i028-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T08:41:04.040242",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Osei",
+        "email": "emmao@silverpineadr.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Grant",
+          "email": "yusufg@vargaokafor.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Hi Rafael,\n\nI have the following dates available for a full-day mediation: August 11 and August 21. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nThanks,\nEmma Osei\nMediator\nSilverpine Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e015",
+      "thread_id": "i028-t009",
+      "in_reply_to": "i028-e014",
+      "references": [
+        "i028-e014"
+      ],
+      "timestamp": "2026-07-28T16:30:33.640175",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Emma Osei",
+          "email": "emmao@silverpineadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Grant",
+          "email": "yusufg@vargaokafor.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Hi Emma,\n\nAdding Priya, who will handle the day-to-day on this.\n\nBest,\nRafael\n\nOn Tue, Jul 28, 2026 at 08:41 AM, Emma Osei <emmao@silverpineadr.com> wrote:\n> Hi Rafael,\n>\n> I have the following dates available for a full-day mediation: August 11 and August 21. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": [
+            "i028-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e016",
+      "thread_id": "i028-t008",
+      "in_reply_to": "i028-e013",
+      "references": [
+        "i028-e012",
+        "i028-e013"
+      ],
+      "timestamp": "2026-07-30T08:51:56.642445",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Iyer",
+        "email": "mayai@pinnacleadr.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Thompson",
+          "email": "zthompson@vargaokafor.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Rafael,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest,\nMaya Iyer\nCase Administrator\nPinnacle Dispute Resolution\n\nOn Tue, Jul 28, 2026 at 08:39 AM, Rafael Brennan <rafaelb@shahbrennan.com> wrote:\n> Hello Maya,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e017",
+      "thread_id": "i028-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:42:32.749093",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Eriksen",
+        "email": "geriksen@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Quarry",
+      "body": "Hi Rafael,\n\nPre-bills for Quarry Biosciences are ready for your review:\n\n- 13501-001  Quarry v. Wavecrest (MSA Dispute)\n\nPlease mark up and return by August 4.\n\nThanks,\nGrace\nBilling Coordinator\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e018",
+      "thread_id": "i028-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:15:53.390264",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Weiss",
+        "email": "cweiss@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Rafael,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nThanks,\nChen\nSenior Associate\nShah & Brennan LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e019",
+      "thread_id": "i028-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T17:02:37.039890",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Grant",
+        "email": "yusufg@vargaokafor.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Arjun Haddad v. Riverstone - Case No. 4:26-cv-08598",
+      "body": "Rafael,\n\nPlease see attached the complaint filed today in Arjun Haddad v. Riverstone Analytics, Case No. 4:26-cv-08598. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Riverstone.\n\nBest,\nYusuf Grant\nPartner\nVarga & Okafor LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m00"
+          ],
+          "keyword_candidates": [
+            "i028-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e020",
+      "thread_id": "i028-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:12:33.180593",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Lee",
+        "email": "umar.lee@tidewatermate.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Rafael,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest regards,\nUmar Lee\nGeneral Counsel\nTidewater Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e021",
+      "thread_id": "i028-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:40:53.558944",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Thompson",
+        "email": "zthompson@vargaokafor.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nZoe Thompson\nPartner\nVarga & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e022",
+      "thread_id": "i028-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T07:20:16.272164",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Young",
+        "email": "umar.young@quarrybios.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zellis@quarrybios.com"
+        }
+      ],
+      "subject": "Wavecrest Systems - repeated SLA failures",
+      "body": "Hello Rafael,\n\nWavecrest Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest,\nUmar\nChief Operating Officer\nQuarry Biosciences",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [
+            "i028-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e023",
+      "thread_id": "i028-t014",
+      "in_reply_to": "i028-e021",
+      "references": [
+        "i028-e021"
+      ],
+      "timestamp": "2026-08-11T08:10:07.759747",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Thompson",
+          "email": "zthompson@vargaokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nRafael Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e024",
+      "thread_id": "i028-t015",
+      "in_reply_to": "i028-e022",
+      "references": [
+        "i028-e022"
+      ],
+      "timestamp": "2026-08-11T11:55:08.319109",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Umar Young",
+          "email": "umar.young@quarrybios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zellis@quarrybios.com"
+        }
+      ],
+      "subject": "Re: Wavecrest Systems - repeated SLA failures",
+      "body": "Hi Umar,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nRafael",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e025",
+      "thread_id": "i028-t015",
+      "in_reply_to": "i028-e024",
+      "references": [
+        "i028-e022",
+        "i028-e024"
+      ],
+      "timestamp": "2026-08-13T09:34:02.324756",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Young",
+        "email": "umar.young@quarrybios.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zellis@quarrybios.com"
+        }
+      ],
+      "subject": "Re: Wavecrest Systems - repeated SLA failures",
+      "body": "Rafael,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nUmar Young\nChief Operating Officer\nQuarry Biosciences\n\nOn Tue, Aug 11, 2026 at 11:55 AM, Rafael Brennan <rafaelb@shahbrennan.com> wrote:\n> Hi Umar,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e026",
+      "thread_id": "i028-t015",
+      "in_reply_to": "i028-e025",
+      "references": [
+        "i028-e022",
+        "i028-e024",
+        "i028-e025"
+      ],
+      "timestamp": "2026-08-14T20:30:49.831035",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Umar Young",
+          "email": "umar.young@quarrybios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zellis@quarrybios.com"
+        }
+      ],
+      "subject": "Re: Wavecrest Systems - repeated SLA failures",
+      "body": "Umar,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nRafael Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [
+            "i028-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i028-e027",
+      "thread_id": "i028-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T07:25:46.560664",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Lee",
+        "email": "umar.lee@tidewatermate.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Rafael,\n\nTwo quick things.\n\n1. On the Series A, Orchard is asking about closing timing. Can you send them an update?\n2. On Project Tundra, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest regards,\nUmar Lee\nGeneral Counsel\nTidewater Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01",
+          "i028-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e028",
+      "thread_id": "i028-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T16:19:41.905552",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "pyoung@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Tundra - disclosure schedules open items",
+      "body": "Rafael,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Mariner's counsel directly?\n\nThanks,\nPriya Young\nSenior Associate\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e029",
+      "thread_id": "i028-t017",
+      "in_reply_to": "i028-e028",
+      "references": [
+        "i028-e028"
+      ],
+      "timestamp": "2026-08-24T08:33:32.420706",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Tundra - disclosure schedules open items",
+      "body": "Priya,\n\nWorks for me. Let's do Wednesday at 10:30 a.m..\n\nRegards,\nRafael Brennan\n\nOn Fri, Aug 21, 2026 at 04:19 PM, Priya Young <pyoung@shahbrennan.com> wrote:\n> Rafael,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Mariner's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": [
+            "i028-m02"
+          ],
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e030",
+      "thread_id": "i028-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:52:22.350477",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Ziegler",
+        "email": "kziegler@halcyontrust.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Dear Rafael,\n\nTo open the escrow account for the Tundra transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nRegards,\nKenji Ziegler\nVice President, Escrow Services\nHalcyon Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e031",
+      "thread_id": "i028-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:36:22.151675",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Rosen",
+        "email": "ben.rosen@iyerdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Mariner deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest regards,\nBen Rosen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e032",
+      "thread_id": "i028-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T07:34:05.225607",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Lee",
+        "email": "umar.lee@tidewatermate.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hello Rafael,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest,\nUmar Lee\nGeneral Counsel\nTidewater Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e033",
+      "thread_id": "i028-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:29:45.034038",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Iyer",
+        "email": "miyer@tidewatermate.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Lee",
+          "email": "umar.lee@tidewatermate.com"
+        }
+      ],
+      "subject": "Series A term sheet from Orchard Ventures",
+      "body": "Rafael,\n\nWe received the attached term sheet from Orchard Ventures last night: $40 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?\n\nBest regards,\nMarcus\nChief Executive Officer\nTidewater Materials",
+      "attachments": [
+        "Orchard Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m01"
+          ],
+          "keyword_candidates": [
+            "i028-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e034",
+      "thread_id": "i028-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:10:11.889072",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Mendoza",
+        "email": "taram@orchardvc.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Iyer",
+          "email": "miyer@tidewatermate.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Dear Rafael,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 11 still realistic?\n\nRegards,\nTara Mendoza",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e035",
+      "thread_id": "i028-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T12:54:10.520906",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Eriksen",
+        "email": "geriksen@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Rafael,\n\nPre-bills for Tidewater Materials are ready for your review:\n\n- 56495-001  Tidewater - Series A Financing\n- 56495-002  Tidewater - Acquisition of Mariner Logistics (Project Tundra)\n\nPlease mark up and return by September 4.\n\nThanks,\nGrace Eriksen\nBilling Coordinator\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01",
+          "i028-m02"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m01",
+            "i028-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e036",
+      "thread_id": "i028-t022",
+      "in_reply_to": "i028-e034",
+      "references": [
+        "i028-e034"
+      ],
+      "timestamp": "2026-09-01T09:36:58.488590",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Tara Mendoza",
+          "email": "taram@orchardvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Iyer",
+          "email": "miyer@tidewatermate.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Tara,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nRafael Brennan\n\nOn Mon, Aug 31, 2026 at 10:10 AM, Tara Mendoza <taram@orchardvc.com> wrote:\n> Dear Rafael,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 11 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m01",
+        "matter_ids": [
+          "i028-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m01"
+          ],
+          "thread_candidates": [
+            "i028-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e037",
+      "thread_id": "i028-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T10:41:59.189454",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Xu",
+        "email": "samuelx@corvidcomms.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Hi Rafael,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nSamuel\nEditor\nCorvid Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e038",
+      "thread_id": "i028-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T17:02:34.511511",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Ellis",
+        "email": "zellis@quarrybios.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Rafael,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nRegards,\nZoe Ellis",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e039",
+      "thread_id": "i028-t025",
+      "in_reply_to": "i028-e038",
+      "references": [
+        "i028-e038"
+      ],
+      "timestamp": "2026-09-14T08:38:52.198643",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zellis@quarrybios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Zoe,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nRafael Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e040",
+      "thread_id": "i028-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:51:08.764142",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Jensen",
+        "email": "thomas.jensen@iyerdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "subject": "Mariner / Tidewater - SPA comments",
+      "body": "Dear Rafael,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Mariner customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nThomas Jensen",
+      "attachments": [
+        "Mariner SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e041",
+      "thread_id": "i028-t025",
+      "in_reply_to": "i028-e039",
+      "references": [
+        "i028-e038",
+        "i028-e039"
+      ],
+      "timestamp": "2026-09-14T12:03:41.569905",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Ellis",
+        "email": "zellis@quarrybios.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Dear Rafael,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m03",
+        "matter_ids": [
+          "i028-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m03"
+          ],
+          "thread_candidates": [
+            "i028-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e042",
+      "thread_id": "i028-t026",
+      "in_reply_to": "i028-e040",
+      "references": [
+        "i028-e040"
+      ],
+      "timestamp": "2026-09-15T16:22:43.954289",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafaelb@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Jensen",
+          "email": "thomas.jensen@iyerdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "pyoung@shahbrennan.com"
+        }
+      ],
+      "subject": "Re: Mariner / Tidewater - SPA comments",
+      "body": "Thomas,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nRafael Brennan\n\nOn Mon, Sep 14, 2026 at 09:51 AM, Thomas Jensen <thomas.jensen@iyerdelgado.com> wrote:\n> Dear Rafael,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Mariner customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": [
+            "i028-m02"
+          ],
+          "identifier_candidates": [
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e043",
+      "thread_id": "i028-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T16:56:11.283730",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "pyoung@shahbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Rafael,\n\nStatus on my matters this week:\n\n- Haddad: complaint served; mediation being scheduled, deposition outline in draft.\n- Series A: financing docs in negotiation with Orchard's counsel; cap table reconciliation in progress.\n- Project Tundra: seller comments on the SPA in; issues list circulated, signing targeted for October 6.\n\nRegards,\nPriya Young\nSenior Associate\nShah & Brennan LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m00",
+        "matter_ids": [
+          "i028-m00",
+          "i028-m01",
+          "i028-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i028-m00",
+            "i028-m01",
+            "i028-m02"
+          ],
+          "keyword_candidates": [
+            "i028-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i028-e044",
+      "thread_id": "i028-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T08:01:51.359455",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Jensen",
+        "email": "thomas.jensen@iyerdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Brennan",
+          "email": "rafaelb@shahbrennan.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Hi Rafael,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nThanks,\nThomas Jensen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i028-m02",
+        "matter_ids": [
+          "i028-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i028-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700028
+}

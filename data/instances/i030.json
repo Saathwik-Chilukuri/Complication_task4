@@ -1,0 +1,3139 @@
+{
+  "instance_id": "i030",
+  "firm": {
+    "name": "Sato & Osei LLP",
+    "domain": "satoosei.com"
+  },
+  "user_contact_id": "i030-c000",
+  "matters": [
+    {
+      "matter_id": "i030-m00",
+      "matter_number": "54620-001",
+      "name": "Mariner - Acquisition of Silverpine Foods (Project Tundra)",
+      "client": "Mariner Systems",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Silverpine Foods by Mariner Systems. Stock purchase, ~$650 million.",
+      "counterparty": "Silverpine Foods",
+      "opposing_counsel_firm": "Patel & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-07-09",
+      "key_terms": [
+        "54620-001",
+        "Project Tundra",
+        "Tundra",
+        "Silverpine Foods",
+        "Silverpine"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i030-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i030-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i030-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i030-c011",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i030-m01",
+      "matter_number": "97629-001",
+      "name": "Keystone - Headquarters Lease (2294 Howard Street)",
+      "client": "Keystone Analytics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Keystone Analytics's new headquarters at 2294 Howard Street, landlord Trellis Properties LLC.",
+      "counterparty": "Trellis Properties LLC",
+      "opposing_counsel_firm": "Thompson & Kaplan LLP",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "97629-001",
+        "2294 Howard Street",
+        "Trellis Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i030-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i030-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i030-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i030-c014",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i030-m02",
+      "matter_number": "66229-001",
+      "name": "Parallax - Series A Financing",
+      "client": "Parallax Payments",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Parallax Payments, led by Corvid Ventures. Raising ~$40 million.",
+      "counterparty": "Corvid Ventures",
+      "opposing_counsel_firm": "Brennan & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "66229-001",
+        "Series A",
+        "Corvid Ventures",
+        "Corvid"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i030-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i030-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i030-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i030-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i030-c018",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i030-m03",
+      "matter_number": "27839-001",
+      "name": "Kavya Grant v. Quarry",
+      "client": "Quarry Analytics",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Kavya Grant against Quarry Analytics. Case No. 3:26-cv-09251.",
+      "counterparty": "Kavya Grant",
+      "opposing_counsel_firm": "Varga & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-07-09",
+      "key_terms": [
+        "27839-001",
+        "Kavya Grant",
+        "Grant",
+        "3:26-cv-09251"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i030-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i030-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i030-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i030-c021",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i030-m04",
+      "matter_number": "54620-002",
+      "name": "Mariner v. Riverstone (MSA Dispute)",
+      "client": "Mariner Systems",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Mariner Systems against vendor Riverstone Energy.",
+      "counterparty": "Riverstone Energy",
+      "opposing_counsel_firm": "Brennan & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-06-01",
+      "key_terms": [
+        "54620-002",
+        "Riverstone Energy",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i030-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i030-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i030-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i030-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i030-c023",
+          "role": "arbitration_admin"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i030-c000",
+      "name": "Olivia Zhang",
+      "first": "Olivia",
+      "email": "oliviaz@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c001",
+      "name": "Yara Reyes",
+      "first": "Yara",
+      "email": "yara.reyes@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c002",
+      "name": "Xavier Park",
+      "first": "Xavier",
+      "email": "xavier.park@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c003",
+      "name": "Lucia Xu",
+      "first": "Lucia",
+      "email": "lxu@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c004",
+      "name": "Femi Tanaka",
+      "first": "Femi",
+      "email": "femi.tanaka@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c005",
+      "name": "Sofia Reyes",
+      "first": "Sofia",
+      "email": "sofiar@marinersyst.com",
+      "organization": "Mariner Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c006",
+      "name": "Wei Rosen",
+      "first": "Wei",
+      "email": "wrosen@keystoneanal.com",
+      "organization": "Keystone Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c007",
+      "name": "Victor Vasquez",
+      "first": "Victor",
+      "email": "vvasquez@parallaxpaym.com",
+      "organization": "Parallax Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c008",
+      "name": "Diego Jensen",
+      "first": "Diego",
+      "email": "diego.jensen@quarryanal.com",
+      "organization": "Quarry Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c009",
+      "name": "Victor Xu",
+      "first": "Victor",
+      "email": "vxu@marinersyst.com",
+      "organization": "Mariner Systems",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c010",
+      "name": "Kenji Underwood",
+      "first": "Kenji",
+      "email": "kenjiu@patelrosen.com",
+      "organization": "Patel & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c011",
+      "name": "Kenji Rosen",
+      "first": "Kenji",
+      "email": "kenji.rosen@bluefintrust.com",
+      "organization": "Bluefin Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c012",
+      "name": "Kenji Ferreira",
+      "first": "Kenji",
+      "email": "kenji.ferreira@keystoneanal.com",
+      "organization": "Keystone Analytics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c013",
+      "name": "Marcus Young",
+      "first": "Marcus",
+      "email": "marcus.young@thompsonkaplan.com",
+      "organization": "Thompson & Kaplan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c014",
+      "name": "Pedro Weiss",
+      "first": "Pedro",
+      "email": "pedro.weiss@orchardrealty.com",
+      "organization": "Orchard Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c015",
+      "name": "Yara Thompson",
+      "first": "Yara",
+      "email": "ythompson@parallaxpaym.com",
+      "organization": "Parallax Payments",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c016",
+      "name": "Zoe Abbott",
+      "first": "Zoe",
+      "email": "zabbott@brennandelgado.com",
+      "organization": "Brennan & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c017",
+      "name": "Jasmine Eriksen",
+      "first": "Jasmine",
+      "email": "jasmine.eriksen@corvidvc.com",
+      "organization": "Corvid Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c018",
+      "name": "Sofia Castillo",
+      "first": "Sofia",
+      "email": "scastillo@pinnaclevc.com",
+      "organization": "Pinnacle Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c019",
+      "name": "Uma Ito",
+      "first": "Uma",
+      "email": "umai@quarryanal.com",
+      "organization": "Quarry Analytics",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c020",
+      "name": "Ximena Haddad",
+      "first": "Ximena",
+      "email": "xhaddad@vargashah.com",
+      "organization": "Varga & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c021",
+      "name": "Yara Eriksen",
+      "first": "Yara",
+      "email": "yarae@vantageadr.com",
+      "organization": "Vantage Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c022",
+      "name": "Priya Laurent",
+      "first": "Priya",
+      "email": "priya.laurent@marinersyst.com",
+      "organization": "Mariner Systems",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c023",
+      "name": "Uma Kaplan",
+      "first": "Uma",
+      "email": "ukaplan@ironbridgeadr.com",
+      "organization": "Ironbridge Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c024",
+      "name": "Uma Iyer",
+      "first": "Uma",
+      "email": "umai@nimbusreporting.com",
+      "organization": "Nimbus Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i030-c025",
+      "name": "Hiro Alvarez",
+      "first": "Hiro",
+      "email": "hiroa@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c026",
+      "name": "Thomas Nakamura",
+      "first": "Thomas",
+      "email": "thomasn@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i030-c027",
+      "name": "Kenji Chowdhury",
+      "first": "Kenji",
+      "email": "kchowdhury@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i030-e000",
+      "thread_id": "i030-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-11T07:52:51.736203",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Chowdhury",
+        "email": "kchowdhury@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Dear Olivia,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nKenji Chowdhury\nProfessional Development Manager\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e001",
+      "thread_id": "i030-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T19:30:43.157790",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Abbott",
+        "email": "zabbott@brennandelgado.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Dear Olivia,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nThanks,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e002",
+      "thread_id": "i030-t001",
+      "in_reply_to": "i030-e001",
+      "references": [
+        "i030-e001"
+      ],
+      "timestamp": "2026-06-17T11:44:37.737572",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Abbott",
+          "email": "zabbott@brennandelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 15, 2026 at 07:30 PM, Zoe Abbott <zabbott@brennandelgado.com> wrote:\n> Dear Olivia,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02",
+            "i030-m04"
+          ],
+          "thread_candidates": [
+            "i030-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e003",
+      "thread_id": "i030-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T12:04:06.547291",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Rosen",
+        "email": "wrosen@keystoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Olivia,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nWei\nGeneral Counsel\nKeystone Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e004",
+      "thread_id": "i030-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T17:47:30.072005",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Laurent",
+        "email": "priya.laurent@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Olivia,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nPriya Laurent\nChief Operating Officer\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e005",
+      "thread_id": "i030-t002",
+      "in_reply_to": "i030-e003",
+      "references": [
+        "i030-e003"
+      ],
+      "timestamp": "2026-07-06T08:45:20.622585",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Wei Rosen",
+          "email": "wrosen@keystoneanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Wei,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e006",
+      "thread_id": "i030-t002",
+      "in_reply_to": "i030-e005",
+      "references": [
+        "i030-e003",
+        "i030-e005"
+      ],
+      "timestamp": "2026-07-07T08:55:59.541759",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Rosen",
+        "email": "wrosen@keystoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Olivia,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nWei Rosen\nGeneral Counsel\nKeystone Analytics\n\nOn Mon, Jul 06, 2026 at 08:45 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Hello Wei,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e007",
+      "thread_id": "i030-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:49:56.439223",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Alvarez",
+        "email": "hiroa@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Olivia,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nHiro\nPartner\nSato & Osei LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e008",
+      "thread_id": "i030-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T10:59:26.620897",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Reyes",
+        "email": "sofiar@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Hi Olivia,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nSofia Reyes\nGeneral Counsel\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e009",
+      "thread_id": "i030-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T07:40:14.019146",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Haddad",
+        "email": "xhaddad@vargashah.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Kavya Grant v. Quarry - Case No. 3:26-cv-09251",
+      "body": "Dear Olivia,\n\nPlease see attached the complaint filed today in Kavya Grant v. Quarry Analytics, Case No. 3:26-cv-09251. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Quarry.\n\nBest regards,\nXimena Haddad\nPartner\nVarga & Shah LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [
+            "i030-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e010",
+      "thread_id": "i030-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T17:07:00.898717",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Reyes",
+        "email": "sofiar@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Olivia,\n\nTwo quick things.\n\n1. On Project Tundra, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n2. On the Riverstone dispute, their account team reached out to our COO again.\n\nBest regards,\nSofia Reyes\nGeneral Counsel\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00",
+          "i030-m04"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e011",
+      "thread_id": "i030-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T18:00:31.195015",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Iyer",
+        "email": "umai@nimbusreporting.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Olivia,\n\nThis confirms the deposition of Kavya Grant on August 13 at 9:30 a.m. in Case No. 3:26-cv-09251. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nBest,\nUma",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e012",
+      "thread_id": "i030-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:13:19.247667",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Kaplan",
+        "email": "ukaplan@ironbridgeadr.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Abbott",
+          "email": "zabbott@brennandelgado.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Olivia,\n\nThis confirms receipt of the demand for arbitration in Mariner Systems v. Riverstone Energy. The administrative conference is scheduled for August 10. Please confirm your availability.\n\nThanks,\nUma",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e013",
+      "thread_id": "i030-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T08:34:59.184701",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Abbott",
+          "email": "zabbott@brennandelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Reyes",
+          "email": "yara.reyes@satoosei.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hello Zoe,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e014",
+      "thread_id": "i030-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T16:22:00.658684",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Jensen",
+        "email": "diego.jensen@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Olivia,\n\nBefore the call on Wednesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nRegards,\nDiego Jensen\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e015",
+      "thread_id": "i030-t011",
+      "in_reply_to": "i030-e014",
+      "references": [
+        "i030-e014"
+      ],
+      "timestamp": "2026-07-31T07:05:01.611554",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Diego Jensen",
+          "email": "diego.jensen@quarryanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hello Diego,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 30, 2026 at 04:22 PM, Diego Jensen <diego.jensen@quarryanal.com> wrote:\n> Olivia,\n>\n> Before the call on Wednesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e016",
+      "thread_id": "i030-t011",
+      "in_reply_to": "i030-e015",
+      "references": [
+        "i030-e014",
+        "i030-e015"
+      ],
+      "timestamp": "2026-07-31T08:43:21.401653",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Jensen",
+        "email": "diego.jensen@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Olivia,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nDiego\nGeneral Counsel\nQuarry Analytics\n\nOn Fri, Jul 31, 2026 at 07:05 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Hello Diego,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e017",
+      "thread_id": "i030-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T10:40:56.023772",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Tanaka",
+        "email": "femi.tanaka@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Quarry",
+      "body": "Hi Olivia,\n\nPre-bills for Quarry Analytics are ready for your review:\n\n- 27839-001  Kavya Grant v. Quarry\n\nPlease mark up and return by August 4.\n\nBest,\nFemi Tanaka\nBilling Coordinator\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e018",
+      "thread_id": "i030-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T16:57:36.726020",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Tanaka",
+        "email": "femi.tanaka@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Mariner",
+      "body": "Olivia,\n\nPre-bills for Mariner Systems are ready for your review:\n\n- 54620-001  Mariner - Acquisition of Silverpine Foods (Project Tundra)\n- 54620-002  Mariner v. Riverstone (MSA Dispute)\n\nPlease mark up and return by August 4.\n\nBest,\nFemi Tanaka\nBilling Coordinator\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00",
+          "i030-m04"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e019",
+      "thread_id": "i030-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T17:09:57.587812",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Reyes",
+        "email": "yara.reyes@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Olivia,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nThanks,\nYara Reyes\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01",
+            "i030-m02",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e020",
+      "thread_id": "i030-t014",
+      "in_reply_to": "i030-e019",
+      "references": [
+        "i030-e019"
+      ],
+      "timestamp": "2026-08-03T08:20:00.832189",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Reyes",
+          "email": "yara.reyes@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Yara,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 31, 2026 at 05:09 PM, Yara Reyes <yara.reyes@satoosei.com> wrote:\n> Dear Olivia,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01",
+            "i030-m02",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e021",
+      "thread_id": "i030-t014",
+      "in_reply_to": "i030-e020",
+      "references": [
+        "i030-e019",
+        "i030-e020"
+      ],
+      "timestamp": "2026-08-04T12:49:43.705726",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Reyes",
+        "email": "yara.reyes@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Olivia,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nYara Reyes\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 08:20 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Hello Yara,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01",
+            "i030-m02",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e022",
+      "thread_id": "i030-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T18:07:33.216498",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Ito",
+        "email": "umai@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Jensen",
+          "email": "diego.jensen@quarryanal.com"
+        }
+      ],
+      "subject": "Demand letter - Kavya Grant",
+      "body": "Olivia,\n\nWe received the attached demand letter from counsel for Kavya Grant, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?\n\nBest regards,\nUma\nHead of People\nQuarry Analytics",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [
+            "i030-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e023",
+      "thread_id": "i030-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T08:55:49.790627",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Reyes",
+        "email": "sofiar@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Olivia,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nSofia Reyes\nGeneral Counsel\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e024",
+      "thread_id": "i030-t015",
+      "in_reply_to": "i030-e022",
+      "references": [
+        "i030-e022"
+      ],
+      "timestamp": "2026-08-13T15:06:22.986325",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Uma Ito",
+          "email": "umai@quarryanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Jensen",
+          "email": "diego.jensen@quarryanal.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Kavya Grant",
+      "body": "Hi Uma,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e025",
+      "thread_id": "i030-t015",
+      "in_reply_to": "i030-e024",
+      "references": [
+        "i030-e022",
+        "i030-e024"
+      ],
+      "timestamp": "2026-08-13T20:38:51.315599",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Ito",
+        "email": "umai@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Jensen",
+          "email": "diego.jensen@quarryanal.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Kavya Grant",
+      "body": "Hi Olivia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nUma Ito\nHead of People\nQuarry Analytics\n\nOn Thu, Aug 13, 2026 at 03:06 PM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Hi Uma,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e026",
+      "thread_id": "i030-t016",
+      "in_reply_to": "i030-e023",
+      "references": [
+        "i030-e023"
+      ],
+      "timestamp": "2026-08-14T09:12:08.679106",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Reyes",
+          "email": "sofiar@marinersyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Dear Sofia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 12, 2026 at 08:55 AM, Sofia Reyes <sofiar@marinersyst.com> wrote:\n> Hello Olivia,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "thread_candidates": [
+            "i030-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e027",
+      "thread_id": "i030-t016",
+      "in_reply_to": "i030-e026",
+      "references": [
+        "i030-e023",
+        "i030-e026"
+      ],
+      "timestamp": "2026-08-17T08:23:21.301433",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Reyes",
+        "email": "sofiar@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Olivia,\n\nThanks. Separately, on the Riverstone dispute, their account team reached out to our COO again.\n\nRegards,\nSofia Reyes\nGeneral Counsel\nMariner Systems\n\nOn Fri, Aug 14, 2026 at 09:12 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Dear Sofia,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m04",
+        "matter_ids": [
+          "i030-m04",
+          "i030-m00"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00",
+            "i030-m04"
+          ],
+          "thread_candidates": [
+            "i030-m00"
+          ],
+          "identifier_candidates": [
+            "i030-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e028",
+      "thread_id": "i030-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:35:44.506056",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Eriksen",
+        "email": "jasmine.eriksen@corvidvc.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Thompson",
+          "email": "ythompson@parallaxpaym.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Olivia,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 8 still realistic?\n\nRegards,\nJasmine\nPartner\nCorvid Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e029",
+      "thread_id": "i030-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:46:19.576461",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Rosen",
+        "email": "kenji.rosen@bluefintrust.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Olivia,\n\nTo open the escrow account for the Tundra transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?\n\nBest,\nKenji Rosen\nVice President, Escrow Services\nBluefin Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e030",
+      "thread_id": "i030-t015",
+      "in_reply_to": "i030-e025",
+      "references": [
+        "i030-e022",
+        "i030-e024",
+        "i030-e025"
+      ],
+      "timestamp": "2026-08-17T10:56:10.391804",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Uma Ito",
+          "email": "umai@quarryanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Jensen",
+          "email": "diego.jensen@quarryanal.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Kavya Grant",
+      "body": "Dear Uma,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [
+            "i030-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i030-e031",
+      "thread_id": "i030-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T17:00:29.109379",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Thompson",
+        "email": "ythompson@parallaxpaym.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Vasquez",
+          "email": "vvasquez@parallaxpaym.com"
+        }
+      ],
+      "subject": "Series A term sheet from Corvid Ventures",
+      "body": "Olivia,\n\nWe received the attached term sheet from Corvid Ventures last night: $40 million at a $220 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?\n\nThanks,\nYara\nChief Executive Officer\nParallax Payments",
+      "attachments": [
+        "Corvid Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [
+            "i030-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e032",
+      "thread_id": "i030-t018",
+      "in_reply_to": "i030-e029",
+      "references": [
+        "i030-e029"
+      ],
+      "timestamp": "2026-08-18T07:08:28.800617",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Rosen",
+          "email": "kenji.rosen@bluefintrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hi Kenji,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:46 AM, Kenji Rosen <kenji.rosen@bluefintrust.com> wrote:\n> Olivia,\n>\n> To open the escrow account for the Tundra transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00"
+          ],
+          "thread_candidates": [
+            "i030-m00"
+          ],
+          "identifier_candidates": [
+            "i030-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e033",
+      "thread_id": "i030-t017",
+      "in_reply_to": "i030-e028",
+      "references": [
+        "i030-e028"
+      ],
+      "timestamp": "2026-08-18T11:28:43.280786",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Eriksen",
+          "email": "jasmine.eriksen@corvidvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Thompson",
+          "email": "ythompson@parallaxpaym.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Jasmine,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:35 AM, Jasmine Eriksen <jasmine.eriksen@corvidvc.com> wrote:\n> Olivia,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 8 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02"
+          ],
+          "thread_candidates": [
+            "i030-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e034",
+      "thread_id": "i030-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T10:20:50.913911",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Jensen",
+        "email": "diego.jensen@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Dear Olivia,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nDiego Jensen\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e035",
+      "thread_id": "i030-t019",
+      "in_reply_to": "i030-e031",
+      "references": [
+        "i030-e031"
+      ],
+      "timestamp": "2026-08-19T13:31:41.508192",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Thompson",
+          "email": "ythompson@parallaxpaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Vasquez",
+          "email": "vvasquez@parallaxpaym.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Corvid Ventures",
+      "body": "Yara,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOlivia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 05:00 PM, Yara Thompson <ythompson@parallaxpaym.com> wrote:\n> Olivia,\n>\n> We received the attached term sheet from Corvid Ventures last night: $40 million at a $220 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02"
+          ],
+          "thread_candidates": [
+            "i030-m02"
+          ],
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [
+            "i030-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e036",
+      "thread_id": "i030-t018",
+      "in_reply_to": "i030-e032",
+      "references": [
+        "i030-e029",
+        "i030-e032"
+      ],
+      "timestamp": "2026-08-19T14:08:19.666419",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Rosen",
+        "email": "kenji.rosen@bluefintrust.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hello Olivia,\n\nAdding Lucia, who will handle the day-to-day on this.\n\nThanks,\nKenji Rosen\nVice President, Escrow Services\nBluefin Trust Company\n\nOn Tue, Aug 18, 2026 at 07:08 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Hi Kenji,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00"
+          ],
+          "thread_candidates": [
+            "i030-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e037",
+      "thread_id": "i030-t017",
+      "in_reply_to": "i030-e033",
+      "references": [
+        "i030-e028",
+        "i030-e033"
+      ],
+      "timestamp": "2026-08-20T08:49:50.413699",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Eriksen",
+        "email": "jasmine.eriksen@corvidvc.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Thompson",
+          "email": "ythompson@parallaxpaym.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Olivia,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nJasmine\nPartner\nCorvid Ventures\n\nOn Tue, Aug 18, 2026 at 11:28 AM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Dear Jasmine,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02"
+          ],
+          "thread_candidates": [
+            "i030-m02"
+          ],
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e038",
+      "thread_id": "i030-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T07:59:26.930524",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Weiss",
+        "email": "pedro.weiss@orchardrealty.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Ferreira",
+          "email": "kenji.ferreira@keystoneanal.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Dear Olivia,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nRegards,\nPedro Weiss",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e039",
+      "thread_id": "i030-t021",
+      "in_reply_to": "i030-e038",
+      "references": [
+        "i030-e038"
+      ],
+      "timestamp": "2026-08-24T14:58:07.250448",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Weiss",
+          "email": "pedro.weiss@orchardrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Ferreira",
+          "email": "kenji.ferreira@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Dear Pedro,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nRegards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 24, 2026 at 07:59 AM, Pedro Weiss <pedro.weiss@orchardrealty.com> wrote:\n> Dear Olivia,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e040",
+      "thread_id": "i030-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T14:18:21.317959",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Reyes",
+        "email": "yara.reyes@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Olivia,\n\nStatus on my matters this week:\n\n- 2294 Howard Street: second turn of landlord's lease draft; SNDA requested from lender.\n- Series A: financing docs in negotiation with Corvid's counsel; cap table reconciliation in progress.\n- Grant: complaint served; mediation being scheduled, deposition outline in draft.\n- Riverstone MSA: notice of breach sent, cure period running; damages model in draft.\n\nBest regards,\nYara\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01",
+          "i030-m02",
+          "i030-m03",
+          "i030-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01",
+            "i030-m02",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m01",
+            "i030-m02",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "keyword_candidates": [
+            "i030-m01",
+            "i030-m03",
+            "i030-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e041",
+      "thread_id": "i030-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T07:31:22.232896",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Eriksen",
+        "email": "yarae@vantageadr.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Haddad",
+          "email": "xhaddad@vargashah.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Hi Olivia,\n\nI have the following dates available for a full-day mediation: September 19 and September 25. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nRegards,\nYara Eriksen",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e042",
+      "thread_id": "i030-t023",
+      "in_reply_to": "i030-e041",
+      "references": [
+        "i030-e041"
+      ],
+      "timestamp": "2026-08-27T14:04:54.256406",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Eriksen",
+          "email": "yarae@vantageadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Haddad",
+          "email": "xhaddad@vargashah.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Yara,\n\nAdding Yara, who will handle the day-to-day on this.\n\nBest regards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 27, 2026 at 07:31 AM, Yara Eriksen <yarae@vantageadr.com> wrote:\n> Hi Olivia,\n>\n> I have the following dates available for a full-day mediation: September 19 and September 25. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e043",
+      "thread_id": "i030-t023",
+      "in_reply_to": "i030-e042",
+      "references": [
+        "i030-e041",
+        "i030-e042"
+      ],
+      "timestamp": "2026-08-28T18:23:10.008578",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Eriksen",
+        "email": "yarae@vantageadr.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Haddad",
+          "email": "xhaddad@vargashah.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Olivia,\n\nWorks for me. Let's do Friday at noon.\n\nThanks,\nYara Eriksen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e044",
+      "thread_id": "i030-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:29:01.687648",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Xu",
+        "email": "vxu@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Olivia,\n\nThe board asked whether we could structure part of the $650 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nBest regards,\nVictor Xu\nVP, Corporate Development\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e045",
+      "thread_id": "i030-t023",
+      "in_reply_to": "i030-e043",
+      "references": [
+        "i030-e041",
+        "i030-e042",
+        "i030-e043"
+      ],
+      "timestamp": "2026-08-31T10:59:31.607930",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Eriksen",
+          "email": "yarae@vantageadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Haddad",
+          "email": "xhaddad@vargashah.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Hi Yara,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 28, 2026 at 06:23 PM, Yara Eriksen <yarae@vantageadr.com> wrote:\n> Olivia,\n>\n> Works for me. Let's do Friday at noon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m03",
+        "matter_ids": [
+          "i030-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m03"
+          ],
+          "thread_candidates": [
+            "i030-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e046",
+      "thread_id": "i030-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T20:54:43.933380",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Xu",
+        "email": "vxu@marinersyst.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Xu",
+          "email": "lxu@satoosei.com"
+        }
+      ],
+      "subject": "Project Tundra - LOI countersigned",
+      "body": "Dear Olivia,\n\nGood news: Silverpine Foods countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nVictor\nVP, Corporate Development\nMariner Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m00",
+        "matter_ids": [
+          "i030-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m00"
+          ],
+          "keyword_candidates": [
+            "i030-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e047",
+      "thread_id": "i030-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T20:53:50.427805",
+      "folder": "sent",
+      "from": {
+        "name": "Olivia Zhang",
+        "email": "oliviaz@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Young",
+          "email": "marcus.young@thompsonkaplan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Park",
+          "email": "xavier.park@satoosei.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nOlivia Zhang\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e048",
+      "thread_id": "i030-t026",
+      "in_reply_to": "i030-e047",
+      "references": [
+        "i030-e047"
+      ],
+      "timestamp": "2026-09-02T09:43:48.383159",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Young",
+        "email": "marcus.young@thompsonkaplan.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Park",
+          "email": "xavier.park@satoosei.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nMarcus Young\nPartner\nThompson & Kaplan LLP\n\nOn Tue, Sep 01, 2026 at 08:53 PM, Olivia Zhang <oliviaz@satoosei.com> wrote:\n> Counsel,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": [
+            "i030-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e049",
+      "thread_id": "i030-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:44:34.422627",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Abbott",
+        "email": "zabbott@brennandelgado.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Reyes",
+          "email": "yara.reyes@satoosei.com"
+        }
+      ],
+      "subject": "Parallax Series A - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by September 26. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nZoe Abbott",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i030-m02",
+            "i030-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [
+            "i030-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e050",
+      "thread_id": "i030-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T07:31:43.297277",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Young",
+        "email": "marcus.young@thompsonkaplan.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2294 Howard Street - lease draft",
+      "body": "Hi Olivia,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nMarcus Young\nPartner\nThompson & Kaplan LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i030-m01",
+        "matter_ids": [
+          "i030-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i030-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m01"
+          ],
+          "keyword_candidates": [
+            "i030-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e051",
+      "thread_id": "i030-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T07:59:57.508241",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Nakamura",
+        "email": "thomasn@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Olivia,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest regards,\nThomas Nakamura\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i030-e052",
+      "thread_id": "i030-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:04:52.122495",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Tanaka",
+        "email": "femi.tanaka@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Zhang",
+          "email": "oliviaz@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Parallax",
+      "body": "Hi Olivia,\n\nPre-bills for Parallax Payments are ready for your review:\n\n- 66229-001  Parallax - Series A Financing\n\nPlease mark up and return by October 4.\n\nRegards,\nFemi\nBilling Coordinator\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i030-m02",
+        "matter_ids": [
+          "i030-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i030-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700030
+}

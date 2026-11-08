@@ -1,0 +1,2754 @@
+{
+  "instance_id": "i009",
+  "firm": {
+    "name": "Eriksen & Grant LLP",
+    "domain": "eriksengrant.com"
+  },
+  "user_contact_id": "i009-c000",
+  "matters": [
+    {
+      "matter_id": "i009-m00",
+      "matter_number": "56554-001",
+      "name": "Copperleaf - Headquarters Lease (1317 Mission Street)",
+      "client": "Copperleaf Robotics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Copperleaf Robotics's new headquarters at 1317 Mission Street, landlord Orchard Properties LLC.",
+      "counterparty": "Orchard Properties LLC",
+      "opposing_counsel_firm": "Kaplan & Huang LLP",
+      "status": "open",
+      "opened_on": "2026-07-09",
+      "key_terms": [
+        "56554-001",
+        "1317 Mission Street",
+        "Orchard Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i009-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i009-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i009-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i009-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i009-c010",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i009-m01",
+      "matter_number": "34267-001",
+      "name": "Silverpine v. Tidewater (MSA Dispute)",
+      "client": "Silverpine Labs",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Silverpine Labs against vendor Tidewater Analytics.",
+      "counterparty": "Tidewater Analytics",
+      "opposing_counsel_firm": "Banerjee & Osei LLP",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "34267-001",
+        "Tidewater Analytics",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i009-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i009-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i009-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i009-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i009-c013",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i009-m02",
+      "matter_number": "56554-002",
+      "name": "Copperleaf v. Brightline ('607 Patent)",
+      "client": "Copperleaf Robotics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Copperleaf Robotics against Brightline Payments asserting U.S. Patent No. 10,607,605.",
+      "counterparty": "Brightline Payments",
+      "opposing_counsel_firm": "Okafor & Jensen LLP",
+      "status": "open",
+      "opened_on": "2026-07-27",
+      "key_terms": [
+        "56554-002",
+        "10,607,605",
+        "'607",
+        "Brightline Payments",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i009-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i009-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i009-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i009-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i009-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i009-c016",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i009-m03",
+      "matter_number": "17192-001",
+      "name": "Evergreen - Series A Financing",
+      "client": "Evergreen Logistics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Evergreen Logistics, led by Mariner Ventures. Raising ~$60 million.",
+      "counterparty": "Mariner Ventures",
+      "opposing_counsel_firm": "Goldberg & Thompson LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "17192-001",
+        "Series A",
+        "Mariner Ventures",
+        "Mariner"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i009-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i009-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i009-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i009-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i009-c019",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i009-c020",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i009-c000",
+      "name": "Grace Underwood",
+      "first": "Grace",
+      "email": "graceu@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i009-c001",
+      "name": "Valerie Haddad",
+      "first": "Valerie",
+      "email": "valerie.haddad@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i009-c002",
+      "name": "Umar Castillo",
+      "first": "Umar",
+      "email": "ucastillo@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i009-c003",
+      "name": "Lucia Dubois",
+      "first": "Lucia",
+      "email": "ldubois@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i009-c004",
+      "name": "Lucia Alvarez",
+      "first": "Lucia",
+      "email": "lalvarez@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i009-c005",
+      "name": "Lucia Reyes",
+      "first": "Lucia",
+      "email": "lucia.reyes@silverpinelabs.com",
+      "organization": "Silverpine Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c006",
+      "name": "Farid Xu",
+      "first": "Farid",
+      "email": "faridx@copperleafrobo.com",
+      "organization": "Copperleaf Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c007",
+      "name": "Quinn Tanaka",
+      "first": "Quinn",
+      "email": "quinnt@evergreenlogi.com",
+      "organization": "Evergreen Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c008",
+      "name": "Umar Sato",
+      "first": "Umar",
+      "email": "umar.sato@copperleafrobo.com",
+      "organization": "Copperleaf Robotics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c009",
+      "name": "Aisha Lee",
+      "first": "Aisha",
+      "email": "alee@kaplanhuang.com",
+      "organization": "Kaplan & Huang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c010",
+      "name": "Farid Thompson",
+      "first": "Farid",
+      "email": "farid.thompson@lumenrealty.com",
+      "organization": "Lumen Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c011",
+      "name": "Aisha Whitaker",
+      "first": "Aisha",
+      "email": "awhitaker@silverpinelabs.com",
+      "organization": "Silverpine Labs",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c012",
+      "name": "Nadia Zhang",
+      "first": "Nadia",
+      "email": "nadiaz@banerjeeosei.com",
+      "organization": "Banerjee & Osei LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c013",
+      "name": "Nadia Rosen",
+      "first": "Nadia",
+      "email": "nadia.rosen@ironbridgeadr.com",
+      "organization": "Ironbridge Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c014",
+      "name": "Ben Kowalski",
+      "first": "Ben",
+      "email": "benk@copperleafrobo.com",
+      "organization": "Copperleaf Robotics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c015",
+      "name": "Lucia Shah",
+      "first": "Lucia",
+      "email": "lucia.shah@okaforjensen.com",
+      "organization": "Okafor & Jensen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c016",
+      "name": "Liam Kaplan",
+      "first": "Liam",
+      "email": "liamk@amberlytech.com",
+      "organization": "Amberly Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c017",
+      "name": "Liam Ferreira",
+      "first": "Liam",
+      "email": "liamf@evergreenlogi.com",
+      "organization": "Evergreen Logistics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c018",
+      "name": "Hiro Vasquez",
+      "first": "Hiro",
+      "email": "hirov@goldbergthompson.com",
+      "organization": "Goldberg & Thompson LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c019",
+      "name": "Hannah Novak",
+      "first": "Hannah",
+      "email": "hannah.novak@marinervc.com",
+      "organization": "Mariner Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c020",
+      "name": "Ben Iyer",
+      "first": "Ben",
+      "email": "beni@vantagevc.com",
+      "organization": "Vantage Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c021",
+      "name": "Wei Sato",
+      "first": "Wei",
+      "email": "wsato@stratusmate.com",
+      "organization": "Stratus Materials",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c022",
+      "name": "Farid Shah",
+      "first": "Farid",
+      "email": "farid.shah@solacesoft.com",
+      "organization": "Solace Software",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c023",
+      "name": "Aisha Eriksen",
+      "first": "Aisha",
+      "email": "aishae@keystoneener.com",
+      "organization": "Keystone Energy",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i009-c024",
+      "name": "Wei Castillo",
+      "first": "Wei",
+      "email": "wei.castillo@eriksengrant.com",
+      "organization": "Eriksen & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i009-e000",
+      "thread_id": "i009-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T10:24:07.114648",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aishae@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Grace,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nAisha Eriksen\nRecruiter\nKeystone Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e001",
+      "thread_id": "i009-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-02T19:10:28.406467",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Dubois",
+        "email": "ldubois@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hi Grace,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nLucia Dubois\nSenior Associate\nEriksen & Grant LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e002",
+      "thread_id": "i009-t001",
+      "in_reply_to": "i009-e001",
+      "references": [
+        "i009-e001"
+      ],
+      "timestamp": "2026-07-06T09:17:13.541692",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Lucia,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 02, 2026 at 07:10 PM, Lucia Dubois <ldubois@eriksengrant.com> wrote:\n> Hi Grace,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e003",
+      "thread_id": "i009-t001",
+      "in_reply_to": "i009-e002",
+      "references": [
+        "i009-e001",
+        "i009-e002"
+      ],
+      "timestamp": "2026-07-07T14:04:07.355922",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Dubois",
+        "email": "ldubois@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Grace,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nLucia Dubois\nSenior Associate\nEriksen & Grant LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e004",
+      "thread_id": "i009-t001",
+      "in_reply_to": "i009-e003",
+      "references": [
+        "i009-e001",
+        "i009-e002",
+        "i009-e003"
+      ],
+      "timestamp": "2026-07-07T14:44:52.844893",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Lucia,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 07, 2026 at 02:04 PM, Lucia Dubois <ldubois@eriksengrant.com> wrote:\n> Dear Grace,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e005",
+      "thread_id": "i009-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T09:48:32.994311",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Sato",
+        "email": "wsato@stratusmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Transition planning",
+      "body": "Hello Grace,\n\nWe've been engaged by Silverpine to replace Tidewater Analytics as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Tidewater under the MSA.\n\nRegards,\nWei Sato\nImplementation Manager\nStratus Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e006",
+      "thread_id": "i009-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T17:23:24.172491",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Vasquez",
+        "email": "hirov@goldbergthompson.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Evergreen Series A - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by July 25. Please send the updated cap table and disclosure schedule when ready.\n\nThanks,\nHiro Vasquez\nPartner\nGoldberg & Thompson LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m03"
+          ],
+          "keyword_candidates": [
+            "i009-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e007",
+      "thread_id": "i009-t003",
+      "in_reply_to": "i009-e006",
+      "references": [
+        "i009-e006"
+      ],
+      "timestamp": "2026-07-13T10:10:07.538932",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Vasquez",
+          "email": "hirov@goldbergthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Evergreen Series A - draft financing documents",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 10, 2026 at 05:23 PM, Hiro Vasquez <hirov@goldbergthompson.com> wrote:\n> Counsel,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by July 25. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m03"
+          ],
+          "identifier_candidates": [
+            "i009-m03"
+          ],
+          "keyword_candidates": [
+            "i009-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e008",
+      "thread_id": "i009-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:22:55.577357",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nadiaz@banerjeeosei.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nRegards,\nNadia Zhang\nPartner\nBanerjee & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e009",
+      "thread_id": "i009-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T08:38:09.631026",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nadiaz@banerjeeosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e010",
+      "thread_id": "i009-t004",
+      "in_reply_to": "i009-e008",
+      "references": [
+        "i009-e008"
+      ],
+      "timestamp": "2026-07-22T07:14:33.585872",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nadiaz@banerjeeosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Hi Nadia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 20, 2026 at 08:22 AM, Nadia Zhang <nadiaz@banerjeeosei.com> wrote:\n> Counsel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e011",
+      "thread_id": "i009-t005",
+      "in_reply_to": "i009-e009",
+      "references": [
+        "i009-e009"
+      ],
+      "timestamp": "2026-07-22T10:18:35.651983",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nadiaz@banerjeeosei.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nThanks,\nNadia Zhang\nPartner\nBanerjee & Osei LLP\n\nOn Tue, Jul 21, 2026 at 08:38 AM, Grace Underwood <graceu@eriksengrant.com> wrote:\n> Counsel,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e012",
+      "thread_id": "i009-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T13:27:14.787475",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Lee",
+          "email": "alee@kaplanhuang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Dear Aisha,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest,\nGrace\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e013",
+      "thread_id": "i009-t004",
+      "in_reply_to": "i009-e010",
+      "references": [
+        "i009-e008",
+        "i009-e010"
+      ],
+      "timestamp": "2026-07-23T13:49:37.308938",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nadiaz@banerjeeosei.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nNadia Zhang\nPartner\nBanerjee & Osei LLP\n\nOn Wed, Jul 22, 2026 at 07:14 AM, Grace Underwood <graceu@eriksengrant.com> wrote:\n> Hi Nadia,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e014",
+      "thread_id": "i009-t005",
+      "in_reply_to": "i009-e011",
+      "references": [
+        "i009-e009",
+        "i009-e011"
+      ],
+      "timestamp": "2026-07-24T07:51:05.993991",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nadiaz@banerjeeosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 22, 2026 at 10:18 AM, Nadia Zhang <nadiaz@banerjeeosei.com> wrote:\n> Counsel,\n>\n> Works for me. Let's do Tuesday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01"
+          ],
+          "thread_candidates": [
+            "i009-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e015",
+      "thread_id": "i009-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:04:04.185572",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Shah",
+        "email": "farid.shah@solacesoft.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Transition planning",
+      "body": "Hi Grace,\n\nWe've been engaged by Silverpine to replace Tidewater Analytics as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Tidewater under the MSA.\n\nBest regards,\nFarid",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e016",
+      "thread_id": "i009-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T07:43:55.826646",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Castillo",
+        "email": "wei.castillo@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hi Grace,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nWei Castillo\nPartner\nEriksen & Grant LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e017",
+      "thread_id": "i009-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T08:42:58.478908",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Lee",
+        "email": "alee@kaplanhuang.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1317 Mission Street - lease draft",
+      "body": "Grace,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nRegards,\nAisha Lee\nPartner\nKaplan & Huang LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m00"
+          ],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e018",
+      "thread_id": "i009-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T08:54:39.746975",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Sato",
+        "email": "umar.sato@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1317 Mission Street",
+      "body": "Grace,\n\nWe've agreed on a non-binding LOI with Orchard Properties LLC for about 42,000 RSF at 1317 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest regards,\nUmar\nDirector of Real Estate\nCopperleaf Robotics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m00"
+          ],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e019",
+      "thread_id": "i009-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T14:11:07.132569",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Kaplan",
+        "email": "liamk@amberlytech.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear Grace,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 29.\n\nThanks,\nLiam Kaplan\nPrincipal\nAmberly Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e020",
+      "thread_id": "i009-t011",
+      "in_reply_to": "i009-e019",
+      "references": [
+        "i009-e019"
+      ],
+      "timestamp": "2026-08-19T08:00:03.987842",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Liam Kaplan",
+          "email": "liamk@amberlytech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Dubois",
+          "email": "ldubois@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Liam,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 02:11 PM, Liam Kaplan <liamk@amberlytech.com> wrote:\n> Dear Grace,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 29.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e021",
+      "thread_id": "i009-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:51:28.662423",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Ferreira",
+        "email": "liamf@evergreenlogi.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Tanaka",
+          "email": "quinnt@evergreenlogi.com"
+        }
+      ],
+      "subject": "Series A term sheet from Mariner Ventures",
+      "body": "Grace,\n\nWe received the attached term sheet from Mariner Ventures last night: $60 million at a $310 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?\n\nThanks,\nLiam Ferreira\nChief Executive Officer\nEvergreen Logistics",
+      "attachments": [
+        "Mariner Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m03"
+          ],
+          "keyword_candidates": [
+            "i009-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e022",
+      "thread_id": "i009-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T12:18:21.093220",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Vasquez",
+        "email": "hirov@goldbergthompson.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Hi Grace,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nThanks,\nHiro\nPartner\nGoldberg & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e023",
+      "thread_id": "i009-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T07:51:54.669987",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Tanaka",
+        "email": "quinnt@evergreenlogi.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Dear Grace,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nQuinn\nGeneral Counsel\nEvergreen Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e024",
+      "thread_id": "i009-t014",
+      "in_reply_to": "i009-e023",
+      "references": [
+        "i009-e023"
+      ],
+      "timestamp": "2026-09-07T08:41:15.065413",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Tanaka",
+          "email": "quinnt@evergreenlogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Dear Quinn,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nGrace\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e025",
+      "thread_id": "i009-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:45:28.354387",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Xu",
+        "email": "faridx@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Grace,\n\nTwo quick things.\n\n1. On the '607 patent case, our CTO wants to know if we should expect a counterclaim.\n2. On the 1317 Mission Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest regards,\nFarid\nGeneral Counsel\nCopperleaf Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02",
+          "i009-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e026",
+      "thread_id": "i009-t014",
+      "in_reply_to": "i009-e024",
+      "references": [
+        "i009-e023",
+        "i009-e024"
+      ],
+      "timestamp": "2026-09-08T08:19:47.823952",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Tanaka",
+        "email": "quinnt@evergreenlogi.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Dear Grace,\n\nConfirmed. I'll update the checklist.\n\nBest,\nQuinn Tanaka\nGeneral Counsel\nEvergreen Logistics\n\nOn Mon, Sep 07, 2026 at 08:41 AM, Grace Underwood <graceu@eriksengrant.com> wrote:\n> Dear Quinn,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i009-e027",
+      "thread_id": "i009-t014",
+      "in_reply_to": "i009-e026",
+      "references": [
+        "i009-e023",
+        "i009-e024",
+        "i009-e026"
+      ],
+      "timestamp": "2026-09-09T07:42:46.716374",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Tanaka",
+          "email": "quinnt@evergreenlogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hi Quinn,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 08, 2026 at 08:19 AM, Quinn Tanaka <quinnt@evergreenlogi.com> wrote:\n> Dear Grace,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m03"
+          ],
+          "thread_candidates": [
+            "i009-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e028",
+      "thread_id": "i009-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T10:32:54.448042",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Thompson",
+        "email": "farid.thompson@lumenrealty.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Sato",
+          "email": "umar.sato@copperleafrobo.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hello Grace,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest,\nFarid\nSenior Vice President\nLumen Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e029",
+      "thread_id": "i009-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:12:10.310215",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Dubois",
+        "email": "ldubois@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Grace,\n\nStatus on my matters this week:\n\n- Tidewater MSA: notice of breach sent, cure period running; damages model in draft.\n- '607 patent: protective order negotiated; infringement contentions due September 22.\n- Series A: financing docs in negotiation with Mariner's counsel; cap table reconciliation in progress.\n\nRegards,\nLucia Dubois\nSenior Associate\nEriksen & Grant LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m01",
+        "matter_ids": [
+          "i009-m01",
+          "i009-m02",
+          "i009-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m01",
+            "i009-m02",
+            "i009-m03"
+          ],
+          "keyword_candidates": [
+            "i009-m01",
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e030",
+      "thread_id": "i009-t016",
+      "in_reply_to": "i009-e028",
+      "references": [
+        "i009-e028"
+      ],
+      "timestamp": "2026-09-14T08:16:41.164601",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Farid Thompson",
+          "email": "farid.thompson@lumenrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Sato",
+          "email": "umar.sato@copperleafrobo.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Farid,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": [
+            "i009-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e031",
+      "thread_id": "i009-t016",
+      "in_reply_to": "i009-e030",
+      "references": [
+        "i009-e028",
+        "i009-e030"
+      ],
+      "timestamp": "2026-09-16T09:01:35.606952",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Thompson",
+        "email": "farid.thompson@lumenrealty.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Sato",
+          "email": "umar.sato@copperleafrobo.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Dear Grace,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nFarid\nSenior Vice President\nLumen Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00"
+          ],
+          "thread_candidates": [
+            "i009-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e032",
+      "thread_id": "i009-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:21:02.805224",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Ben Kowalski",
+          "email": "benk@copperleafrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 29",
+      "body": "Hello Ben,\n\nReminder that our infringement contentions are due September 29. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e033",
+      "thread_id": "i009-t018",
+      "in_reply_to": "i009-e032",
+      "references": [
+        "i009-e032"
+      ],
+      "timestamp": "2026-09-21T19:54:55.510876",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Kowalski",
+        "email": "benk@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 29",
+      "body": "Grace,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nBen Kowalski\nChief Technology Officer\nCopperleaf Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e034",
+      "thread_id": "i009-t018",
+      "in_reply_to": "i009-e033",
+      "references": [
+        "i009-e032",
+        "i009-e033"
+      ],
+      "timestamp": "2026-09-23T16:15:38.437566",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Ben Kowalski",
+          "email": "benk@copperleafrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 29",
+      "body": "Ben,\n\nQuick follow-up on the below. Any update?\n\nBest,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 07:54 PM, Ben Kowalski <benk@copperleafrobo.com> wrote:\n> Grace,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e035",
+      "thread_id": "i009-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T18:29:33.475887",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Kowalski",
+        "email": "benk@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Xu",
+          "email": "faridx@copperleafrobo.com"
+        }
+      ],
+      "subject": "Brightline Payments product launch - possible infringement of '607 patent",
+      "body": "Hello Grace,\n\nOur engineers looked at the product Brightline Payments launched last month and believe it practices claims 1 and 7 of our '607 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nBen\nChief Technology Officer\nCopperleaf Robotics",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m02"
+          ],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e036",
+      "thread_id": "i009-t019",
+      "in_reply_to": "i009-e035",
+      "references": [
+        "i009-e035"
+      ],
+      "timestamp": "2026-09-24T09:58:47.641226",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Ben Kowalski",
+          "email": "benk@copperleafrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Xu",
+          "email": "faridx@copperleafrobo.com"
+        }
+      ],
+      "subject": "Re: Brightline Payments product launch - possible infringement of '607 patent",
+      "body": "Hi Ben,\n\nConfirmed. I'll update the checklist.\n\nBest,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 23, 2026 at 06:29 PM, Ben Kowalski <benk@copperleafrobo.com> wrote:\n> Hello Grace,\n>\n> Our engineers looked at the product Brightline Payments launched last month and believe it practices claims 1 and 7 of our '607 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [
+            "i009-m02"
+          ],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e037",
+      "thread_id": "i009-t018",
+      "in_reply_to": "i009-e034",
+      "references": [
+        "i009-e032",
+        "i009-e033",
+        "i009-e034"
+      ],
+      "timestamp": "2026-09-25T08:00:52.795030",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Kowalski",
+        "email": "benk@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 29",
+      "body": "Dear Grace,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nBen\nChief Technology Officer\nCopperleaf Robotics\n\nOn Wed, Sep 23, 2026 at 04:15 PM, Grace Underwood <graceu@eriksengrant.com> wrote:\n> Ben,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e038",
+      "thread_id": "i009-t019",
+      "in_reply_to": "i009-e036",
+      "references": [
+        "i009-e035",
+        "i009-e036"
+      ],
+      "timestamp": "2026-09-28T08:21:44.337154",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Kowalski",
+        "email": "benk@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Xu",
+          "email": "faridx@copperleafrobo.com"
+        }
+      ],
+      "subject": "Re: Brightline Payments product launch - possible infringement of '607 patent",
+      "body": "Hello Grace,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest regards,\nBen Kowalski\nChief Technology Officer\nCopperleaf Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [
+            "i009-m02"
+          ],
+          "keyword_candidates": [
+            "i009-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e039",
+      "thread_id": "i009-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T08:45:19.446566",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Xu",
+        "email": "faridx@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear Grace,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest,\nFarid\nGeneral Counsel\nCopperleaf Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e040",
+      "thread_id": "i009-t020",
+      "in_reply_to": "i009-e039",
+      "references": [
+        "i009-e039"
+      ],
+      "timestamp": "2026-09-29T11:22:37.990186",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Farid Xu",
+          "email": "faridx@copperleafrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Farid,\n\nWorks for me. Let's do Friday at 2:00 p.m..\n\nRegards,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 28, 2026 at 08:45 AM, Farid Xu <faridx@copperleafrobo.com> wrote:\n> Dear Grace,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e041",
+      "thread_id": "i009-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T10:41:58.048681",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Evergreen",
+      "body": "Grace,\n\nPre-bills for Evergreen Logistics are ready for your review:\n\n- 17192-001  Evergreen - Series A Financing\n\nPlease mark up and return by October 4.\n\nRegards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m03",
+        "matter_ids": [
+          "i009-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e042",
+      "thread_id": "i009-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-06T10:50:04.832837",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Xu",
+        "email": "faridx@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Grace,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nFarid Xu\nGeneral Counsel\nCopperleaf Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e043",
+      "thread_id": "i009-t022",
+      "in_reply_to": "i009-e042",
+      "references": [
+        "i009-e042"
+      ],
+      "timestamp": "2026-10-08T08:17:06.220395",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Underwood",
+        "email": "graceu@eriksengrant.com"
+      },
+      "to": [
+        {
+          "name": "Farid Xu",
+          "email": "faridx@copperleafrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Farid,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nGrace Underwood\nPartner\nEriksen & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Oct 06, 2026 at 10:50 AM, Farid Xu <faridx@copperleafrobo.com> wrote:\n> Grace,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e044",
+      "thread_id": "i009-t022",
+      "in_reply_to": "i009-e043",
+      "references": [
+        "i009-e042",
+        "i009-e043"
+      ],
+      "timestamp": "2026-10-09T08:18:01.241366",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Xu",
+        "email": "faridx@copperleafrobo.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Grace,\n\nThanks. Separately, on the 1317 Mission Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest regards,\nFarid\nGeneral Counsel\nCopperleaf Robotics\n\nOn Thu, Oct 08, 2026 at 08:17 AM, Grace Underwood <graceu@eriksengrant.com> wrote:\n> Hello Farid,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i009-m00",
+        "matter_ids": [
+          "i009-m00",
+          "i009-m02"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i009-m00",
+            "i009-m02"
+          ],
+          "thread_candidates": [
+            "i009-m02"
+          ],
+          "identifier_candidates": [
+            "i009-m00"
+          ],
+          "keyword_candidates": [
+            "i009-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i009-e045",
+      "thread_id": "i009-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-14T07:14:37.542351",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Shah",
+        "email": "lucia.shah@okaforjensen.com"
+      },
+      "to": [
+        {
+          "name": "Grace Underwood",
+          "email": "graceu@eriksengrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Castillo",
+          "email": "ucastillo@eriksengrant.com"
+        }
+      ],
+      "subject": "Copperleaf v. Brightline - proposed protective order",
+      "body": "Hello Grace,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Monday.\n\nRegards,\nLucia\nPartner\nOkafor & Jensen LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i009-m02",
+        "matter_ids": [
+          "i009-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i009-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i009-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700009
+}

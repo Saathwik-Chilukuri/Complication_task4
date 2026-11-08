@@ -1,0 +1,3269 @@
+{
+  "instance_id": "i034",
+  "firm": {
+    "name": "Osei & Tanaka LLP",
+    "domain": "oseitanaka.com"
+  },
+  "user_contact_id": "i034-c000",
+  "matters": [
+    {
+      "matter_id": "i034-m00",
+      "matter_number": "62425-001",
+      "name": "Solace - Acquisition of Brightline Labs (Project Bluebird)",
+      "client": "Solace Payments",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Brightline Labs by Solace Payments. Stock purchase, ~$120 million.",
+      "counterparty": "Brightline Labs",
+      "opposing_counsel_firm": "Brennan & Young LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "62425-001",
+        "Project Bluebird",
+        "Bluebird",
+        "Brightline Labs",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i034-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i034-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i034-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i034-c010",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i034-m01",
+      "matter_number": "62425-002",
+      "name": "Farid Laurent v. Solace",
+      "client": "Solace Payments",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Farid Laurent against Solace Payments. Case No. 5:26-cv-07884.",
+      "counterparty": "Farid Laurent",
+      "opposing_counsel_firm": "Yamamoto & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "62425-002",
+        "Farid Laurent",
+        "Laurent",
+        "5:26-cv-07884"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i034-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i034-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i034-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i034-c013",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i034-m02",
+      "matter_number": "67588-001",
+      "name": "Trellis v. Amberly (MSA Dispute)",
+      "client": "Trellis Networks",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Trellis Networks against vendor Amberly Systems.",
+      "counterparty": "Amberly Systems",
+      "opposing_counsel_firm": "Osei & Xu LLP",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "67588-001",
+        "Amberly Systems",
+        "Amberly"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i034-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i034-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i034-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i034-c016",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i034-m03",
+      "matter_number": "65640-001",
+      "name": "Vantage - Acquisition of Lumen Materials (Project Saffron)",
+      "client": "Vantage Robotics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Lumen Materials by Vantage Robotics. Stock purchase, ~$85 million.",
+      "counterparty": "Lumen Materials",
+      "opposing_counsel_firm": "Mendoza & Osei LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "65640-001",
+        "Project Saffron",
+        "Saffron",
+        "Lumen Materials",
+        "Lumen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i034-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i034-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i034-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i034-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i034-c019",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i034-c000",
+      "name": "Hiro Eriksen",
+      "first": "Hiro",
+      "email": "heriksen@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i034-c001",
+      "name": "Valerie Castillo",
+      "first": "Valerie",
+      "email": "valeriec@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i034-c002",
+      "name": "Ximena Kaplan",
+      "first": "Ximena",
+      "email": "ximena.kaplan@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i034-c003",
+      "name": "Hannah Xu",
+      "first": "Hannah",
+      "email": "hannah.xu@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i034-c004",
+      "name": "Bianca Vasquez",
+      "first": "Bianca",
+      "email": "biancav@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i034-c005",
+      "name": "Nadia Ferreira",
+      "first": "Nadia",
+      "email": "nferreira@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c006",
+      "name": "Aisha Chowdhury",
+      "first": "Aisha",
+      "email": "aishac@trellisnetw.com",
+      "organization": "Trellis Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c007",
+      "name": "Lucia Banerjee",
+      "first": "Lucia",
+      "email": "luciab@vantagerobo.com",
+      "organization": "Vantage Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c008",
+      "name": "Hannah Shah",
+      "first": "Hannah",
+      "email": "hannah.shah@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c009",
+      "name": "Ximena Mendoza",
+      "first": "Ximena",
+      "email": "ximenam@brennanyoung.com",
+      "organization": "Brennan & Young LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c010",
+      "name": "Liam Osei",
+      "first": "Liam",
+      "email": "losei@evergreentrust.com",
+      "organization": "Evergreen Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c011",
+      "name": "Valerie Quintero",
+      "first": "Valerie",
+      "email": "vquintero@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c012",
+      "name": "Olivia Xu",
+      "first": "Olivia",
+      "email": "oliviax@yamamotosato.com",
+      "organization": "Yamamoto & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c013",
+      "name": "Sofia Iyer",
+      "first": "Sofia",
+      "email": "sofiai@ironbridgeadr.com",
+      "organization": "Ironbridge Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c014",
+      "name": "Olivia Grant",
+      "first": "Olivia",
+      "email": "oliviag@trellisnetw.com",
+      "organization": "Trellis Networks",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c015",
+      "name": "Daniel Ito",
+      "first": "Daniel",
+      "email": "dito@oseixu.com",
+      "organization": "Osei & Xu LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c016",
+      "name": "Pedro Ellis",
+      "first": "Pedro",
+      "email": "pellis@orchardadr.com",
+      "organization": "Orchard Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c017",
+      "name": "Tara Dubois",
+      "first": "Tara",
+      "email": "tarad@vantagerobo.com",
+      "organization": "Vantage Robotics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c018",
+      "name": "Jasmine Kowalski",
+      "first": "Jasmine",
+      "email": "jkowalski@mendozaosei.com",
+      "organization": "Mendoza & Osei LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c019",
+      "name": "Farid Moreau",
+      "first": "Farid",
+      "email": "farid.moreau@latticetrust.com",
+      "organization": "Lattice Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c020",
+      "name": "Wei Jensen",
+      "first": "Wei",
+      "email": "weij@driftwoodreporting.com",
+      "organization": "Driftwood Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c021",
+      "name": "Ben Morgan",
+      "first": "Ben",
+      "email": "ben.morgan@mendozaosei.com",
+      "organization": "Mendoza & Osei LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c022",
+      "name": "Farid Ellis",
+      "first": "Farid",
+      "email": "farid.ellis@corvidadr.com",
+      "organization": "Corvid Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i034-c023",
+      "name": "Arjun Osei",
+      "first": "Arjun",
+      "email": "arjuno@oseitanaka.com",
+      "organization": "Osei & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i034-e000",
+      "thread_id": "i034-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-09T14:39:17.399588",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Dubois",
+        "email": "tarad@vantagerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Dear Hiro,\n\nThe board asked whether we could structure part of the $85 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nTara Dubois\nVP, Corporate Development\nVantage Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e001",
+      "thread_id": "i034-t000",
+      "in_reply_to": "i034-e000",
+      "references": [
+        "i034-e000"
+      ],
+      "timestamp": "2026-06-11T15:43:39.943198",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Tara Dubois",
+          "email": "tarad@vantagerobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hello Tara,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Tue, Jun 09, 2026 at 02:39 PM, Tara Dubois <tarad@vantagerobo.com> wrote:\n> Dear Hiro,\n>\n> The board asked whether we could structure part of the $85 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e002",
+      "thread_id": "i034-t000",
+      "in_reply_to": "i034-e001",
+      "references": [
+        "i034-e000",
+        "i034-e001"
+      ],
+      "timestamp": "2026-06-12T07:01:06.584158",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Dubois",
+        "email": "tarad@vantagerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Dear Hiro,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nTara\nVP, Corporate Development\nVantage Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e003",
+      "thread_id": "i034-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T07:56:49.896298",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Osei",
+        "email": "arjuno@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hi Hiro,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest regards,\nArjun\nMarketing Coordinator\nOsei & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e004",
+      "thread_id": "i034-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:50:46.288094",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@vantagerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Hiro,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nLucia Banerjee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e005",
+      "thread_id": "i034-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T08:36:34.963177",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Jensen",
+        "email": "weij@driftwoodreporting.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "subject": "Deposition confirmation",
+      "body": "Hello Hiro,\n\nThis confirms the deposition of Farid Laurent on July 15 at 9:30 a.m. in Case No. 5:26-cv-07884. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nRegards,\nWei Jensen\nScheduling Coordinator\nDriftwood Court Reporting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e006",
+      "thread_id": "i034-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T07:56:52.776423",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Kaplan",
+        "email": "ximena.kaplan@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Saffron - disclosure schedules open items",
+      "body": "Hi Hiro,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Lumen's counsel directly?\n\nBest,\nXimena\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m03"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e007",
+      "thread_id": "i034-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T09:12:57.628849",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Grant",
+        "email": "oliviag@trellisnetw.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aishac@trellisnetw.com"
+        }
+      ],
+      "subject": "Amberly Systems - repeated SLA failures",
+      "body": "Hi Hiro,\n\nAmberly Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nRegards,\nOlivia Grant\nChief Operating Officer\nTrellis Networks",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m02"
+          ],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e008",
+      "thread_id": "i034-t005",
+      "in_reply_to": "i034-e007",
+      "references": [
+        "i034-e007"
+      ],
+      "timestamp": "2026-07-10T08:46:54.545636",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Grant",
+          "email": "oliviag@trellisnetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aishac@trellisnetw.com"
+        }
+      ],
+      "subject": "Re: Amberly Systems - repeated SLA failures",
+      "body": "Hi Olivia,\n\nWorks for me. Let's do Thursday at 3:30 p.m..\n\nBest regards,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Thu, Jul 09, 2026 at 09:12 AM, Olivia Grant <oliviag@trellisnetw.com> wrote:\n> Hi Hiro,\n>\n> Amberly Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": [
+            "i034-m02"
+          ],
+          "identifier_candidates": [
+            "i034-m02"
+          ],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e009",
+      "thread_id": "i034-t005",
+      "in_reply_to": "i034-e008",
+      "references": [
+        "i034-e007",
+        "i034-e008"
+      ],
+      "timestamp": "2026-07-13T10:14:27.108638",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Grant",
+        "email": "oliviag@trellisnetw.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aishac@trellisnetw.com"
+        }
+      ],
+      "subject": "Re: Amberly Systems - repeated SLA failures",
+      "body": "Hi Hiro,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nOlivia\nChief Operating Officer\nTrellis Networks\n\nOn Fri, Jul 10, 2026 at 08:46 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Hi Olivia,\n>\n> Works for me. Let's do Thursday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": [
+            "i034-m02"
+          ],
+          "identifier_candidates": [
+            "i034-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e010",
+      "thread_id": "i034-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T07:53:17.731557",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Kaplan",
+        "email": "ximena.kaplan@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Hiro,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest regards,\nXimena Kaplan\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e011",
+      "thread_id": "i034-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T08:29:32.013668",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Ito",
+          "email": "dito@oseixu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Dear Daniel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e012",
+      "thread_id": "i034-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:38:45.145637",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Osei",
+        "email": "losei@evergreentrust.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hi Hiro,\n\nTo open the escrow account for the Bluebird transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?\n\nBest regards,\nLiam Osei\nVice President, Escrow Services\nEvergreen Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e013",
+      "thread_id": "i034-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:24:24.696152",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Quintero",
+          "email": "vquintero@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Valerie,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nThanks,\nHiro\nPartner\nOsei & Tanaka LLP",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e014",
+      "thread_id": "i034-t007",
+      "in_reply_to": "i034-e011",
+      "references": [
+        "i034-e011"
+      ],
+      "timestamp": "2026-07-27T10:24:40.566625",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Ito",
+        "email": "dito@oseixu.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nDaniel Ito\nPartner\nOsei & Xu LLP\n\nOn Fri, Jul 24, 2026 at 08:29 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Dear Daniel,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": [
+            "i034-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e015",
+      "thread_id": "i034-t007",
+      "in_reply_to": "i034-e014",
+      "references": [
+        "i034-e011",
+        "i034-e014"
+      ],
+      "timestamp": "2026-07-27T18:23:41.920154",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Ito",
+          "email": "dito@oseixu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Mon, Jul 27, 2026 at 10:24 AM, Daniel Ito <dito@oseixu.com> wrote:\n> Counsel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": [
+            "i034-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e016",
+      "thread_id": "i034-t009",
+      "in_reply_to": "i034-e013",
+      "references": [
+        "i034-e013"
+      ],
+      "timestamp": "2026-07-28T08:16:28.707724",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "vquintero@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Dear Hiro,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nValerie Quintero\nHead of People\nSolace Payments\n\nOn Mon, Jul 27, 2026 at 09:24 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Valerie,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e017",
+      "thread_id": "i034-t009",
+      "in_reply_to": "i034-e016",
+      "references": [
+        "i034-e013",
+        "i034-e016"
+      ],
+      "timestamp": "2026-07-28T08:54:54.646439",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Quintero",
+          "email": "vquintero@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hi Valerie,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Tue, Jul 28, 2026 at 08:16 AM, Valerie Quintero <vquintero@solacepaym.com> wrote:\n> Dear Hiro,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e018",
+      "thread_id": "i034-t008",
+      "in_reply_to": "i034-e012",
+      "references": [
+        "i034-e012"
+      ],
+      "timestamp": "2026-07-29T08:18:39.554856",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Liam Osei",
+          "email": "losei@evergreentrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hi Liam,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Mon, Jul 27, 2026 at 08:38 AM, Liam Osei <losei@evergreentrust.com> wrote:\n> Hi Hiro,\n>\n> To open the escrow account for the Bluebird transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e019",
+      "thread_id": "i034-t009",
+      "in_reply_to": "i034-e017",
+      "references": [
+        "i034-e013",
+        "i034-e016",
+        "i034-e017"
+      ],
+      "timestamp": "2026-07-29T09:41:02.170878",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "vquintero@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hi Hiro,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nValerie Quintero\nHead of People\nSolace Payments\n\nOn Tue, Jul 28, 2026 at 08:54 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Hi Valerie,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e020",
+      "thread_id": "i034-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T07:28:45.294468",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Dubois",
+        "email": "tarad@vantagerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Project Saffron - LOI countersigned",
+      "body": "Hi Hiro,\n\nGood news: Lumen Materials countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Thursday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nTara Dubois\nVP, Corporate Development\nVantage Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m03"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e021",
+      "thread_id": "i034-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:14:23.715165",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Iyer",
+        "email": "sofiai@ironbridgeadr.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Xu",
+          "email": "oliviax@yamamotosato.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Dear Hiro,\n\nI have the following dates available for a full-day mediation: August 28 and September 4. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nBest regards,\nSofia",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e022",
+      "thread_id": "i034-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:28:14.753515",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Chowdhury",
+        "email": "aishac@trellisnetw.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Hiro,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest regards,\nAisha Chowdhury\nGeneral Counsel\nTrellis Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e023",
+      "thread_id": "i034-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:38:55.521977",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Dear Hiro,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nNadia Ferreira",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e024",
+      "thread_id": "i034-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:15:57.206438",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Ellis",
+        "email": "farid.ellis@corvidadr.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Hiro,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nFarid Ellis\nSection Chair\nCorvid Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e025",
+      "thread_id": "i034-t012",
+      "in_reply_to": "i034-e022",
+      "references": [
+        "i034-e022"
+      ],
+      "timestamp": "2026-08-04T08:46:59.471808",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aishac@trellisnetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hello Aisha,\n\nAdding Ximena, who will handle the day-to-day on this.\n\nThanks,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": [
+            "i034-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e026",
+      "thread_id": "i034-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T12:32:30.233155",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Hiro,\n\nTwo quick things.\n\n1. On the Laurent matter, the mediator's office sent over dates. Can we lock one in?\n2. On Project Bluebird, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest,\nNadia Ferreira",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01",
+          "i034-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e027",
+      "thread_id": "i034-t010",
+      "in_reply_to": "i034-e020",
+      "references": [
+        "i034-e020"
+      ],
+      "timestamp": "2026-08-05T09:22:58.182550",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Tara Dubois",
+          "email": "tarad@vantagerobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Project Saffron - LOI countersigned",
+      "body": "Hello Tara,\n\nWorks for me. Let's do Thursday at 9:00 a.m..\n\nThanks,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Mon, Aug 03, 2026 at 07:28 AM, Tara Dubois <tarad@vantagerobo.com> wrote:\n> Hi Hiro,\n>\n> Good news: Lumen Materials countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Thursday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m03"
+          ],
+          "identifier_candidates": [
+            "i034-m03"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e028",
+      "thread_id": "i034-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T08:21:35.740591",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Ellis",
+        "email": "pellis@orchardadr.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Ito",
+          "email": "dito@oseixu.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hiro,\n\nThis confirms receipt of the demand for arbitration in Trellis Networks v. Amberly Systems. The administrative conference is scheduled for August 17. Please confirm your availability.\n\nBest,\nPedro\nCase Administrator\nOrchard Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m02",
+        "matter_ids": [
+          "i034-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e029",
+      "thread_id": "i034-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T14:20:45.359301",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Moreau",
+        "email": "farid.moreau@latticetrust.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hi Hiro,\n\nTo open the escrow account for the Saffron transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $780,000. Who is our point of contact on the seller side?\n\nBest,\nFarid\nVice President, Escrow Services\nLattice Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e030",
+      "thread_id": "i034-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T07:48:45.878449",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Mendoza",
+          "email": "ximenam@brennanyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Ximena,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Ximena and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e031",
+      "thread_id": "i034-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:50:31.369634",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Kaplan",
+        "email": "ximena.kaplan@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hiro,\n\nStatus on my matters this week:\n\n- Project Bluebird: seller comments on the SPA in; issues list circulated, signing targeted for September 8.\n- Amberly MSA: notice of breach sent, cure period running; damages model in draft.\n- Project Saffron: seller comments on the SPA in; issues list circulated, signing targeted for August 31.\n\nBest,\nXimena\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00",
+          "i034-m02",
+          "i034-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "keyword_candidates": [
+            "i034-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e032",
+      "thread_id": "i034-t018",
+      "in_reply_to": "i034-e030",
+      "references": [
+        "i034-e030"
+      ],
+      "timestamp": "2026-08-19T08:52:49.514309",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Mendoza",
+        "email": "ximenam@brennanyoung.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hi Hiro,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nXimena\nPartner\nBrennan & Young LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i034-e033",
+      "thread_id": "i034-t018",
+      "in_reply_to": "i034-e032",
+      "references": [
+        "i034-e030",
+        "i034-e032"
+      ],
+      "timestamp": "2026-08-20T08:52:18.318296",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Mendoza",
+          "email": "ximenam@brennanyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Wed, Aug 19, 2026 at 08:52 AM, Ximena Mendoza <ximenam@brennanyoung.com> wrote:\n> Hi Hiro,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e034",
+      "thread_id": "i034-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T09:56:46.706584",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "vquintero@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "subject": "Demand letter - Farid Laurent",
+      "body": "Hello Hiro,\n\nWe received the attached demand letter from counsel for Farid Laurent, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $450,000. I've put a hold on the personnel file. How should we respond?\n\nRegards,\nValerie\nHead of People\nSolace Payments",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m01"
+          ],
+          "keyword_candidates": [
+            "i034-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e035",
+      "thread_id": "i034-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T11:33:47.213239",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Morgan",
+        "email": "ben.morgan@mendozaosei.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Lumen deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest regards,\nBen Morgan\nAssociate\nMendoza & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m03",
+        "matter_ids": [
+          "i034-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m03"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e036",
+      "thread_id": "i034-t020",
+      "in_reply_to": "i034-e034",
+      "references": [
+        "i034-e034"
+      ],
+      "timestamp": "2026-08-21T14:57:03.738050",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Quintero",
+          "email": "vquintero@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Farid Laurent",
+      "body": "Hello Valerie,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Thu, Aug 20, 2026 at 09:56 AM, Valerie Quintero <vquintero@solacepaym.com> wrote:\n> Hello Hiro,\n>\n> We received the attached demand letter from counsel for Farid Laurent, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $450,000. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [
+            "i034-m01"
+          ],
+          "keyword_candidates": [
+            "i034-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e037",
+      "thread_id": "i034-t020",
+      "in_reply_to": "i034-e036",
+      "references": [
+        "i034-e034",
+        "i034-e036"
+      ],
+      "timestamp": "2026-08-24T08:10:49.051748",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "vquintero@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Farid Laurent",
+      "body": "Hiro,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nValerie Quintero\nHead of People\nSolace Payments\n\nOn Fri, Aug 21, 2026 at 02:57 PM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Hello Valerie,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [
+            "i034-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e038",
+      "thread_id": "i034-t018",
+      "in_reply_to": "i034-e033",
+      "references": [
+        "i034-e030",
+        "i034-e032",
+        "i034-e033"
+      ],
+      "timestamp": "2026-08-24T09:44:03.247195",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Mendoza",
+        "email": "ximenam@brennanyoung.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Dear Hiro,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nXimena Mendoza\nPartner\nBrennan & Young LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e039",
+      "thread_id": "i034-t020",
+      "in_reply_to": "i034-e037",
+      "references": [
+        "i034-e034",
+        "i034-e036",
+        "i034-e037"
+      ],
+      "timestamp": "2026-08-25T09:01:36.975641",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Quintero",
+          "email": "vquintero@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Farid Laurent",
+      "body": "Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Mon, Aug 24, 2026 at 08:10 AM, Valerie Quintero <vquintero@solacepaym.com> wrote:\n> Hiro,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [
+            "i034-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e040",
+      "thread_id": "i034-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T11:14:54.174320",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Castillo",
+        "email": "valeriec@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hiro,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nRegards,\nValerie Castillo\nAssociate\nOsei & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e041",
+      "thread_id": "i034-t022",
+      "in_reply_to": "i034-e040",
+      "references": [
+        "i034-e040"
+      ],
+      "timestamp": "2026-08-26T20:39:11.536590",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Valerie,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Tue, Aug 25, 2026 at 11:14 AM, Valerie Castillo <valeriec@oseitanaka.com> wrote:\n> Hiro,\n>\n> The draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i034-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e042",
+      "thread_id": "i034-t022",
+      "in_reply_to": "i034-e041",
+      "references": [
+        "i034-e040",
+        "i034-e041"
+      ],
+      "timestamp": "2026-08-27T13:38:40.973263",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Castillo",
+        "email": "valeriec@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Dear Hiro,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nValerie Castillo\nAssociate\nOsei & Tanaka LLP\n\nOn Wed, Aug 26, 2026 at 08:39 PM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Hi Valerie,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e043",
+      "thread_id": "i034-t022",
+      "in_reply_to": "i034-e042",
+      "references": [
+        "i034-e040",
+        "i034-e041",
+        "i034-e042"
+      ],
+      "timestamp": "2026-08-31T08:29:54.168619",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Castillo",
+          "email": "valeriec@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hello Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nHiro\nPartner\nOsei & Tanaka LLP\n\nOn Thu, Aug 27, 2026 at 01:38 PM, Valerie Castillo <valeriec@oseitanaka.com> wrote:\n> Dear Hiro,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m01",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e044",
+      "thread_id": "i034-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T15:16:25.693066",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hiro,\n\nBefore the call on Monday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nRegards,\nNadia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e045",
+      "thread_id": "i034-t023",
+      "in_reply_to": "i034-e044",
+      "references": [
+        "i034-e044"
+      ],
+      "timestamp": "2026-09-02T08:41:38.063667",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hi Nadia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nHiro\nPartner\nOsei & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e046",
+      "thread_id": "i034-t023",
+      "in_reply_to": "i034-e045",
+      "references": [
+        "i034-e044",
+        "i034-e045"
+      ],
+      "timestamp": "2026-09-04T09:02:37.957563",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hiro,\n\nQuick follow-up on the below. Any update?\n\nBest,\nNadia Ferreira\n\nOn Wed, Sep 02, 2026 at 08:41 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Hi Nadia,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e047",
+      "thread_id": "i034-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T07:54:01.899584",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hello Hiro,\n\nBefore the call on Wednesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nBest regards,\nNadia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e048",
+      "thread_id": "i034-t024",
+      "in_reply_to": "i034-e047",
+      "references": [
+        "i034-e047"
+      ],
+      "timestamp": "2026-09-08T17:38:32.135933",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Ferreira",
+          "email": "nferreira@solacepaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hello Nadia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nHiro\nPartner\nOsei & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m01",
+        "matter_ids": [
+          "i034-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e049",
+      "thread_id": "i034-t024",
+      "in_reply_to": "i034-e048",
+      "references": [
+        "i034-e047",
+        "i034-e048"
+      ],
+      "timestamp": "2026-09-09T09:48:10.877451",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ferreira",
+        "email": "nferreira@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Hiro,\n\nThanks. Separately, on Project Bluebird, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nRegards,\nNadia Ferreira",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00",
+          "i034-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m01"
+          ],
+          "thread_candidates": [
+            "i034-m01"
+          ],
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e050",
+      "thread_id": "i034-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:13:16.377796",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Mendoza",
+        "email": "ximenam@brennanyoung.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest regards,\nXimena\nPartner\nBrennan & Young LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e051",
+      "thread_id": "i034-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T09:30:29.575122",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Shah",
+        "email": "hannah.shah@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "subject": "Project Bluebird - LOI countersigned",
+      "body": "Hello Hiro,\n\nGood news: Brightline Labs countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nHannah\nVP, Corporate Development\nSolace Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e052",
+      "thread_id": "i034-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-22T07:13:31.224061",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Kaplan",
+        "email": "ximena.kaplan@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Bluebird - disclosure schedules open items",
+      "body": "Hiro,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Brightline's counsel directly?\n\nBest regards,\nXimena\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e053",
+      "thread_id": "i034-t027",
+      "in_reply_to": "i034-e052",
+      "references": [
+        "i034-e052"
+      ],
+      "timestamp": "2026-09-22T11:22:09.296497",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Bluebird - disclosure schedules open items",
+      "body": "Dear Ximena,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Tue, Sep 22, 2026 at 07:13 AM, Ximena Kaplan <ximena.kaplan@oseitanaka.com> wrote:\n> Hiro,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Brightline's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [
+            "i034-m00",
+            "i034-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e054",
+      "thread_id": "i034-t027",
+      "in_reply_to": "i034-e053",
+      "references": [
+        "i034-e052",
+        "i034-e053"
+      ],
+      "timestamp": "2026-09-24T09:16:32.303478",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Kaplan",
+        "email": "ximena.kaplan@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "heriksen@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Bluebird - disclosure schedules open items",
+      "body": "Hello Hiro,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nXimena Kaplan\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 22, 2026 at 11:22 AM, Hiro Eriksen <heriksen@oseitanaka.com> wrote:\n> Dear Ximena,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i034-e055",
+      "thread_id": "i034-t027",
+      "in_reply_to": "i034-e054",
+      "references": [
+        "i034-e052",
+        "i034-e053",
+        "i034-e054"
+      ],
+      "timestamp": "2026-09-28T08:14:04.753074",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "heriksen@oseitanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Kaplan",
+          "email": "ximena.kaplan@oseitanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Bluebird - disclosure schedules open items",
+      "body": "Dear Ximena,\n\nAdding Ximena, who will handle the day-to-day on this.\n\nBest,\nHiro Eriksen\nPartner\nOsei & Tanaka LLP\n\nOn Thu, Sep 24, 2026 at 09:16 AM, Ximena Kaplan <ximena.kaplan@oseitanaka.com> wrote:\n> Hello Hiro,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i034-m00",
+        "matter_ids": [
+          "i034-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i034-m00",
+            "i034-m02",
+            "i034-m03"
+          ],
+          "thread_candidates": [
+            "i034-m00"
+          ],
+          "identifier_candidates": [
+            "i034-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700034
+}

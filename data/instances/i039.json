@@ -1,0 +1,3482 @@
+{
+  "instance_id": "i039",
+  "firm": {
+    "name": "Tanaka & Xu LLP",
+    "domain": "tanakaxu.com"
+  },
+  "user_contact_id": "i039-c000",
+  "matters": [
+    {
+      "matter_id": "i039-m00",
+      "matter_number": "92137-001",
+      "name": "Isabel Jensen v. Nimbus",
+      "client": "Nimbus Energy",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Isabel Jensen against Nimbus Energy. Case No. 5:26-cv-05993.",
+      "counterparty": "Isabel Jensen",
+      "opposing_counsel_firm": "Shah & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "92137-001",
+        "Isabel Jensen",
+        "Jensen",
+        "5:26-cv-05993"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i039-c011",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i039-m01",
+      "matter_number": "87418-001",
+      "name": "Riverstone - Acquisition of Vantage Energy (Project Harbor)",
+      "client": "Riverstone Therapeutics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Vantage Energy by Riverstone Therapeutics. Stock purchase, ~$410 million.",
+      "counterparty": "Vantage Energy",
+      "opposing_counsel_firm": "Lindqvist & Goldberg LLP",
+      "status": "open",
+      "opened_on": "2026-06-30",
+      "key_terms": [
+        "87418-001",
+        "Project Harbor",
+        "Harbor",
+        "Vantage Energy",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i039-c014",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i039-m02",
+      "matter_number": "87418-002",
+      "name": "Riverstone v. Brightline (MSA Dispute)",
+      "client": "Riverstone Therapeutics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Riverstone Therapeutics against vendor Brightline Logistics.",
+      "counterparty": "Brightline Logistics",
+      "opposing_counsel_firm": "Ferreira & Chowdhury LLP",
+      "status": "open",
+      "opened_on": "2026-07-31",
+      "key_terms": [
+        "87418-002",
+        "Brightline Logistics",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i039-c017",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i039-m03",
+      "matter_number": "26950-001",
+      "name": "Northwind v. Parallax ('543 Patent)",
+      "client": "Northwind Labs",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Northwind Labs against Parallax Payments asserting U.S. Patent No. 10,543,520.",
+      "counterparty": "Parallax Payments",
+      "opposing_counsel_firm": "Moreau & Vasquez LLP",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "26950-001",
+        "10,543,520",
+        "'543",
+        "Parallax Payments",
+        "Parallax"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c019",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i039-c020",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i039-m04",
+      "matter_number": "30211-001",
+      "name": "Keystone - Data Security Incident",
+      "client": "Keystone Biosciences",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Keystone Biosciences's customer database. Forensics by Lumen Cyber.",
+      "counterparty": "Lumen Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "30211-001",
+        "Lumen Cyber",
+        "Lumen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c021",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c022",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i039-c023",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i039-m05",
+      "matter_number": "30678-001",
+      "name": "Evergreen - Headquarters Lease (1977 University Avenue)",
+      "client": "Evergreen Networks",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Evergreen Networks's new headquarters at 1977 University Avenue, landlord Wavecrest Properties LLC.",
+      "counterparty": "Wavecrest Properties LLC",
+      "opposing_counsel_firm": "Reyes & Yamamoto LLP",
+      "status": "open",
+      "opened_on": "2026-07-10",
+      "key_terms": [
+        "30678-001",
+        "1977 University Avenue",
+        "Wavecrest Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i039-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i039-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i039-c024",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i039-c025",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i039-c026",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i039-c000",
+      "name": "Samuel Nakamura",
+      "first": "Samuel",
+      "email": "snakamura@tanakaxu.com",
+      "organization": "Tanaka & Xu LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i039-c001",
+      "name": "Maya Xu",
+      "first": "Maya",
+      "email": "maya.xu@tanakaxu.com",
+      "organization": "Tanaka & Xu LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i039-c002",
+      "name": "Tara Quintero",
+      "first": "Tara",
+      "email": "tara.quintero@tanakaxu.com",
+      "organization": "Tanaka & Xu LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i039-c003",
+      "name": "Ivan Vasquez",
+      "first": "Ivan",
+      "email": "ivan.vasquez@tanakaxu.com",
+      "organization": "Tanaka & Xu LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i039-c004",
+      "name": "Yara Weiss",
+      "first": "Yara",
+      "email": "yweiss@nimbusener.com",
+      "organization": "Nimbus Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c005",
+      "name": "Samuel Varga",
+      "first": "Samuel",
+      "email": "samuel.varga@riverstonether.com",
+      "organization": "Riverstone Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c006",
+      "name": "Wei Haddad",
+      "first": "Wei",
+      "email": "weih@northwindlabs.com",
+      "organization": "Northwind Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c007",
+      "name": "Quinn Ellis",
+      "first": "Quinn",
+      "email": "qellis@keystonebios.com",
+      "organization": "Keystone Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c008",
+      "name": "Yusuf Underwood",
+      "first": "Yusuf",
+      "email": "yusufu@evergreennetw.com",
+      "organization": "Evergreen Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c009",
+      "name": "Zoe Banerjee",
+      "first": "Zoe",
+      "email": "zoeb@nimbusener.com",
+      "organization": "Nimbus Energy",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c010",
+      "name": "Xavier Okafor",
+      "first": "Xavier",
+      "email": "xavier.okafor@shahrosen.com",
+      "organization": "Shah & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c011",
+      "name": "Nadia Castillo",
+      "first": "Nadia",
+      "email": "nadia.castillo@corvidadr.com",
+      "organization": "Corvid Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c012",
+      "name": "Ivan Chowdhury",
+      "first": "Ivan",
+      "email": "ivan.chowdhury@riverstonether.com",
+      "organization": "Riverstone Therapeutics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c013",
+      "name": "Maya Abbott",
+      "first": "Maya",
+      "email": "maya.abbott@lindqvistgoldberg.com",
+      "organization": "Lindqvist & Goldberg LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c014",
+      "name": "Wei Grant",
+      "first": "Wei",
+      "email": "wei.grant@ironbridgetrust.com",
+      "organization": "Ironbridge Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c015",
+      "name": "Sofia Mendoza",
+      "first": "Sofia",
+      "email": "sofiam@riverstonether.com",
+      "organization": "Riverstone Therapeutics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c016",
+      "name": "Wei Banerjee",
+      "first": "Wei",
+      "email": "wei.banerjee@ferreirachowdhury.com",
+      "organization": "Ferreira & Chowdhury LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c017",
+      "name": "Rachel Castillo",
+      "first": "Rachel",
+      "email": "rachelc@solaceadr.com",
+      "organization": "Solace Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c018",
+      "name": "Priya Alvarez",
+      "first": "Priya",
+      "email": "priyaa@northwindlabs.com",
+      "organization": "Northwind Labs",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c019",
+      "name": "Yusuf Kowalski",
+      "first": "Yusuf",
+      "email": "yusufk@moreauvasquez.com",
+      "organization": "Moreau & Vasquez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c020",
+      "name": "Jasmine Patel",
+      "first": "Jasmine",
+      "email": "jasmine.patel@latticetech.com",
+      "organization": "Lattice Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c021",
+      "name": "Valerie Kowalski",
+      "first": "Valerie",
+      "email": "valeriek@keystonebios.com",
+      "organization": "Keystone Biosciences",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c022",
+      "name": "Ximena Huang",
+      "first": "Ximena",
+      "email": "ximena.huang@lumencyber.com",
+      "organization": "Lumen Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c023",
+      "name": "Valerie Kaplan",
+      "first": "Valerie",
+      "email": "vkaplan@sterlingmutual.com",
+      "organization": "Sterling Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c024",
+      "name": "Ximena Castillo",
+      "first": "Ximena",
+      "email": "ximenac@evergreennetw.com",
+      "organization": "Evergreen Networks",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c025",
+      "name": "Femi Ferreira",
+      "first": "Femi",
+      "email": "femi.ferreira@reyesyamamoto.com",
+      "organization": "Reyes & Yamamoto LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c026",
+      "name": "Kavya Vasquez",
+      "first": "Kavya",
+      "email": "kavyav@amberlyrealty.com",
+      "organization": "Amberly Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c027",
+      "name": "Wei Tanaka",
+      "first": "Wei",
+      "email": "weit@orchardcomms.com",
+      "organization": "Orchard Communications",
+      "org_type": "pr",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c028",
+      "name": "Whitney Huang",
+      "first": "Whitney",
+      "email": "whuang@marinerther.com",
+      "organization": "Mariner Therapeutics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i039-c029",
+      "name": "Femi Mendoza",
+      "first": "Femi",
+      "email": "fmendoza@tanakaxu.com",
+      "organization": "Tanaka & Xu LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i039-e000",
+      "thread_id": "i039-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:48:52.712514",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Varga",
+        "email": "samuel.varga@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Samuel,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nSamuel Varga\nGeneral Counsel\nRiverstone Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e001",
+      "thread_id": "i039-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T07:27:04.616923",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Quintero",
+        "email": "tara.quintero@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hello Samuel,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nTara Quintero\nSenior Associate\nTanaka & Xu LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03",
+            "i039-m04",
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e002",
+      "thread_id": "i039-t000",
+      "in_reply_to": "i039-e000",
+      "references": [
+        "i039-e000"
+      ],
+      "timestamp": "2026-07-08T09:54:30.882677",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Varga",
+          "email": "samuel.varga@riverstonether.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hello Samuel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nSamuel Nakamura\n\nOn Mon, Jul 06, 2026 at 09:48 AM, Samuel Varga <samuel.varga@riverstonether.com> wrote:\n> Samuel,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e003",
+      "thread_id": "i039-t000",
+      "in_reply_to": "i039-e002",
+      "references": [
+        "i039-e000",
+        "i039-e002"
+      ],
+      "timestamp": "2026-07-08T16:54:23.091084",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Varga",
+        "email": "samuel.varga@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Samuel,\n\nThanks. Separately, on the Brightline dispute, their account team reached out to our COO again.\n\nBest,\nSamuel Varga\nGeneral Counsel\nRiverstone Therapeutics\n\nOn Wed, Jul 08, 2026 at 09:54 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hello Samuel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02",
+          "i039-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [
+            "i039-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e004",
+      "thread_id": "i039-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T07:18:40.356762",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Banerjee",
+          "email": "zoeb@nimbusener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Zoe,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nRegards,\nSamuel Nakamura",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e005",
+      "thread_id": "i039-t002",
+      "in_reply_to": "i039-e004",
+      "references": [
+        "i039-e004"
+      ],
+      "timestamp": "2026-07-13T20:06:11.328559",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Banerjee",
+        "email": "zoeb@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Samuel,\n\nAdding Maya, who will handle the day-to-day on this.\n\nBest regards,\nZoe\nHead of People\nNimbus Energy\n\nOn Mon, Jul 13, 2026 at 07:18 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Zoe,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": [
+            "i039-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e006",
+      "thread_id": "i039-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T18:33:00.583342",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Weiss",
+        "email": "yweiss@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Dear Samuel,\n\nBefore the call on Wednesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nYara Weiss\nGeneral Counsel\nNimbus Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e007",
+      "thread_id": "i039-t002",
+      "in_reply_to": "i039-e005",
+      "references": [
+        "i039-e004",
+        "i039-e005"
+      ],
+      "timestamp": "2026-07-15T11:05:57.908379",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Banerjee",
+          "email": "zoeb@nimbusener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hi Zoe,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nThanks,\nSamuel\n\nOn Mon, Jul 13, 2026 at 08:06 PM, Zoe Banerjee <zoeb@nimbusener.com> wrote:\n> Samuel,\n>\n> Adding Maya, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": [
+            "i039-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e008",
+      "thread_id": "i039-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T08:34:15.502392",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Alvarez",
+        "email": "priyaa@northwindlabs.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Samuel,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nThanks,\nPriya Alvarez\nChief Technology Officer\nNorthwind Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e009",
+      "thread_id": "i039-t002",
+      "in_reply_to": "i039-e007",
+      "references": [
+        "i039-e004",
+        "i039-e005",
+        "i039-e007"
+      ],
+      "timestamp": "2026-07-16T17:52:55.884126",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Banerjee",
+        "email": "zoeb@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Dear Samuel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nZoe Banerjee\nHead of People\nNimbus Energy\n\nOn Wed, Jul 15, 2026 at 11:05 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hi Zoe,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": [
+            "i039-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e010",
+      "thread_id": "i039-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T12:25:59.731719",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Maya Abbott",
+          "email": "maya.abbott@lindqvistgoldberg.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Dear Maya,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Maya and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest regards,\nSamuel Nakamura",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e011",
+      "thread_id": "i039-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T07:17:13.774220",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kavyav@amberlyrealty.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Castillo",
+          "email": "ximenac@evergreennetw.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hello Samuel,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nThanks,\nKavya Vasquez\nSenior Vice President\nAmberly Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e012",
+      "thread_id": "i039-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T14:02:56.584479",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Femi Ferreira",
+          "email": "femi.ferreira@reyesyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Quintero",
+          "email": "tara.quintero@tanakaxu.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Dear Femi,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nThanks,\nSamuel Nakamura",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e013",
+      "thread_id": "i039-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T09:36:41.317888",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Mendoza",
+        "email": "fmendoza@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Samuel,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nFemi\nPartner\nTanaka & Xu LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e014",
+      "thread_id": "i039-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T07:21:51.878007",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Ellis",
+        "email": "qellis@keystonebios.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Samuel,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nQuinn Ellis\nGeneral Counsel\nKeystone Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e015",
+      "thread_id": "i039-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T07:43:43.884592",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Harbor - disclosure schedules open items",
+      "body": "Hello Samuel,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Vantage's counsel directly?\n\nThanks,\nMaya\nAssociate\nTanaka & Xu LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m01"
+          ],
+          "keyword_candidates": [
+            "i039-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e016",
+      "thread_id": "i039-t010",
+      "in_reply_to": "i039-e015",
+      "references": [
+        "i039-e015"
+      ],
+      "timestamp": "2026-08-10T10:15:56.348538",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Harbor - disclosure schedules open items",
+      "body": "Hello Maya,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nSamuel\n\nOn Fri, Aug 07, 2026 at 07:43 AM, Maya Xu <maya.xu@tanakaxu.com> wrote:\n> Hello Samuel,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Vantage's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [
+            "i039-m01"
+          ],
+          "keyword_candidates": [
+            "i039-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e017",
+      "thread_id": "i039-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T08:42:45.169410",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Ferreira",
+        "email": "femi.ferreira@reyesyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1977 University Avenue - lease draft",
+      "body": "Dear Samuel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nBest regards,\nFemi\nPartner\nReyes & Yamamoto LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m05"
+          ],
+          "keyword_candidates": [
+            "i039-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e018",
+      "thread_id": "i039-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T07:15:45.326976",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Underwood",
+        "email": "yusufu@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Samuel,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nYusuf Underwood",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e019",
+      "thread_id": "i039-t012",
+      "in_reply_to": "i039-e018",
+      "references": [
+        "i039-e018"
+      ],
+      "timestamp": "2026-08-12T08:27:10.931786",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Underwood",
+          "email": "yusufu@evergreennetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Yusuf,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nSamuel Nakamura",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": [
+            "i039-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e020",
+      "thread_id": "i039-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T12:34:14.368958",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello Samuel,\n\nStatus on my matters this week:\n\n- Jensen: complaint served; mediation being scheduled, deposition outline in draft.\n- Project Harbor: seller comments on the SPA in; issues list circulated, signing targeted for August 23.\n- Brightline MSA: notice of breach sent, cure period running; damages model in draft.\n- Security incident: forensics report pending; consumer notification letters in draft.\n\nBest,\nMaya\nAssociate\nTanaka & Xu LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00",
+          "i039-m01",
+          "i039-m02",
+          "i039-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02"
+          ],
+          "keyword_candidates": [
+            "i039-m00",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e021",
+      "thread_id": "i039-t012",
+      "in_reply_to": "i039-e019",
+      "references": [
+        "i039-e018",
+        "i039-e019"
+      ],
+      "timestamp": "2026-08-13T07:28:02.583595",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Underwood",
+        "email": "yusufu@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hi Samuel,\n\nAdding Tara, who will handle the day-to-day on this.\n\nBest,\nYusuf\n\nOn Wed, Aug 12, 2026 at 08:27 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hello Yusuf,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m05"
+          ],
+          "thread_candidates": [
+            "i039-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e022",
+      "thread_id": "i039-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T08:28:58.257503",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Weiss",
+        "email": "yweiss@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Hi Samuel,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nRegards,\nYara Weiss\nGeneral Counsel\nNimbus Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e023",
+      "thread_id": "i039-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T07:27:07.692602",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear Samuel,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nThanks,\nMaya Xu\nAssociate\nTanaka & Xu LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e024",
+      "thread_id": "i039-t015",
+      "in_reply_to": "i039-e023",
+      "references": [
+        "i039-e023"
+      ],
+      "timestamp": "2026-08-21T08:52:31.746631",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Dear Maya,\n\nWorks for me. Let's do Tuesday at noon.\n\nBest,\nSamuel Nakamura",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e025",
+      "thread_id": "i039-t015",
+      "in_reply_to": "i039-e024",
+      "references": [
+        "i039-e023",
+        "i039-e024"
+      ],
+      "timestamp": "2026-08-21T15:56:15.802870",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Samuel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nMaya Xu\nAssociate\nTanaka & Xu LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m00",
+        "matter_ids": [
+          "i039-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e026",
+      "thread_id": "i039-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T07:40:06.014329",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Kaplan",
+        "email": "vkaplan@sterlingmutual.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Samuel,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Lumen.\n\nBest regards,\nValerie Kaplan\nClaims Specialist\nSterling Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e027",
+      "thread_id": "i039-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T07:13:02.732895",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Alvarez",
+        "email": "priyaa@northwindlabs.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Haddad",
+          "email": "weih@northwindlabs.com"
+        }
+      ],
+      "subject": "Parallax Payments product launch - possible infringement of '543 patent",
+      "body": "Dear Samuel,\n\nOur engineers looked at the product Parallax Payments launched last month and believe it practices claims 1 and 7 of our '543 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nRegards,\nPriya Alvarez\nChief Technology Officer\nNorthwind Labs",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m03"
+          ],
+          "keyword_candidates": [
+            "i039-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e028",
+      "thread_id": "i039-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T07:55:58.589512",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Kowalski",
+        "email": "valeriek@keystonebios.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Ellis",
+          "email": "qellis@keystonebios.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hello Samuel,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Lumen Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?\n\nRegards,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m04"
+          ],
+          "keyword_candidates": [
+            "i039-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e029",
+      "thread_id": "i039-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T08:56:44.963320",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Grant",
+        "email": "wei.grant@ironbridgetrust.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hello Samuel,\n\nTo open the escrow account for the Harbor transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?\n\nRegards,\nWei Grant\nVice President, Escrow Services\nIronbridge Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e030",
+      "thread_id": "i039-t019",
+      "in_reply_to": "i039-e029",
+      "references": [
+        "i039-e029"
+      ],
+      "timestamp": "2026-08-31T09:50:40.682112",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Wei Grant",
+          "email": "wei.grant@ironbridgetrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hello Wei,\n\nWorks for me. Let's do Monday at 5:00 p.m..\n\nBest regards,\nSamuel Nakamura\n\nOn Fri, Aug 28, 2026 at 08:56 AM, Wei Grant <wei.grant@ironbridgetrust.com> wrote:\n> Hello Samuel,\n>\n> To open the escrow account for the Harbor transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [
+            "i039-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e031",
+      "thread_id": "i039-t018",
+      "in_reply_to": "i039-e028",
+      "references": [
+        "i039-e028"
+      ],
+      "timestamp": "2026-08-31T10:59:39.285137",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Kowalski",
+          "email": "valeriek@keystonebios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Ellis",
+          "email": "qellis@keystonebios.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Valerie,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nSamuel Nakamura\n\nOn Fri, Aug 28, 2026 at 07:55 AM, Valerie Kowalski <valeriek@keystonebios.com> wrote:\n> Hello Samuel,\n>\n> We detected unauthorized access to our customer database last night. It's contained, and we've engaged Lumen Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m04"
+          ],
+          "identifier_candidates": [
+            "i039-m04"
+          ],
+          "keyword_candidates": [
+            "i039-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e032",
+      "thread_id": "i039-t018",
+      "in_reply_to": "i039-e031",
+      "references": [
+        "i039-e028",
+        "i039-e031"
+      ],
+      "timestamp": "2026-09-02T07:10:57.819613",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Kowalski",
+        "email": "valeriek@keystonebios.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Ellis",
+          "email": "qellis@keystonebios.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Samuel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e033",
+      "thread_id": "i039-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T07:29:46.067870",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Quintero",
+        "email": "tara.quintero@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hello Samuel,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nTara Quintero\nSenior Associate\nTanaka & Xu LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03",
+            "i039-m04",
+            "i039-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e034",
+      "thread_id": "i039-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:26:54.462597",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Chowdhury",
+        "email": "ivan.chowdhury@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Samuel,\n\nThe board asked whether we could structure part of the $410 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nBest,\nIvan Chowdhury\nVP, Corporate Development\nRiverstone Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i039-e035",
+      "thread_id": "i039-t020",
+      "in_reply_to": "i039-e033",
+      "references": [
+        "i039-e033"
+      ],
+      "timestamp": "2026-09-07T09:50:25.742824",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Tara Quintero",
+          "email": "tara.quintero@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Tara,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nSamuel Nakamura\n\nOn Thu, Sep 03, 2026 at 07:29 AM, Tara Quintero <tara.quintero@tanakaxu.com> wrote:\n> Hello Samuel,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03",
+            "i039-m04",
+            "i039-m05"
+          ],
+          "thread_candidates": [
+            "i039-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e036",
+      "thread_id": "i039-t021",
+      "in_reply_to": "i039-e034",
+      "references": [
+        "i039-e034"
+      ],
+      "timestamp": "2026-09-07T13:51:44.278095",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Chowdhury",
+          "email": "ivan.chowdhury@riverstonether.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hi Ivan,\n\nWorks for me. Let's do Monday at 3:30 p.m..\n\nThanks,\nSamuel Nakamura\n\nOn Mon, Sep 07, 2026 at 08:26 AM, Ivan Chowdhury <ivan.chowdhury@riverstonether.com> wrote:\n> Hello Samuel,\n>\n> The board asked whether we could structure part of the $410 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e037",
+      "thread_id": "i039-t020",
+      "in_reply_to": "i039-e035",
+      "references": [
+        "i039-e033",
+        "i039-e035"
+      ],
+      "timestamp": "2026-09-07T17:06:19.127089",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Quintero",
+        "email": "tara.quintero@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Samuel,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nTara Quintero\nSenior Associate\nTanaka & Xu LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 09:50 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hi Tara,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m05",
+        "matter_ids": [
+          "i039-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03",
+            "i039-m04",
+            "i039-m05"
+          ],
+          "thread_candidates": [
+            "i039-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e038",
+      "thread_id": "i039-t021",
+      "in_reply_to": "i039-e036",
+      "references": [
+        "i039-e034",
+        "i039-e036"
+      ],
+      "timestamp": "2026-09-08T18:16:38.872782",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Chowdhury",
+        "email": "ivan.chowdhury@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Samuel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nIvan Chowdhury\nVP, Corporate Development\nRiverstone Therapeutics\n\nOn Mon, Sep 07, 2026 at 01:51 PM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hi Ivan,\n>\n> Works for me. Let's do Monday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e039",
+      "thread_id": "i039-t021",
+      "in_reply_to": "i039-e038",
+      "references": [
+        "i039-e034",
+        "i039-e036",
+        "i039-e038"
+      ],
+      "timestamp": "2026-09-10T09:51:57.921847",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Chowdhury",
+          "email": "ivan.chowdhury@riverstonether.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Dear Ivan,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nSamuel\n\nOn Tue, Sep 08, 2026 at 06:16 PM, Ivan Chowdhury <ivan.chowdhury@riverstonether.com> wrote:\n> Samuel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01"
+          ],
+          "thread_candidates": [
+            "i039-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e040",
+      "thread_id": "i039-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T07:34:19.793652",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Samuel,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest,\nMaya Xu\nAssociate\nTanaka & Xu LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e041",
+      "thread_id": "i039-t022",
+      "in_reply_to": "i039-e040",
+      "references": [
+        "i039-e040"
+      ],
+      "timestamp": "2026-09-17T17:16:07.082738",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Dear Maya,\n\nWorks for me. Let's do Thursday at 10:30 a.m..\n\nRegards,\nSamuel Nakamura\n\nOn Wed, Sep 16, 2026 at 07:34 AM, Maya Xu <maya.xu@tanakaxu.com> wrote:\n> Samuel,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e042",
+      "thread_id": "i039-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T10:52:22.529553",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Varga",
+        "email": "samuel.varga@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Dear Samuel,\n\nTwo quick things.\n\n1. On Project Harbor, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n2. On the Brightline dispute, their account team reached out to our COO again.\n\nBest,\nSamuel Varga\nGeneral Counsel\nRiverstone Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m01",
+        "matter_ids": [
+          "i039-m01",
+          "i039-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e043",
+      "thread_id": "i039-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T13:40:27.811572",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Dear Samuel,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nMaya Xu\nAssociate\nTanaka & Xu LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e044",
+      "thread_id": "i039-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T09:31:22.762725",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Haddad",
+        "email": "weih@northwindlabs.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear Samuel,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nWei Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e045",
+      "thread_id": "i039-t024",
+      "in_reply_to": "i039-e043",
+      "references": [
+        "i039-e043"
+      ],
+      "timestamp": "2026-09-21T09:52:11.420595",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Maya,\n\nAdding Maya, who will handle the day-to-day on this.\n\nThanks,\nSamuel\n\nOn Fri, Sep 18, 2026 at 01:40 PM, Maya Xu <maya.xu@tanakaxu.com> wrote:\n> Dear Samuel,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e046",
+      "thread_id": "i039-t024",
+      "in_reply_to": "i039-e045",
+      "references": [
+        "i039-e043",
+        "i039-e045"
+      ],
+      "timestamp": "2026-09-22T13:48:08.595497",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Xu",
+        "email": "maya.xu@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Samuel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nMaya\nAssociate\nTanaka & Xu LLP\n\nOn Mon, Sep 21, 2026 at 09:52 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hello Maya,\n>\n> Adding Maya, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": [
+            "i039-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e047",
+      "thread_id": "i039-t025",
+      "in_reply_to": "i039-e044",
+      "references": [
+        "i039-e044"
+      ],
+      "timestamp": "2026-09-23T09:48:50.856583",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Wei Haddad",
+          "email": "weih@northwindlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hi Wei,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nSamuel Nakamura\n\nOn Mon, Sep 21, 2026 at 09:31 AM, Wei Haddad <weih@northwindlabs.com> wrote:\n> Dear Samuel,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": [
+            "i039-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e048",
+      "thread_id": "i039-t025",
+      "in_reply_to": "i039-e047",
+      "references": [
+        "i039-e044",
+        "i039-e047"
+      ],
+      "timestamp": "2026-09-25T09:12:59.640005",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Haddad",
+        "email": "weih@northwindlabs.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Samuel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nWei\n\nOn Wed, Sep 23, 2026 at 09:48 AM, Samuel Nakamura <snakamura@tanakaxu.com> wrote:\n> Hi Wei,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": [
+            "i039-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e049",
+      "thread_id": "i039-t025",
+      "in_reply_to": "i039-e048",
+      "references": [
+        "i039-e044",
+        "i039-e047",
+        "i039-e048"
+      ],
+      "timestamp": "2026-09-28T08:57:49.669445",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Wei Haddad",
+          "email": "weih@northwindlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Wei,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nBest,\nSamuel Nakamura\n\nOn Fri, Sep 25, 2026 at 09:12 AM, Wei Haddad <weih@northwindlabs.com> wrote:\n> Samuel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m03"
+          ],
+          "thread_candidates": [
+            "i039-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e050",
+      "thread_id": "i039-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T10:47:52.285799",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Banerjee",
+        "email": "wei.banerjee@ferreirachowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Dear Samuel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest regards,\nWei Banerjee\nPartner\nFerreira & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e051",
+      "thread_id": "i039-t026",
+      "in_reply_to": "i039-e050",
+      "references": [
+        "i039-e050"
+      ],
+      "timestamp": "2026-09-29T17:04:58.807718",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Wei Banerjee",
+          "email": "wei.banerjee@ferreirachowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Dear Wei,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nSamuel Nakamura\n\nOn Mon, Sep 28, 2026 at 10:47 AM, Wei Banerjee <wei.banerjee@ferreirachowdhury.com> wrote:\n> Dear Samuel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m02"
+          ],
+          "thread_candidates": [
+            "i039-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e052",
+      "thread_id": "i039-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T08:50:12.775987",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Tanaka",
+        "email": "weit@orchardcomms.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Communications support",
+      "body": "Dear Samuel,\n\nKeystone's CEO asked us to help with external communications around the incident. Could we get 30 minutes with you to align on what can be said publicly?\n\nRegards,\nWei\nManaging Director\nOrchard Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m04",
+        "matter_ids": [
+          "i039-m04"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m00",
+            "i039-m01",
+            "i039-m02",
+            "i039-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e053",
+      "thread_id": "i039-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T15:19:43.897071",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Vasquez",
+        "email": "ivan.vasquez@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Northwind",
+      "body": "Hello Samuel,\n\nPre-bills for Northwind Labs are ready for your review:\n\n- 26950-001  Northwind v. Parallax ('543 Patent)\n\nPlease mark up and return by October 4.\n\nBest,\nIvan Vasquez\nBilling Coordinator\nTanaka & Xu LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m03",
+        "matter_ids": [
+          "i039-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i039-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e054",
+      "thread_id": "i039-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T08:56:03.824176",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Varga",
+        "email": "samuel.varga@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Hello Samuel,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nSamuel Varga\nGeneral Counsel\nRiverstone Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e055",
+      "thread_id": "i039-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T09:26:01.722458",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Wei Banerjee",
+          "email": "wei.banerjee@ferreirachowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Xu",
+          "email": "maya.xu@tanakaxu.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hello Wei,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nBest,\nSamuel Nakamura",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i039-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e056",
+      "thread_id": "i039-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T08:15:02.036377",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Huang",
+        "email": "whuang@marinerther.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear Samuel,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nWhitney\nRecruiter\nMariner Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e057",
+      "thread_id": "i039-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-19T10:27:09.433718",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Varga",
+        "email": "samuel.varga@riverstonether.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Nakamura",
+          "email": "snakamura@tanakaxu.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello Samuel,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nRegards,\nSamuel Varga\nGeneral Counsel\nRiverstone Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i039-e058",
+      "thread_id": "i039-t032",
+      "in_reply_to": "i039-e057",
+      "references": [
+        "i039-e057"
+      ],
+      "timestamp": "2026-10-19T13:53:02.267660",
+      "folder": "sent",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@tanakaxu.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Varga",
+          "email": "samuel.varga@riverstonether.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Dear Samuel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nSamuel\n\nOn Mon, Oct 19, 2026 at 10:27 AM, Samuel Varga <samuel.varga@riverstonether.com> wrote:\n> Hello Samuel,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i039-m02",
+        "matter_ids": [
+          "i039-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i039-m01",
+            "i039-m02"
+          ],
+          "thread_candidates": [
+            "i039-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700039
+}

@@ -1,0 +1,3250 @@
+{
+  "instance_id": "i026",
+  "firm": {
+    "name": "Quintero & Whitaker LLP",
+    "domain": "quinterowhitaker.com"
+  },
+  "user_contact_id": "i026-c000",
+  "matters": [
+    {
+      "matter_id": "i026-m00",
+      "matter_number": "67173-001",
+      "name": "Keystone - Data Security Incident",
+      "client": "Keystone Health",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Keystone Health's customer database. Forensics by Sterling Cyber.",
+      "counterparty": "Sterling Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-07",
+      "key_terms": [
+        "67173-001",
+        "Sterling Cyber",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c011",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i026-c012",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i026-m01",
+      "matter_number": "73712-001",
+      "name": "Northwind - Headquarters Lease (1922 Mission Street)",
+      "client": "Northwind Foods",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Northwind Foods's new headquarters at 1922 Mission Street, landlord Orchard Properties LLC.",
+      "counterparty": "Orchard Properties LLC",
+      "opposing_counsel_firm": "Thompson & Kaplan LLP",
+      "status": "open",
+      "opened_on": "2026-06-24",
+      "key_terms": [
+        "73712-001",
+        "1922 Mission Street",
+        "Orchard Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i026-c015",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i026-m02",
+      "matter_number": "30350-001",
+      "name": "Cascade - SEC Investigation (CID No. 2026-180)",
+      "client": "Cascade Therapeutics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Cascade Therapeutics's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-07-09",
+      "key_terms": [
+        "30350-001",
+        "2026-180",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i026-c018",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i026-m03",
+      "matter_number": "56142-001",
+      "name": "Chen Okafor v. Quarry",
+      "client": "Quarry Labs",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Chen Okafor against Quarry Labs. Case No. 4:26-cv-03257.",
+      "counterparty": "Chen Okafor",
+      "opposing_counsel_firm": "Lee & Whitaker LLP",
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "56142-001",
+        "Chen Okafor",
+        "Okafor",
+        "4:26-cv-03257"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i026-c021",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i026-m04",
+      "matter_number": "76964-001",
+      "name": "Stratus v. Silverpine (MSA Dispute)",
+      "client": "Stratus Materials",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Stratus Materials against vendor Silverpine Networks.",
+      "counterparty": "Silverpine Networks",
+      "opposing_counsel_firm": "Mendoza & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-06-05",
+      "key_terms": [
+        "76964-001",
+        "Silverpine Networks",
+        "Silverpine"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c023",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i026-c024",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i026-m05",
+      "matter_number": "11227-001",
+      "name": "Bluefin - Acquisition of Amberly Networks (Project Kestrel)",
+      "client": "Bluefin Labs",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Amberly Networks by Bluefin Labs. Stock purchase, ~$650 million.",
+      "counterparty": "Amberly Networks",
+      "opposing_counsel_firm": "Varga & Laurent LLP",
+      "status": "open",
+      "opened_on": "2026-06-07",
+      "key_terms": [
+        "11227-001",
+        "Project Kestrel",
+        "Kestrel",
+        "Amberly Networks",
+        "Amberly"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i026-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i026-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i026-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i026-c026",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i026-c027",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i026-c000",
+      "name": "Elena Chowdhury",
+      "first": "Elena",
+      "email": "elenac@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i026-c001",
+      "name": "Bianca Park",
+      "first": "Bianca",
+      "email": "biancap@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i026-c002",
+      "name": "Valerie Lindqvist",
+      "first": "Valerie",
+      "email": "valeriel@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i026-c003",
+      "name": "Isabel Lindqvist",
+      "first": "Isabel",
+      "email": "isabel.lindqvist@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i026-c004",
+      "name": "Maya Ito",
+      "first": "Maya",
+      "email": "maya.ito@keystoneheal.com",
+      "organization": "Keystone Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c005",
+      "name": "Hiro Young",
+      "first": "Hiro",
+      "email": "hyoung@northwindfood.com",
+      "organization": "Northwind Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c006",
+      "name": "Wei Xu",
+      "first": "Wei",
+      "email": "wei.xu@cascadether.com",
+      "organization": "Cascade Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c007",
+      "name": "Marcus Ellis",
+      "first": "Marcus",
+      "email": "marcuse@quarrylabs.com",
+      "organization": "Quarry Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c008",
+      "name": "Valerie Quintero",
+      "first": "Valerie",
+      "email": "valerie.quintero@stratusmate.com",
+      "organization": "Stratus Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c009",
+      "name": "Farid Delgado",
+      "first": "Farid",
+      "email": "faridd@bluefinlabs.com",
+      "organization": "Bluefin Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c010",
+      "name": "Ben Tanaka",
+      "first": "Ben",
+      "email": "bent@keystoneheal.com",
+      "organization": "Keystone Health",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c011",
+      "name": "Liam Haddad",
+      "first": "Liam",
+      "email": "liamh@sterlingcyber.com",
+      "organization": "Sterling Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c012",
+      "name": "Bianca Ito",
+      "first": "Bianca",
+      "email": "bianca.ito@evergreenmutual.com",
+      "organization": "Evergreen Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c013",
+      "name": "Diego Castillo",
+      "first": "Diego",
+      "email": "diegoc@northwindfood.com",
+      "organization": "Northwind Foods",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c014",
+      "name": "Emma Ellis",
+      "first": "Emma",
+      "email": "emma.ellis@thompsonkaplan.com",
+      "organization": "Thompson & Kaplan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c015",
+      "name": "Nikhil Varga",
+      "first": "Nikhil",
+      "email": "nvarga@pinnaclerealty.com",
+      "organization": "Pinnacle Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c016",
+      "name": "Xavier Moreau",
+      "first": "Xavier",
+      "email": "xavierm@cascadether.com",
+      "organization": "Cascade Therapeutics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c017",
+      "name": "Nadia Mendoza",
+      "first": "Nadia",
+      "email": "nadia.mendoza@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c018",
+      "name": "Pedro Whitaker",
+      "first": "Pedro",
+      "email": "pedro.whitaker@latticediscovery.com",
+      "organization": "Lattice Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c019",
+      "name": "Ximena Kowalski",
+      "first": "Ximena",
+      "email": "xkowalski@quarrylabs.com",
+      "organization": "Quarry Labs",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c020",
+      "name": "Kenji Whitaker",
+      "first": "Kenji",
+      "email": "kenjiw@leewhitaker.com",
+      "organization": "Lee & Whitaker LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c021",
+      "name": "Thomas Tanaka",
+      "first": "Thomas",
+      "email": "ttanaka@copperleafadr.com",
+      "organization": "Copperleaf Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c022",
+      "name": "Zoe Reyes",
+      "first": "Zoe",
+      "email": "zoe.reyes@stratusmate.com",
+      "organization": "Stratus Materials",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c023",
+      "name": "Xavier Reyes",
+      "first": "Xavier",
+      "email": "xreyes@mendozasato.com",
+      "organization": "Mendoza & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c024",
+      "name": "James Patel",
+      "first": "James",
+      "email": "jpatel@wavecrestadr.com",
+      "organization": "Wavecrest Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c025",
+      "name": "Isabel Haddad",
+      "first": "Isabel",
+      "email": "isabel.haddad@bluefinlabs.com",
+      "organization": "Bluefin Labs",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c026",
+      "name": "Quinn Lindqvist",
+      "first": "Quinn",
+      "email": "qlindqvist@vargalaurent.com",
+      "organization": "Varga & Laurent LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c027",
+      "name": "Zoe Rosen",
+      "first": "Zoe",
+      "email": "zrosen@marinertrust.com",
+      "organization": "Mariner Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c028",
+      "name": "Gabriel Abbott",
+      "first": "Gabriel",
+      "email": "gabbott@vargalaurent.com",
+      "organization": "Varga & Laurent LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c029",
+      "name": "Whitney Castillo",
+      "first": "Whitney",
+      "email": "wcastillo@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i026-c030",
+      "name": "Maya Jensen",
+      "first": "Maya",
+      "email": "mjensen@trellisadr.com",
+      "organization": "Trellis Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c031",
+      "name": "Jasmine Patel",
+      "first": "Jasmine",
+      "email": "jpatel@corvidlogi.com",
+      "organization": "Corvid Logistics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i026-c032",
+      "name": "Femi Goldberg",
+      "first": "Femi",
+      "email": "fgoldberg@quinterowhitaker.com",
+      "organization": "Quintero & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i026-e000",
+      "thread_id": "i026-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T08:30:15.772202",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Tanaka",
+        "email": "bent@keystoneheal.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "maya.ito@keystoneheal.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hi Elena,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Sterling Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nThanks,\nBen\nChief Information Security Officer\nKeystone Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m00"
+          ],
+          "keyword_candidates": [
+            "i026-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e001",
+      "thread_id": "i026-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:26:13.225057",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "valerie.quintero@stratusmate.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Hello Elena,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nValerie\nGeneral Counsel\nStratus Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e002",
+      "thread_id": "i026-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:57:20.491120",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "biancap@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hi Elena,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest,\nBianca Park\nAssociate\nQuintero & Whitaker LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e003",
+      "thread_id": "i026-t002",
+      "in_reply_to": "i026-e002",
+      "references": [
+        "i026-e002"
+      ],
+      "timestamp": "2026-06-16T07:10:29.419070",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Park",
+          "email": "biancap@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Bianca,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nElena\nPartner\nQuintero & Whitaker LLP\n\nOn Mon, Jun 15, 2026 at 09:57 AM, Bianca Park <biancap@quinterowhitaker.com> wrote:\n> Hi Elena,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e004",
+      "thread_id": "i026-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-18T18:54:30.792899",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "faridd@bluefinlabs.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Elena,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nFarid\nGeneral Counsel\nBluefin Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e005",
+      "thread_id": "i026-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T10:14:49.653842",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Ito",
+        "email": "maya.ito@keystoneheal.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hi Elena,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nMaya Ito\nGeneral Counsel\nKeystone Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e006",
+      "thread_id": "i026-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T09:31:21.047385",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Quintero",
+        "email": "valerie.quintero@stratusmate.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Dear Elena,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nThanks,\nValerie\nGeneral Counsel\nStratus Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e007",
+      "thread_id": "i026-t005",
+      "in_reply_to": "i026-e006",
+      "references": [
+        "i026-e006"
+      ],
+      "timestamp": "2026-06-25T16:34:19.068115",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Quintero",
+          "email": "valerie.quintero@stratusmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hi Valerie,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Thu, Jun 25, 2026 at 09:31 AM, Valerie Quintero <valerie.quintero@stratusmate.com> wrote:\n> Dear Elena,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e008",
+      "thread_id": "i026-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:41:07.293871",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Castillo",
+        "email": "diegoc@northwindfood.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1922 Mission Street",
+      "body": "Hi Elena,\n\nWe've agreed on a non-binding LOI with Orchard Properties LLC for about 42,000 RSF at 1922 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest,\nDiego Castillo",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m01"
+          ],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e009",
+      "thread_id": "i026-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:54:13.649887",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Emma Ellis",
+          "email": "emma.ellis@thompsonkaplan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nElena\nPartner\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e010",
+      "thread_id": "i026-t006",
+      "in_reply_to": "i026-e008",
+      "references": [
+        "i026-e008"
+      ],
+      "timestamp": "2026-06-29T13:15:54.008469",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Diego Castillo",
+          "email": "diegoc@northwindfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 1922 Mission Street",
+      "body": "Hi Diego,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Mon, Jun 29, 2026 at 08:41 AM, Diego Castillo <diegoc@northwindfood.com> wrote:\n> Hi Elena,\n>\n> We've agreed on a non-binding LOI with Orchard Properties LLC for about 42,000 RSF at 1922 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": [
+            "i026-m01"
+          ],
+          "identifier_candidates": [
+            "i026-m01"
+          ],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e011",
+      "thread_id": "i026-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T09:13:31.238110",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Haddad",
+        "email": "liamh@sterlingcyber.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Tanaka",
+          "email": "bent@keystoneheal.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear Elena,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nLiam\nIncident Response Lead\nSterling Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m00"
+          ],
+          "keyword_candidates": [
+            "i026-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e012",
+      "thread_id": "i026-t008",
+      "in_reply_to": "i026-e011",
+      "references": [
+        "i026-e011"
+      ],
+      "timestamp": "2026-07-02T09:56:01.929301",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Liam Haddad",
+          "email": "liamh@sterlingcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Tanaka",
+          "email": "bent@keystoneheal.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hi Liam,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nElena\nPartner\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00"
+          ],
+          "thread_candidates": [
+            "i026-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e013",
+      "thread_id": "i026-t008",
+      "in_reply_to": "i026-e012",
+      "references": [
+        "i026-e011",
+        "i026-e012"
+      ],
+      "timestamp": "2026-07-03T12:52:46.277550",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Haddad",
+        "email": "liamh@sterlingcyber.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Tanaka",
+          "email": "bent@keystoneheal.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Dear Elena,\n\nAdding Bianca, who will handle the day-to-day on this.\n\nBest,\nLiam\nIncident Response Lead\nSterling Cyber\n\nOn Thu, Jul 02, 2026 at 09:56 AM, Elena Chowdhury <elenac@quinterowhitaker.com> wrote:\n> Hi Liam,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00"
+          ],
+          "thread_candidates": [
+            "i026-m00"
+          ],
+          "identifier_candidates": [
+            "i026-m00"
+          ],
+          "keyword_candidates": [
+            "i026-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e014",
+      "thread_id": "i026-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T08:37:30.459526",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Reyes",
+        "email": "zoe.reyes@stratusmate.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Quintero",
+          "email": "valerie.quintero@stratusmate.com"
+        }
+      ],
+      "subject": "Silverpine Networks - repeated SLA failures",
+      "body": "Hi Elena,\n\nSilverpine Networks has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nZoe\nChief Operating Officer\nStratus Materials",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m04"
+          ],
+          "keyword_candidates": [
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e015",
+      "thread_id": "i026-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T11:58:09.576502",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Castillo",
+        "email": "wcastillo@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Elena,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nWhitney",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e016",
+      "thread_id": "i026-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T09:43:49.916225",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Ellis",
+        "email": "emma.ellis@thompsonkaplan.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1922 Mission Street - lease draft",
+      "body": "Hello Elena,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nEmma Ellis\nPartner\nThompson & Kaplan LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m01"
+          ],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e017",
+      "thread_id": "i026-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T16:55:15.610832",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Abbott",
+        "email": "gabbott@vargalaurent.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Amberly deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest,\nGabriel Abbott\nAssociate\nVarga & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m05"
+          ],
+          "keyword_candidates": [
+            "i026-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e018",
+      "thread_id": "i026-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T08:32:36.563497",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Haddad",
+        "email": "isabel.haddad@bluefinlabs.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "subject": "Project Kestrel - LOI countersigned",
+      "body": "Hi Elena,\n\nGood news: Amberly Networks countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Friday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nIsabel Haddad\nVP, Corporate Development\nBluefin Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m05"
+          ],
+          "keyword_candidates": [
+            "i026-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e019",
+      "thread_id": "i026-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T11:13:19.126241",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Patel",
+        "email": "jpatel@corvidlogi.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Elena,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nJasmine Patel\nRecruiter\nCorvid Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e020",
+      "thread_id": "i026-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:07:49.689130",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Lindqvist",
+        "email": "isabel.lindqvist@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Quarry",
+      "body": "Dear Elena,\n\nPre-bills for Quarry Labs are ready for your review:\n\n- 56142-001  Chen Okafor v. Quarry\n\nPlease mark up and return by August 4.\n\nThanks,\nIsabel\nBilling Coordinator\nQuintero & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e021",
+      "thread_id": "i026-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T07:46:09.610563",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Goldberg",
+        "email": "fgoldberg@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hello Elena,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nFemi Goldberg\nIT Service Desk\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e022",
+      "thread_id": "i026-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T07:13:15.549329",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Jensen",
+        "email": "mjensen@trellisadr.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hi Elena,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nMaya Jensen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e023",
+      "thread_id": "i026-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T07:26:00.183138",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "biancap@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Dear Elena,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nBianca\nAssociate\nQuintero & Whitaker LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e024",
+      "thread_id": "i026-t018",
+      "in_reply_to": "i026-e023",
+      "references": [
+        "i026-e023"
+      ],
+      "timestamp": "2026-08-05T12:30:56.961311",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Park",
+          "email": "biancap@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Bianca,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nElena\nPartner\nQuintero & Whitaker LLP\n\nOn Wed, Aug 05, 2026 at 07:26 AM, Bianca Park <biancap@quinterowhitaker.com> wrote:\n> Dear Elena,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e025",
+      "thread_id": "i026-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T07:02:54.970265",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "valeriel@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hi Elena,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest regards,\nValerie\nSenior Associate\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e026",
+      "thread_id": "i026-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T07:30:44.997486",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "valeriel@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Elena,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest regards,\nValerie Lindqvist\nSenior Associate\nQuintero & Whitaker LLP",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e027",
+      "thread_id": "i026-t018",
+      "in_reply_to": "i026-e024",
+      "references": [
+        "i026-e023",
+        "i026-e024"
+      ],
+      "timestamp": "2026-08-06T09:46:10.106795",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "biancap@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Elena,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nBianca Park\nAssociate\nQuintero & Whitaker LLP\n\nOn Wed, Aug 05, 2026 at 12:30 PM, Elena Chowdhury <elenac@quinterowhitaker.com> wrote:\n> Hello Bianca,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e028",
+      "thread_id": "i026-t019",
+      "in_reply_to": "i026-e025",
+      "references": [
+        "i026-e025"
+      ],
+      "timestamp": "2026-08-06T15:19:48.978611",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Valerie,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e029",
+      "thread_id": "i026-t020",
+      "in_reply_to": "i026-e026",
+      "references": [
+        "i026-e026"
+      ],
+      "timestamp": "2026-08-07T07:57:05.371719",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Valerie,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Thu, Aug 06, 2026 at 07:30 AM, Valerie Lindqvist <valeriel@quinterowhitaker.com> wrote:\n> Elena,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e030",
+      "thread_id": "i026-t019",
+      "in_reply_to": "i026-e028",
+      "references": [
+        "i026-e025",
+        "i026-e028"
+      ],
+      "timestamp": "2026-08-10T08:02:37.121902",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "valeriel@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Elena,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nValerie\nSenior Associate\nQuintero & Whitaker LLP\n\nOn Thu, Aug 06, 2026 at 03:19 PM, Elena Chowdhury <elenac@quinterowhitaker.com> wrote:\n> Hi Valerie,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e031",
+      "thread_id": "i026-t019",
+      "in_reply_to": "i026-e030",
+      "references": [
+        "i026-e025",
+        "i026-e028",
+        "i026-e030"
+      ],
+      "timestamp": "2026-08-11T09:12:00.867713",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Valerie,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Mon, Aug 10, 2026 at 08:02 AM, Valerie Lindqvist <valeriel@quinterowhitaker.com> wrote:\n> Elena,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01",
+            "i026-m02",
+            "i026-m03",
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i026-e032",
+      "thread_id": "i026-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T15:36:36.338252",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Lindqvist",
+        "email": "qlindqvist@vargalaurent.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "subject": "Amberly / Bluefin - SPA comments",
+      "body": "Dear Elena,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Amberly customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest regards,\nQuinn Lindqvist\nPartner\nVarga & Laurent LLP",
+      "attachments": [
+        "Amberly SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m05"
+          ],
+          "keyword_candidates": [
+            "i026-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e033",
+      "thread_id": "i026-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T09:33:22.288926",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Rosen",
+        "email": "zrosen@marinertrust.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hello Elena,\n\nTo open the escrow account for the Kestrel transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?\n\nRegards,\nZoe Rosen\nVice President, Escrow Services\nMariner Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e034",
+      "thread_id": "i026-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:01:31.929961",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Moreau",
+          "email": "xavierm@cascadether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "valeriel@quinterowhitaker.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Xavier,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nElena\nPartner\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e035",
+      "thread_id": "i026-t022",
+      "in_reply_to": "i026-e033",
+      "references": [
+        "i026-e033"
+      ],
+      "timestamp": "2026-08-17T10:19:30.010665",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Rosen",
+          "email": "zrosen@marinertrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Zoe,\n\nConfirmed. I'll update the checklist.\n\nBest,\nElena\nPartner\nQuintero & Whitaker LLP\n\nOn Fri, Aug 14, 2026 at 09:33 AM, Zoe Rosen <zrosen@marinertrust.com> wrote:\n> Hello Elena,\n>\n> To open the escrow account for the Kestrel transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m05"
+          ],
+          "identifier_candidates": [
+            "i026-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e036",
+      "thread_id": "i026-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:28:42.847503",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Reyes",
+        "email": "xreyes@mendozasato.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Elena,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nXavier\nPartner\nMendoza & Sato LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e037",
+      "thread_id": "i026-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T18:46:58.627754",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Mendoza",
+        "email": "nadia.mendoza@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-180 - meet and confer",
+      "body": "Elena,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest regards,\nNadia Mendoza",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m02"
+          ],
+          "keyword_candidates": [
+            "i026-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e038",
+      "thread_id": "i026-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T07:26:56.085731",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Xu",
+        "email": "wei.xu@cascadether.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Moreau",
+          "email": "xavierm@cascadether.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Dear Elena,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-180). It asks for documents about our customer data practices going back to 2021. The return date is August 28. Can you call me?\n\nRegards,\nWei Xu\nGeneral Counsel\nCascade Therapeutics",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m02"
+          ],
+          "keyword_candidates": [
+            "i026-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e039",
+      "thread_id": "i026-t022",
+      "in_reply_to": "i026-e035",
+      "references": [
+        "i026-e033",
+        "i026-e035"
+      ],
+      "timestamp": "2026-08-19T07:14:56.763630",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Rosen",
+        "email": "zrosen@marinertrust.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hello Elena,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nZoe\nVice President, Escrow Services\nMariner Trust Company\n\nOn Mon, Aug 17, 2026 at 10:19 AM, Elena Chowdhury <elenac@quinterowhitaker.com> wrote:\n> Zoe,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m05",
+        "matter_ids": [
+          "i026-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m05"
+          ],
+          "thread_candidates": [
+            "i026-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e040",
+      "thread_id": "i026-t024",
+      "in_reply_to": "i026-e036",
+      "references": [
+        "i026-e036"
+      ],
+      "timestamp": "2026-08-19T09:02:36.428961",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Reyes",
+          "email": "xreyes@mendozasato.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Mon, Aug 17, 2026 at 10:28 AM, Xavier Reyes <xreyes@mendozasato.com> wrote:\n> Elena,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e041",
+      "thread_id": "i026-t026",
+      "in_reply_to": "i026-e038",
+      "references": [
+        "i026-e038"
+      ],
+      "timestamp": "2026-08-19T16:19:23.160008",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Wei Xu",
+          "email": "wei.xu@cascadether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Moreau",
+          "email": "xavierm@cascadether.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Wei,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nElena\nPartner\nQuintero & Whitaker LLP\n\nOn Tue, Aug 18, 2026 at 07:26 AM, Wei Xu <wei.xu@cascadether.com> wrote:\n> Dear Elena,\n>\n> We received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-180). It asks for documents about our customer data practices going back to 2021. The return date is August 28. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": [
+            "i026-m02"
+          ],
+          "identifier_candidates": [
+            "i026-m02"
+          ],
+          "keyword_candidates": [
+            "i026-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e042",
+      "thread_id": "i026-t026",
+      "in_reply_to": "i026-e041",
+      "references": [
+        "i026-e038",
+        "i026-e041"
+      ],
+      "timestamp": "2026-08-19T20:25:00.313577",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Xu",
+        "email": "wei.xu@cascadether.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Moreau",
+          "email": "xavierm@cascadether.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Elena,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nWei\nGeneral Counsel\nCascade Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": [
+            "i026-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e043",
+      "thread_id": "i026-t024",
+      "in_reply_to": "i026-e040",
+      "references": [
+        "i026-e036",
+        "i026-e040"
+      ],
+      "timestamp": "2026-08-20T08:37:30.621277",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Reyes",
+        "email": "xreyes@mendozasato.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Elena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nXavier Reyes\nPartner\nMendoza & Sato LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e044",
+      "thread_id": "i026-t024",
+      "in_reply_to": "i026-e043",
+      "references": [
+        "i026-e036",
+        "i026-e040",
+        "i026-e043"
+      ],
+      "timestamp": "2026-08-24T10:48:46.034976",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Reyes",
+          "email": "xreyes@mendozasato.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Dear Xavier,\n\nWorks for me. Let's do Thursday at noon.\n\nBest,\nElena\nPartner\nQuintero & Whitaker LLP\n\nOn Thu, Aug 20, 2026 at 08:37 AM, Xavier Reyes <xreyes@mendozasato.com> wrote:\n> Elena,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m04"
+          ],
+          "thread_candidates": [
+            "i026-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e045",
+      "thread_id": "i026-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T07:18:56.602421",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Young",
+        "email": "hyoung@northwindfood.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Elena,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nHiro Young\nGeneral Counsel\nNorthwind Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e046",
+      "thread_id": "i026-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T08:23:57.058204",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Whitaker",
+        "email": "pedro.whitaker@latticediscovery.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Park",
+          "email": "biancap@quinterowhitaker.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hi Elena,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nRegards,\nPedro Whitaker\nProject Manager\nLattice Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e047",
+      "thread_id": "i026-t027",
+      "in_reply_to": "i026-e045",
+      "references": [
+        "i026-e045"
+      ],
+      "timestamp": "2026-09-11T15:05:23.526776",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Young",
+          "email": "hyoung@northwindfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Hiro,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Thu, Sep 10, 2026 at 07:18 AM, Hiro Young <hyoung@northwindfood.com> wrote:\n> Dear Elena,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m01",
+        "matter_ids": [
+          "i026-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m01"
+          ],
+          "thread_candidates": [
+            "i026-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e048",
+      "thread_id": "i026-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T09:03:10.951816",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "biancap@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hello Elena,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nBianca Park\nAssociate\nQuintero & Whitaker LLP",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m02",
+        "matter_ids": [
+          "i026-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i026-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e049",
+      "thread_id": "i026-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:21:19.017282",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Lindqvist",
+        "email": "isabel.lindqvist@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Stratus",
+      "body": "Elena,\n\nPre-bills for Stratus Materials are ready for your review:\n\n- 76964-001  Stratus v. Silverpine (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nRegards,\nIsabel\nBilling Coordinator\nQuintero & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m04",
+        "matter_ids": [
+          "i026-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e050",
+      "thread_id": "i026-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T17:57:10.046758",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "biancap@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Elena,\n\nStatus on my matters this week:\n\n- Security incident: forensics report pending; consumer notification letters in draft.\n- SEC CID: collection 80% complete; first rolling production targeted for October 25.\n- Silverpine MSA: notice of breach sent, cure period running; damages model in draft.\n\nRegards,\nBianca Park\nAssociate\nQuintero & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m00",
+        "matter_ids": [
+          "i026-m00",
+          "i026-m02",
+          "i026-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m04"
+          ],
+          "keyword_candidates": [
+            "i026-m00",
+            "i026-m02",
+            "i026-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e051",
+      "thread_id": "i026-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T09:18:45.467837",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Tanaka",
+        "email": "ttanaka@copperleafadr.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Whitaker",
+          "email": "kenjiw@leewhitaker.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Dear Elena,\n\nI have the following dates available for a full-day mediation: October 24 and October 31. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nRegards,\nThomas Tanaka",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e052",
+      "thread_id": "i026-t032",
+      "in_reply_to": "i026-e051",
+      "references": [
+        "i026-e051"
+      ],
+      "timestamp": "2026-10-07T07:49:01.664322",
+      "folder": "sent",
+      "from": {
+        "name": "Elena Chowdhury",
+        "email": "elenac@quinterowhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Tanaka",
+          "email": "ttanaka@copperleafadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Whitaker",
+          "email": "kenjiw@leewhitaker.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Dear Thomas,\n\nQuick follow-up on the below. Any update?\n\nBest,\nElena Chowdhury\nPartner\nQuintero & Whitaker LLP\n\nOn Mon, Oct 05, 2026 at 09:18 AM, Thomas Tanaka <ttanaka@copperleafadr.com> wrote:\n> Dear Elena,\n>\n> I have the following dates available for a full-day mediation: October 24 and October 31. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i026-m03"
+          ],
+          "thread_candidates": [
+            "i026-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i026-e053",
+      "thread_id": "i026-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-07T12:31:02.618635",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Whitaker",
+        "email": "kenjiw@leewhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Elena Chowdhury",
+          "email": "elenac@quinterowhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Chen Okafor v. Quarry - Case No. 4:26-cv-03257",
+      "body": "Hi Elena,\n\nPlease see attached the complaint filed today in Chen Okafor v. Quarry Labs, Case No. 4:26-cv-03257. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Quarry.\n\nRegards,\nKenji Whitaker",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i026-m03",
+        "matter_ids": [
+          "i026-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i026-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i026-m03"
+          ],
+          "keyword_candidates": [
+            "i026-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700026
+}

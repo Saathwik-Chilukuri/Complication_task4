@@ -1,0 +1,2499 @@
+{
+  "instance_id": "i035",
+  "firm": {
+    "name": "Kowalski & Chowdhury LLP",
+    "domain": "kowalskichowdhury.com"
+  },
+  "user_contact_id": "i035-c000",
+  "matters": [
+    {
+      "matter_id": "i035-m00",
+      "matter_number": "44827-001",
+      "name": "Mariner - Acquisition of Trellis Health (Project Atlas)",
+      "client": "Mariner Biosciences",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Trellis Health by Mariner Biosciences. Stock purchase, ~$240 million.",
+      "counterparty": "Trellis Health",
+      "opposing_counsel_firm": "Okafor & Brennan LLP",
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "44827-001",
+        "Project Atlas",
+        "Atlas",
+        "Trellis Health",
+        "Trellis"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i035-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i035-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i035-c006",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i035-c007",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i035-c008",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i035-m01",
+      "matter_number": "39376-001",
+      "name": "Riverstone - Data Security Incident",
+      "client": "Riverstone Labs",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Riverstone Labs's customer database. Forensics by Ironbridge Cyber.",
+      "counterparty": "Ironbridge Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-04",
+      "key_terms": [
+        "39376-001",
+        "Ironbridge Cyber",
+        "Ironbridge"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i035-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i035-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i035-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i035-c010",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i035-c011",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i035-m02",
+      "matter_number": "39376-002",
+      "name": "Riverstone - FTC Investigation (CID No. 2025-482)",
+      "client": "Riverstone Labs",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Riverstone Labs's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-06-07",
+      "key_terms": [
+        "39376-002",
+        "2025-482",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i035-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i035-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i035-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i035-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i035-c014",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i035-c000",
+      "name": "Thomas Chowdhury",
+      "first": "Thomas",
+      "email": "thomasc@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i035-c001",
+      "name": "Aisha Underwood",
+      "first": "Aisha",
+      "email": "aunderwood@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i035-c002",
+      "name": "Diego Park",
+      "first": "Diego",
+      "email": "diego.park@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i035-c003",
+      "name": "Victor Huang",
+      "first": "Victor",
+      "email": "victorh@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i035-c004",
+      "name": "Tara Delgado",
+      "first": "Tara",
+      "email": "tdelgado@marinerbios.com",
+      "organization": "Mariner Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c005",
+      "name": "Sofia Quintero",
+      "first": "Sofia",
+      "email": "sofia.quintero@riverstonelabs.com",
+      "organization": "Riverstone Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c006",
+      "name": "James Novak",
+      "first": "James",
+      "email": "jnovak@marinerbios.com",
+      "organization": "Mariner Biosciences",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c007",
+      "name": "Nikhil Weiss",
+      "first": "Nikhil",
+      "email": "nweiss@okaforbrennan.com",
+      "organization": "Okafor & Brennan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c008",
+      "name": "Wei Xu",
+      "first": "Wei",
+      "email": "weix@copperleaftrust.com",
+      "organization": "Copperleaf Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c009",
+      "name": "Olivia Quintero",
+      "first": "Olivia",
+      "email": "olivia.quintero@riverstonelabs.com",
+      "organization": "Riverstone Labs",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c010",
+      "name": "Priya Park",
+      "first": "Priya",
+      "email": "priya.park@ironbridgecyber.com",
+      "organization": "Ironbridge Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c011",
+      "name": "Bianca Castillo",
+      "first": "Bianca",
+      "email": "bianca.castillo@sterlingmutual.com",
+      "organization": "Sterling Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c012",
+      "name": "Bianca Laurent",
+      "first": "Bianca",
+      "email": "bianca.laurent@riverstonelabs.com",
+      "organization": "Riverstone Labs",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c013",
+      "name": "Elena Ellis",
+      "first": "Elena",
+      "email": "elenae@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c014",
+      "name": "Hannah Delgado",
+      "first": "Hannah",
+      "email": "hdelgado@parallaxdiscovery.com",
+      "organization": "Parallax Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c015",
+      "name": "Daniel Moreau",
+      "first": "Daniel",
+      "email": "danielm@okaforbrennan.com",
+      "organization": "Okafor & Brennan LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c016",
+      "name": "Hiro Whitaker",
+      "first": "Hiro",
+      "email": "hiro.whitaker@okaforbrennan.com",
+      "organization": "Okafor & Brennan LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c017",
+      "name": "Chen Iyer",
+      "first": "Chen",
+      "email": "ciyer@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i035-c018",
+      "name": "Gabriel Jensen",
+      "first": "Gabriel",
+      "email": "gjensen@silverpineadr.com",
+      "organization": "Silverpine Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c019",
+      "name": "Aisha Okafor",
+      "first": "Aisha",
+      "email": "aisha.okafor@northwindcomms.com",
+      "organization": "Northwind Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i035-c020",
+      "name": "Uma Rosen",
+      "first": "Uma",
+      "email": "umar@kowalskichowdhury.com",
+      "organization": "Kowalski & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i035-e000",
+      "thread_id": "i035-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-04T14:33:37.625851",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Thomas,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nThanks,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e001",
+      "thread_id": "i035-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T10:34:41.703330",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hi Thomas,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nRegards,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e002",
+      "thread_id": "i035-t001",
+      "in_reply_to": "i035-e001",
+      "references": [
+        "i035-e001"
+      ],
+      "timestamp": "2026-06-16T09:21:17.122256",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Sofia,\n\nConfirmed. I'll update the checklist.\n\nBest,\nThomas\n\nOn Mon, Jun 15, 2026 at 10:34 AM, Sofia Quintero <sofia.quintero@riverstonelabs.com> wrote:\n> Hi Thomas,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e003",
+      "thread_id": "i035-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-16T20:16:21.686464",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Castillo",
+        "email": "bianca.castillo@sterlingmutual.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Thomas,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Ironbridge.\n\nRegards,\nBianca Castillo\nClaims Specialist\nSterling Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e004",
+      "thread_id": "i035-t002",
+      "in_reply_to": "i035-e003",
+      "references": [
+        "i035-e003"
+      ],
+      "timestamp": "2026-06-18T08:14:27.029181",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Castillo",
+          "email": "bianca.castillo@sterlingmutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Bianca,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nThomas\n\nOn Tue, Jun 16, 2026 at 08:16 PM, Bianca Castillo <bianca.castillo@sterlingmutual.com> wrote:\n> Hi Thomas,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Ironbridge.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [
+            "i035-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e005",
+      "thread_id": "i035-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T14:00:37.183102",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Park",
+        "email": "diego.park@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hi Thomas,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nRegards,\nDiego Park\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00",
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e006",
+      "thread_id": "i035-t003",
+      "in_reply_to": "i035-e005",
+      "references": [
+        "i035-e005"
+      ],
+      "timestamp": "2026-06-22T08:25:57.831548",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Dear Diego,\n\nWorks for me. Let's do Friday at 9:00 a.m..\n\nBest regards,\nThomas",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00",
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e007",
+      "thread_id": "i035-t003",
+      "in_reply_to": "i035-e006",
+      "references": [
+        "i035-e005",
+        "i035-e006"
+      ],
+      "timestamp": "2026-06-23T09:33:17.078287",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Park",
+        "email": "diego.park@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Thomas,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nDiego\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 22, 2026 at 08:25 AM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Dear Diego,\n>\n> Works for me. Let's do Friday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00",
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e008",
+      "thread_id": "i035-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T09:16:17.828271",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Park",
+        "email": "priya.park@ironbridgecyber.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Quintero",
+          "email": "olivia.quintero@riverstonelabs.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Hi Thomas,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nThanks,\nPriya\nIncident Response Lead\nIronbridge Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m01"
+          ],
+          "keyword_candidates": [
+            "i035-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e009",
+      "thread_id": "i035-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:31:41.277371",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Laurent",
+          "email": "bianca.laurent@riverstonelabs.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Thomas,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2025-482). It asks for documents about our customer data practices going back to 2021. The return date is August 7. Can you call me?\n\nBest,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m02"
+          ],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e010",
+      "thread_id": "i035-t004",
+      "in_reply_to": "i035-e008",
+      "references": [
+        "i035-e008"
+      ],
+      "timestamp": "2026-07-20T10:43:18.344860",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Priya Park",
+          "email": "priya.park@ironbridgecyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Quintero",
+          "email": "olivia.quintero@riverstonelabs.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Priya,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nThomas\n\nOn Fri, Jul 17, 2026 at 09:16 AM, Priya Park <priya.park@ironbridgecyber.com> wrote:\n> Hi Thomas,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e011",
+      "thread_id": "i035-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T07:49:16.613001",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Laurent",
+          "email": "bianca.laurent@riverstonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Underwood",
+          "email": "aunderwood@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Bianca,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nThomas Chowdhury",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e012",
+      "thread_id": "i035-t005",
+      "in_reply_to": "i035-e009",
+      "references": [
+        "i035-e009"
+      ],
+      "timestamp": "2026-07-21T20:53:46.435435",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Laurent",
+          "email": "bianca.laurent@riverstonelabs.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hello Sofia,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nThomas",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e013",
+      "thread_id": "i035-t006",
+      "in_reply_to": "i035-e011",
+      "references": [
+        "i035-e011"
+      ],
+      "timestamp": "2026-07-22T18:46:42.628242",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Laurent",
+        "email": "bianca.laurent@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Underwood",
+          "email": "aunderwood@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Dear Thomas,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nBianca Laurent\n\nOn Tue, Jul 21, 2026 at 07:49 AM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Hello Bianca,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e014",
+      "thread_id": "i035-t005",
+      "in_reply_to": "i035-e012",
+      "references": [
+        "i035-e009",
+        "i035-e012"
+      ],
+      "timestamp": "2026-07-23T07:00:03.652075",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Laurent",
+          "email": "bianca.laurent@riverstonelabs.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Thomas,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs\n\nOn Tue, Jul 21, 2026 at 08:53 PM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Hello Sofia,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e015",
+      "thread_id": "i035-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:35:07.269753",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Thomas,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest regards,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e016",
+      "thread_id": "i035-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T13:22:02.785663",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Delgado",
+        "email": "tdelgado@marinerbios.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Thomas,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nRegards,\nTara\nGeneral Counsel\nMariner Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e017",
+      "thread_id": "i035-t007",
+      "in_reply_to": "i035-e015",
+      "references": [
+        "i035-e015"
+      ],
+      "timestamp": "2026-07-29T09:20:27.344754",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Sofia,\n\nAdding Diego, who will handle the day-to-day on this.\n\nRegards,\nThomas Chowdhury\n\nOn Mon, Jul 27, 2026 at 10:35 AM, Sofia Quintero <sofia.quintero@riverstonelabs.com> wrote:\n> Hello Thomas,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e018",
+      "thread_id": "i035-t007",
+      "in_reply_to": "i035-e017",
+      "references": [
+        "i035-e015",
+        "i035-e017"
+      ],
+      "timestamp": "2026-07-30T07:06:10.847512",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Thomas,\n\nThanks. Separately, on the FTC investigation, the audit committee wants to know whether we're on track for the first production.\n\nBest,\nSofia Quintero\nGeneral Counsel\nRiverstone Labs\n\nOn Wed, Jul 29, 2026 at 09:20 AM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Dear Sofia,\n>\n> Adding Diego, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02",
+          "i035-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e019",
+      "thread_id": "i035-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T12:40:19.137663",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Dear Thomas,\n\nTwo quick things.\n\n1. On the security incident, our insurer is asking for an updated budget.\n2. On the FTC investigation, the audit committee wants to know whether we're on track for the first production.\n\nBest,\nSofia\nGeneral Counsel\nRiverstone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01",
+          "i035-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e020",
+      "thread_id": "i035-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T07:03:51.237219",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Okafor",
+        "email": "aisha.okafor@northwindcomms.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear Thomas,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest,\nAisha",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e021",
+      "thread_id": "i035-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T08:43:26.004942",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Quintero",
+          "email": "olivia.quintero@riverstonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hello Olivia,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Ironbridge.\n\nThanks,\nThomas Chowdhury",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e022",
+      "thread_id": "i035-t011",
+      "in_reply_to": "i035-e021",
+      "references": [
+        "i035-e021"
+      ],
+      "timestamp": "2026-08-10T09:34:42.520459",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Quintero",
+        "email": "olivia.quintero@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Thomas,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOlivia Quintero\nChief Information Security Officer\nRiverstone Labs\n\nOn Fri, Aug 07, 2026 at 08:43 AM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Hello Olivia,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Ironbridge.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [
+            "i035-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e023",
+      "thread_id": "i035-t011",
+      "in_reply_to": "i035-e022",
+      "references": [
+        "i035-e021",
+        "i035-e022"
+      ],
+      "timestamp": "2026-08-12T07:17:21.985679",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Quintero",
+          "email": "olivia.quintero@riverstonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@riverstonelabs.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Olivia,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nThomas\n\nOn Mon, Aug 10, 2026 at 09:34 AM, Olivia Quintero <olivia.quintero@riverstonelabs.com> wrote:\n> Dear Thomas,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m01"
+          ],
+          "thread_candidates": [
+            "i035-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e024",
+      "thread_id": "i035-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T10:54:17.720550",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Underwood",
+        "email": "aunderwood@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Thomas,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nRegards,\nAisha Underwood\nAssociate\nKowalski & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e025",
+      "thread_id": "i035-t012",
+      "in_reply_to": "i035-e024",
+      "references": [
+        "i035-e024"
+      ],
+      "timestamp": "2026-08-13T13:33:41.538855",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Underwood",
+          "email": "aunderwood@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Hi Aisha,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nThomas",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": [
+            "i035-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i035-e026",
+      "thread_id": "i035-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:52:48.125624",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Ellis",
+        "email": "elenae@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nRegards,\nElena\nStaff Attorney\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e027",
+      "thread_id": "i035-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:06:08.928720",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Ellis",
+        "email": "elenae@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-482 - meet and confer",
+      "body": "Hi Thomas,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nRegards,\nElena Ellis\nStaff Attorney\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m02"
+          ],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e028",
+      "thread_id": "i035-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:33:56.292517",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Laurent",
+        "email": "bianca.laurent@riverstonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Thomas,\n\nThe audit committee wants an update at its meeting on September 4. Could you prepare a short summary of status, exposure, and next steps?\n\nBest,\nBianca Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m02",
+        "matter_ids": [
+          "i035-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e029",
+      "thread_id": "i035-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:49:12.981120",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Iyer",
+        "email": "ciyer@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Dear Thomas,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest,\nChen\nProfessional Development Manager\nKowalski & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e030",
+      "thread_id": "i035-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:22:46.981449",
+      "folder": "inbox",
+      "from": {
+        "name": "James Novak",
+        "email": "jnovak@marinerbios.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Hi Thomas,\n\nGood news: Trellis Health countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Tuesday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nJames Novak",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e031",
+      "thread_id": "i035-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T11:34:14.769165",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Huang",
+        "email": "victorh@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Mariner",
+      "body": "Dear Thomas,\n\nPre-bills for Mariner Biosciences are ready for your review:\n\n- 44827-001  Mariner - Acquisition of Trellis Health (Project Atlas)\n\nPlease mark up and return by September 4.\n\nThanks,\nVictor Huang\nBilling Coordinator\nKowalski & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e032",
+      "thread_id": "i035-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T16:14:17.549703",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Huang",
+        "email": "victorh@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Riverstone",
+      "body": "Hi Thomas,\n\nPre-bills for Riverstone Labs are ready for your review:\n\n- 39376-001  Riverstone - Data Security Incident\n- 39376-002  Riverstone - FTC Investigation (CID No. 2025-482)\n\nPlease mark up and return by September 4.\n\nRegards,\nVictor Huang\nBilling Coordinator\nKowalski & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m01",
+        "matter_ids": [
+          "i035-m01",
+          "i035-m02"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m01",
+            "i035-m02"
+          ],
+          "keyword_candidates": [
+            "i035-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e033",
+      "thread_id": "i035-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T13:16:46.146403",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Rosen",
+        "email": "umar@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Thomas,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nRegards,\nUma Rosen\nPartner\nKowalski & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e034",
+      "thread_id": "i035-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T09:19:44.965602",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Whitaker",
+        "email": "hiro.whitaker@okaforbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Trellis deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nRegards,\nHiro\nAssociate\nOkafor & Brennan LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e035",
+      "thread_id": "i035-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:39:41.947945",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Weiss",
+        "email": "nweiss@okaforbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Trellis / Mariner - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Trellis customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nNikhil\nPartner\nOkafor & Brennan LLP",
+      "attachments": [
+        "Trellis SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e036",
+      "thread_id": "i035-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T08:54:37.013108",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Moreau",
+        "email": "danielm@okaforbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Thomas,\n\nI've joined the Trellis deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nThanks,\nDaniel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e037",
+      "thread_id": "i035-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T10:01:09.248944",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Park",
+        "email": "diego.park@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Atlas - disclosure schedules open items",
+      "body": "Dear Thomas,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Trellis's counsel directly?\n\nThanks,\nDiego Park\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00",
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e038",
+      "thread_id": "i035-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T09:15:42.153113",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Delgado",
+        "email": "tdelgado@marinerbios.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hi Thomas,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nTara Delgado\nGeneral Counsel\nMariner Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e039",
+      "thread_id": "i035-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-07T17:12:24.684973",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Weiss",
+          "email": "nweiss@okaforbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Diego and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nThanks,\nThomas",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e040",
+      "thread_id": "i035-t026",
+      "in_reply_to": "i035-e039",
+      "references": [
+        "i035-e039"
+      ],
+      "timestamp": "2026-10-08T07:36:33.619235",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Weiss",
+        "email": "nweiss@okaforbrennan.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nNikhil Weiss\nPartner\nOkafor & Brennan LLP\n\nOn Wed, Oct 07, 2026 at 05:12 PM, Thomas Chowdhury <thomasc@kowalskichowdhury.com> wrote:\n> Counsel,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Diego and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": [
+            "i035-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i035-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e041",
+      "thread_id": "i035-t026",
+      "in_reply_to": "i035-e040",
+      "references": [
+        "i035-e039",
+        "i035-e040"
+      ],
+      "timestamp": "2026-10-09T08:27:52.482807",
+      "folder": "sent",
+      "from": {
+        "name": "Thomas Chowdhury",
+        "email": "thomasc@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Weiss",
+          "email": "nweiss@okaforbrennan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Park",
+          "email": "diego.park@kowalskichowdhury.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nRegards,\nThomas Chowdhury\n\nOn Thu, Oct 08, 2026 at 07:36 AM, Nikhil Weiss <nweiss@okaforbrennan.com> wrote:\n> Counsel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00"
+          ],
+          "thread_candidates": [
+            "i035-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e042",
+      "thread_id": "i035-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T10:15:30.836386",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Jensen",
+        "email": "gjensen@silverpineadr.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Dear Thomas,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nGabriel\nSection Chair\nSilverpine Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i035-e043",
+      "thread_id": "i035-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-13T18:38:54.381812",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Park",
+        "email": "diego.park@kowalskichowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Chowdhury",
+          "email": "thomasc@kowalskichowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Thomas,\n\nStatus on my matters this week:\n\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for October 23.\n- Security incident: forensics report pending; consumer notification letters in draft.\n\nThanks,\nDiego Park\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i035-m00",
+        "matter_ids": [
+          "i035-m00",
+          "i035-m01"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i035-m00",
+            "i035-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i035-m00"
+          ],
+          "keyword_candidates": [
+            "i035-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700035
+}

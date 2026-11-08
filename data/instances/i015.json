@@ -1,0 +1,3747 @@
+{
+  "instance_id": "i015",
+  "firm": {
+    "name": "Varga & Castillo LLP",
+    "domain": "vargacastillo.com"
+  },
+  "user_contact_id": "i015-c000",
+  "matters": [
+    {
+      "matter_id": "i015-m00",
+      "matter_number": "36861-001",
+      "name": "Lumen v. Evergreen ('243 Patent)",
+      "client": "Lumen Energy",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Lumen Energy against Evergreen Systems asserting U.S. Patent No. 10,243,131.",
+      "counterparty": "Evergreen Systems",
+      "opposing_counsel_firm": "Park & Tanaka LLP",
+      "status": "open",
+      "opened_on": "2026-07-13",
+      "key_terms": [
+        "36861-001",
+        "10,243,131",
+        "'243",
+        "Evergreen Systems",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i015-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i015-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i015-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i015-c009",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i015-m01",
+      "matter_number": "36861-002",
+      "name": "Lumen v. Riverstone (MSA Dispute)",
+      "client": "Lumen Energy",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Lumen Energy against vendor Riverstone Systems.",
+      "counterparty": "Riverstone Systems",
+      "opposing_counsel_firm": "Novak & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-06-26",
+      "key_terms": [
+        "36861-002",
+        "Riverstone Systems",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i015-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i015-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i015-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i015-c012",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i015-m02",
+      "matter_number": "97411-001",
+      "name": "Copperleaf - Acquisition of Tidewater Robotics (Project Atlas)",
+      "client": "Copperleaf Software",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Tidewater Robotics by Copperleaf Software. Stock purchase, ~$240 million.",
+      "counterparty": "Tidewater Robotics",
+      "opposing_counsel_firm": "Park & Tanaka LLP",
+      "status": "open",
+      "opened_on": "2026-06-14",
+      "key_terms": [
+        "97411-001",
+        "Project Atlas",
+        "Atlas",
+        "Tidewater Robotics",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i015-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i015-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i015-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i015-c014",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i015-m03",
+      "matter_number": "55895-001",
+      "name": "Brightline - FTC Investigation (CID No. 2026-684)",
+      "client": "Brightline Energy",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Brightline Energy's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "55895-001",
+        "2026-684",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i015-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i015-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i015-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i015-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i015-c017",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i015-c000",
+      "name": "Isabel Vasquez",
+      "first": "Isabel",
+      "email": "ivasquez@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c001",
+      "name": "Olivia Chowdhury",
+      "first": "Olivia",
+      "email": "oliviac@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c002",
+      "name": "Sofia Kowalski",
+      "first": "Sofia",
+      "email": "skowalski@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c003",
+      "name": "Wei Haddad",
+      "first": "Wei",
+      "email": "whaddad@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c004",
+      "name": "Quinn Park",
+      "first": "Quinn",
+      "email": "quinn.park@lumenener.com",
+      "organization": "Lumen Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c005",
+      "name": "Olivia Jensen",
+      "first": "Olivia",
+      "email": "olivia.jensen@copperleafsoft.com",
+      "organization": "Copperleaf Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c006",
+      "name": "Priya Haddad",
+      "first": "Priya",
+      "email": "priyah@brightlineener.com",
+      "organization": "Brightline Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c007",
+      "name": "Daniel Fischer",
+      "first": "Daniel",
+      "email": "danielf@lumenener.com",
+      "organization": "Lumen Energy",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c008",
+      "name": "Lucia Brennan",
+      "first": "Lucia",
+      "email": "lbrennan@parktanaka.com",
+      "organization": "Park & Tanaka LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c009",
+      "name": "Farid Abbott",
+      "first": "Farid",
+      "email": "fabbott@driftwoodtech.com",
+      "organization": "Driftwood Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c010",
+      "name": "Valerie Alvarez",
+      "first": "Valerie",
+      "email": "valeriea@lumenener.com",
+      "organization": "Lumen Energy",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c011",
+      "name": "Umar Reyes",
+      "first": "Umar",
+      "email": "ureyes@novakdelgado.com",
+      "organization": "Novak & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c012",
+      "name": "Kenji Chowdhury",
+      "first": "Kenji",
+      "email": "kenjic@parallaxadr.com",
+      "organization": "Parallax Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c013",
+      "name": "Arjun Laurent",
+      "first": "Arjun",
+      "email": "alaurent@copperleafsoft.com",
+      "organization": "Copperleaf Software",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c014",
+      "name": "Samuel Rosen",
+      "first": "Samuel",
+      "email": "srosen@trellistrust.com",
+      "organization": "Trellis Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c015",
+      "name": "Ben Thompson",
+      "first": "Ben",
+      "email": "ben.thompson@brightlineener.com",
+      "organization": "Brightline Energy",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c016",
+      "name": "Uma Novak",
+      "first": "Uma",
+      "email": "unovak@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c017",
+      "name": "Diego Zhang",
+      "first": "Diego",
+      "email": "diego.zhang@marinerdiscovery.com",
+      "organization": "Mariner Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c018",
+      "name": "Sofia Mendoza",
+      "first": "Sofia",
+      "email": "sofiam@wavecrestheal.com",
+      "organization": "Wavecrest Health",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i015-c019",
+      "name": "Marcus Underwood",
+      "first": "Marcus",
+      "email": "marcusu@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c020",
+      "name": "Hannah Kowalski",
+      "first": "Hannah",
+      "email": "hannahk@vargacastillo.com",
+      "organization": "Varga & Castillo LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i015-c021",
+      "name": "Femi Young",
+      "first": "Femi",
+      "email": "femi.young@corvidcomms.com",
+      "organization": "Corvid Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i015-e000",
+      "thread_id": "i015-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T12:28:24.590039",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Umar Reyes",
+          "email": "ureyes@novakdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nThanks,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e001",
+      "thread_id": "i015-t000",
+      "in_reply_to": "i015-e000",
+      "references": [
+        "i015-e000"
+      ],
+      "timestamp": "2026-07-02T08:33:18.496893",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Reyes",
+        "email": "ureyes@novakdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nUmar\n\nOn Tue, Jun 30, 2026 at 12:28 PM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Counsel,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e002",
+      "thread_id": "i015-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T09:32:51.984807",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lbrennan@parktanaka.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Tidewater / Copperleaf - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Tidewater customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nLucia Brennan\nPartner\nPark & Tanaka LLP",
+      "attachments": [
+        "Tidewater SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e003",
+      "thread_id": "i015-t001",
+      "in_reply_to": "i015-e002",
+      "references": [
+        "i015-e002"
+      ],
+      "timestamp": "2026-07-10T20:27:15.856521",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Tidewater / Copperleaf - SPA comments",
+      "body": "Lucia,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 09, 2026 at 09:32 AM, Lucia Brennan <lbrennan@parktanaka.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Tidewater customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e004",
+      "thread_id": "i015-t001",
+      "in_reply_to": "i015-e003",
+      "references": [
+        "i015-e002",
+        "i015-e003"
+      ],
+      "timestamp": "2026-07-13T10:09:14.626850",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lbrennan@parktanaka.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Tidewater / Copperleaf - SPA comments",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nLucia\nPartner\nPark & Tanaka LLP\n\nOn Fri, Jul 10, 2026 at 08:27 PM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Lucia,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e005",
+      "thread_id": "i015-t001",
+      "in_reply_to": "i015-e004",
+      "references": [
+        "i015-e002",
+        "i015-e003",
+        "i015-e004"
+      ],
+      "timestamp": "2026-07-14T08:42:37.543118",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Tidewater / Copperleaf - SPA comments",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e006",
+      "thread_id": "i015-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T11:10:40.565564",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Olivia and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nThanks,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e007",
+      "thread_id": "i015-t002",
+      "in_reply_to": "i015-e006",
+      "references": [
+        "i015-e006"
+      ],
+      "timestamp": "2026-07-17T07:07:53.990350",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lbrennan@parktanaka.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hello Isabel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nLucia\nPartner\nPark & Tanaka LLP\n\nOn Wed, Jul 15, 2026 at 11:10 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Counsel,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Olivia and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e008",
+      "thread_id": "i015-t002",
+      "in_reply_to": "i015-e007",
+      "references": [
+        "i015-e006",
+        "i015-e007"
+      ],
+      "timestamp": "2026-07-20T09:14:24.445271",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hi Lucia,\n\nAdding Sofia, who will handle the day-to-day on this.\n\nBest,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 17, 2026 at 07:07 AM, Lucia Brennan <lbrennan@parktanaka.com> wrote:\n> Hello Isabel,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e009",
+      "thread_id": "i015-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:50:21.789541",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Mendoza",
+        "email": "sofiam@wavecrestheal.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Transition planning",
+      "body": "Isabel,\n\nWe've been engaged by Lumen to replace Riverstone Systems as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Riverstone under the MSA.\n\nThanks,\nSofia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e010",
+      "thread_id": "i015-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T16:49:01.501546",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Chowdhury",
+        "email": "oliviac@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Isabel,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nOlivia",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01",
+            "i015-m02",
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e011",
+      "thread_id": "i015-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:37:12.594884",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Jensen",
+        "email": "olivia.jensen@copperleafsoft.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Isabel,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nOlivia Jensen\nGeneral Counsel\nCopperleaf Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e012",
+      "thread_id": "i015-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:37:19.274204",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Jensen",
+        "email": "olivia.jensen@copperleafsoft.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Dear Isabel,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nRegards,\nOlivia Jensen\nGeneral Counsel\nCopperleaf Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e013",
+      "thread_id": "i015-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T09:19:27.753064",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Kowalski",
+        "email": "hannahk@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hi Isabel,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nHannah Kowalski\nMarketing Coordinator\nVarga & Castillo LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e014",
+      "thread_id": "i015-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T10:16:44.761890",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Chowdhury",
+        "email": "kenjic@parallaxadr.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Reyes",
+          "email": "ureyes@novakdelgado.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Isabel,\n\nThis confirms receipt of the demand for arbitration in Lumen Energy v. Riverstone Systems. The administrative conference is scheduled for August 24. Please confirm your availability.\n\nThanks,\nKenji",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e015",
+      "thread_id": "i015-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T09:03:58.610136",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Ben,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e016",
+      "thread_id": "i015-t008",
+      "in_reply_to": "i015-e014",
+      "references": [
+        "i015-e014"
+      ],
+      "timestamp": "2026-08-06T16:49:48.097799",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Chowdhury",
+          "email": "kenjic@parallaxadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Reyes",
+          "email": "ureyes@novakdelgado.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Kenji,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e017",
+      "thread_id": "i015-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T14:54:47.190106",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Haddad",
+        "email": "priyah@brightlineener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hi Isabel,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2026-684). It asks for documents about our customer data practices going back to 2021. The return date is August 18. Can you call me?\n\nBest regards,\nPriya Haddad\nGeneral Counsel\nBrightline Energy",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m03"
+          ],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e018",
+      "thread_id": "i015-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T19:29:27.106356",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Rosen",
+        "email": "srosen@trellistrust.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Isabel,\n\nTo open the escrow account for the Atlas transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nBest,\nSamuel\nVice President, Escrow Services\nTrellis Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e019",
+      "thread_id": "i015-t010",
+      "in_reply_to": "i015-e017",
+      "references": [
+        "i015-e017"
+      ],
+      "timestamp": "2026-08-10T08:38:39.859732",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Priya Haddad",
+          "email": "priyah@brightlineener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Priya,\n\nWorks for me. Let's do Wednesday at 2:00 p.m..\n\nRegards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 07, 2026 at 02:54 PM, Priya Haddad <priyah@brightlineener.com> wrote:\n> Hi Isabel,\n>\n> We received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2026-684). It asks for documents about our customer data practices going back to 2021. The return date is August 18. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [
+            "i015-m03"
+          ],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e020",
+      "thread_id": "i015-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:12:15.723480",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Abbott",
+        "email": "fabbott@driftwoodtech.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hello Isabel,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 17.\n\nBest regards,\nFarid Abbott\nPrincipal\nDriftwood Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e021",
+      "thread_id": "i015-t009",
+      "in_reply_to": "i015-e015",
+      "references": [
+        "i015-e015"
+      ],
+      "timestamp": "2026-08-10T09:27:24.033773",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Thompson",
+        "email": "ben.thompson@brightlineener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Isabel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nBen Thompson\n\nOn Thu, Aug 06, 2026 at 09:03 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hello Ben,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e022",
+      "thread_id": "i015-t012",
+      "in_reply_to": "i015-e020",
+      "references": [
+        "i015-e020"
+      ],
+      "timestamp": "2026-08-10T13:19:30.517187",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Abbott",
+          "email": "fabbott@driftwoodtech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Farid,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 09:12 AM, Farid Abbott <fabbott@driftwoodtech.com> wrote:\n> Hello Isabel,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 17.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e023",
+      "thread_id": "i015-t010",
+      "in_reply_to": "i015-e019",
+      "references": [
+        "i015-e017",
+        "i015-e019"
+      ],
+      "timestamp": "2026-08-10T20:25:22.462842",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Haddad",
+        "email": "priyah@brightlineener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hello Isabel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nPriya\nGeneral Counsel\nBrightline Energy\n\nOn Mon, Aug 10, 2026 at 08:38 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hi Priya,\n>\n> Works for me. Let's do Wednesday at 2:00 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e024",
+      "thread_id": "i015-t009",
+      "in_reply_to": "i015-e021",
+      "references": [
+        "i015-e015",
+        "i015-e021"
+      ],
+      "timestamp": "2026-08-10T20:45:51.906969",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Ben,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e025",
+      "thread_id": "i015-t012",
+      "in_reply_to": "i015-e022",
+      "references": [
+        "i015-e020",
+        "i015-e022"
+      ],
+      "timestamp": "2026-08-11T17:44:34.743203",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Abbott",
+        "email": "fabbott@driftwoodtech.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Isabel,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nFarid\nPrincipal\nDriftwood Technical Consulting\n\nOn Mon, Aug 10, 2026 at 01:19 PM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hello Farid,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e026",
+      "thread_id": "i015-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T08:38:28.992066",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Jensen",
+        "email": "olivia.jensen@copperleafsoft.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Isabel,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nOlivia\nGeneral Counsel\nCopperleaf Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e027",
+      "thread_id": "i015-t013",
+      "in_reply_to": "i015-e026",
+      "references": [
+        "i015-e026"
+      ],
+      "timestamp": "2026-08-12T11:52:25.006401",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Jensen",
+          "email": "olivia.jensen@copperleafsoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Olivia,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 12, 2026 at 08:38 AM, Olivia Jensen <olivia.jensen@copperleafsoft.com> wrote:\n> Isabel,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e028",
+      "thread_id": "i015-t010",
+      "in_reply_to": "i015-e023",
+      "references": [
+        "i015-e017",
+        "i015-e019",
+        "i015-e023"
+      ],
+      "timestamp": "2026-08-12T19:18:53.310845",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Priya Haddad",
+          "email": "priyah@brightlineener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Thompson",
+          "email": "ben.thompson@brightlineener.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hello Priya,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 08:25 PM, Priya Haddad <priyah@brightlineener.com> wrote:\n> Hello Isabel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e029",
+      "thread_id": "i015-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T14:37:40.482212",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Laurent",
+        "email": "alaurent@copperleafsoft.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Isabel,\n\nGood news: Tidewater Robotics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nArjun",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e030",
+      "thread_id": "i015-t014",
+      "in_reply_to": "i015-e029",
+      "references": [
+        "i015-e029"
+      ],
+      "timestamp": "2026-08-17T10:45:48.825907",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Laurent",
+          "email": "alaurent@copperleafsoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Project Atlas - LOI countersigned",
+      "body": "Hi Arjun,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 13, 2026 at 02:37 PM, Arjun Laurent <alaurent@copperleafsoft.com> wrote:\n> Isabel,\n>\n> Good news: Tidewater Robotics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e031",
+      "thread_id": "i015-t014",
+      "in_reply_to": "i015-e030",
+      "references": [
+        "i015-e029",
+        "i015-e030"
+      ],
+      "timestamp": "2026-08-18T08:52:49.418249",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Laurent",
+        "email": "alaurent@copperleafsoft.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Project Atlas - LOI countersigned",
+      "body": "Dear Isabel,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nArjun\n\nOn Mon, Aug 17, 2026 at 10:45 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hi Arjun,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e032",
+      "thread_id": "i015-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T10:50:01.717214",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Park",
+        "email": "quinn.park@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hello Isabel,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest,\nQuinn Park\nGeneral Counsel\nLumen Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e033",
+      "thread_id": "i015-t015",
+      "in_reply_to": "i015-e032",
+      "references": [
+        "i015-e032"
+      ],
+      "timestamp": "2026-08-20T08:51:15.734796",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Park",
+          "email": "quinn.park@lumenener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Quinn,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 10:50 AM, Quinn Park <quinn.park@lumenener.com> wrote:\n> Hello Isabel,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e034",
+      "thread_id": "i015-t014",
+      "in_reply_to": "i015-e031",
+      "references": [
+        "i015-e029",
+        "i015-e030",
+        "i015-e031"
+      ],
+      "timestamp": "2026-08-20T09:34:48.331164",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Laurent",
+          "email": "alaurent@copperleafsoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Project Atlas - LOI countersigned",
+      "body": "Hello Arjun,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 08:52 AM, Arjun Laurent <alaurent@copperleafsoft.com> wrote:\n> Dear Isabel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m02"
+          ],
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e035",
+      "thread_id": "i015-t015",
+      "in_reply_to": "i015-e033",
+      "references": [
+        "i015-e032",
+        "i015-e033"
+      ],
+      "timestamp": "2026-08-20T19:14:38.380824",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Park",
+        "email": "quinn.park@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Isabel,\n\nThanks. Separately, on the Riverstone dispute, their account team reached out to our COO again.\n\nRegards,\nQuinn\nGeneral Counsel\nLumen Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01",
+          "i015-m00"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e036",
+      "thread_id": "i015-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T09:58:08.296541",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Fischer",
+        "email": "danielf@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Park",
+          "email": "quinn.park@lumenener.com"
+        }
+      ],
+      "subject": "Evergreen Systems product launch - possible infringement of '243 patent",
+      "body": "Dear Isabel,\n\nOur engineers looked at the product Evergreen Systems launched last month and believe it practices claims 1 and 7 of our '243 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest,\nDaniel Fischer\nChief Technology Officer\nLumen Energy",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e037",
+      "thread_id": "i015-t016",
+      "in_reply_to": "i015-e036",
+      "references": [
+        "i015-e036"
+      ],
+      "timestamp": "2026-08-24T10:51:45.734454",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Fischer",
+          "email": "danielf@lumenener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Park",
+          "email": "quinn.park@lumenener.com"
+        }
+      ],
+      "subject": "Re: Evergreen Systems product launch - possible infringement of '243 patent",
+      "body": "Hi Daniel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e038",
+      "thread_id": "i015-t016",
+      "in_reply_to": "i015-e037",
+      "references": [
+        "i015-e036",
+        "i015-e037"
+      ],
+      "timestamp": "2026-08-25T17:02:34.267657",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Fischer",
+        "email": "danielf@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Park",
+          "email": "quinn.park@lumenener.com"
+        }
+      ],
+      "subject": "Re: Evergreen Systems product launch - possible infringement of '243 patent",
+      "body": "Hi Isabel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nDaniel Fischer\nChief Technology Officer\nLumen Energy\n\nOn Mon, Aug 24, 2026 at 10:51 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hi Daniel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i015-e039",
+      "thread_id": "i015-t016",
+      "in_reply_to": "i015-e038",
+      "references": [
+        "i015-e036",
+        "i015-e037",
+        "i015-e038"
+      ],
+      "timestamp": "2026-08-25T20:52:05.679684",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Fischer",
+          "email": "danielf@lumenener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Park",
+          "email": "quinn.park@lumenener.com"
+        }
+      ],
+      "subject": "Re: Evergreen Systems product launch - possible infringement of '243 patent",
+      "body": "Daniel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 05:02 PM, Daniel Fischer <danielf@lumenener.com> wrote:\n> Hi Isabel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e040",
+      "thread_id": "i015-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T15:00:41.043593",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Park",
+        "email": "quinn.park@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Isabel,\n\nTwo quick things.\n\n1. On the '243 patent case, our CTO wants to know if we should expect a counterclaim.\n2. On the Riverstone dispute, their account team reached out to our COO again.\n\nBest regards,\nQuinn Park\nGeneral Counsel\nLumen Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00",
+          "i015-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m00",
+            "i015-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e041",
+      "thread_id": "i015-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:27:44.610897",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Kowalski",
+        "email": "skowalski@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Isabel,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nSofia\nSenior Associate\nVarga & Castillo LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e042",
+      "thread_id": "i015-t018",
+      "in_reply_to": "i015-e041",
+      "references": [
+        "i015-e041"
+      ],
+      "timestamp": "2026-09-02T09:50:40.865279",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hi Sofia,\n\nWorks for me. Let's do Tuesday at 9:00 a.m..\n\nBest regards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 09:27 AM, Sofia Kowalski <skowalski@vargacastillo.com> wrote:\n> Isabel,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e043",
+      "thread_id": "i015-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T11:13:35.604595",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lbrennan@parktanaka.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Lumen v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nBest,\nLucia Brennan\nPartner\nPark & Tanaka LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e044",
+      "thread_id": "i015-t019",
+      "in_reply_to": "i015-e043",
+      "references": [
+        "i015-e043"
+      ],
+      "timestamp": "2026-09-02T15:44:46.575501",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Lumen v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 02, 2026 at 11:13 AM, Lucia Brennan <lbrennan@parktanaka.com> wrote:\n> Counsel,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e045",
+      "thread_id": "i015-t019",
+      "in_reply_to": "i015-e044",
+      "references": [
+        "i015-e043",
+        "i015-e044"
+      ],
+      "timestamp": "2026-09-03T07:32:37.030175",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lbrennan@parktanaka.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Lumen v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nLucia Brennan\nPartner\nPark & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e046",
+      "thread_id": "i015-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T08:26:23.859326",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Chowdhury",
+        "email": "oliviac@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi Isabel,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest,\nOlivia",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01",
+            "i015-m02",
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e047",
+      "thread_id": "i015-t019",
+      "in_reply_to": "i015-e045",
+      "references": [
+        "i015-e043",
+        "i015-e044",
+        "i015-e045"
+      ],
+      "timestamp": "2026-09-04T08:37:51.228430",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lbrennan@parktanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Lumen v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 03, 2026 at 07:32 AM, Lucia Brennan <lbrennan@parktanaka.com> wrote:\n> Counsel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": [
+            "i015-m00"
+          ],
+          "identifier_candidates": [
+            "i015-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e048",
+      "thread_id": "i015-t020",
+      "in_reply_to": "i015-e046",
+      "references": [
+        "i015-e046"
+      ],
+      "timestamp": "2026-09-07T10:18:02.568110",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Dear Olivia,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 04, 2026 at 08:26 AM, Olivia Chowdhury <oliviac@vargacastillo.com> wrote:\n> Hi Isabel,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01",
+            "i015-m02",
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e049",
+      "thread_id": "i015-t020",
+      "in_reply_to": "i015-e048",
+      "references": [
+        "i015-e046",
+        "i015-e048"
+      ],
+      "timestamp": "2026-09-08T07:03:53.731326",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Chowdhury",
+        "email": "oliviac@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Isabel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nOlivia\n\nOn Mon, Sep 07, 2026 at 10:18 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Dear Olivia,\n>\n> Thanks. Received; we'll review and come back to you by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01",
+            "i015-m02",
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e050",
+      "thread_id": "i015-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T07:44:18.943246",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Reyes",
+        "email": "ureyes@novakdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Hi Isabel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nUmar",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e051",
+      "thread_id": "i015-t020",
+      "in_reply_to": "i015-e049",
+      "references": [
+        "i015-e046",
+        "i015-e048",
+        "i015-e049"
+      ],
+      "timestamp": "2026-09-09T10:36:21.909263",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Hello Olivia,\n\nQuick follow-up on the below. Any update?\n\nBest,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m01",
+            "i015-m02",
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e052",
+      "thread_id": "i015-t021",
+      "in_reply_to": "i015-e050",
+      "references": [
+        "i015-e050"
+      ],
+      "timestamp": "2026-09-11T09:36:02.886177",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Umar Reyes",
+          "email": "ureyes@novakdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 09, 2026 at 07:44 AM, Umar Reyes <ureyes@novakdelgado.com> wrote:\n> Hi Isabel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e053",
+      "thread_id": "i015-t021",
+      "in_reply_to": "i015-e052",
+      "references": [
+        "i015-e050",
+        "i015-e052"
+      ],
+      "timestamp": "2026-09-14T09:09:30.408704",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Reyes",
+        "email": "ureyes@novakdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nUmar Reyes\n\nOn Fri, Sep 11, 2026 at 09:36 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Counsel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e054",
+      "thread_id": "i015-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:51:58.148151",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Thompson",
+        "email": "ben.thompson@brightlineener.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Isabel,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest regards,\nBen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e055",
+      "thread_id": "i015-t021",
+      "in_reply_to": "i015-e053",
+      "references": [
+        "i015-e050",
+        "i015-e052",
+        "i015-e053"
+      ],
+      "timestamp": "2026-09-15T07:35:04.731659",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Umar Reyes",
+          "email": "ureyes@novakdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Hello Umar,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 09:09 AM, Umar Reyes <ureyes@novakdelgado.com> wrote:\n> Counsel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m01",
+        "matter_ids": [
+          "i015-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m01"
+          ],
+          "thread_candidates": [
+            "i015-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e056",
+      "thread_id": "i015-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T12:34:07.403339",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Zhang",
+        "email": "diego.zhang@marinerdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hi Isabel,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nDiego Zhang\nProject Manager\nMariner Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e057",
+      "thread_id": "i015-t023",
+      "in_reply_to": "i015-e056",
+      "references": [
+        "i015-e056"
+      ],
+      "timestamp": "2026-09-17T07:50:17.805886",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Diego Zhang",
+          "email": "diego.zhang@marinerdiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Diego,\n\nAdding Olivia, who will handle the day-to-day on this.\n\nThanks,\nIsabel Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 16, 2026 at 12:34 PM, Diego Zhang <diego.zhang@marinerdiscovery.com> wrote:\n> Hi Isabel,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e058",
+      "thread_id": "i015-t023",
+      "in_reply_to": "i015-e057",
+      "references": [
+        "i015-e056",
+        "i015-e057"
+      ],
+      "timestamp": "2026-09-18T16:32:50.109969",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Zhang",
+        "email": "diego.zhang@marinerdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Chowdhury",
+          "email": "oliviac@vargacastillo.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Isabel,\n\nWorks for me. Let's do Thursday at 9:00 a.m..\n\nBest regards,\nDiego\nProject Manager\nMariner Discovery\n\nOn Thu, Sep 17, 2026 at 07:50 AM, Isabel Vasquez <ivasquez@vargacastillo.com> wrote:\n> Hello Diego,\n>\n> Adding Olivia, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m03"
+          ],
+          "thread_candidates": [
+            "i015-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e059",
+      "thread_id": "i015-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T08:11:11.820439",
+      "folder": "sent",
+      "from": {
+        "name": "Isabel Vasquez",
+        "email": "ivasquez@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Fischer",
+          "email": "danielf@lumenener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Kowalski",
+          "email": "skowalski@vargacastillo.com"
+        }
+      ],
+      "subject": "Infringement contentions due October 2",
+      "body": "Hi Daniel,\n\nReminder that our infringement contentions are due October 2. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nRegards,\nIsabel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e060",
+      "thread_id": "i015-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T12:56:13.722398",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Haddad",
+        "email": "whaddad@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Copperleaf",
+      "body": "Hi Isabel,\n\nPre-bills for Copperleaf Software are ready for your review:\n\n- 97411-001  Copperleaf - Acquisition of Tidewater Robotics (Project Atlas)\n\nPlease mark up and return by October 4.\n\nBest regards,\nWei\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m02",
+        "matter_ids": [
+          "i015-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e061",
+      "thread_id": "i015-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T15:14:46.712522",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Haddad",
+        "email": "whaddad@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Brightline",
+      "body": "Hi Isabel,\n\nPre-bills for Brightline Energy are ready for your review:\n\n- 55895-001  Brightline - FTC Investigation (CID No. 2026-684)\n\nPlease mark up and return by October 4.\n\nBest regards,\nWei Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m03",
+        "matter_ids": [
+          "i015-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m03"
+          ],
+          "keyword_candidates": [
+            "i015-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e062",
+      "thread_id": "i015-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-01T08:42:59.730221",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Underwood",
+        "email": "marcusu@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Isabel,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nMarcus",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e063",
+      "thread_id": "i015-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T10:13:46.419962",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Kowalski",
+        "email": "skowalski@vargacastillo.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Isabel,\n\nStatus on my matters this week:\n\n- '243 patent: protective order negotiated; infringement contentions due October 19.\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for October 23.\n\nThanks,\nSofia Kowalski\nSenior Associate\nVarga & Castillo LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i015-m00",
+        "matter_ids": [
+          "i015-m00",
+          "i015-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i015-m00",
+            "i015-m02"
+          ],
+          "keyword_candidates": [
+            "i015-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i015-e064",
+      "thread_id": "i015-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-09T09:13:44.456948",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@corvidcomms.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Vasquez",
+          "email": "ivasquez@vargacastillo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Hello Isabel,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest regards,\nFemi Young\nEditor\nCorvid Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i015-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700015
+}

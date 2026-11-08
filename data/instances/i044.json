@@ -1,0 +1,2440 @@
+{
+  "instance_id": "i044",
+  "firm": {
+    "name": "Banerjee & Moreau LLP",
+    "domain": "banerjeemoreau.com"
+  },
+  "user_contact_id": "i044-c000",
+  "matters": [
+    {
+      "matter_id": "i044-m00",
+      "matter_number": "30377-001",
+      "name": "Victor Vasquez v. Sterling",
+      "client": "Sterling Biosciences",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Victor Vasquez against Sterling Biosciences. Case No. 5:26-cv-09555.",
+      "counterparty": "Victor Vasquez",
+      "opposing_counsel_firm": "Whitaker & Alvarez LLP",
+      "status": "open",
+      "opened_on": "2026-06-15",
+      "key_terms": [
+        "30377-001",
+        "Victor Vasquez",
+        "Vasquez",
+        "5:26-cv-09555"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i044-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i044-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i044-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i044-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i044-c009",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i044-m01",
+      "matter_number": "97879-001",
+      "name": "Lattice - Data Security Incident",
+      "client": "Lattice Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Lattice Software's customer database. Forensics by Driftwood Cyber.",
+      "counterparty": "Driftwood Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-08",
+      "key_terms": [
+        "97879-001",
+        "Driftwood Cyber",
+        "Driftwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i044-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i044-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i044-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i044-c011",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i044-c012",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i044-m02",
+      "matter_number": "97879-002",
+      "name": "Lattice - Acquisition of Keystone Biosciences (Project Kestrel)",
+      "client": "Lattice Software",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Keystone Biosciences by Lattice Software. Stock purchase, ~$410 million.",
+      "counterparty": "Keystone Biosciences",
+      "opposing_counsel_firm": "Castillo & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "97879-002",
+        "Project Kestrel",
+        "Kestrel",
+        "Keystone Biosciences",
+        "Keystone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i044-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i044-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i044-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i044-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i044-c015",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i044-m03",
+      "matter_number": "26885-001",
+      "name": "Stratus - Headquarters Lease (1093 Mission Street)",
+      "client": "Stratus Biosciences",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Stratus Biosciences's new headquarters at 1093 Mission Street, landlord Silverpine Properties LLC.",
+      "counterparty": "Silverpine Properties LLC",
+      "opposing_counsel_firm": "Osei & Nakamura LLP",
+      "status": "open",
+      "opened_on": "2026-06-13",
+      "key_terms": [
+        "26885-001",
+        "1093 Mission Street",
+        "Silverpine Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i044-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i044-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i044-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i044-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i044-c018",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i044-c000",
+      "name": "Pedro Thompson",
+      "first": "Pedro",
+      "email": "pedrot@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i044-c001",
+      "name": "Liam Morgan",
+      "first": "Liam",
+      "email": "lmorgan@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i044-c002",
+      "name": "Rachel Quintero",
+      "first": "Rachel",
+      "email": "rachel.quintero@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i044-c003",
+      "name": "Femi Weiss",
+      "first": "Femi",
+      "email": "femi.weiss@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i044-c004",
+      "name": "Yusuf Patel",
+      "first": "Yusuf",
+      "email": "ypatel@sterlingbios.com",
+      "organization": "Sterling Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c005",
+      "name": "Uma Moreau",
+      "first": "Uma",
+      "email": "umoreau@latticesoft.com",
+      "organization": "Lattice Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c006",
+      "name": "Kenji Moreau",
+      "first": "Kenji",
+      "email": "kmoreau@stratusbios.com",
+      "organization": "Stratus Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c007",
+      "name": "Whitney Quintero",
+      "first": "Whitney",
+      "email": "whitneyq@sterlingbios.com",
+      "organization": "Sterling Biosciences",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c008",
+      "name": "Xavier Haddad",
+      "first": "Xavier",
+      "email": "xhaddad@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c009",
+      "name": "Omar Yamamoto",
+      "first": "Omar",
+      "email": "omary@redwoodadr.com",
+      "organization": "Redwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c010",
+      "name": "Kenji Castillo",
+      "first": "Kenji",
+      "email": "kcastillo@latticesoft.com",
+      "organization": "Lattice Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c011",
+      "name": "Carla Park",
+      "first": "Carla",
+      "email": "carla.park@driftwoodcyber.com",
+      "organization": "Driftwood Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c012",
+      "name": "Daniel Osei",
+      "first": "Daniel",
+      "email": "dosei@riverstonemutual.com",
+      "organization": "Riverstone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c013",
+      "name": "Omar Goldberg",
+      "first": "Omar",
+      "email": "omarg@latticesoft.com",
+      "organization": "Lattice Software",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c014",
+      "name": "Isabel Fischer",
+      "first": "Isabel",
+      "email": "ifischer@castilloeriksen.com",
+      "organization": "Castillo & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c015",
+      "name": "Sofia Underwood",
+      "first": "Sofia",
+      "email": "sofia.underwood@northwindtrust.com",
+      "organization": "Northwind Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c016",
+      "name": "Arjun Laurent",
+      "first": "Arjun",
+      "email": "arjunl@stratusbios.com",
+      "organization": "Stratus Biosciences",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c017",
+      "name": "Liam Castillo",
+      "first": "Liam",
+      "email": "liamc@oseinakamura.com",
+      "organization": "Osei & Nakamura LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c018",
+      "name": "Valerie Young",
+      "first": "Valerie",
+      "email": "vyoung@evergreenrealty.com",
+      "organization": "Evergreen Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c019",
+      "name": "Nadia Moreau",
+      "first": "Nadia",
+      "email": "nadia.moreau@castilloeriksen.com",
+      "organization": "Castillo & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c020",
+      "name": "Jasmine Lee",
+      "first": "Jasmine",
+      "email": "jasmine.lee@corvidreporting.com",
+      "organization": "Corvid Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c021",
+      "name": "Rachel Okafor",
+      "first": "Rachel",
+      "email": "rachelo@halcyonrobo.com",
+      "organization": "Halcyon Robotics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c022",
+      "name": "Ben Jensen",
+      "first": "Ben",
+      "email": "ben.jensen@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i044-c023",
+      "name": "Lucia Laurent",
+      "first": "Lucia",
+      "email": "llaurent@lumenadr.com",
+      "organization": "Lumen Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i044-c024",
+      "name": "Uma Brennan",
+      "first": "Uma",
+      "email": "uma.brennan@banerjeemoreau.com",
+      "organization": "Banerjee & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i044-e000",
+      "thread_id": "i044-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T15:41:08.241819",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Brennan",
+        "email": "uma.brennan@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hello Pedro,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nUma Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e001",
+      "thread_id": "i044-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T10:46:48.731947",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Lee",
+        "email": "jasmine.lee@corvidreporting.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Hello Pedro,\n\nThis confirms the deposition of Victor Vasquez on July 18 at 9:30 a.m. in Case No. 5:26-cv-09555. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nBest regards,\nJasmine Lee\nScheduling Coordinator\nCorvid Court Reporting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e002",
+      "thread_id": "i044-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T18:42:54.500634",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Quintero",
+        "email": "whitneyq@sterlingbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Patel",
+          "email": "ypatel@sterlingbios.com"
+        }
+      ],
+      "subject": "Demand letter - Victor Vasquez",
+      "body": "Hello Pedro,\n\nWe received the attached demand letter from counsel for Victor Vasquez, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $450,000. I've put a hold on the personnel file. How should we respond?\n\nRegards,\nWhitney\nHead of People\nSterling Biosciences",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m00"
+          ],
+          "keyword_candidates": [
+            "i044-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e003",
+      "thread_id": "i044-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T08:28:14.398240",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Castillo",
+        "email": "kcastillo@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Moreau",
+          "email": "umoreau@latticesoft.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Pedro,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Driftwood Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nBest,\nKenji",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m01"
+          ],
+          "keyword_candidates": [
+            "i044-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e004",
+      "thread_id": "i044-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:08:21.405791",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Patel",
+        "email": "ypatel@sterlingbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Pedro,\n\nBefore the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nBest regards,\nYusuf Patel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e005",
+      "thread_id": "i044-t004",
+      "in_reply_to": "i044-e004",
+      "references": [
+        "i044-e004"
+      ],
+      "timestamp": "2026-07-14T07:15:45.765903",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Patel",
+          "email": "ypatel@sterlingbios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hi Yusuf,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nPedro Thompson\n\nOn Mon, Jul 13, 2026 at 08:08 AM, Yusuf Patel <ypatel@sterlingbios.com> wrote:\n> Pedro,\n>\n> Before the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": [
+            "i044-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e006",
+      "thread_id": "i044-t004",
+      "in_reply_to": "i044-e005",
+      "references": [
+        "i044-e004",
+        "i044-e005"
+      ],
+      "timestamp": "2026-07-16T08:05:31.448363",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Patel",
+        "email": "ypatel@sterlingbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hi Pedro,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nYusuf Patel\n\nOn Tue, Jul 14, 2026 at 07:15 AM, Pedro Thompson <pedrot@banerjeemoreau.com> wrote:\n> Hi Yusuf,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": [
+            "i044-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e007",
+      "thread_id": "i044-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:04:59.354495",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Quintero",
+        "email": "rachel.quintero@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Pedro,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nRachel Quintero\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00",
+            "i044-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e008",
+      "thread_id": "i044-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T08:47:57.166621",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Okafor",
+        "email": "rachelo@halcyonrobo.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear Pedro,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nRachel\nRecruiter\nHalcyon Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e009",
+      "thread_id": "i044-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T09:39:02.137173",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Osei",
+        "email": "dosei@riverstonemutual.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Pedro,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Driftwood.\n\nThanks,\nDaniel\nClaims Specialist\nRiverstone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e010",
+      "thread_id": "i044-t007",
+      "in_reply_to": "i044-e009",
+      "references": [
+        "i044-e009"
+      ],
+      "timestamp": "2026-07-23T09:01:40.725634",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Osei",
+          "email": "dosei@riverstonemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello Daniel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nPedro Thompson\n\nOn Wed, Jul 22, 2026 at 09:39 AM, Daniel Osei <dosei@riverstonemutual.com> wrote:\n> Pedro,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Driftwood.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": [
+            "i044-m01"
+          ],
+          "identifier_candidates": [
+            "i044-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e011",
+      "thread_id": "i044-t007",
+      "in_reply_to": "i044-e010",
+      "references": [
+        "i044-e009",
+        "i044-e010"
+      ],
+      "timestamp": "2026-07-24T09:39:15.768313",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Osei",
+        "email": "dosei@riverstonemutual.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Pedro,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nDaniel Osei\nClaims Specialist\nRiverstone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": [
+            "i044-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e012",
+      "thread_id": "i044-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T20:37:42.362603",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Quintero",
+          "email": "whitneyq@sterlingbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Quintero",
+          "email": "rachel.quintero@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Whitney,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nRegards,\nPedro",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e013",
+      "thread_id": "i044-t008",
+      "in_reply_to": "i044-e012",
+      "references": [
+        "i044-e012"
+      ],
+      "timestamp": "2026-07-29T17:50:02.705966",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Quintero",
+        "email": "whitneyq@sterlingbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Quintero",
+          "email": "rachel.quintero@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hello Pedro,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nWhitney Quintero\nHead of People\nSterling Biosciences\n\nOn Tue, Jul 28, 2026 at 08:37 PM, Pedro Thompson <pedrot@banerjeemoreau.com> wrote:\n> Whitney,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00"
+          ],
+          "thread_candidates": [
+            "i044-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e014",
+      "thread_id": "i044-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T19:11:53.160981",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@castilloeriksen.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Hi Pedro,\n\nI've joined the Keystone deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nRegards,\nNadia Moreau\nAssociate\nCastillo & Eriksen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e015",
+      "thread_id": "i044-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T12:11:41.861353",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Young",
+        "email": "vyoung@evergreenrealty.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Laurent",
+          "email": "arjunl@stratusbios.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hi Pedro,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest regards,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e016",
+      "thread_id": "i044-t010",
+      "in_reply_to": "i044-e015",
+      "references": [
+        "i044-e015"
+      ],
+      "timestamp": "2026-08-06T16:04:37.671998",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Young",
+          "email": "vyoung@evergreenrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Laurent",
+          "email": "arjunl@stratusbios.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hello Valerie,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nPedro\n\nOn Thu, Aug 06, 2026 at 12:11 PM, Valerie Young <vyoung@evergreenrealty.com> wrote:\n> Hi Pedro,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m03"
+          ],
+          "thread_candidates": [
+            "i044-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e017",
+      "thread_id": "i044-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:43:36.394743",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Fischer",
+          "email": "ifischer@castilloeriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Liam and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest regards,\nPedro Thompson",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e018",
+      "thread_id": "i044-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T18:46:11.790895",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Park",
+        "email": "carla.park@driftwoodcyber.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Castillo",
+          "email": "kcastillo@latticesoft.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Hi Pedro,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nThanks,\nCarla Park\nIncident Response Lead\nDriftwood Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m01"
+          ],
+          "keyword_candidates": [
+            "i044-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e019",
+      "thread_id": "i044-t012",
+      "in_reply_to": "i044-e018",
+      "references": [
+        "i044-e018"
+      ],
+      "timestamp": "2026-08-12T09:04:40.324849",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Carla Park",
+          "email": "carla.park@driftwoodcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Castillo",
+          "email": "kcastillo@latticesoft.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hello Carla,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nPedro Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": [
+            "i044-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e020",
+      "thread_id": "i044-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T09:06:53.901142",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Morgan",
+        "email": "lmorgan@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Kestrel - disclosure schedules open items",
+      "body": "Hello Pedro,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Keystone's counsel directly?\n\nThanks,\nLiam Morgan\nAssociate\nBanerjee & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e021",
+      "thread_id": "i044-t012",
+      "in_reply_to": "i044-e019",
+      "references": [
+        "i044-e018",
+        "i044-e019"
+      ],
+      "timestamp": "2026-08-14T07:47:59.020241",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Park",
+        "email": "carla.park@driftwoodcyber.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Castillo",
+          "email": "kcastillo@latticesoft.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Dear Pedro,\n\nWorks for me. Let's do Monday at 9:00 a.m..\n\nBest,\nCarla\nIncident Response Lead\nDriftwood Cyber",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": [
+            "i044-m01"
+          ],
+          "identifier_candidates": [
+            "i044-m01"
+          ],
+          "keyword_candidates": [
+            "i044-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e022",
+      "thread_id": "i044-t012",
+      "in_reply_to": "i044-e021",
+      "references": [
+        "i044-e018",
+        "i044-e019",
+        "i044-e021"
+      ],
+      "timestamp": "2026-08-14T09:49:11.463995",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Carla Park",
+          "email": "carla.park@driftwoodcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Castillo",
+          "email": "kcastillo@latticesoft.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Dear Carla,\n\nQuick follow-up on the below. Any update?\n\nBest,\nPedro\n\nOn Fri, Aug 14, 2026 at 07:47 AM, Carla Park <carla.park@driftwoodcyber.com> wrote:\n> Dear Pedro,\n>\n> Works for me. Let's do Monday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01"
+          ],
+          "thread_candidates": [
+            "i044-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e023",
+      "thread_id": "i044-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:51:02.512629",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Moreau",
+        "email": "kmoreau@stratusbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Pedro,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nKenji Moreau\nGeneral Counsel\nStratus Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i044-e024",
+      "thread_id": "i044-t013",
+      "in_reply_to": "i044-e020",
+      "references": [
+        "i044-e020"
+      ],
+      "timestamp": "2026-08-17T09:28:08.110849",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Kestrel - disclosure schedules open items",
+      "body": "Dear Liam,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nPedro Thompson\n\nOn Thu, Aug 13, 2026 at 09:06 AM, Liam Morgan <lmorgan@banerjeemoreau.com> wrote:\n> Hello Pedro,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Keystone's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": [
+            "i044-m02"
+          ],
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e025",
+      "thread_id": "i044-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:46:42.006712",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Goldberg",
+        "email": "omarg@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Project Kestrel - LOI countersigned",
+      "body": "Hi Pedro,\n\nGood news: Keystone Biosciences countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Tuesday.\n\nCan we do a kickoff call tomorrow?\n\nBest,\nOmar Goldberg\nVP, Corporate Development\nLattice Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e026",
+      "thread_id": "i044-t013",
+      "in_reply_to": "i044-e024",
+      "references": [
+        "i044-e020",
+        "i044-e024"
+      ],
+      "timestamp": "2026-08-18T19:35:42.594388",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Morgan",
+        "email": "lmorgan@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Kestrel - disclosure schedules open items",
+      "body": "Hi Pedro,\n\nWorks for me. Let's do Friday at 3:30 p.m..\n\nBest,\nLiam\nAssociate\nBanerjee & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:28 AM, Pedro Thompson <pedrot@banerjeemoreau.com> wrote:\n> Dear Liam,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": [
+            "i044-m02"
+          ],
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e027",
+      "thread_id": "i044-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T08:58:47.072915",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Morgan",
+        "email": "lmorgan@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Pedro,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nRegards,\nLiam Morgan\nAssociate\nBanerjee & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e028",
+      "thread_id": "i044-t016",
+      "in_reply_to": "i044-e027",
+      "references": [
+        "i044-e027"
+      ],
+      "timestamp": "2026-08-28T08:20:26.363533",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Liam,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nPedro Thompson\n\nOn Wed, Aug 26, 2026 at 08:58 AM, Liam Morgan <lmorgan@banerjeemoreau.com> wrote:\n> Pedro,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": [
+            "i044-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e029",
+      "thread_id": "i044-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T07:30:17.741887",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Goldberg",
+        "email": "omarg@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Pedro,\n\nThe board asked whether we could structure part of the $410 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nOmar Goldberg\nVP, Corporate Development\nLattice Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e030",
+      "thread_id": "i044-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:31:03.072811",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Laurent",
+        "email": "arjunl@stratusbios.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1093 Mission Street",
+      "body": "Pedro,\n\nWe've agreed on a non-binding LOI with Silverpine Properties LLC for about 42,000 RSF at 1093 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nArjun Laurent",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m03",
+        "matter_ids": [
+          "i044-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m03"
+          ],
+          "keyword_candidates": [
+            "i044-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e031",
+      "thread_id": "i044-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T17:15:21.736343",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Fischer",
+        "email": "ifischer@castilloeriksen.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Morgan",
+          "email": "lmorgan@banerjeemoreau.com"
+        }
+      ],
+      "subject": "Keystone / Lattice - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Keystone customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest regards,\nIsabel Fischer\nPartner\nCastillo & Eriksen LLP",
+      "attachments": [
+        "Keystone SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [
+            "i044-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e032",
+      "thread_id": "i044-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T08:21:42.317576",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Morgan",
+        "email": "lmorgan@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hi Pedro,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nLiam\nAssociate\nBanerjee & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m02",
+            "i044-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e033",
+      "thread_id": "i044-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:15:46.638833",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Laurent",
+        "email": "llaurent@lumenadr.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Pedro,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest,\nLucia Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i044-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e034",
+      "thread_id": "i044-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:50:05.626004",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Moreau",
+        "email": "umoreau@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Pedro,\n\nTwo quick things.\n\n1. On Project Kestrel, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n2. On the security incident, our insurer is asking for an updated budget.\n\nRegards,\nUma Moreau\nGeneral Counsel\nLattice Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02",
+          "i044-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01",
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e035",
+      "thread_id": "i044-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-29T08:19:46.998101",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Moreau",
+        "email": "umoreau@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Pedro,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nUma\nGeneral Counsel\nLattice Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01",
+            "i044-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e036",
+      "thread_id": "i044-t023",
+      "in_reply_to": "i044-e035",
+      "references": [
+        "i044-e035"
+      ],
+      "timestamp": "2026-09-29T12:41:01.220099",
+      "folder": "sent",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pedrot@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Uma Moreau",
+          "email": "umoreau@latticesoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hi Uma,\n\nAdding Liam, who will handle the day-to-day on this.\n\nBest,\nPedro\n\nOn Tue, Sep 29, 2026 at 08:19 AM, Uma Moreau <umoreau@latticesoft.com> wrote:\n> Dear Pedro,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m02",
+        "matter_ids": [
+          "i044-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01",
+            "i044-m02"
+          ],
+          "thread_candidates": [
+            "i044-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e037",
+      "thread_id": "i044-t023",
+      "in_reply_to": "i044-e036",
+      "references": [
+        "i044-e035",
+        "i044-e036"
+      ],
+      "timestamp": "2026-09-30T07:01:34.138554",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Moreau",
+        "email": "umoreau@latticesoft.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Dear Pedro,\n\nThanks. Separately, on the security incident, our insurer is asking for an updated budget.\n\nBest regards,\nUma Moreau\nGeneral Counsel\nLattice Software\n\nOn Tue, Sep 29, 2026 at 12:41 PM, Pedro Thompson <pedrot@banerjeemoreau.com> wrote:\n> Hi Uma,\n>\n> Adding Liam, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m01",
+        "matter_ids": [
+          "i044-m01",
+          "i044-m02"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "no_matter_specific_text",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m01",
+            "i044-m02"
+          ],
+          "thread_candidates": [
+            "i044-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e038",
+      "thread_id": "i044-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:06:21.018497",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Weiss",
+        "email": "femi.weiss@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Sterling",
+      "body": "Pedro,\n\nPre-bills for Sterling Biosciences are ready for your review:\n\n- 30377-001  Victor Vasquez v. Sterling\n\nPlease mark up and return by October 4.\n\nBest regards,\nFemi\nBilling Coordinator\nBanerjee & Moreau LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e039",
+      "thread_id": "i044-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-06T17:00:50.506093",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Quintero",
+        "email": "rachel.quintero@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Pedro,\n\nStatus on my matters this week:\n\n- Vasquez: complaint served; mediation being scheduled, deposition outline in draft.\n- Security incident: forensics report pending; consumer notification letters in draft.\n\nThanks,\nRachel\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i044-m00",
+        "matter_ids": [
+          "i044-m00",
+          "i044-m01"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i044-m00",
+            "i044-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i044-m00"
+          ],
+          "keyword_candidates": [
+            "i044-m00",
+            "i044-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i044-e040",
+      "thread_id": "i044-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-16T08:10:16.652501",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Jensen",
+        "email": "ben.jensen@banerjeemoreau.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pedrot@banerjeemoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hello Pedro,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nRegards,\nBen\nProfessional Development Manager\nBanerjee & Moreau LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700044
+}

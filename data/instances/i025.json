@@ -1,0 +1,2375 @@
+{
+  "instance_id": "i025",
+  "firm": {
+    "name": "Weiss & Abbott LLP",
+    "domain": "weissabbott.com"
+  },
+  "user_contact_id": "i025-c000",
+  "matters": [
+    {
+      "matter_id": "i025-m00",
+      "matter_number": "34969-001",
+      "name": "Solace - Acquisition of Amberly Materials (Project Granite)",
+      "client": "Solace Health",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Amberly Materials by Solace Health. Stock purchase, ~$240 million.",
+      "counterparty": "Amberly Materials",
+      "opposing_counsel_firm": "Abbott & Quintero LLP",
+      "status": "open",
+      "opened_on": "2026-07-02",
+      "key_terms": [
+        "34969-001",
+        "Project Granite",
+        "Granite",
+        "Amberly Materials",
+        "Amberly"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i025-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i025-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i025-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i025-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i025-c011",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i025-m01",
+      "matter_number": "16946-001",
+      "name": "Halcyon - Headquarters Lease (1095 Townsend Street)",
+      "client": "Halcyon Networks",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Halcyon Networks's new headquarters at 1095 Townsend Street, landlord Lumen Properties LLC.",
+      "counterparty": "Lumen Properties LLC",
+      "opposing_counsel_firm": "Quintero & Young LLP",
+      "status": "open",
+      "opened_on": "2026-06-26",
+      "key_terms": [
+        "16946-001",
+        "1095 Townsend Street",
+        "Lumen Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i025-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i025-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i025-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i025-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i025-c014",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i025-m02",
+      "matter_number": "32919-001",
+      "name": "Ironbridge - California DOJ Investigation (CID No. 2026-942)",
+      "client": "Ironbridge Health",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Ironbridge Health's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-06-08",
+      "key_terms": [
+        "32919-001",
+        "2026-942",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i025-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i025-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i025-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i025-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i025-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i025-c017",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i025-m03",
+      "matter_number": "25203-001",
+      "name": "Evergreen - Data Security Incident",
+      "client": "Evergreen Networks",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Evergreen Networks's customer database. Forensics by Tidewater Cyber.",
+      "counterparty": "Tidewater Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-19",
+      "key_terms": [
+        "25203-001",
+        "Tidewater Cyber",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i025-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i025-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i025-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i025-c019",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i025-c020",
+          "role": "insurer"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i025-c000",
+      "name": "Wei Kowalski",
+      "first": "Wei",
+      "email": "weik@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c001",
+      "name": "Chen Vasquez",
+      "first": "Chen",
+      "email": "chenv@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c002",
+      "name": "Hiro Quintero",
+      "first": "Hiro",
+      "email": "hquintero@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c003",
+      "name": "Umar Nakamura",
+      "first": "Umar",
+      "email": "unakamura@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c004",
+      "name": "Tara Varga",
+      "first": "Tara",
+      "email": "tarav@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c005",
+      "name": "Hannah Morgan",
+      "first": "Hannah",
+      "email": "hmorgan@solaceheal.com",
+      "organization": "Solace Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c006",
+      "name": "James Thompson",
+      "first": "James",
+      "email": "jamest@halcyonnetw.com",
+      "organization": "Halcyon Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c007",
+      "name": "Uma Delgado",
+      "first": "Uma",
+      "email": "udelgado@ironbridgeheal.com",
+      "organization": "Ironbridge Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c008",
+      "name": "Quinn Kaplan",
+      "first": "Quinn",
+      "email": "quinn.kaplan@evergreennetw.com",
+      "organization": "Evergreen Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c009",
+      "name": "Aisha Iyer",
+      "first": "Aisha",
+      "email": "aishai@solaceheal.com",
+      "organization": "Solace Health",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c010",
+      "name": "Gabriel Tanaka",
+      "first": "Gabriel",
+      "email": "gabrielt@abbottquintero.com",
+      "organization": "Abbott & Quintero LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c011",
+      "name": "Omar Lindqvist",
+      "first": "Omar",
+      "email": "olindqvist@quarrytrust.com",
+      "organization": "Quarry Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c012",
+      "name": "Victor Haddad",
+      "first": "Victor",
+      "email": "vhaddad@halcyonnetw.com",
+      "organization": "Halcyon Networks",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c013",
+      "name": "Yara Weiss",
+      "first": "Yara",
+      "email": "yweiss@quinteroyoung.com",
+      "organization": "Quintero & Young LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c014",
+      "name": "Yara Iyer",
+      "first": "Yara",
+      "email": "yara.iyer@trellisrealty.com",
+      "organization": "Trellis Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c015",
+      "name": "Olivia Ito",
+      "first": "Olivia",
+      "email": "olivia.ito@ironbridgeheal.com",
+      "organization": "Ironbridge Health",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c016",
+      "name": "Omar Eriksen",
+      "first": "Omar",
+      "email": "omare@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c017",
+      "name": "Farid Banerjee",
+      "first": "Farid",
+      "email": "farid.banerjee@redwooddiscovery.com",
+      "organization": "Redwood Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c018",
+      "name": "Jasmine Zhang",
+      "first": "Jasmine",
+      "email": "jzhang@evergreennetw.com",
+      "organization": "Evergreen Networks",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c019",
+      "name": "Elena Kowalski",
+      "first": "Elena",
+      "email": "elenak@tidewatercyber.com",
+      "organization": "Tidewater Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c020",
+      "name": "Aisha Varga",
+      "first": "Aisha",
+      "email": "aisha.varga@corvidmutual.com",
+      "organization": "Corvid Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c021",
+      "name": "Rafael Chowdhury",
+      "first": "Rafael",
+      "email": "rafaelc@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c022",
+      "name": "Yusuf Banerjee",
+      "first": "Yusuf",
+      "email": "yusufb@parallaxbank.com",
+      "organization": "Parallax Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c023",
+      "name": "Daniel Dubois",
+      "first": "Daniel",
+      "email": "ddubois@nimbusadr.com",
+      "organization": "Nimbus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i025-c024",
+      "name": "Quinn Haddad",
+      "first": "Quinn",
+      "email": "quinnh@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i025-c025",
+      "name": "Ivan Abbott",
+      "first": "Ivan",
+      "email": "ivan.abbott@weissabbott.com",
+      "organization": "Weiss & Abbott LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i025-e000",
+      "thread_id": "i025-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-18T16:36:48.220107",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Chowdhury",
+        "email": "rafaelc@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Dear Wei,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nBest,\nRafael Chowdhury",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e001",
+      "thread_id": "i025-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:52:30.640364",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Weiss",
+        "email": "yweiss@quinteroyoung.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1095 Townsend Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nYara Weiss\nPartner\nQuintero & Young LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m01"
+          ],
+          "keyword_candidates": [
+            "i025-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e002",
+      "thread_id": "i025-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T07:13:04.503573",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Vasquez",
+        "email": "chenv@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hi Wei,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nRegards,\nChen Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e003",
+      "thread_id": "i025-t002",
+      "in_reply_to": "i025-e002",
+      "references": [
+        "i025-e002"
+      ],
+      "timestamp": "2026-07-01T10:22:19.344297",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Chen Vasquez",
+          "email": "chenv@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Dear Chen,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jun 30, 2026 at 07:13 AM, Chen Vasquez <chenv@weissabbott.com> wrote:\n> Hi Wei,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": [
+            "i025-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e004",
+      "thread_id": "i025-t002",
+      "in_reply_to": "i025-e003",
+      "references": [
+        "i025-e002",
+        "i025-e003"
+      ],
+      "timestamp": "2026-07-01T14:03:03.365264",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Vasquez",
+        "email": "chenv@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Wei,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 01, 2026 at 10:22 AM, Wei Kowalski <weik@weissabbott.com> wrote:\n> Dear Chen,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": [
+            "i025-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e005",
+      "thread_id": "i025-t002",
+      "in_reply_to": "i025-e004",
+      "references": [
+        "i025-e002",
+        "i025-e003",
+        "i025-e004"
+      ],
+      "timestamp": "2026-07-02T08:07:20.913131",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Chen Vasquez",
+          "email": "chenv@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Chen,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": [
+            "i025-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e006",
+      "thread_id": "i025-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:42:35.176645",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Ito",
+          "email": "olivia.ito@ironbridgeheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Dear Olivia,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nWei Kowalski\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e007",
+      "thread_id": "i025-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T07:04:17.723400",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Dubois",
+        "email": "ddubois@nimbusadr.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Wei,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nDaniel Dubois",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e008",
+      "thread_id": "i025-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T08:51:44.125430",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Ito",
+        "email": "olivia.ito@ironbridgeheal.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello Wei,\n\nThe audit committee wants an update at its meeting on August 7. Could you prepare a short summary of status, exposure, and next steps?\n\nRegards,\nOlivia Ito\nChief Compliance Officer\nIronbridge Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e009",
+      "thread_id": "i025-t005",
+      "in_reply_to": "i025-e008",
+      "references": [
+        "i025-e008"
+      ],
+      "timestamp": "2026-07-27T10:14:48.031291",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Ito",
+          "email": "olivia.ito@ironbridgeheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Olivia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nWei Kowalski\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 23, 2026 at 08:51 AM, Olivia Ito <olivia.ito@ironbridgeheal.com> wrote:\n> Hello Wei,\n>\n> The audit committee wants an update at its meeting on August 7. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m02"
+          ],
+          "thread_candidates": [
+            "i025-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e010",
+      "thread_id": "i025-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T18:32:52.223895",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Eriksen",
+        "email": "omare@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-942 - meet and confer",
+      "body": "Hello Wei,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest regards,\nOmar Eriksen\nStaff Attorney\nCalifornia Department of Justice",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m02"
+          ],
+          "keyword_candidates": [
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e011",
+      "thread_id": "i025-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T19:09:45.436061",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Nakamura",
+        "email": "unakamura@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hi Wei,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nThanks,\nUmar",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00",
+            "i025-m02",
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e012",
+      "thread_id": "i025-t007",
+      "in_reply_to": "i025-e011",
+      "references": [
+        "i025-e011"
+      ],
+      "timestamp": "2026-08-06T14:34:04.800635",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Umar,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nWei Kowalski\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 04, 2026 at 07:09 PM, Umar Nakamura <unakamura@weissabbott.com> wrote:\n> Hi Wei,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00",
+            "i025-m02",
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e013",
+      "thread_id": "i025-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T16:40:14.843304",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Zhang",
+        "email": "jzhang@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Wei,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nJasmine Zhang\nChief Information Security Officer\nEvergreen Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e014",
+      "thread_id": "i025-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T17:31:29.229459",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Morgan",
+        "email": "hmorgan@solaceheal.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Wei,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nHannah Morgan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e015",
+      "thread_id": "i025-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:02:59.161272",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Zhang",
+          "email": "jzhang@evergreennetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Kaplan",
+          "email": "quinn.kaplan@evergreennetw.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Jasmine,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Tidewater.\n\nThanks,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e016",
+      "thread_id": "i025-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T10:12:58.705939",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Banerjee",
+        "email": "yusufb@parallaxbank.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Vasquez",
+          "email": "chenv@weissabbott.com"
+        }
+      ],
+      "subject": "SNDA request",
+      "body": "Hello Wei,\n\nWe received a request for an SNDA in favor of Halcyon Networks. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nBest regards,\nYusuf Banerjee\nLoan Officer\nParallax Bank",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e017",
+      "thread_id": "i025-t010",
+      "in_reply_to": "i025-e015",
+      "references": [
+        "i025-e015"
+      ],
+      "timestamp": "2026-08-12T10:37:55.978999",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Zhang",
+        "email": "jzhang@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Kaplan",
+          "email": "quinn.kaplan@evergreennetw.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Wei,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nJasmine\nChief Information Security Officer\nEvergreen Networks\n\nOn Mon, Aug 10, 2026 at 10:02 AM, Wei Kowalski <weik@weissabbott.com> wrote:\n> Jasmine,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Tidewater.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m03"
+          ],
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e018",
+      "thread_id": "i025-t010",
+      "in_reply_to": "i025-e017",
+      "references": [
+        "i025-e015",
+        "i025-e017"
+      ],
+      "timestamp": "2026-08-14T09:16:13.450013",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Zhang",
+          "email": "jzhang@evergreennetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Kaplan",
+          "email": "quinn.kaplan@evergreennetw.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hi Jasmine,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 12, 2026 at 10:37 AM, Jasmine Zhang <jzhang@evergreennetw.com> wrote:\n> Wei,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e019",
+      "thread_id": "i025-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:23:11.902655",
+      "folder": "inbox",
+      "from": {
+        "name": "James Thompson",
+        "email": "jamest@halcyonnetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hello Wei,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nJames\nGeneral Counsel\nHalcyon Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e020",
+      "thread_id": "i025-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T20:09:12.599753",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Lindqvist",
+        "email": "olindqvist@quarrytrust.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Wei,\n\nTo open the escrow account for the Granite transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nThanks,\nOmar Lindqvist\nVice President, Escrow Services\nQuarry Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e021",
+      "thread_id": "i025-t012",
+      "in_reply_to": "i025-e019",
+      "references": [
+        "i025-e019"
+      ],
+      "timestamp": "2026-08-18T08:33:26.440093",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "James Thompson",
+          "email": "jamest@halcyonnetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello James,\n\nConfirmed. I'll update the checklist.\n\nBest,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 08:23 AM, James Thompson <jamest@halcyonnetw.com> wrote:\n> Hello Wei,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01"
+          ],
+          "thread_candidates": [
+            "i025-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e022",
+      "thread_id": "i025-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T08:03:19.890029",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Nakamura",
+        "email": "unakamura@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Wei,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nUmar",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00",
+            "i025-m02",
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e023",
+      "thread_id": "i025-t013",
+      "in_reply_to": "i025-e020",
+      "references": [
+        "i025-e020"
+      ],
+      "timestamp": "2026-08-19T11:38:37.144362",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Omar Lindqvist",
+          "email": "olindqvist@quarrytrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Omar,\n\nAdding Umar, who will handle the day-to-day on this.\n\nThanks,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": [
+            "i025-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i025-e024",
+      "thread_id": "i025-t012",
+      "in_reply_to": "i025-e021",
+      "references": [
+        "i025-e019",
+        "i025-e021"
+      ],
+      "timestamp": "2026-08-20T07:37:58.074374",
+      "folder": "inbox",
+      "from": {
+        "name": "James Thompson",
+        "email": "jamest@halcyonnetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Wei,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nJames\nGeneral Counsel\nHalcyon Networks\n\nOn Tue, Aug 18, 2026 at 08:33 AM, Wei Kowalski <weik@weissabbott.com> wrote:\n> Hello James,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01"
+          ],
+          "thread_candidates": [
+            "i025-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e025",
+      "thread_id": "i025-t014",
+      "in_reply_to": "i025-e022",
+      "references": [
+        "i025-e022"
+      ],
+      "timestamp": "2026-08-20T13:39:25.346003",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Dear Umar,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nWei Kowalski\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 19, 2026 at 08:03 AM, Umar Nakamura <unakamura@weissabbott.com> wrote:\n> Wei,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00",
+            "i025-m02",
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e026",
+      "thread_id": "i025-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:39:43.606801",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Haddad",
+        "email": "quinnh@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hello Wei,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nRegards,\nQuinn Haddad\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e027",
+      "thread_id": "i025-t014",
+      "in_reply_to": "i025-e025",
+      "references": [
+        "i025-e022",
+        "i025-e025"
+      ],
+      "timestamp": "2026-08-24T09:03:59.199219",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Nakamura",
+        "email": "unakamura@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Wei,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest regards,\nUmar Nakamura\n\nOn Thu, Aug 20, 2026 at 01:39 PM, Wei Kowalski <weik@weissabbott.com> wrote:\n> Dear Umar,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m02",
+        "matter_ids": [
+          "i025-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00",
+            "i025-m02",
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e028",
+      "thread_id": "i025-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:24:47.124639",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Varga",
+        "email": "tarav@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Evergreen",
+      "body": "Hi Wei,\n\nPre-bills for Evergreen Networks are ready for your review:\n\n- 25203-001  Evergreen - Data Security Incident\n\nPlease mark up and return by September 4.\n\nThanks,\nTara Varga\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e029",
+      "thread_id": "i025-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T13:08:34.206220",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Varga",
+        "email": "tarav@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Halcyon",
+      "body": "Wei,\n\nPre-bills for Halcyon Networks are ready for your review:\n\n- 16946-001  Halcyon - Headquarters Lease (1095 Townsend Street)\n\nPlease mark up and return by September 4.\n\nRegards,\nTara\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e030",
+      "thread_id": "i025-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T16:43:57.274905",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Morgan",
+        "email": "hmorgan@solaceheal.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Wei,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nHannah",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e031",
+      "thread_id": "i025-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:51:12.900975",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Tanaka",
+        "email": "gabrielt@abbottquintero.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "subject": "Amberly / Solace - SPA comments",
+      "body": "Hello Wei,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Amberly customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nGabriel Tanaka\nPartner\nAbbott & Quintero LLP",
+      "attachments": [
+        "Amberly SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m00"
+          ],
+          "keyword_candidates": [
+            "i025-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e032",
+      "thread_id": "i025-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T15:40:15.558176",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Zhang",
+        "email": "jzhang@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Kaplan",
+          "email": "quinn.kaplan@evergreennetw.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hello Wei,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Tidewater Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nThanks,\nJasmine Zhang\nChief Information Security Officer\nEvergreen Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [
+            "i025-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e033",
+      "thread_id": "i025-t019",
+      "in_reply_to": "i025-e031",
+      "references": [
+        "i025-e031"
+      ],
+      "timestamp": "2026-09-09T10:00:11.105695",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Tanaka",
+          "email": "gabrielt@abbottquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "subject": "Re: Amberly / Solace - SPA comments",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 09:51 AM, Gabriel Tanaka <gabrielt@abbottquintero.com> wrote:\n> Hello Wei,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Amberly customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": [
+            "i025-m00"
+          ],
+          "identifier_candidates": [
+            "i025-m00"
+          ],
+          "keyword_candidates": [
+            "i025-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e034",
+      "thread_id": "i025-t019",
+      "in_reply_to": "i025-e033",
+      "references": [
+        "i025-e031",
+        "i025-e033"
+      ],
+      "timestamp": "2026-09-09T16:27:28.433656",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Tanaka",
+        "email": "gabrielt@abbottquintero.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Nakamura",
+          "email": "unakamura@weissabbott.com"
+        }
+      ],
+      "subject": "Re: Amberly / Solace - SPA comments",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nGabriel\nPartner\nAbbott & Quintero LLP\n\nOn Wed, Sep 09, 2026 at 10:00 AM, Wei Kowalski <weik@weissabbott.com> wrote:\n> Counsel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m00",
+        "matter_ids": [
+          "i025-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m00"
+          ],
+          "thread_candidates": [
+            "i025-m00"
+          ],
+          "identifier_candidates": [
+            "i025-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e035",
+      "thread_id": "i025-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T09:19:59.676750",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Varga",
+        "email": "aisha.varga@corvidmutual.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Wei,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Tidewater.\n\nBest regards,\nAisha",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e036",
+      "thread_id": "i025-t021",
+      "in_reply_to": "i025-e035",
+      "references": [
+        "i025-e035"
+      ],
+      "timestamp": "2026-09-14T10:59:13.706285",
+      "folder": "sent",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "weik@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Varga",
+          "email": "aisha.varga@corvidmutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Aisha,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nWei\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 11, 2026 at 09:19 AM, Aisha Varga <aisha.varga@corvidmutual.com> wrote:\n> Wei,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Tidewater.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": [
+            "i025-m03"
+          ],
+          "identifier_candidates": [
+            "i025-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e037",
+      "thread_id": "i025-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T08:36:41.084866",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Vasquez",
+        "email": "chenv@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Wei,\n\nStatus on my matters this week:\n\n- 1095 Townsend Street: second turn of landlord's lease draft; SNDA requested from lender.\n- California DOJ CID: collection 80% complete; first rolling production targeted for October 8.\n\nBest regards,\nChen Vasquez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m01",
+        "matter_ids": [
+          "i025-m01",
+          "i025-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i025-m01"
+          ],
+          "keyword_candidates": [
+            "i025-m01",
+            "i025-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e038",
+      "thread_id": "i025-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T07:11:35.088727",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kaplan",
+        "email": "quinn.kaplan@evergreennetw.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Wei,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nQuinn Kaplan\nGeneral Counsel\nEvergreen Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i025-m03",
+        "matter_ids": [
+          "i025-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i025-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i025-e039",
+      "thread_id": "i025-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T12:32:21.119163",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Abbott",
+        "email": "ivan.abbott@weissabbott.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "weik@weissabbott.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Wei,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nRegards,\nIvan Abbott\nPartner\nWeiss & Abbott LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700025
+}

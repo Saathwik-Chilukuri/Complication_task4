@@ -1,0 +1,2071 @@
+{
+  "instance_id": "i038",
+  "firm": {
+    "name": "Xu & Tanaka LLP",
+    "domain": "xutanaka.com"
+  },
+  "user_contact_id": "i038-c000",
+  "matters": [
+    {
+      "matter_id": "i038-m00",
+      "matter_number": "84689-001",
+      "name": "Copperleaf - Acquisition of Lattice Software (Project Granite)",
+      "client": "Copperleaf Logistics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Lattice Software by Copperleaf Logistics. Stock purchase, ~$120 million.",
+      "counterparty": "Lattice Software",
+      "opposing_counsel_firm": "Kaplan & Quintero LLP",
+      "status": "open",
+      "opened_on": "2026-06-04",
+      "key_terms": [
+        "84689-001",
+        "Project Granite",
+        "Granite",
+        "Lattice Software",
+        "Lattice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i038-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i038-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i038-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i038-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i038-c011",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i038-m01",
+      "matter_number": "19029-001",
+      "name": "Nimbus v. Stratus ('595 Patent)",
+      "client": "Nimbus Analytics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Nimbus Analytics against Stratus Labs asserting U.S. Patent No. 10,595,341.",
+      "counterparty": "Stratus Labs",
+      "opposing_counsel_firm": "Moreau & Ito LLP",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "19029-001",
+        "10,595,341",
+        "'595",
+        "Stratus Labs",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i038-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i038-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i038-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i038-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i038-c014",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i038-m02",
+      "matter_number": "77976-001",
+      "name": "Brightline - Series C Financing",
+      "client": "Brightline Analytics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Brightline Analytics, led by Sterling Ventures. Raising ~$40 million.",
+      "counterparty": "Sterling Ventures",
+      "opposing_counsel_firm": "Goldberg & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-07-31",
+      "key_terms": [
+        "77976-001",
+        "Series C",
+        "Sterling Ventures",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i038-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i038-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i038-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i038-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i038-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i038-c018",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i038-m03",
+      "matter_number": "93574-001",
+      "name": "Driftwood - Acquisition of Halcyon Therapeutics (Project Cobalt)",
+      "client": "Driftwood Software",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Halcyon Therapeutics by Driftwood Software. Stock purchase, ~$650 million.",
+      "counterparty": "Halcyon Therapeutics",
+      "opposing_counsel_firm": "Huang & Grant LLP",
+      "status": "open",
+      "opened_on": "2026-06-20",
+      "key_terms": [
+        "93574-001",
+        "Project Cobalt",
+        "Cobalt",
+        "Halcyon Therapeutics",
+        "Halcyon"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i038-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i038-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i038-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i038-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i038-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i038-c021",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i038-c000",
+      "name": "Omar Sato",
+      "first": "Omar",
+      "email": "osato@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c001",
+      "name": "Ximena Osei",
+      "first": "Ximena",
+      "email": "ximenao@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c002",
+      "name": "James Xu",
+      "first": "James",
+      "email": "jamesx@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c003",
+      "name": "Valerie Grant",
+      "first": "Valerie",
+      "email": "valerie.grant@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c004",
+      "name": "Quinn Whitaker",
+      "first": "Quinn",
+      "email": "quinnw@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c005",
+      "name": "Gabriel Quintero",
+      "first": "Gabriel",
+      "email": "gabrielq@copperleaflogi.com",
+      "organization": "Copperleaf Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c006",
+      "name": "Hannah Iyer",
+      "first": "Hannah",
+      "email": "hannahi@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c007",
+      "name": "Yara Patel",
+      "first": "Yara",
+      "email": "ypatel@brightlineanal.com",
+      "organization": "Brightline Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c008",
+      "name": "Samuel Grant",
+      "first": "Samuel",
+      "email": "sgrant@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c009",
+      "name": "James Young",
+      "first": "James",
+      "email": "jyoung@copperleaflogi.com",
+      "organization": "Copperleaf Logistics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c010",
+      "name": "Rafael Sato",
+      "first": "Rafael",
+      "email": "rafaels@kaplanquintero.com",
+      "organization": "Kaplan & Quintero LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c011",
+      "name": "Wei Kowalski",
+      "first": "Wei",
+      "email": "wkowalski@cascadetrust.com",
+      "organization": "Cascade Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c012",
+      "name": "Samuel Ferreira",
+      "first": "Samuel",
+      "email": "sferreira@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c013",
+      "name": "Hiro Varga",
+      "first": "Hiro",
+      "email": "hirov@moreauito.com",
+      "organization": "Moreau & Ito LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c014",
+      "name": "Emma Shah",
+      "first": "Emma",
+      "email": "emmas@silverpinetech.com",
+      "organization": "Silverpine Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c015",
+      "name": "Nadia Grant",
+      "first": "Nadia",
+      "email": "nadia.grant@brightlineanal.com",
+      "organization": "Brightline Analytics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c016",
+      "name": "Yara Castillo",
+      "first": "Yara",
+      "email": "yarac@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c017",
+      "name": "Kavya Yamamoto",
+      "first": "Kavya",
+      "email": "kyamamoto@sterlingvc.com",
+      "organization": "Sterling Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c018",
+      "name": "Nadia Young",
+      "first": "Nadia",
+      "email": "nadia.young@riverstonevc.com",
+      "organization": "Riverstone Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c019",
+      "name": "Nadia Zhang",
+      "first": "Nadia",
+      "email": "nadia.zhang@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c020",
+      "name": "Nikhil Delgado",
+      "first": "Nikhil",
+      "email": "ndelgado@huanggrant.com",
+      "organization": "Huang & Grant LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c021",
+      "name": "Quinn Castillo",
+      "first": "Quinn",
+      "email": "quinnc@orchardtrust.com",
+      "organization": "Orchard Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c022",
+      "name": "Victor Lee",
+      "first": "Victor",
+      "email": "victorl@huanggrant.com",
+      "organization": "Huang & Grant LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c023",
+      "name": "Daniel Weiss",
+      "first": "Daniel",
+      "email": "danielw@huanggrant.com",
+      "organization": "Huang & Grant LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i038-c024",
+      "name": "Aisha Yamamoto",
+      "first": "Aisha",
+      "email": "aishay@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i038-c025",
+      "name": "Ben Laurent",
+      "first": "Ben",
+      "email": "benl@xutanaka.com",
+      "organization": "Xu & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i038-e000",
+      "thread_id": "i038-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T09:56:13.279996",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Quintero",
+        "email": "gabrielq@copperleaflogi.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Omar,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nGabriel Quintero\nGeneral Counsel\nCopperleaf Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e001",
+      "thread_id": "i038-t000",
+      "in_reply_to": "i038-e000",
+      "references": [
+        "i038-e000"
+      ],
+      "timestamp": "2026-06-10T09:05:09.062222",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Quintero",
+          "email": "gabrielq@copperleaflogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hello Gabriel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nOmar\nPartner\nXu & Tanaka LLP\n\nOn Mon, Jun 08, 2026 at 09:56 AM, Gabriel Quintero <gabrielq@copperleaflogi.com> wrote:\n> Hello Omar,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00"
+          ],
+          "thread_candidates": [
+            "i038-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e002",
+      "thread_id": "i038-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T13:38:57.113602",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Yamamoto",
+        "email": "aishay@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Omar,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nAisha Yamamoto\nProfessional Development Manager\nXu & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e003",
+      "thread_id": "i038-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T10:45:58.628766",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Grant",
+        "email": "sgrant@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Omar,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nSamuel Grant",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e004",
+      "thread_id": "i038-t002",
+      "in_reply_to": "i038-e003",
+      "references": [
+        "i038-e003"
+      ],
+      "timestamp": "2026-06-23T09:01:50.829702",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Grant",
+          "email": "sgrant@driftwoodsoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Samuel,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nThanks,\nOmar\nPartner\nXu & Tanaka LLP\n\nOn Mon, Jun 22, 2026 at 10:45 AM, Samuel Grant <sgrant@driftwoodsoft.com> wrote:\n> Dear Omar,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": [
+            "i038-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e005",
+      "thread_id": "i038-t002",
+      "in_reply_to": "i038-e004",
+      "references": [
+        "i038-e003",
+        "i038-e004"
+      ],
+      "timestamp": "2026-06-25T09:55:19.061302",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Grant",
+        "email": "sgrant@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Dear Omar,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nSamuel\n\nOn Tue, Jun 23, 2026 at 09:01 AM, Omar Sato <osato@xutanaka.com> wrote:\n> Samuel,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": [
+            "i038-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e006",
+      "thread_id": "i038-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:58:08.141084",
+      "folder": "inbox",
+      "from": {
+        "name": "James Xu",
+        "email": "jamesx@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cobalt - disclosure schedules open items",
+      "body": "Dear Omar,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Halcyon's counsel directly?\n\nBest regards,\nJames Xu\nAssociate\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01",
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [
+            "i038-m00",
+            "i038-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e007",
+      "thread_id": "i038-t003",
+      "in_reply_to": "i038-e006",
+      "references": [
+        "i038-e006"
+      ],
+      "timestamp": "2026-07-13T20:41:20.439838",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "James Xu",
+          "email": "jamesx@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cobalt - disclosure schedules open items",
+      "body": "Hello James,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nOmar\nPartner\nXu & Tanaka LLP\n\nOn Mon, Jul 13, 2026 at 08:58 AM, James Xu <jamesx@xutanaka.com> wrote:\n> Dear Omar,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Halcyon's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01",
+            "i038-m03"
+          ],
+          "thread_candidates": [
+            "i038-m03"
+          ],
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [
+            "i038-m00",
+            "i038-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e008",
+      "thread_id": "i038-t003",
+      "in_reply_to": "i038-e007",
+      "references": [
+        "i038-e006",
+        "i038-e007"
+      ],
+      "timestamp": "2026-07-15T08:25:42.381459",
+      "folder": "inbox",
+      "from": {
+        "name": "James Xu",
+        "email": "jamesx@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cobalt - disclosure schedules open items",
+      "body": "Hello Omar,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nJames\nAssociate\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01",
+            "i038-m03"
+          ],
+          "thread_candidates": [
+            "i038-m03"
+          ],
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e009",
+      "thread_id": "i038-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T09:59:45.470438",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Ferreira",
+        "email": "sferreira@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Iyer",
+          "email": "hannahi@nimbusanal.com"
+        }
+      ],
+      "subject": "Stratus Labs product launch - possible infringement of '595 patent",
+      "body": "Omar,\n\nOur engineers looked at the product Stratus Labs launched last month and believe it practices claims 1 and 7 of our '595 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest regards,\nSamuel",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i038-m01",
+        "matter_ids": [
+          "i038-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m01"
+          ],
+          "keyword_candidates": [
+            "i038-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e010",
+      "thread_id": "i038-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:59:05.863793",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Grant",
+        "email": "sgrant@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Dear Omar,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nRegards,\nSamuel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e011",
+      "thread_id": "i038-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:53:46.149506",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Lee",
+        "email": "victorl@huanggrant.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Hello Omar,\n\nI've joined the Halcyon deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest,\nVictor",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [
+            "i038-m00",
+            "i038-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e012",
+      "thread_id": "i038-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T10:37:02.936119",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Whitaker",
+        "email": "quinnw@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Nimbus",
+      "body": "Dear Omar,\n\nPre-bills for Nimbus Analytics are ready for your review:\n\n- 19029-001  Nimbus v. Stratus ('595 Patent)\n\nPlease mark up and return by August 4.\n\nThanks,\nQuinn\nBilling Coordinator\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m01",
+        "matter_ids": [
+          "i038-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e013",
+      "thread_id": "i038-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T11:07:33.170261",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Whitaker",
+        "email": "quinnw@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Copperleaf",
+      "body": "Omar,\n\nPre-bills for Copperleaf Logistics are ready for your review:\n\n- 84689-001  Copperleaf - Acquisition of Lattice Software (Project Granite)\n\nPlease mark up and return by August 4.\n\nRegards,\nQuinn Whitaker\nBilling Coordinator\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e014",
+      "thread_id": "i038-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:18:38.056869",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Whitaker",
+        "email": "quinnw@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Driftwood",
+      "body": "Omar,\n\nPre-bills for Driftwood Software are ready for your review:\n\n- 93574-001  Driftwood - Acquisition of Halcyon Therapeutics (Project Cobalt)\n\nPlease mark up and return by August 4.\n\nThanks,\nQuinn Whitaker\nBilling Coordinator\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e015",
+      "thread_id": "i038-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T09:52:23.640717",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Varga",
+        "email": "hirov@moreauito.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Xu",
+          "email": "jamesx@xutanaka.com"
+        }
+      ],
+      "subject": "Nimbus v. Stratus - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Thursday.\n\nBest,\nHiro Varga",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i038-m01",
+        "matter_ids": [
+          "i038-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e016",
+      "thread_id": "i038-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T09:01:53.607830",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Weiss",
+        "email": "danielw@huanggrant.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Grant",
+          "email": "valerie.grant@xutanaka.com"
+        }
+      ],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Hello Omar,\n\nI've joined the Halcyon deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest regards,\nDaniel Weiss",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [
+            "i038-m00",
+            "i038-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e017",
+      "thread_id": "i038-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T12:11:53.002328",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Grant",
+        "email": "nadia.grant@brightlineanal.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Patel",
+          "email": "ypatel@brightlineanal.com"
+        }
+      ],
+      "subject": "Series C term sheet from Sterling Ventures",
+      "body": "Omar,\n\nWe received the attached term sheet from Sterling Ventures last night: $40 million at a $310 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?\n\nBest regards,\nNadia Grant",
+      "attachments": [
+        "Sterling Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [
+            "i038-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e018",
+      "thread_id": "i038-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:47:39.132403",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Sato",
+          "email": "rafaels@kaplanquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Grant",
+          "email": "valerie.grant@xutanaka.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Valerie and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest regards,\nOmar Sato\nPartner\nXu & Tanaka LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i038-m00",
+            "i038-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i038-e019",
+      "thread_id": "i038-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T19:00:13.183317",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "wkowalski@cascadetrust.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hi Omar,\n\nTo open the escrow account for the Granite transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?\n\nThanks,\nWei Kowalski\nVice President, Escrow Services\nCascade Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e020",
+      "thread_id": "i038-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T09:04:01.932221",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Shah",
+        "email": "emmas@silverpinetech.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Xu",
+          "email": "jamesx@xutanaka.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Omar,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 5.\n\nBest regards,\nEmma\nPrincipal\nSilverpine Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m01",
+        "matter_ids": [
+          "i038-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e021",
+      "thread_id": "i038-t015",
+      "in_reply_to": "i038-e020",
+      "references": [
+        "i038-e020"
+      ],
+      "timestamp": "2026-08-24T09:40:23.521248",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Emma Shah",
+          "email": "emmas@silverpinetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Xu",
+          "email": "jamesx@xutanaka.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Emma,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nOmar Sato\nPartner\nXu & Tanaka LLP\n\nOn Fri, Aug 21, 2026 at 09:04 AM, Emma Shah <emmas@silverpinetech.com> wrote:\n> Omar,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 5.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m01",
+        "matter_ids": [
+          "i038-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m01"
+          ],
+          "thread_candidates": [
+            "i038-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e022",
+      "thread_id": "i038-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T14:58:30.604674",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Castillo",
+        "email": "quinnc@orchardtrust.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Omar,\n\nTo open the escrow account for the Cobalt transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?\n\nThanks,\nQuinn Castillo\nVice President, Escrow Services\nOrchard Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m03",
+        "matter_ids": [
+          "i038-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e023",
+      "thread_id": "i038-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T10:28:54.444332",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Grant",
+        "email": "valerie.grant@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello Omar,\n\nStatus on my matters this week:\n\n- Project Granite: seller comments on the SPA in; issues list circulated, signing targeted for September 23.\n- Series C: financing docs in negotiation with Sterling's counsel; cap table reconciliation in progress.\n- Project Cobalt: seller comments on the SPA in; issues list circulated, signing targeted for September 27.\n\nBest,\nValerie\nSenior Associate\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m00",
+        "matter_ids": [
+          "i038-m00",
+          "i038-m02",
+          "i038-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00",
+            "i038-m02",
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m00",
+            "i038-m02",
+            "i038-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e024",
+      "thread_id": "i038-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:42:18.473568",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Patel",
+        "email": "ypatel@brightlineanal.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hello Omar,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nRegards,\nYara Patel\nGeneral Counsel\nBrightline Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e025",
+      "thread_id": "i038-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-06T07:16:32.334374",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kyamamoto@sterlingvc.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Grant",
+          "email": "nadia.grant@brightlineanal.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Omar,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is October 16 still realistic?\n\nRegards,\nKavya Yamamoto\nPartner\nSterling Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e026",
+      "thread_id": "i038-t019",
+      "in_reply_to": "i038-e025",
+      "references": [
+        "i038-e025"
+      ],
+      "timestamp": "2026-10-06T20:13:54.067873",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kyamamoto@sterlingvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Grant",
+          "email": "nadia.grant@brightlineanal.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Kavya,\n\nWorks for me. Let's do Tuesday at 2:00 p.m..\n\nBest,\nOmar\nPartner\nXu & Tanaka LLP\n\nOn Tue, Oct 06, 2026 at 07:16 AM, Kavya Yamamoto <kyamamoto@sterlingvc.com> wrote:\n> Omar,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is October 16 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": [
+            "i038-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e027",
+      "thread_id": "i038-t019",
+      "in_reply_to": "i038-e026",
+      "references": [
+        "i038-e025",
+        "i038-e026"
+      ],
+      "timestamp": "2026-10-07T09:33:00.085636",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kyamamoto@sterlingvc.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Grant",
+          "email": "nadia.grant@brightlineanal.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Omar,\n\nWorks for me. Let's do Tuesday at 5:00 p.m..\n\nBest regards,\nKavya Yamamoto\nPartner\nSterling Ventures\n\nOn Tue, Oct 06, 2026 at 08:13 PM, Omar Sato <osato@xutanaka.com> wrote:\n> Hello Kavya,\n>\n> Works for me. Let's do Tuesday at 2:00 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": [
+            "i038-m02"
+          ],
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e028",
+      "thread_id": "i038-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T07:26:57.975811",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Grant",
+        "email": "valerie.grant@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hello Omar,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nValerie Grant\nSenior Associate\nXu & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i038-m00",
+            "i038-m02",
+            "i038-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i038-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e029",
+      "thread_id": "i038-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-13T09:52:25.113980",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Castillo",
+        "email": "yarac@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Grant",
+          "email": "valerie.grant@xutanaka.com"
+        }
+      ],
+      "subject": "Brightline Series C - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series C. Our client would like to sign by November 5. Please send the updated cap table and disclosure schedule when ready.\n\nRegards,\nYara",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [
+            "i038-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e030",
+      "thread_id": "i038-t021",
+      "in_reply_to": "i038-e029",
+      "references": [
+        "i038-e029"
+      ],
+      "timestamp": "2026-10-14T09:15:15.740270",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Sato",
+        "email": "osato@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Yara Castillo",
+          "email": "yarac@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Grant",
+          "email": "valerie.grant@xutanaka.com"
+        }
+      ],
+      "subject": "Re: Brightline Series C - draft financing documents",
+      "body": "Hi Yara,\n\nConfirmed. I'll update the checklist.\n\nBest,\nOmar Sato\nPartner\nXu & Tanaka LLP\n\nOn Tue, Oct 13, 2026 at 09:52 AM, Yara Castillo <yarac@goldbergdelgado.com> wrote:\n> Counsel,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series C. Our client would like to sign by November 5. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": [
+            "i038-m02"
+          ],
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [
+            "i038-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e031",
+      "thread_id": "i038-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-15T12:14:40.093278",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Laurent",
+        "email": "benl@xutanaka.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Omar,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nBen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i038-e032",
+      "thread_id": "i038-t021",
+      "in_reply_to": "i038-e030",
+      "references": [
+        "i038-e029",
+        "i038-e030"
+      ],
+      "timestamp": "2026-10-16T07:08:17.091681",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Castillo",
+        "email": "yarac@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Omar Sato",
+          "email": "osato@xutanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Grant",
+          "email": "valerie.grant@xutanaka.com"
+        }
+      ],
+      "subject": "Re: Brightline Series C - draft financing documents",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nThanks,\nYara\n\nOn Wed, Oct 14, 2026 at 09:15 AM, Omar Sato <osato@xutanaka.com> wrote:\n> Hi Yara,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i038-m02",
+        "matter_ids": [
+          "i038-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i038-m02"
+          ],
+          "thread_candidates": [
+            "i038-m02"
+          ],
+          "identifier_candidates": [
+            "i038-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700038
+}

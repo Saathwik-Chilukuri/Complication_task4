@@ -1,0 +1,3674 @@
+{
+  "instance_id": "i021",
+  "firm": {
+    "name": "Weiss & Laurent LLP",
+    "domain": "weisslaurent.com"
+  },
+  "user_contact_id": "i021-c000",
+  "matters": [
+    {
+      "matter_id": "i021-m00",
+      "matter_number": "70358-001",
+      "name": "Trellis - Series B Financing",
+      "client": "Trellis Analytics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Trellis Analytics, led by Vantage Ventures. Raising ~$60 million.",
+      "counterparty": "Vantage Ventures",
+      "opposing_counsel_firm": "Zhang & Varga LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "70358-001",
+        "Series B",
+        "Vantage Ventures",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i021-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i021-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i021-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i021-c010",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i021-c011",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i021-m01",
+      "matter_number": "23465-001",
+      "name": "Solace - Headquarters Lease (1338 Market Street)",
+      "client": "Solace Energy",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Solace Energy's new headquarters at 1338 Market Street, landlord Nimbus Properties LLC.",
+      "counterparty": "Nimbus Properties LLC",
+      "opposing_counsel_firm": "Weiss & Moreau LLP",
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "23465-001",
+        "1338 Market Street",
+        "Nimbus Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i021-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i021-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i021-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i021-c014",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i021-m02",
+      "matter_number": "23465-002",
+      "name": "Solace v. Orchard ('512 Patent)",
+      "client": "Solace Energy",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Solace Energy against Orchard Analytics asserting U.S. Patent No. 10,512,599.",
+      "counterparty": "Orchard Analytics",
+      "opposing_counsel_firm": "Ziegler & Lindqvist LLP",
+      "status": "open",
+      "opened_on": "2026-07-26",
+      "key_terms": [
+        "23465-002",
+        "10,512,599",
+        "'512",
+        "Orchard Analytics",
+        "Orchard"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i021-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i021-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i021-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i021-c017",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i021-m03",
+      "matter_number": "79407-001",
+      "name": "Bluefin - SEC Investigation (CID No. 2025-908)",
+      "client": "Bluefin Systems",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Bluefin Systems's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "79407-001",
+        "2025-908",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i021-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i021-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i021-c019",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i021-c020",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i021-m04",
+      "matter_number": "65911-001",
+      "name": "Silverpine - Series B Financing",
+      "client": "Silverpine Biosciences",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Silverpine Biosciences, led by Amberly Ventures. Raising ~$40 million.",
+      "counterparty": "Amberly Ventures",
+      "opposing_counsel_firm": "Weiss & Moreau LLP",
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "65911-001",
+        "Series B",
+        "Amberly Ventures",
+        "Amberly"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i021-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i021-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i021-c021",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i021-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i021-c022",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i021-c023",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i021-c000",
+      "name": "Priya Castillo",
+      "first": "Priya",
+      "email": "priya.castillo@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c001",
+      "name": "Priya Young",
+      "first": "Priya",
+      "email": "priyay@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c002",
+      "name": "Yara Goldberg",
+      "first": "Yara",
+      "email": "ygoldberg@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c003",
+      "name": "Farid Fischer",
+      "first": "Farid",
+      "email": "ffischer@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c004",
+      "name": "Kavya Okafor",
+      "first": "Kavya",
+      "email": "kavyao@trellisanal.com",
+      "organization": "Trellis Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c005",
+      "name": "Yusuf Brennan",
+      "first": "Yusuf",
+      "email": "yusuf.brennan@solaceener.com",
+      "organization": "Solace Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c006",
+      "name": "Ivan Laurent",
+      "first": "Ivan",
+      "email": "ivan.laurent@bluefinsyst.com",
+      "organization": "Bluefin Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c007",
+      "name": "Xavier Chowdhury",
+      "first": "Xavier",
+      "email": "xavier.chowdhury@silverpinebios.com",
+      "organization": "Silverpine Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c008",
+      "name": "Olivia Park",
+      "first": "Olivia",
+      "email": "oliviap@trellisanal.com",
+      "organization": "Trellis Analytics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c009",
+      "name": "Elena Abbott",
+      "first": "Elena",
+      "email": "elenaa@zhangvarga.com",
+      "organization": "Zhang & Varga LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c010",
+      "name": "Victor Laurent",
+      "first": "Victor",
+      "email": "victor.laurent@vantagevc.com",
+      "organization": "Vantage Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c011",
+      "name": "Lucia Yamamoto",
+      "first": "Lucia",
+      "email": "lucia.yamamoto@corvidvc.com",
+      "organization": "Corvid Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c012",
+      "name": "Quinn Alvarez",
+      "first": "Quinn",
+      "email": "quinn.alvarez@solaceener.com",
+      "organization": "Solace Energy",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c013",
+      "name": "Elena Weiss",
+      "first": "Elena",
+      "email": "elenaw@weissmoreau.com",
+      "organization": "Weiss & Moreau LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c014",
+      "name": "Uma Yamamoto",
+      "first": "Uma",
+      "email": "uma.yamamoto@evergreenrealty.com",
+      "organization": "Evergreen Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c015",
+      "name": "Omar Weiss",
+      "first": "Omar",
+      "email": "oweiss@solaceener.com",
+      "organization": "Solace Energy",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c016",
+      "name": "Maya Underwood",
+      "first": "Maya",
+      "email": "munderwood@zieglerlindqvist.com",
+      "organization": "Ziegler & Lindqvist LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c017",
+      "name": "Wei Nakamura",
+      "first": "Wei",
+      "email": "wei.nakamura@northwindtech.com",
+      "organization": "Northwind Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c018",
+      "name": "Chen Huang",
+      "first": "Chen",
+      "email": "chenh@bluefinsyst.com",
+      "organization": "Bluefin Systems",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c019",
+      "name": "Lucia Novak",
+      "first": "Lucia",
+      "email": "lnovak@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c020",
+      "name": "Ximena Osei",
+      "first": "Ximena",
+      "email": "ximena.osei@halcyondiscovery.com",
+      "organization": "Halcyon Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c021",
+      "name": "Chen Shah",
+      "first": "Chen",
+      "email": "chen.shah@silverpinebios.com",
+      "organization": "Silverpine Biosciences",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c022",
+      "name": "Jasmine Thompson",
+      "first": "Jasmine",
+      "email": "jthompson@amberlyvc.com",
+      "organization": "Amberly Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c023",
+      "name": "Liam Ito",
+      "first": "Liam",
+      "email": "liami@ironbridgevc.com",
+      "organization": "Ironbridge Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c024",
+      "name": "Ximena Lindqvist",
+      "first": "Ximena",
+      "email": "xlindqvist@stratusbank.com",
+      "organization": "Stratus Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i021-c025",
+      "name": "Gabriel Nakamura",
+      "first": "Gabriel",
+      "email": "gnakamura@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c026",
+      "name": "Femi Dubois",
+      "first": "Femi",
+      "email": "fdubois@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i021-c027",
+      "name": "Xavier Haddad",
+      "first": "Xavier",
+      "email": "xavier.haddad@weisslaurent.com",
+      "organization": "Weiss & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i021-e000",
+      "thread_id": "i021-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-03T09:02:00.626242",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Dubois",
+        "email": "fdubois@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Priya,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nFemi\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e001",
+      "thread_id": "i021-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T13:44:58.217463",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Haddad",
+        "email": "xavier.haddad@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hi Priya,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nXavier Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e002",
+      "thread_id": "i021-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T08:53:39.798150",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Novak",
+        "email": "lnovak@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-908 - meet and confer",
+      "body": "Priya,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nLucia\nStaff Attorney\nSecurities and Exchange Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m03"
+          ],
+          "keyword_candidates": [
+            "i021-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e003",
+      "thread_id": "i021-t002",
+      "in_reply_to": "i021-e002",
+      "references": [
+        "i021-e002"
+      ],
+      "timestamp": "2026-07-08T20:17:26.628438",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Novak",
+          "email": "lnovak@sec.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-908 - meet and confer",
+      "body": "Hello Lucia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Tue, Jul 07, 2026 at 08:53 AM, Lucia Novak <lnovak@sec.gov> wrote:\n> Priya,\n>\n> Following up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [
+            "i021-m03"
+          ],
+          "keyword_candidates": [
+            "i021-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e004",
+      "thread_id": "i021-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T09:29:47.789791",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Huang",
+          "email": "chenh@bluefinsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Chen,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e005",
+      "thread_id": "i021-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T07:07:12.864483",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Yamamoto",
+        "email": "uma.yamamoto@evergreenrealty.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Alvarez",
+          "email": "quinn.alvarez@solaceener.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Dear Priya,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nRegards,\nUma\nSenior Vice President\nEvergreen Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e006",
+      "thread_id": "i021-t003",
+      "in_reply_to": "i021-e004",
+      "references": [
+        "i021-e004"
+      ],
+      "timestamp": "2026-07-13T09:01:10.728090",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Huang",
+        "email": "chenh@bluefinsyst.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Priya,\n\nWorks for me. Let's do Thursday at 10:30 a.m..\n\nThanks,\nChen\nChief Compliance Officer\nBluefin Systems\n\nOn Thu, Jul 09, 2026 at 09:29 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Hello Chen,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e007",
+      "thread_id": "i021-t004",
+      "in_reply_to": "i021-e005",
+      "references": [
+        "i021-e005"
+      ],
+      "timestamp": "2026-07-13T09:39:51.114723",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Uma Yamamoto",
+          "email": "uma.yamamoto@evergreenrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Alvarez",
+          "email": "quinn.alvarez@solaceener.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hello Uma,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01"
+          ],
+          "thread_candidates": [
+            "i021-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e008",
+      "thread_id": "i021-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T09:06:44.148138",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Chowdhury",
+        "email": "xavier.chowdhury@silverpinebios.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Priya,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nThanks,\nXavier\nGeneral Counsel\nSilverpine Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e009",
+      "thread_id": "i021-t005",
+      "in_reply_to": "i021-e008",
+      "references": [
+        "i021-e008"
+      ],
+      "timestamp": "2026-07-17T09:02:56.774411",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Chowdhury",
+          "email": "xavier.chowdhury@silverpinebios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Xavier,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Thu, Jul 16, 2026 at 09:06 AM, Xavier Chowdhury <xavier.chowdhury@silverpinebios.com> wrote:\n> Priya,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e010",
+      "thread_id": "i021-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:08:23.774218",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Goldberg",
+        "email": "ygoldberg@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hello Priya,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest regards,\nYara\nAssociate\nWeiss & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e011",
+      "thread_id": "i021-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:09:40.894583",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Shah",
+        "email": "chen.shah@silverpinebios.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Chowdhury",
+          "email": "xavier.chowdhury@silverpinebios.com"
+        }
+      ],
+      "subject": "Series B term sheet from Amberly Ventures",
+      "body": "Dear Priya,\n\nWe received the attached term sheet from Amberly Ventures last night: $40 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?\n\nBest,\nChen Shah",
+      "attachments": [
+        "Amberly Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e012",
+      "thread_id": "i021-t007",
+      "in_reply_to": "i021-e011",
+      "references": [
+        "i021-e011"
+      ],
+      "timestamp": "2026-07-21T09:53:30.163056",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Shah",
+          "email": "chen.shah@silverpinebios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Chowdhury",
+          "email": "xavier.chowdhury@silverpinebios.com"
+        }
+      ],
+      "subject": "Re: Series B term sheet from Amberly Ventures",
+      "body": "Hi Chen,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Mon, Jul 20, 2026 at 09:09 AM, Chen Shah <chen.shah@silverpinebios.com> wrote:\n> Dear Priya,\n>\n> We received the attached term sheet from Amberly Ventures last night: $40 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Friday?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e013",
+      "thread_id": "i021-t006",
+      "in_reply_to": "i021-e010",
+      "references": [
+        "i021-e010"
+      ],
+      "timestamp": "2026-07-21T18:55:36.764881",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Yara,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Mon, Jul 20, 2026 at 08:08 AM, Yara Goldberg <ygoldberg@weisslaurent.com> wrote:\n> Hello Priya,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e014",
+      "thread_id": "i021-t007",
+      "in_reply_to": "i021-e012",
+      "references": [
+        "i021-e011",
+        "i021-e012"
+      ],
+      "timestamp": "2026-07-22T07:53:36.140571",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Shah",
+        "email": "chen.shah@silverpinebios.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Chowdhury",
+          "email": "xavier.chowdhury@silverpinebios.com"
+        }
+      ],
+      "subject": "Re: Series B term sheet from Amberly Ventures",
+      "body": "Hello Priya,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nChen Shah",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e015",
+      "thread_id": "i021-t007",
+      "in_reply_to": "i021-e014",
+      "references": [
+        "i021-e011",
+        "i021-e012",
+        "i021-e014"
+      ],
+      "timestamp": "2026-07-23T09:51:44.756349",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Shah",
+          "email": "chen.shah@silverpinebios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Chowdhury",
+          "email": "xavier.chowdhury@silverpinebios.com"
+        }
+      ],
+      "subject": "Re: Series B term sheet from Amberly Ventures",
+      "body": "Hello Chen,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Wed, Jul 22, 2026 at 07:53 AM, Chen Shah <chen.shah@silverpinebios.com> wrote:\n> Hello Priya,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e016",
+      "thread_id": "i021-t006",
+      "in_reply_to": "i021-e013",
+      "references": [
+        "i021-e010",
+        "i021-e013"
+      ],
+      "timestamp": "2026-07-23T16:51:03.586200",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Goldberg",
+        "email": "ygoldberg@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Priya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nYara Goldberg\nAssociate\nWeiss & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 21, 2026 at 06:55 PM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Hi Yara,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e017",
+      "thread_id": "i021-t006",
+      "in_reply_to": "i021-e016",
+      "references": [
+        "i021-e010",
+        "i021-e013",
+        "i021-e016"
+      ],
+      "timestamp": "2026-07-27T10:31:06.694485",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Yara,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Thu, Jul 23, 2026 at 04:51 PM, Yara Goldberg <ygoldberg@weisslaurent.com> wrote:\n> Hello Priya,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e018",
+      "thread_id": "i021-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T10:46:05.928271",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Fischer",
+        "email": "ffischer@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Bluefin",
+      "body": "Priya,\n\nPre-bills for Bluefin Systems are ready for your review:\n\n- 79407-001  Bluefin - SEC Investigation (CID No. 2025-908)\n\nPlease mark up and return by August 4.\n\nThanks,\nFarid Fischer\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m03"
+          ],
+          "keyword_candidates": [
+            "i021-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e019",
+      "thread_id": "i021-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T15:38:02.432380",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Fischer",
+        "email": "ffischer@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Solace",
+      "body": "Dear Priya,\n\nPre-bills for Solace Energy are ready for your review:\n\n- 23465-001  Solace - Headquarters Lease (1338 Market Street)\n- 23465-002  Solace v. Orchard ('512 Patent)\n\nPlease mark up and return by August 4.\n\nRegards,\nFarid\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01",
+          "i021-m02"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e020",
+      "thread_id": "i021-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T08:02:36.167341",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Brennan",
+        "email": "yusuf.brennan@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear Priya,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nThanks,\nYusuf Brennan\nGeneral Counsel\nSolace Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e021",
+      "thread_id": "i021-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T09:07:20.371400",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Osei",
+        "email": "ximena.osei@halcyondiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Priya,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nXimena",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e022",
+      "thread_id": "i021-t010",
+      "in_reply_to": "i021-e020",
+      "references": [
+        "i021-e020"
+      ],
+      "timestamp": "2026-08-07T18:20:44.754618",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Brennan",
+          "email": "yusuf.brennan@solaceener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Yusuf,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Thu, Aug 06, 2026 at 08:02 AM, Yusuf Brennan <yusuf.brennan@solaceener.com> wrote:\n> Dear Priya,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e023",
+      "thread_id": "i021-t010",
+      "in_reply_to": "i021-e022",
+      "references": [
+        "i021-e020",
+        "i021-e022"
+      ],
+      "timestamp": "2026-08-10T08:19:34.443943",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Brennan",
+        "email": "yusuf.brennan@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Priya,\n\nThanks. Separately, on the 1338 Market Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest regards,\nYusuf Brennan\nGeneral Counsel\nSolace Energy\n\nOn Fri, Aug 07, 2026 at 06:20 PM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Hello Yusuf,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01",
+          "i021-m02"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [
+            "i021-m01"
+          ],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e024",
+      "thread_id": "i021-t011",
+      "in_reply_to": "i021-e021",
+      "references": [
+        "i021-e021"
+      ],
+      "timestamp": "2026-08-10T08:50:59.057574",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Osei",
+          "email": "ximena.osei@halcyondiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Ximena,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Fri, Aug 07, 2026 at 09:07 AM, Ximena Osei <ximena.osei@halcyondiscovery.com> wrote:\n> Priya,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e025",
+      "thread_id": "i021-t011",
+      "in_reply_to": "i021-e024",
+      "references": [
+        "i021-e021",
+        "i021-e024"
+      ],
+      "timestamp": "2026-08-11T09:38:50.585319",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Osei",
+        "email": "ximena.osei@halcyondiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hi Priya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nXimena Osei\n\nOn Mon, Aug 10, 2026 at 08:50 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Hello Ximena,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e026",
+      "thread_id": "i021-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T16:31:07.481211",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Park",
+        "email": "oliviap@trellisanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Okafor",
+          "email": "kavyao@trellisanal.com"
+        }
+      ],
+      "subject": "Series B term sheet from Vantage Ventures",
+      "body": "Dear Priya,\n\nWe received the attached term sheet from Vantage Ventures last night: $60 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Thursday?\n\nBest regards,\nOlivia Park\nChief Executive Officer\nTrellis Analytics",
+      "attachments": [
+        "Vantage Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e027",
+      "thread_id": "i021-t011",
+      "in_reply_to": "i021-e025",
+      "references": [
+        "i021-e021",
+        "i021-e024",
+        "i021-e025"
+      ],
+      "timestamp": "2026-08-12T07:29:00.211294",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Osei",
+          "email": "ximena.osei@halcyondiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hi Ximena,\n\nWorks for me. Let's do Wednesday at 10:30 a.m..\n\nBest regards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Tue, Aug 11, 2026 at 09:38 AM, Ximena Osei <ximena.osei@halcyondiscovery.com> wrote:\n> Hi Priya,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e028",
+      "thread_id": "i021-t012",
+      "in_reply_to": "i021-e026",
+      "references": [
+        "i021-e026"
+      ],
+      "timestamp": "2026-08-12T08:26:49.767585",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Park",
+          "email": "oliviap@trellisanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Okafor",
+          "email": "kavyao@trellisanal.com"
+        }
+      ],
+      "subject": "Re: Series B term sheet from Vantage Ventures",
+      "body": "Olivia,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Tue, Aug 11, 2026 at 04:31 PM, Olivia Park <oliviap@trellisanal.com> wrote:\n> Dear Priya,\n>\n> We received the attached term sheet from Vantage Ventures last night: $60 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Thursday?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e029",
+      "thread_id": "i021-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T09:30:42.744361",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Alvarez",
+        "email": "quinn.alvarez@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1338 Market Street",
+      "body": "Dear Priya,\n\nWe've agreed on a non-binding LOI with Nimbus Properties LLC for about 42,000 RSF at 1338 Market Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nQuinn\nDirector of Real Estate\nSolace Energy",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m01"
+          ],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e030",
+      "thread_id": "i021-t012",
+      "in_reply_to": "i021-e028",
+      "references": [
+        "i021-e026",
+        "i021-e028"
+      ],
+      "timestamp": "2026-08-12T13:53:29.825824",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Park",
+        "email": "oliviap@trellisanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Okafor",
+          "email": "kavyao@trellisanal.com"
+        }
+      ],
+      "subject": "Re: Series B term sheet from Vantage Ventures",
+      "body": "Dear Priya,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nOlivia Park\nChief Executive Officer\nTrellis Analytics\n\nOn Wed, Aug 12, 2026 at 08:26 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Olivia,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e031",
+      "thread_id": "i021-t013",
+      "in_reply_to": "i021-e029",
+      "references": [
+        "i021-e029"
+      ],
+      "timestamp": "2026-08-13T09:12:46.905141",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Alvarez",
+          "email": "quinn.alvarez@solaceener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 1338 Market Street",
+      "body": "Quinn,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Wed, Aug 12, 2026 at 09:30 AM, Quinn Alvarez <quinn.alvarez@solaceener.com> wrote:\n> Dear Priya,\n>\n> We've agreed on a non-binding LOI with Nimbus Properties LLC for about 42,000 RSF at 1338 Market Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01"
+          ],
+          "thread_candidates": [
+            "i021-m01"
+          ],
+          "identifier_candidates": [
+            "i021-m01"
+          ],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e032",
+      "thread_id": "i021-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T09:51:49.367813",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "priyay@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Priya,\n\nStatus on my matters this week:\n\n- Series B: financing docs in negotiation with Vantage's counsel; cap table reconciliation in progress.\n- 1338 Market Street: second turn of landlord's lease draft; SNDA requested from lender.\n\nBest,\nPriya Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00",
+          "i021-m01"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "identifiers_point_elsewhere",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00",
+            "i021-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m01",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e033",
+      "thread_id": "i021-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:45:42.966738",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Huang",
+        "email": "chenh@bluefinsyst.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Priya,\n\nThe audit committee wants an update at its meeting on August 30. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nChen Huang\nChief Compliance Officer\nBluefin Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e034",
+      "thread_id": "i021-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:09:06.177211",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Nakamura",
+        "email": "gnakamura@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Priya,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nGabriel Nakamura\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e035",
+      "thread_id": "i021-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:10:23.158826",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Brennan",
+        "email": "yusuf.brennan@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Dear Priya,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nRegards,\nYusuf Brennan\nGeneral Counsel\nSolace Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i021-e036",
+      "thread_id": "i021-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:08:57.290459",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Laurent",
+        "email": "victor.laurent@vantagevc.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Park",
+          "email": "oliviap@trellisanal.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Priya,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 10 still realistic?\n\nBest,\nVictor Laurent\nPartner\nVantage Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e037",
+      "thread_id": "i021-t018",
+      "in_reply_to": "i021-e036",
+      "references": [
+        "i021-e036"
+      ],
+      "timestamp": "2026-08-25T14:48:52.188963",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Victor Laurent",
+          "email": "victor.laurent@vantagevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Park",
+          "email": "oliviap@trellisanal.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Victor,\n\nConfirmed. I'll update the checklist.\n\nBest,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Mon, Aug 24, 2026 at 08:08 AM, Victor Laurent <victor.laurent@vantagevc.com> wrote:\n> Priya,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 10 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e038",
+      "thread_id": "i021-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T17:32:54.448709",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Underwood",
+        "email": "munderwood@zieglerlindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Solace v. Orchard - proposed protective order",
+      "body": "Hi Priya,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Monday.\n\nThanks,\nMaya Underwood",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e039",
+      "thread_id": "i021-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T09:10:08.156239",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Weiss",
+        "email": "elenaw@weissmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Silverpine Series B - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by September 14. Please send the updated cap table and disclosure schedule when ready.\n\nRegards,\nElena Weiss\nPartner\nWeiss & Moreau LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e040",
+      "thread_id": "i021-t020",
+      "in_reply_to": "i021-e039",
+      "references": [
+        "i021-e039"
+      ],
+      "timestamp": "2026-08-31T09:24:07.538481",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Elena Weiss",
+          "email": "elenaw@weissmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Silverpine Series B - draft financing documents",
+      "body": "Dear Elena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Fri, Aug 28, 2026 at 09:10 AM, Elena Weiss <elenaw@weissmoreau.com> wrote:\n> Counsel,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by September 14. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e041",
+      "thread_id": "i021-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:20:10.324308",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Goldberg",
+        "email": "ygoldberg@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Priya,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nYara Goldberg\nAssociate\nWeiss & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e042",
+      "thread_id": "i021-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T13:33:37.421039",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Lindqvist",
+        "email": "xlindqvist@stratusbank.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Dear Priya,\n\nWe received a request for an SNDA in favor of Solace Energy. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nRegards,\nXimena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m01",
+        "matter_ids": [
+          "i021-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e043",
+      "thread_id": "i021-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T14:24:08.846654",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Fischer",
+        "email": "ffischer@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Silverpine",
+      "body": "Priya,\n\nPre-bills for Silverpine Biosciences are ready for your review:\n\n- 65911-001  Silverpine - Series B Financing\n\nPlease mark up and return by September 4.\n\nBest,\nFarid Fischer\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "identifiers_point_elsewhere",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e044",
+      "thread_id": "i021-t021",
+      "in_reply_to": "i021-e041",
+      "references": [
+        "i021-e041"
+      ],
+      "timestamp": "2026-08-31T18:39:42.894216",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Yara,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Mon, Aug 31, 2026 at 10:20 AM, Yara Goldberg <ygoldberg@weisslaurent.com> wrote:\n> Priya,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e045",
+      "thread_id": "i021-t020",
+      "in_reply_to": "i021-e040",
+      "references": [
+        "i021-e039",
+        "i021-e040"
+      ],
+      "timestamp": "2026-09-01T08:13:03.017206",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Weiss",
+        "email": "elenaw@weissmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Silverpine Series B - draft financing documents",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nElena\nPartner\nWeiss & Moreau LLP\n\nOn Mon, Aug 31, 2026 at 09:24 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Dear Elena,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e046",
+      "thread_id": "i021-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T09:37:36.965700",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "priyay@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hello Priya,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nPriya Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00",
+            "i021-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e047",
+      "thread_id": "i021-t020",
+      "in_reply_to": "i021-e045",
+      "references": [
+        "i021-e039",
+        "i021-e040",
+        "i021-e045"
+      ],
+      "timestamp": "2026-09-01T13:07:02.201671",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Elena Weiss",
+          "email": "elenaw@weissmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Silverpine Series B - draft financing documents",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Tue, Sep 01, 2026 at 08:13 AM, Elena Weiss <elenaw@weissmoreau.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m04",
+        "matter_ids": [
+          "i021-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m04"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e048",
+      "thread_id": "i021-t024",
+      "in_reply_to": "i021-e046",
+      "references": [
+        "i021-e046"
+      ],
+      "timestamp": "2026-09-02T08:04:56.254754",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Young",
+          "email": "priyay@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Dear Priya,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP\n\nOn Tue, Sep 01, 2026 at 09:37 AM, Priya Young <priyay@weisslaurent.com> wrote:\n> Hello Priya,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00",
+            "i021-m01"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e049",
+      "thread_id": "i021-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T14:40:31.989928",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Laurent",
+        "email": "ivan.laurent@bluefinsyst.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Priya,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nIvan Laurent\nGeneral Counsel\nBluefin Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m03",
+        "matter_ids": [
+          "i021-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e050",
+      "thread_id": "i021-t024",
+      "in_reply_to": "i021-e048",
+      "references": [
+        "i021-e046",
+        "i021-e048"
+      ],
+      "timestamp": "2026-09-03T09:59:16.467671",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "priyay@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Dear Priya,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nPriya Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 02, 2026 at 08:04 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Dear Priya,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00",
+            "i021-m01"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e051",
+      "thread_id": "i021-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:02:34.831791",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Abbott",
+        "email": "elenaa@zhangvarga.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priyay@weisslaurent.com"
+        }
+      ],
+      "subject": "Trellis Series B - draft financing documents",
+      "body": "Hi Priya,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by October 8. Please send the updated cap table and disclosure schedule when ready.\n\nRegards,\nElena\nPartner\nZhang & Varga LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e052",
+      "thread_id": "i021-t026",
+      "in_reply_to": "i021-e051",
+      "references": [
+        "i021-e051"
+      ],
+      "timestamp": "2026-09-15T16:02:55.670271",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Elena Abbott",
+          "email": "elenaa@zhangvarga.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priyay@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Trellis Series B - draft financing documents",
+      "body": "Hi Elena,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m00",
+        "matter_ids": [
+          "i021-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "identifiers_point_elsewhere"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m00"
+          ],
+          "thread_candidates": [
+            "i021-m00"
+          ],
+          "identifier_candidates": [
+            "i021-m00",
+            "i021-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e053",
+      "thread_id": "i021-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T09:51:00.185260",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Brennan",
+        "email": "yusuf.brennan@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Priya,\n\nTwo quick things.\n\n1. On the '512 patent case, our CTO wants to know if we should expect a counterclaim.\n2. On the 1338 Market Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest regards,\nYusuf\nGeneral Counsel\nSolace Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02",
+          "i021-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i021-m01",
+            "i021-m02"
+          ],
+          "keyword_candidates": [
+            "i021-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e054",
+      "thread_id": "i021-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T09:21:57.970313",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Omar Weiss",
+          "email": "oweiss@solaceener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Infringement contentions due October 16",
+      "body": "Omar,\n\nReminder that our infringement contentions are due October 16. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nPriya\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e055",
+      "thread_id": "i021-t028",
+      "in_reply_to": "i021-e054",
+      "references": [
+        "i021-e054"
+      ],
+      "timestamp": "2026-09-28T08:50:47.938883",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Weiss",
+        "email": "oweiss@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 16",
+      "body": "Hello Priya,\n\nWorks for me. Let's do Thursday at 10:30 a.m..\n\nBest,\nOmar Weiss\nChief Technology Officer\nSolace Energy\n\nOn Fri, Sep 25, 2026 at 09:21 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Omar,\n>\n> Reminder that our infringement contentions are due October 16. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m02"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e056",
+      "thread_id": "i021-t028",
+      "in_reply_to": "i021-e055",
+      "references": [
+        "i021-e054",
+        "i021-e055"
+      ],
+      "timestamp": "2026-09-29T14:08:03.255693",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Omar Weiss",
+          "email": "oweiss@solaceener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 16",
+      "body": "Omar,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nPriya\nPartner\nWeiss & Laurent LLP\n\nOn Mon, Sep 28, 2026 at 08:50 AM, Omar Weiss <oweiss@solaceener.com> wrote:\n> Hello Priya,\n>\n> Works for me. Let's do Thursday at 10:30 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m02"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e057",
+      "thread_id": "i021-t028",
+      "in_reply_to": "i021-e056",
+      "references": [
+        "i021-e054",
+        "i021-e055",
+        "i021-e056"
+      ],
+      "timestamp": "2026-10-01T08:21:45.841096",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Weiss",
+        "email": "oweiss@solaceener.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 16",
+      "body": "Hello Priya,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nOmar Weiss\nChief Technology Officer\nSolace Energy\n\nOn Tue, Sep 29, 2026 at 02:08 PM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Omar,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i021-m02"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i021-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e058",
+      "thread_id": "i021-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T10:21:14.017540",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Goldberg",
+        "email": "ygoldberg@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Priya,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nYara Goldberg\nAssociate\nWeiss & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e059",
+      "thread_id": "i021-t029",
+      "in_reply_to": "i021-e058",
+      "references": [
+        "i021-e058"
+      ],
+      "timestamp": "2026-10-05T09:00:05.162489",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priya.castillo@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yara Goldberg",
+          "email": "ygoldberg@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Dear Yara,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nPriya Castillo\nPartner\nWeiss & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i021-e060",
+      "thread_id": "i021-t029",
+      "in_reply_to": "i021-e059",
+      "references": [
+        "i021-e058",
+        "i021-e059"
+      ],
+      "timestamp": "2026-10-05T13:53:23.377447",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Goldberg",
+        "email": "ygoldberg@weisslaurent.com"
+      },
+      "to": [
+        {
+          "name": "Priya Castillo",
+          "email": "priya.castillo@weisslaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Dear Priya,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nYara Goldberg\nAssociate\nWeiss & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Oct 05, 2026 at 09:00 AM, Priya Castillo <priya.castillo@weisslaurent.com> wrote:\n> Dear Yara,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i021-m02",
+        "matter_ids": [
+          "i021-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i021-m01",
+            "i021-m02",
+            "i021-m03",
+            "i021-m04"
+          ],
+          "thread_candidates": [
+            "i021-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700021
+}

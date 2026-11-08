@@ -1,0 +1,2449 @@
+{
+  "instance_id": "i008",
+  "firm": {
+    "name": "Quintero & Lee LLP",
+    "domain": "quinterolee.com"
+  },
+  "user_contact_id": "i008-c000",
+  "matters": [
+    {
+      "matter_id": "i008-m00",
+      "matter_number": "15881-001",
+      "name": "Ironbridge v. Wavecrest ('784 Patent)",
+      "client": "Ironbridge Energy",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Ironbridge Energy against Wavecrest Logistics asserting U.S. Patent No. 10,784,541.",
+      "counterparty": "Wavecrest Logistics",
+      "opposing_counsel_firm": "Underwood & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-06-05",
+      "key_terms": [
+        "15881-001",
+        "10,784,541",
+        "'784",
+        "Wavecrest Logistics",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i008-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i008-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i008-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i008-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i008-c009",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i008-m01",
+      "matter_number": "50419-001",
+      "name": "Umar Fischer v. Riverstone",
+      "client": "Riverstone Systems",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Umar Fischer against Riverstone Systems. Case No. 5:26-cv-05274.",
+      "counterparty": "Umar Fischer",
+      "opposing_counsel_firm": "Delgado & Mendoza LLP",
+      "status": "open",
+      "opened_on": "2026-07-16",
+      "key_terms": [
+        "50419-001",
+        "Umar Fischer",
+        "Fischer",
+        "5:26-cv-05274"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i008-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i008-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i008-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i008-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i008-c012",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i008-m02",
+      "matter_number": "27175-001",
+      "name": "Stratus v. Northwind (MSA Dispute)",
+      "client": "Stratus Software",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Stratus Software against vendor Northwind Payments.",
+      "counterparty": "Northwind Payments",
+      "opposing_counsel_firm": "Haddad & Brennan LLP",
+      "status": "open",
+      "opened_on": "2026-07-22",
+      "key_terms": [
+        "27175-001",
+        "Northwind Payments",
+        "Northwind"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i008-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i008-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i008-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i008-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i008-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i008-m03",
+      "matter_number": "27175-002",
+      "name": "Stratus - Data Security Incident",
+      "client": "Stratus Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Stratus Software's customer database. Forensics by Pinnacle Cyber.",
+      "counterparty": "Pinnacle Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-07",
+      "key_terms": [
+        "27175-002",
+        "Pinnacle Cyber",
+        "Pinnacle"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i008-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i008-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i008-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i008-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i008-c018",
+          "role": "insurer"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i008-c000",
+      "name": "James Young",
+      "first": "James",
+      "email": "james.young@quinterolee.com",
+      "organization": "Quintero & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i008-c001",
+      "name": "Kavya Yamamoto",
+      "first": "Kavya",
+      "email": "kavya.yamamoto@quinterolee.com",
+      "organization": "Quintero & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i008-c002",
+      "name": "Diego Varga",
+      "first": "Diego",
+      "email": "dvarga@quinterolee.com",
+      "organization": "Quintero & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i008-c003",
+      "name": "Ximena Quintero",
+      "first": "Ximena",
+      "email": "xquintero@quinterolee.com",
+      "organization": "Quintero & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i008-c004",
+      "name": "Omar Ferreira",
+      "first": "Omar",
+      "email": "omar.ferreira@ironbridgeener.com",
+      "organization": "Ironbridge Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c005",
+      "name": "Nikhil Thompson",
+      "first": "Nikhil",
+      "email": "nikhil.thompson@riverstonesyst.com",
+      "organization": "Riverstone Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c006",
+      "name": "Aisha Eriksen",
+      "first": "Aisha",
+      "email": "aisha.eriksen@stratussoft.com",
+      "organization": "Stratus Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c007",
+      "name": "Lucia Goldberg",
+      "first": "Lucia",
+      "email": "lgoldberg@ironbridgeener.com",
+      "organization": "Ironbridge Energy",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c008",
+      "name": "Yara Dubois",
+      "first": "Yara",
+      "email": "yarad@underwoodshah.com",
+      "organization": "Underwood & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c009",
+      "name": "Nikhil Rosen",
+      "first": "Nikhil",
+      "email": "nikhilr@silverpinetech.com",
+      "organization": "Silverpine Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c010",
+      "name": "Hiro Kowalski",
+      "first": "Hiro",
+      "email": "hkowalski@riverstonesyst.com",
+      "organization": "Riverstone Systems",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c011",
+      "name": "Samuel Park",
+      "first": "Samuel",
+      "email": "samuel.park@delgadomendoza.com",
+      "organization": "Delgado & Mendoza LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c012",
+      "name": "Whitney Lindqvist",
+      "first": "Whitney",
+      "email": "whitneyl@driftwoodadr.com",
+      "organization": "Driftwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c013",
+      "name": "Bianca Quintero",
+      "first": "Bianca",
+      "email": "bianca.quintero@stratussoft.com",
+      "organization": "Stratus Software",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c014",
+      "name": "Daniel Chowdhury",
+      "first": "Daniel",
+      "email": "daniel.chowdhury@haddadbrennan.com",
+      "organization": "Haddad & Brennan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c015",
+      "name": "Kavya Eriksen",
+      "first": "Kavya",
+      "email": "kavyae@tidewateradr.com",
+      "organization": "Tidewater Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c016",
+      "name": "Farid Varga",
+      "first": "Farid",
+      "email": "faridv@stratussoft.com",
+      "organization": "Stratus Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c017",
+      "name": "James Goldberg",
+      "first": "James",
+      "email": "james.goldberg@pinnaclecyber.com",
+      "organization": "Pinnacle Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c018",
+      "name": "Aisha Park",
+      "first": "Aisha",
+      "email": "aishap@nimbusmutual.com",
+      "organization": "Nimbus Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c019",
+      "name": "Olivia Morgan",
+      "first": "Olivia",
+      "email": "omorgan@amberlycomms.com",
+      "organization": "Amberly Communications",
+      "org_type": "pr",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c020",
+      "name": "Farid Shah",
+      "first": "Farid",
+      "email": "fshah@copperleafcomms.com",
+      "organization": "Copperleaf Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c021",
+      "name": "Gabriel Laurent",
+      "first": "Gabriel",
+      "email": "gabriell@cascadeadr.com",
+      "organization": "Cascade Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i008-c022",
+      "name": "Wei Castillo",
+      "first": "Wei",
+      "email": "wei.castillo@quinterolee.com",
+      "organization": "Quintero & Lee LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i008-e000",
+      "thread_id": "i008-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-10T12:58:35.261997",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Rosen",
+        "email": "nikhilr@silverpinetech.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear James,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by June 20.\n\nBest,\nNikhil\nPrincipal\nSilverpine Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e001",
+      "thread_id": "i008-t000",
+      "in_reply_to": "i008-e000",
+      "references": [
+        "i008-e000"
+      ],
+      "timestamp": "2026-06-10T19:41:30.832679",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Rosen",
+          "email": "nikhilr@silverpinetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Dear Nikhil,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jun 10, 2026 at 12:58 PM, Nikhil Rosen <nikhilr@silverpinetech.com> wrote:\n> Dear James,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by June 20.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": [
+            "i008-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e002",
+      "thread_id": "i008-t000",
+      "in_reply_to": "i008-e001",
+      "references": [
+        "i008-e000",
+        "i008-e001"
+      ],
+      "timestamp": "2026-06-12T07:08:31.245757",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Rosen",
+        "email": "nikhilr@silverpinetech.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hi James,\n\nAdding Kavya, who will handle the day-to-day on this.\n\nBest,\nNikhil Rosen\nPrincipal\nSilverpine Technical Consulting\n\nOn Wed, Jun 10, 2026 at 07:41 PM, James Young <james.young@quinterolee.com> wrote:\n> Dear Nikhil,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": [
+            "i008-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e003",
+      "thread_id": "i008-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T10:57:47.857496",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Dubois",
+        "email": "yarad@underwoodshah.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Dear James,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest regards,\nYara\nPartner\nUnderwood & Shah LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e004",
+      "thread_id": "i008-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T08:22:48.966811",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Ferreira",
+        "email": "omar.ferreira@ironbridgeener.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear James,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nOmar Ferreira",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e005",
+      "thread_id": "i008-t002",
+      "in_reply_to": "i008-e004",
+      "references": [
+        "i008-e004"
+      ],
+      "timestamp": "2026-06-19T13:09:59.720092",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Omar Ferreira",
+          "email": "omar.ferreira@ironbridgeener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Omar,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jun 19, 2026 at 08:22 AM, Omar Ferreira <omar.ferreira@ironbridgeener.com> wrote:\n> Dear James,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": [
+            "i008-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e006",
+      "thread_id": "i008-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:07:57.359847",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Shah",
+        "email": "fshah@copperleafcomms.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear James,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nRegards,\nFarid\nEditor\nCopperleaf Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e007",
+      "thread_id": "i008-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:39:58.024689",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Dear James,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nThanks,\nAisha Eriksen\nGeneral Counsel\nStratus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e008",
+      "thread_id": "i008-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T09:35:24.880952",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi James,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nAisha Eriksen\nGeneral Counsel\nStratus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e009",
+      "thread_id": "i008-t005",
+      "in_reply_to": "i008-e008",
+      "references": [
+        "i008-e008"
+      ],
+      "timestamp": "2026-07-31T14:12:09.217809",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Aisha,\n\nAdding Kavya, who will handle the day-to-day on this.\n\nBest,\nJames\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e010",
+      "thread_id": "i008-t005",
+      "in_reply_to": "i008-e009",
+      "references": [
+        "i008-e008",
+        "i008-e009"
+      ],
+      "timestamp": "2026-08-03T10:00:59.143538",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "James,\n\nThanks. Separately, on the security incident, our insurer is asking for an updated budget.\n\nBest,\nAisha\nGeneral Counsel\nStratus Software\n\nOn Fri, Jul 31, 2026 at 02:12 PM, James Young <james.young@quinterolee.com> wrote:\n> Aisha,\n>\n> Adding Kavya, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03",
+          "i008-m02"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "no_matter_specific_text",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e011",
+      "thread_id": "i008-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T10:55:56.170247",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello James,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nRegards,\nAisha\nGeneral Counsel\nStratus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e012",
+      "thread_id": "i008-t006",
+      "in_reply_to": "i008-e011",
+      "references": [
+        "i008-e011"
+      ],
+      "timestamp": "2026-08-07T09:26:05.888711",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hello Aisha,\n\nWorks for me. Let's do Wednesday at 10:30 a.m..\n\nRegards,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 06, 2026 at 10:55 AM, Aisha Eriksen <aisha.eriksen@stratussoft.com> wrote:\n> Hello James,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e013",
+      "thread_id": "i008-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:23:10.645279",
+      "folder": "inbox",
+      "from": {
+        "name": "James Goldberg",
+        "email": "james.goldberg@pinnaclecyber.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Varga",
+          "email": "faridv@stratussoft.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear James,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nJames\nIncident Response Lead\nPinnacle Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m03"
+          ],
+          "keyword_candidates": [
+            "i008-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e014",
+      "thread_id": "i008-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T12:46:21.933688",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Castillo",
+        "email": "wei.castillo@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hello James,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nWei Castillo\nIT Service Desk\nQuintero & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e015",
+      "thread_id": "i008-t007",
+      "in_reply_to": "i008-e013",
+      "references": [
+        "i008-e013"
+      ],
+      "timestamp": "2026-08-10T14:16:44.421761",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Goldberg",
+          "email": "james.goldberg@pinnaclecyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Varga",
+          "email": "faridv@stratussoft.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "James,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 09:23 AM, James Goldberg <james.goldberg@pinnaclecyber.com> wrote:\n> Dear James,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e016",
+      "thread_id": "i008-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T14:04:21.389282",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kavya.yamamoto@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "James,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nKavya\nSenior Associate\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e017",
+      "thread_id": "i008-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T20:29:02.957995",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Lindqvist",
+        "email": "whitneyl@driftwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Park",
+          "email": "samuel.park@delgadomendoza.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Hello James,\n\nI have the following dates available for a full-day mediation: August 29 and September 3. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nBest regards,\nWhitney Lindqvist\nMediator\nDriftwood Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m01",
+        "matter_ids": [
+          "i008-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e018",
+      "thread_id": "i008-t010",
+      "in_reply_to": "i008-e017",
+      "references": [
+        "i008-e017"
+      ],
+      "timestamp": "2026-08-12T08:08:42.196733",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Lindqvist",
+          "email": "whitneyl@driftwoodadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Park",
+          "email": "samuel.park@delgadomendoza.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Hello Whitney,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nJames\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 08:29 PM, Whitney Lindqvist <whitneyl@driftwoodadr.com> wrote:\n> Hello James,\n>\n> I have the following dates available for a full-day mediation: August 29 and September 3. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m01",
+        "matter_ids": [
+          "i008-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m01"
+          ],
+          "thread_candidates": [
+            "i008-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e019",
+      "thread_id": "i008-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T15:41:16.966673",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Farid Varga",
+          "email": "faridv@stratussoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hello Farid,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Pinnacle.\n\nBest,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e020",
+      "thread_id": "i008-t011",
+      "in_reply_to": "i008-e019",
+      "references": [
+        "i008-e019"
+      ],
+      "timestamp": "2026-08-14T07:13:44.656014",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Varga",
+        "email": "faridv@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear James,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nFarid Varga",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e021",
+      "thread_id": "i008-t011",
+      "in_reply_to": "i008-e020",
+      "references": [
+        "i008-e019",
+        "i008-e020"
+      ],
+      "timestamp": "2026-08-17T09:55:09.774839",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Farid Varga",
+          "email": "faridv@stratussoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Farid,\n\nAdding Kavya, who will handle the day-to-day on this.\n\nBest,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e022",
+      "thread_id": "i008-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:11:35.003272",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Goldberg",
+          "email": "lgoldberg@ironbridgeener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "subject": "Infringement contentions due August 29",
+      "body": "Hello Lucia,\n\nReminder that our infringement contentions are due August 29. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nRegards,\nJames\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e023",
+      "thread_id": "i008-t011",
+      "in_reply_to": "i008-e021",
+      "references": [
+        "i008-e019",
+        "i008-e020",
+        "i008-e021"
+      ],
+      "timestamp": "2026-08-19T07:04:47.352696",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Varga",
+        "email": "faridv@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear James,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nFarid Varga",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i008-e024",
+      "thread_id": "i008-t012",
+      "in_reply_to": "i008-e022",
+      "references": [
+        "i008-e022"
+      ],
+      "timestamp": "2026-08-19T07:07:06.698058",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Goldberg",
+        "email": "lgoldberg@ironbridgeener.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 29",
+      "body": "Hi James,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nLucia\nChief Technology Officer\nIronbridge Energy\n\nOn Mon, Aug 17, 2026 at 10:11 AM, James Young <james.young@quinterolee.com> wrote:\n> Hello Lucia,\n>\n> Reminder that our infringement contentions are due August 29. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": [
+            "i008-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e025",
+      "thread_id": "i008-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:15:03.321123",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Goldberg",
+        "email": "lgoldberg@ironbridgeener.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Omar Ferreira",
+          "email": "omar.ferreira@ironbridgeener.com"
+        }
+      ],
+      "subject": "Wavecrest Logistics product launch - possible infringement of '784 patent",
+      "body": "Hello James,\n\nOur engineers looked at the product Wavecrest Logistics launched last month and believe it practices claims 1 and 7 of our '784 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest,\nLucia\nChief Technology Officer\nIronbridge Energy",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m00"
+          ],
+          "keyword_candidates": [
+            "i008-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e026",
+      "thread_id": "i008-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T13:01:01.596107",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Eriksen",
+        "email": "kavyae@tidewateradr.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Chowdhury",
+          "email": "daniel.chowdhury@haddadbrennan.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hi James,\n\nThis confirms receipt of the demand for arbitration in Stratus Software v. Northwind Payments. The administrative conference is scheduled for September 3. Please confirm your availability.\n\nRegards,\nKavya Eriksen\nCase Administrator\nTidewater Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e027",
+      "thread_id": "i008-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T13:40:50.981737",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Eriksen",
+        "email": "aisha.eriksen@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Dear James,\n\nTwo quick things.\n\n1. On the Northwind dispute, their account team reached out to our COO again.\n2. On the security incident, our insurer is asking for an updated budget.\n\nBest,\nAisha Eriksen\nGeneral Counsel\nStratus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02",
+          "i008-m03"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e028",
+      "thread_id": "i008-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T18:29:29.913726",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Kowalski",
+        "email": "hkowalski@riverstonesyst.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Thompson",
+          "email": "nikhil.thompson@riverstonesyst.com"
+        }
+      ],
+      "subject": "Demand letter - Umar Fischer",
+      "body": "Hello James,\n\nWe received the attached demand letter from counsel for Umar Fischer, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $780,000. I've put a hold on the personnel file. How should we respond?\n\nBest,\nHiro\nHead of People\nRiverstone Systems",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m01",
+        "matter_ids": [
+          "i008-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m01"
+          ],
+          "keyword_candidates": [
+            "i008-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e029",
+      "thread_id": "i008-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T09:03:45.275044",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Morgan",
+        "email": "omorgan@amberlycomms.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Communications support",
+      "body": "Hi James,\n\nStratus's CEO asked us to help with external communications around the incident. Could we get 30 minutes with you to align on what can be said publicly?\n\nRegards,\nOlivia Morgan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e030",
+      "thread_id": "i008-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T09:21:52.304919",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kavya.yamamoto@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello James,\n\nStatus on my matters this week:\n\n- '784 patent: protective order negotiated; infringement contentions due September 18.\n- Northwind MSA: notice of breach sent, cure period running; damages model in draft.\n- Security incident: forensics report pending; consumer notification letters in draft.\n\nRegards,\nKavya Yamamoto\nSenior Associate\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m00",
+        "matter_ids": [
+          "i008-m00",
+          "i008-m02",
+          "i008-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m00",
+            "i008-m02"
+          ],
+          "keyword_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e031",
+      "thread_id": "i008-t016",
+      "in_reply_to": "i008-e028",
+      "references": [
+        "i008-e028"
+      ],
+      "timestamp": "2026-09-02T15:46:55.126842",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Kowalski",
+          "email": "hkowalski@riverstonesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Thompson",
+          "email": "nikhil.thompson@riverstonesyst.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Umar Fischer",
+      "body": "Hello Hiro,\n\nWorks for me. Let's do Thursday at 9:00 a.m..\n\nBest regards,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 01, 2026 at 06:29 PM, Hiro Kowalski <hkowalski@riverstonesyst.com> wrote:\n> Hello James,\n>\n> We received the attached demand letter from counsel for Umar Fischer, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $780,000. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m01",
+        "matter_ids": [
+          "i008-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m01"
+          ],
+          "thread_candidates": [
+            "i008-m01"
+          ],
+          "identifier_candidates": [
+            "i008-m01"
+          ],
+          "keyword_candidates": [
+            "i008-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e032",
+      "thread_id": "i008-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T14:38:22.466750",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Chowdhury",
+        "email": "daniel.chowdhury@haddadbrennan.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nRegards,\nDaniel Chowdhury\nPartner\nHaddad & Brennan LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e033",
+      "thread_id": "i008-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T09:05:42.529668",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kavya.yamamoto@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "James,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nKavya\nSenior Associate\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e034",
+      "thread_id": "i008-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T13:32:31.601939",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Varga",
+        "email": "faridv@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Eriksen",
+          "email": "aisha.eriksen@stratussoft.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hi James,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Pinnacle Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 2:00 p.m.?\n\nThanks,\nFarid Varga",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m03",
+        "matter_ids": [
+          "i008-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i008-m03"
+          ],
+          "keyword_candidates": [
+            "i008-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e035",
+      "thread_id": "i008-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T09:54:49.009138",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Varga",
+        "email": "dvarga@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear James,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nThanks,\nDiego\nAssociate\nQuintero & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m01",
+        "matter_ids": [
+          "i008-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e036",
+      "thread_id": "i008-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-06T09:40:07.619788",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kavya.yamamoto@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello James,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $450,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nKavya\nSenior Associate\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e037",
+      "thread_id": "i008-t023",
+      "in_reply_to": "i008-e036",
+      "references": [
+        "i008-e036"
+      ],
+      "timestamp": "2026-10-07T07:32:23.001212",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Kavya,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Oct 06, 2026 at 09:40 AM, Kavya Yamamoto <kavya.yamamoto@quinterolee.com> wrote:\n> Hello James,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $450,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e038",
+      "thread_id": "i008-t023",
+      "in_reply_to": "i008-e037",
+      "references": [
+        "i008-e036",
+        "i008-e037"
+      ],
+      "timestamp": "2026-10-07T12:21:48.313947",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Yamamoto",
+        "email": "kavya.yamamoto@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello James,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nKavya\nSenior Associate\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e039",
+      "thread_id": "i008-t023",
+      "in_reply_to": "i008-e038",
+      "references": [
+        "i008-e036",
+        "i008-e037",
+        "i008-e038"
+      ],
+      "timestamp": "2026-10-08T09:47:47.889404",
+      "folder": "sent",
+      "from": {
+        "name": "James Young",
+        "email": "james.young@quinterolee.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Yamamoto",
+          "email": "kavya.yamamoto@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Kavya,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nJames Young\nPartner\nQuintero & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Oct 07, 2026 at 12:21 PM, Kavya Yamamoto <kavya.yamamoto@quinterolee.com> wrote:\n> Hello James,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i008-m02",
+        "matter_ids": [
+          "i008-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i008-m00",
+            "i008-m02",
+            "i008-m03"
+          ],
+          "thread_candidates": [
+            "i008-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i008-e040",
+      "thread_id": "i008-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-19T08:53:49.303131",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Laurent",
+        "email": "gabriell@cascadeadr.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "james.young@quinterolee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hi James,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nGabriel\nSection Chair\nCascade Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i008-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700008
+}

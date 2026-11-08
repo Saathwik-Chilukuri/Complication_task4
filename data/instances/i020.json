@@ -1,0 +1,2712 @@
+{
+  "instance_id": "i020",
+  "firm": {
+    "name": "Osei & Park LLP",
+    "domain": "oseipark.com"
+  },
+  "user_contact_id": "i020-c000",
+  "matters": [
+    {
+      "matter_id": "i020-m00",
+      "matter_number": "39008-001",
+      "name": "Driftwood v. Pinnacle ('744 Patent)",
+      "client": "Driftwood Analytics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Driftwood Analytics against Pinnacle Materials asserting U.S. Patent No. 10,744,959.",
+      "counterparty": "Pinnacle Materials",
+      "opposing_counsel_firm": "Castillo & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-06-27",
+      "key_terms": [
+        "39008-001",
+        "10,744,959",
+        "'744",
+        "Pinnacle Materials",
+        "Pinnacle"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i020-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i020-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i020-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i020-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i020-c009",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i020-m01",
+      "matter_number": "82944-001",
+      "name": "Quarry - FTC Investigation (CID No. 2026-775)",
+      "client": "Quarry Analytics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Quarry Analytics's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "82944-001",
+        "2026-775",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i020-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i020-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i020-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i020-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i020-c012",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i020-m02",
+      "matter_number": "34282-001",
+      "name": "Northwind v. Tidewater (MSA Dispute)",
+      "client": "Northwind Software",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Northwind Software against vendor Tidewater Logistics.",
+      "counterparty": "Tidewater Logistics",
+      "opposing_counsel_firm": "Lindqvist & Abbott LLP",
+      "status": "open",
+      "opened_on": "2026-06-29",
+      "key_terms": [
+        "34282-001",
+        "Tidewater Logistics",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i020-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i020-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i020-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i020-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i020-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i020-m03",
+      "matter_number": "82944-002",
+      "name": "Quarry - Acquisition of Wavecrest Energy (Project Larkspur)",
+      "client": "Quarry Analytics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Wavecrest Energy by Quarry Analytics. Stock purchase, ~$410 million.",
+      "counterparty": "Wavecrest Energy",
+      "opposing_counsel_firm": "Okafor & Ito LLP",
+      "status": "open",
+      "opened_on": "2026-06-22",
+      "key_terms": [
+        "82944-002",
+        "Project Larkspur",
+        "Larkspur",
+        "Wavecrest Energy",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i020-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i020-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i020-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i020-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i020-c018",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i020-c000",
+      "name": "Priya Delgado",
+      "first": "Priya",
+      "email": "priya.delgado@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i020-c001",
+      "name": "Nikhil Ziegler",
+      "first": "Nikhil",
+      "email": "nikhilz@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i020-c002",
+      "name": "Chen Abbott",
+      "first": "Chen",
+      "email": "chen.abbott@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i020-c003",
+      "name": "Elena Reyes",
+      "first": "Elena",
+      "email": "ereyes@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i020-c004",
+      "name": "Gabriel Vasquez",
+      "first": "Gabriel",
+      "email": "gabrielv@driftwoodanal.com",
+      "organization": "Driftwood Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c005",
+      "name": "Kavya Vasquez",
+      "first": "Kavya",
+      "email": "kvasquez@quarryanal.com",
+      "organization": "Quarry Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c006",
+      "name": "Zoe Fischer",
+      "first": "Zoe",
+      "email": "zfischer@northwindsoft.com",
+      "organization": "Northwind Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c007",
+      "name": "Sofia Brennan",
+      "first": "Sofia",
+      "email": "sofiab@driftwoodanal.com",
+      "organization": "Driftwood Analytics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c008",
+      "name": "Femi Zhang",
+      "first": "Femi",
+      "email": "fzhang@castillookafor.com",
+      "organization": "Castillo & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c009",
+      "name": "Yara Weiss",
+      "first": "Yara",
+      "email": "yara.weiss@halcyontech.com",
+      "organization": "Halcyon Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c010",
+      "name": "James Young",
+      "first": "James",
+      "email": "jyoung@quarryanal.com",
+      "organization": "Quarry Analytics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c011",
+      "name": "Lucia Lindqvist",
+      "first": "Lucia",
+      "email": "lucia.lindqvist@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c012",
+      "name": "Rachel Park",
+      "first": "Rachel",
+      "email": "rachelp@cascadediscovery.com",
+      "organization": "Cascade Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c013",
+      "name": "Gabriel Dubois",
+      "first": "Gabriel",
+      "email": "gdubois@northwindsoft.com",
+      "organization": "Northwind Software",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c014",
+      "name": "Bianca Eriksen",
+      "first": "Bianca",
+      "email": "bianca.eriksen@lindqvistabbott.com",
+      "organization": "Lindqvist & Abbott LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c015",
+      "name": "Whitney Abbott",
+      "first": "Whitney",
+      "email": "wabbott@corvidadr.com",
+      "organization": "Corvid Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c016",
+      "name": "Lucia Brennan",
+      "first": "Lucia",
+      "email": "lucia.brennan@quarryanal.com",
+      "organization": "Quarry Analytics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c017",
+      "name": "Pedro Thompson",
+      "first": "Pedro",
+      "email": "pthompson@okaforito.com",
+      "organization": "Okafor & Ito LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c018",
+      "name": "Umar Banerjee",
+      "first": "Umar",
+      "email": "umar.banerjee@trellistrust.com",
+      "organization": "Trellis Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c019",
+      "name": "Hiro Dubois",
+      "first": "Hiro",
+      "email": "hiro.dubois@okaforito.com",
+      "organization": "Okafor & Ito LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c020",
+      "name": "Pedro Haddad",
+      "first": "Pedro",
+      "email": "phaddad@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i020-c021",
+      "name": "Ivan Park",
+      "first": "Ivan",
+      "email": "ipark@lumenbios.com",
+      "organization": "Lumen Biosciences",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i020-c022",
+      "name": "Arjun Yamamoto",
+      "first": "Arjun",
+      "email": "ayamamoto@oseipark.com",
+      "organization": "Osei & Park LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i020-e000",
+      "thread_id": "i020-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T10:42:48.043004",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Park",
+        "email": "ipark@lumenbios.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Priya,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nIvan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e001",
+      "thread_id": "i020-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T10:20:32.486645",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Lindqvist",
+        "email": "lucia.lindqvist@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-775 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest regards,\nLucia Lindqvist",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m01"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e002",
+      "thread_id": "i020-t001",
+      "in_reply_to": "i020-e001",
+      "references": [
+        "i020-e001"
+      ],
+      "timestamp": "2026-06-17T11:01:58.839440",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Lindqvist",
+          "email": "lucia.lindqvist@ftc.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-775 - meet and confer",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": [
+            "i020-m01"
+          ],
+          "identifier_candidates": [
+            "i020-m01"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e003",
+      "thread_id": "i020-t001",
+      "in_reply_to": "i020-e002",
+      "references": [
+        "i020-e001",
+        "i020-e002"
+      ],
+      "timestamp": "2026-06-19T08:47:13.055410",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Lindqvist",
+        "email": "lucia.lindqvist@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-775 - meet and confer",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nLucia Lindqvist\n\nOn Wed, Jun 17, 2026 at 11:01 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Counsel,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": [
+            "i020-m01"
+          ],
+          "identifier_candidates": [
+            "i020-m01"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e004",
+      "thread_id": "i020-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T07:19:58.565048",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Abbott",
+        "email": "chen.abbott@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Priya,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nChen Abbott\nSenior Associate\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e005",
+      "thread_id": "i020-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:12:14.755998",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Abbott",
+        "email": "chen.abbott@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Dear Priya,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $450,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nChen Abbott\nSenior Associate\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i020-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e006",
+      "thread_id": "i020-t003",
+      "in_reply_to": "i020-e005",
+      "references": [
+        "i020-e005"
+      ],
+      "timestamp": "2026-07-07T10:18:37.271900",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Chen Abbott",
+          "email": "chen.abbott@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Chen,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "thread_candidates": [
+            "i020-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e007",
+      "thread_id": "i020-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T18:35:31.127827",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Vasquez",
+        "email": "gabrielv@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hello Priya,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nGabriel\nGeneral Counsel\nDriftwood Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e008",
+      "thread_id": "i020-t004",
+      "in_reply_to": "i020-e007",
+      "references": [
+        "i020-e007"
+      ],
+      "timestamp": "2026-07-10T11:19:14.213085",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Vasquez",
+          "email": "gabrielv@driftwoodanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Gabriel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 09, 2026 at 06:35 PM, Gabriel Vasquez <gabrielv@driftwoodanal.com> wrote:\n> Hello Priya,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": [
+            "i020-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e009",
+      "thread_id": "i020-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T07:38:17.552878",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Banerjee",
+        "email": "umar.banerjee@trellistrust.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Priya,\n\nTo open the escrow account for the Larkspur transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $780,000. Who is our point of contact on the seller side?\n\nThanks,\nUmar Banerjee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e010",
+      "thread_id": "i020-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:11:13.371131",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "James Young",
+          "email": "jyoung@quarryanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Abbott",
+          "email": "chen.abbott@oseipark.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "James,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e011",
+      "thread_id": "i020-t004",
+      "in_reply_to": "i020-e008",
+      "references": [
+        "i020-e007",
+        "i020-e008"
+      ],
+      "timestamp": "2026-07-13T09:36:56.172080",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Vasquez",
+        "email": "gabrielv@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Priya,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nGabriel Vasquez\nGeneral Counsel\nDriftwood Analytics\n\nOn Fri, Jul 10, 2026 at 11:19 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Gabriel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": [
+            "i020-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e012",
+      "thread_id": "i020-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T14:20:43.220522",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Abbott",
+        "email": "chen.abbott@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Priya,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nThanks,\nChen\nSenior Associate\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e013",
+      "thread_id": "i020-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T19:40:33.424718",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pthompson@okaforito.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Wavecrest / Quarry - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Wavecrest customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest regards,\nPedro\nPartner\nOkafor & Ito LLP",
+      "attachments": [
+        "Wavecrest SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e014",
+      "thread_id": "i020-t008",
+      "in_reply_to": "i020-e013",
+      "references": [
+        "i020-e013"
+      ],
+      "timestamp": "2026-07-17T08:17:53.711038",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pthompson@okaforito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Re: Wavecrest / Quarry - SPA comments",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 16, 2026 at 07:40 PM, Pedro Thompson <pthompson@okaforito.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Wavecrest customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e015",
+      "thread_id": "i020-t008",
+      "in_reply_to": "i020-e014",
+      "references": [
+        "i020-e013",
+        "i020-e014"
+      ],
+      "timestamp": "2026-07-20T08:19:52.803575",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Thompson",
+        "email": "pthompson@okaforito.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Re: Wavecrest / Quarry - SPA comments",
+      "body": "Hi Priya,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nPedro\nPartner\nOkafor & Ito LLP\n\nOn Fri, Jul 17, 2026 at 08:17 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e016",
+      "thread_id": "i020-t008",
+      "in_reply_to": "i020-e015",
+      "references": [
+        "i020-e013",
+        "i020-e014",
+        "i020-e015"
+      ],
+      "timestamp": "2026-07-21T18:15:31.324602",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Thompson",
+          "email": "pthompson@okaforito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Re: Wavecrest / Quarry - SPA comments",
+      "body": "Dear Pedro,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 20, 2026 at 08:19 AM, Pedro Thompson <pthompson@okaforito.com> wrote:\n> Hi Priya,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e017",
+      "thread_id": "i020-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:56:55.698667",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Young",
+          "email": "jyoung@quarryanal.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Priya,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2026-775). It asks for documents about our customer data practices going back to 2021. The return date is August 8. Can you call me?\n\nThanks,\nKavya\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m01"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e018",
+      "thread_id": "i020-t009",
+      "in_reply_to": "i020-e017",
+      "references": [
+        "i020-e017"
+      ],
+      "timestamp": "2026-07-27T19:45:35.786747",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Vasquez",
+          "email": "kvasquez@quarryanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Young",
+          "email": "jyoung@quarryanal.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Kavya,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 09:56 AM, Kavya Vasquez <kvasquez@quarryanal.com> wrote:\n> Hello Priya,\n>\n> We received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2026-775). It asks for documents about our customer data practices going back to 2021. The return date is August 8. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": [
+            "i020-m01"
+          ],
+          "identifier_candidates": [
+            "i020-m01"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e019",
+      "thread_id": "i020-t009",
+      "in_reply_to": "i020-e018",
+      "references": [
+        "i020-e017",
+        "i020-e018"
+      ],
+      "timestamp": "2026-07-28T07:52:35.353644",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Young",
+          "email": "jyoung@quarryanal.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Priya,\n\nWorks for me. Let's do Wednesday at 9:00 a.m..\n\nThanks,\nKavya Vasquez\nGeneral Counsel\nQuarry Analytics\n\nOn Mon, Jul 27, 2026 at 07:45 PM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Dear Kavya,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01"
+          ],
+          "thread_candidates": [
+            "i020-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e020",
+      "thread_id": "i020-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T08:12:56.022692",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Priya,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nKavya\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e021",
+      "thread_id": "i020-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T09:18:02.596101",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Dubois",
+        "email": "hiro.dubois@okaforito.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Wavecrest deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nThanks,\nHiro",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e022",
+      "thread_id": "i020-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T09:34:57.948179",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Fischer",
+        "email": "zfischer@northwindsoft.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Priya,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nRegards,\nZoe Fischer\nGeneral Counsel\nNorthwind Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e023",
+      "thread_id": "i020-t012",
+      "in_reply_to": "i020-e022",
+      "references": [
+        "i020-e022"
+      ],
+      "timestamp": "2026-08-10T10:36:10.990280",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Fischer",
+          "email": "zfischer@northwindsoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hello Zoe,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 07, 2026 at 09:34 AM, Zoe Fischer <zfischer@northwindsoft.com> wrote:\n> Hi Priya,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": [
+            "i020-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e024",
+      "thread_id": "i020-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T09:21:31.662701",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Priya,\n\nTwo quick things.\n\n1. On Project Larkspur, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n2. On the FTC investigation, the audit committee wants to know whether we're on track for the first production.\n\nBest,\nKavya Vasquez\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03",
+          "i020-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e025",
+      "thread_id": "i020-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:13:14.408934",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Priya,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nKavya\nGeneral Counsel\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e026",
+      "thread_id": "i020-t014",
+      "in_reply_to": "i020-e025",
+      "references": [
+        "i020-e025"
+      ],
+      "timestamp": "2026-08-18T08:25:18.208917",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Vasquez",
+          "email": "kvasquez@quarryanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hello Kavya,\n\nAdding Nikhil, who will handle the day-to-day on this.\n\nBest,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 10:13 AM, Kavya Vasquez <kvasquez@quarryanal.com> wrote:\n> Dear Priya,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i020-e027",
+      "thread_id": "i020-t014",
+      "in_reply_to": "i020-e026",
+      "references": [
+        "i020-e025",
+        "i020-e026"
+      ],
+      "timestamp": "2026-08-18T20:11:43.921056",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Vasquez",
+        "email": "kvasquez@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hi Priya,\n\nThanks. Separately, on the FTC investigation, the audit committee wants to know whether we're on track for the first production.\n\nBest,\nKavya\nGeneral Counsel\nQuarry Analytics\n\nOn Tue, Aug 18, 2026 at 08:25 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Hello Kavya,\n>\n> Adding Nikhil, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01",
+          "i020-m03"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e028",
+      "thread_id": "i020-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T08:48:33.553595",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Brennan",
+          "email": "sofiab@driftwoodanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 6",
+      "body": "Sofia,\n\nReminder that our infringement contentions are due September 6. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nThanks,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i020-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e029",
+      "thread_id": "i020-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T16:18:19.511168",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Brennan",
+        "email": "sofiab@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Vasquez",
+          "email": "gabrielv@driftwoodanal.com"
+        }
+      ],
+      "subject": "Pinnacle Materials product launch - possible infringement of '744 patent",
+      "body": "Dear Priya,\n\nOur engineers looked at the product Pinnacle Materials launched last month and believe it practices claims 1 and 7 of our '744 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest regards,\nSofia Brennan\nChief Technology Officer\nDriftwood Analytics",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m00"
+          ],
+          "keyword_candidates": [
+            "i020-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e030",
+      "thread_id": "i020-t016",
+      "in_reply_to": "i020-e029",
+      "references": [
+        "i020-e029"
+      ],
+      "timestamp": "2026-08-20T07:48:16.729764",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Brennan",
+          "email": "sofiab@driftwoodanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Vasquez",
+          "email": "gabrielv@driftwoodanal.com"
+        }
+      ],
+      "subject": "Re: Pinnacle Materials product launch - possible infringement of '744 patent",
+      "body": "Hello Sofia,\n\nWorks for me. Let's do Wednesday at noon.\n\nBest regards,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 19, 2026 at 04:18 PM, Sofia Brennan <sofiab@driftwoodanal.com> wrote:\n> Dear Priya,\n>\n> Our engineers looked at the product Pinnacle Materials launched last month and believe it practices claims 1 and 7 of our '744 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": [
+            "i020-m00"
+          ],
+          "identifier_candidates": [
+            "i020-m00"
+          ],
+          "keyword_candidates": [
+            "i020-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e031",
+      "thread_id": "i020-t015",
+      "in_reply_to": "i020-e028",
+      "references": [
+        "i020-e028"
+      ],
+      "timestamp": "2026-08-20T17:08:44.878016",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Brennan",
+        "email": "sofiab@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 6",
+      "body": "Hi Priya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nSofia Brennan\nChief Technology Officer\nDriftwood Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": [
+            "i020-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i020-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e032",
+      "thread_id": "i020-t016",
+      "in_reply_to": "i020-e030",
+      "references": [
+        "i020-e029",
+        "i020-e030"
+      ],
+      "timestamp": "2026-08-20T20:30:11.280003",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Brennan",
+        "email": "sofiab@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Vasquez",
+          "email": "gabrielv@driftwoodanal.com"
+        }
+      ],
+      "subject": "Re: Pinnacle Materials product launch - possible infringement of '744 patent",
+      "body": "Hi Priya,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nSofia\nChief Technology Officer\nDriftwood Analytics\n\nOn Thu, Aug 20, 2026 at 07:48 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Hello Sofia,\n>\n> Works for me. Let's do Wednesday at noon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": [
+            "i020-m00"
+          ],
+          "identifier_candidates": [
+            "i020-m00"
+          ],
+          "keyword_candidates": [
+            "i020-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e033",
+      "thread_id": "i020-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T15:14:47.309122",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Reyes",
+        "email": "ereyes@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Quarry",
+      "body": "Priya,\n\nPre-bills for Quarry Analytics are ready for your review:\n\n- 82944-001  Quarry - FTC Investigation (CID No. 2026-775)\n- 82944-002  Quarry - Acquisition of Wavecrest Energy (Project Larkspur)\n\nPlease mark up and return by September 4.\n\nThanks,\nElena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01",
+          "i020-m03"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m01",
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e034",
+      "thread_id": "i020-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T15:32:07.511323",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Reyes",
+        "email": "ereyes@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Driftwood",
+      "body": "Hello Priya,\n\nPre-bills for Driftwood Analytics are ready for your review:\n\n- 39008-001  Driftwood v. Pinnacle ('744 Patent)\n\nPlease mark up and return by September 4.\n\nRegards,\nElena Reyes",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e035",
+      "thread_id": "i020-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T16:29:40.793075",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Brennan",
+        "email": "lucia.brennan@quarryanal.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Project Larkspur - LOI countersigned",
+      "body": "Hi Priya,\n\nGood news: Wavecrest Energy countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n\nCan we do a kickoff call tomorrow?\n\nBest regards,\nLucia Brennan\nVP, Corporate Development\nQuarry Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e036",
+      "thread_id": "i020-t019",
+      "in_reply_to": "i020-e035",
+      "references": [
+        "i020-e035"
+      ],
+      "timestamp": "2026-09-04T10:09:41.083393",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Brennan",
+          "email": "lucia.brennan@quarryanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Re: Project Larkspur - LOI countersigned",
+      "body": "Hello Lucia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 03, 2026 at 04:29 PM, Lucia Brennan <lucia.brennan@quarryanal.com> wrote:\n> Hi Priya,\n>\n> Good news: Wavecrest Energy countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m03",
+        "matter_ids": [
+          "i020-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m03"
+          ],
+          "thread_candidates": [
+            "i020-m03"
+          ],
+          "identifier_candidates": [
+            "i020-m03"
+          ],
+          "keyword_candidates": [
+            "i020-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e037",
+      "thread_id": "i020-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T09:57:48.032309",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Ziegler",
+        "email": "nikhilz@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hello Priya,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest,\nNikhil\nAssociate\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00",
+            "i020-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e038",
+      "thread_id": "i020-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:34:25.312118",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Weiss",
+        "email": "yara.weiss@halcyontech.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Ziegler",
+          "email": "nikhilz@oseipark.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hi Priya,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 29.\n\nBest,\nYara Weiss",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m00",
+        "matter_ids": [
+          "i020-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e039",
+      "thread_id": "i020-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:34:49.042059",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Dubois",
+        "email": "gdubois@northwindsoft.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Fischer",
+          "email": "zfischer@northwindsoft.com"
+        }
+      ],
+      "subject": "Tidewater Logistics - repeated SLA failures",
+      "body": "Hi Priya,\n\nTidewater Logistics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nThanks,\nGabriel Dubois\nChief Operating Officer\nNorthwind Software",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m02"
+          ],
+          "keyword_candidates": [
+            "i020-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e040",
+      "thread_id": "i020-t022",
+      "in_reply_to": "i020-e039",
+      "references": [
+        "i020-e039"
+      ],
+      "timestamp": "2026-09-16T08:24:01.248762",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Dubois",
+          "email": "gdubois@northwindsoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Fischer",
+          "email": "zfischer@northwindsoft.com"
+        }
+      ],
+      "subject": "Re: Tidewater Logistics - repeated SLA failures",
+      "body": "Gabriel,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest,\nPriya Delgado\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 09:34 AM, Gabriel Dubois <gdubois@northwindsoft.com> wrote:\n> Hi Priya,\n>\n> Tidewater Logistics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": [
+            "i020-m02"
+          ],
+          "identifier_candidates": [
+            "i020-m02"
+          ],
+          "keyword_candidates": [
+            "i020-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e041",
+      "thread_id": "i020-t022",
+      "in_reply_to": "i020-e040",
+      "references": [
+        "i020-e039",
+        "i020-e040"
+      ],
+      "timestamp": "2026-09-18T09:28:48.376715",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Dubois",
+        "email": "gdubois@northwindsoft.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Fischer",
+          "email": "zfischer@northwindsoft.com"
+        }
+      ],
+      "subject": "Re: Tidewater Logistics - repeated SLA failures",
+      "body": "Priya,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nGabriel Dubois\nChief Operating Officer\nNorthwind Software\n\nOn Wed, Sep 16, 2026 at 08:24 AM, Priya Delgado <priya.delgado@oseipark.com> wrote:\n> Gabriel,\n>\n> Thanks. Received; we'll review and come back to you by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": [
+            "i020-m02"
+          ],
+          "identifier_candidates": [
+            "i020-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e042",
+      "thread_id": "i020-t022",
+      "in_reply_to": "i020-e041",
+      "references": [
+        "i020-e039",
+        "i020-e040",
+        "i020-e041"
+      ],
+      "timestamp": "2026-09-21T09:24:26.170963",
+      "folder": "sent",
+      "from": {
+        "name": "Priya Delgado",
+        "email": "priya.delgado@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Dubois",
+          "email": "gdubois@northwindsoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Fischer",
+          "email": "zfischer@northwindsoft.com"
+        }
+      ],
+      "subject": "Re: Tidewater Logistics - repeated SLA failures",
+      "body": "Hello Gabriel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nPriya\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m02",
+        "matter_ids": [
+          "i020-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i020-m02"
+          ],
+          "thread_candidates": [
+            "i020-m02"
+          ],
+          "identifier_candidates": [
+            "i020-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e043",
+      "thread_id": "i020-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:55:30.964543",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Abbott",
+        "email": "chen.abbott@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Priya,\n\nStatus on my matters this week:\n\n- FTC CID: collection 80% complete; first rolling production targeted for September 29.\n- Tidewater MSA: notice of breach sent, cure period running; damages model in draft.\n\nBest regards,\nChen Abbott\nSenior Associate\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i020-m01",
+        "matter_ids": [
+          "i020-m01",
+          "i020-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i020-m02"
+          ],
+          "keyword_candidates": [
+            "i020-m01",
+            "i020-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e044",
+      "thread_id": "i020-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T10:42:30.297148",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "ayamamoto@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Priya,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nArjun Yamamoto\nPartner\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i020-e045",
+      "thread_id": "i020-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T13:39:57.200096",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Haddad",
+        "email": "phaddad@oseipark.com"
+      },
+      "to": [
+        {
+          "name": "Priya Delgado",
+          "email": "priya.delgado@oseipark.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Priya,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nPedro Haddad\nIT Service Desk\nOsei & Park LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700020
+}

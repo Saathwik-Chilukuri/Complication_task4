@@ -1,0 +1,3311 @@
+{
+  "instance_id": "i018",
+  "firm": {
+    "name": "Goldberg & Delgado LLP",
+    "domain": "goldbergdelgado.com"
+  },
+  "user_contact_id": "i018-c000",
+  "matters": [
+    {
+      "matter_id": "i018-m00",
+      "matter_number": "88172-001",
+      "name": "Wavecrest - SEC Investigation (CID No. 2026-824)",
+      "client": "Wavecrest Logistics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Wavecrest Logistics's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-06-15",
+      "key_terms": [
+        "88172-001",
+        "2026-824",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i018-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i018-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i018-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i018-c012",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i018-m01",
+      "matter_number": "94889-001",
+      "name": "Daniel Castillo v. Parallax",
+      "client": "Parallax Systems",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Daniel Castillo against Parallax Systems. Case No. 3:26-cv-09014.",
+      "counterparty": "Daniel Castillo",
+      "opposing_counsel_firm": "Fischer & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-06-22",
+      "key_terms": [
+        "94889-001",
+        "Daniel Castillo",
+        "Castillo",
+        "3:26-cv-09014"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i018-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i018-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i018-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i018-c015",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i018-m02",
+      "matter_number": "53881-001",
+      "name": "Ironbridge - Series C Financing",
+      "client": "Ironbridge Systems",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Ironbridge Systems, led by Bluefin Ventures. Raising ~$25 million.",
+      "counterparty": "Bluefin Ventures",
+      "opposing_counsel_firm": "Yamamoto & Reyes LLP",
+      "status": "open",
+      "opened_on": "2026-07-08",
+      "key_terms": [
+        "53881-001",
+        "Series C",
+        "Bluefin Ventures",
+        "Bluefin"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i018-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i018-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i018-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i018-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i018-c019",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i018-m03",
+      "matter_number": "90298-001",
+      "name": "Driftwood v. Lumen (MSA Dispute)",
+      "client": "Driftwood Software",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Driftwood Software against vendor Lumen Biosciences.",
+      "counterparty": "Lumen Biosciences",
+      "opposing_counsel_firm": "Yamamoto & Reyes LLP",
+      "status": "open",
+      "opened_on": "2026-07-23",
+      "key_terms": [
+        "90298-001",
+        "Lumen Biosciences",
+        "Lumen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i018-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i018-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i018-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i018-c022",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i018-m04",
+      "matter_number": "93343-001",
+      "name": "Lattice - Headquarters Lease (2139 Howard Street)",
+      "client": "Lattice Robotics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Lattice Robotics's new headquarters at 2139 Howard Street, landlord Redwood Properties LLC.",
+      "counterparty": "Redwood Properties LLC",
+      "opposing_counsel_firm": "Ferreira & Kaplan LLP",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "93343-001",
+        "2139 Howard Street",
+        "Redwood Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i018-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i018-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i018-c023",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i018-c024",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i018-c025",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i018-c000",
+      "name": "Hannah Varga",
+      "first": "Hannah",
+      "email": "hannahv@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c001",
+      "name": "Ximena Shah",
+      "first": "Ximena",
+      "email": "ximena.shah@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c002",
+      "name": "Lucia Novak",
+      "first": "Lucia",
+      "email": "lucian@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c003",
+      "name": "Priya Varga",
+      "first": "Priya",
+      "email": "priya.varga@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c004",
+      "name": "Rafael Nakamura",
+      "first": "Rafael",
+      "email": "rnakamura@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c005",
+      "name": "Chen Jensen",
+      "first": "Chen",
+      "email": "cjensen@wavecrestlogi.com",
+      "organization": "Wavecrest Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c006",
+      "name": "Hannah Huang",
+      "first": "Hannah",
+      "email": "hhuang@parallaxsyst.com",
+      "organization": "Parallax Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c007",
+      "name": "Jasmine Chowdhury",
+      "first": "Jasmine",
+      "email": "jasmine.chowdhury@ironbridgesyst.com",
+      "organization": "Ironbridge Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c008",
+      "name": "James Quintero",
+      "first": "James",
+      "email": "jquintero@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c009",
+      "name": "Hannah Grant",
+      "first": "Hannah",
+      "email": "hannahg@latticerobo.com",
+      "organization": "Lattice Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c010",
+      "name": "Bianca Brennan",
+      "first": "Bianca",
+      "email": "biancab@wavecrestlogi.com",
+      "organization": "Wavecrest Logistics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c011",
+      "name": "Whitney Ito",
+      "first": "Whitney",
+      "email": "whitney.ito@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c012",
+      "name": "Uma Novak",
+      "first": "Uma",
+      "email": "unovak@corviddiscovery.com",
+      "organization": "Corvid Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c013",
+      "name": "Quinn Goldberg",
+      "first": "Quinn",
+      "email": "quinng@parallaxsyst.com",
+      "organization": "Parallax Systems",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c014",
+      "name": "Kenji Iyer",
+      "first": "Kenji",
+      "email": "kenjii@fischerunderwood.com",
+      "organization": "Fischer & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c015",
+      "name": "Emma Young",
+      "first": "Emma",
+      "email": "eyoung@amberlyadr.com",
+      "organization": "Amberly Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c016",
+      "name": "Ivan Young",
+      "first": "Ivan",
+      "email": "ivany@ironbridgesyst.com",
+      "organization": "Ironbridge Systems",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c017",
+      "name": "Farid Young",
+      "first": "Farid",
+      "email": "farid.young@yamamotoreyes.com",
+      "organization": "Yamamoto & Reyes LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c018",
+      "name": "Samuel Osei",
+      "first": "Samuel",
+      "email": "sosei@bluefinvc.com",
+      "organization": "Bluefin Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c019",
+      "name": "Yusuf Osei",
+      "first": "Yusuf",
+      "email": "yosei@evergreenvc.com",
+      "organization": "Evergreen Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c020",
+      "name": "Isabel Park",
+      "first": "Isabel",
+      "email": "ipark@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c021",
+      "name": "Priya Nakamura",
+      "first": "Priya",
+      "email": "priya.nakamura@yamamotoreyes.com",
+      "organization": "Yamamoto & Reyes LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c022",
+      "name": "Priya Rosen",
+      "first": "Priya",
+      "email": "priyar@halcyonadr.com",
+      "organization": "Halcyon Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c023",
+      "name": "Hiro Shah",
+      "first": "Hiro",
+      "email": "hiros@latticerobo.com",
+      "organization": "Lattice Robotics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c024",
+      "name": "Yara Fischer",
+      "first": "Yara",
+      "email": "yara.fischer@ferreirakaplan.com",
+      "organization": "Ferreira & Kaplan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c025",
+      "name": "Tara Young",
+      "first": "Tara",
+      "email": "tyoung@orchardrealty.com",
+      "organization": "Orchard Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c026",
+      "name": "Marcus Kaplan",
+      "first": "Marcus",
+      "email": "mkaplan@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c027",
+      "name": "Chen Brennan",
+      "first": "Chen",
+      "email": "chenb@nimbusvc.com",
+      "organization": "Nimbus Ventures",
+      "org_type": "fund",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c028",
+      "name": "Aisha Haddad",
+      "first": "Aisha",
+      "email": "aishah@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c029",
+      "name": "Gabriel Zhang",
+      "first": "Gabriel",
+      "email": "gabrielz@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i018-c030",
+      "name": "Aisha Lee",
+      "first": "Aisha",
+      "email": "aishal@cascadesoft.com",
+      "organization": "Cascade Software",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i018-c031",
+      "name": "Quinn Rosen",
+      "first": "Quinn",
+      "email": "quinnr@goldbergdelgado.com",
+      "organization": "Goldberg & Delgado LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i018-e000",
+      "thread_id": "i018-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-03T07:14:33.830656",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Rosen",
+        "email": "quinnr@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hannah,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nQuinn\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e001",
+      "thread_id": "i018-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T08:15:33.257421",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Young",
+        "email": "eyoung@amberlyadr.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Iyer",
+          "email": "kenjii@fischerunderwood.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Hannah,\n\nI have the following dates available for a full-day mediation: July 16 and July 20. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nBest regards,\nEmma Young\nMediator\nAmberly Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e002",
+      "thread_id": "i018-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-26T20:42:20.800598",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Huang",
+        "email": "hhuang@parallaxsyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Dear Hannah,\n\nBefore the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nRegards,\nHannah Huang",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e003",
+      "thread_id": "i018-t002",
+      "in_reply_to": "i018-e002",
+      "references": [
+        "i018-e002"
+      ],
+      "timestamp": "2026-06-29T08:12:29.179089",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Huang",
+          "email": "hhuang@parallaxsyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hannah,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jun 26, 2026 at 08:42 PM, Hannah Huang <hhuang@parallaxsyst.com> wrote:\n> Dear Hannah,\n>\n> Before the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": [
+            "i018-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e004",
+      "thread_id": "i018-t002",
+      "in_reply_to": "i018-e003",
+      "references": [
+        "i018-e002",
+        "i018-e003"
+      ],
+      "timestamp": "2026-07-01T08:38:59.857639",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Huang",
+        "email": "hhuang@parallaxsyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Hannah,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nHannah Huang\n\nOn Mon, Jun 29, 2026 at 08:12 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Hannah,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": [
+            "i018-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e005",
+      "thread_id": "i018-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:16:24.964843",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Varga",
+        "email": "priya.varga@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hello Hannah,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nRegards,\nPriya Varga\nAssociate\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00",
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e006",
+      "thread_id": "i018-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:31:21.077228",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Grant",
+        "email": "hannahg@latticerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hannah,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nRegards,\nHannah\nGeneral Counsel\nLattice Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e007",
+      "thread_id": "i018-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T17:29:59.162811",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Huang",
+        "email": "hhuang@parallaxsyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Dear Hannah,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nHannah Huang",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e008",
+      "thread_id": "i018-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T07:33:30.977590",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Young",
+        "email": "farid.young@yamamotoreyes.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Shah",
+          "email": "ximena.shah@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Ironbridge Series C - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series C. Our client would like to sign by July 31. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nFarid Young\nPartner\nYamamoto & Reyes LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [
+            "i018-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e009",
+      "thread_id": "i018-t004",
+      "in_reply_to": "i018-e006",
+      "references": [
+        "i018-e006"
+      ],
+      "timestamp": "2026-07-15T07:31:36.025924",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Grant",
+          "email": "hannahg@latticerobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 10:31 AM, Hannah Grant <hannahg@latticerobo.com> wrote:\n> Hannah,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": [
+            "i018-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e010",
+      "thread_id": "i018-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T11:44:26.026826",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Brennan",
+          "email": "biancab@wavecrestlogi.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hi Bianca,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nRegards,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e011",
+      "thread_id": "i018-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:22:04.787759",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Osei",
+        "email": "sosei@bluefinvc.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@ironbridgesyst.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Dear Hannah,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is August 3 still realistic?\n\nBest,\nSamuel Osei\nPartner\nBluefin Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e012",
+      "thread_id": "i018-t008",
+      "in_reply_to": "i018-e011",
+      "references": [
+        "i018-e011"
+      ],
+      "timestamp": "2026-07-21T07:11:13.771053",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Osei",
+          "email": "sosei@bluefinvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@ironbridgesyst.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Samuel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e013",
+      "thread_id": "i018-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T14:49:24.308001",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Shah",
+        "email": "hiros@latticerobo.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2139 Howard Street",
+      "body": "Dear Hannah,\n\nWe've agreed on a non-binding LOI with Redwood Properties LLC for about 42,000 RSF at 2139 Howard Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest regards,\nHiro Shah\nDirector of Real Estate\nLattice Robotics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m04"
+          ],
+          "keyword_candidates": [
+            "i018-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e014",
+      "thread_id": "i018-t008",
+      "in_reply_to": "i018-e012",
+      "references": [
+        "i018-e011",
+        "i018-e012"
+      ],
+      "timestamp": "2026-07-23T07:59:51.800911",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Osei",
+        "email": "sosei@bluefinvc.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@ironbridgesyst.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Hannah,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nSamuel\nPartner\nBluefin Ventures\n\nOn Tue, Jul 21, 2026 at 07:11 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Dear Samuel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e015",
+      "thread_id": "i018-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T08:51:04.505241",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Brennan",
+        "email": "chenb@nimbusvc.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Shah",
+          "email": "ximena.shah@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Participation in the Ironbridge round",
+      "body": "Hello Hannah,\n\nWe were introduced to Ironbridge by Bluefin and would like to take up to $2 million of the Series C. Who should we speak with about the subscription documents?\n\nThanks,\nChen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e016",
+      "thread_id": "i018-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T11:33:57.887565",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Chowdhury",
+        "email": "jasmine.chowdhury@ironbridgesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Dear Hannah,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nRegards,\nJasmine Chowdhury\nGeneral Counsel\nIronbridge Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e017",
+      "thread_id": "i018-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:16:33.525478",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Shah",
+        "email": "ximena.shah@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello Hannah,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nXimena\nSenior Associate\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e018",
+      "thread_id": "i018-t011",
+      "in_reply_to": "i018-e016",
+      "references": [
+        "i018-e016"
+      ],
+      "timestamp": "2026-07-27T08:51:09.916233",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Chowdhury",
+          "email": "jasmine.chowdhury@ironbridgesyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hello Jasmine,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 24, 2026 at 11:33 AM, Jasmine Chowdhury <jasmine.chowdhury@ironbridgesyst.com> wrote:\n> Dear Hannah,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e019",
+      "thread_id": "i018-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:58:02.341561",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Shah",
+        "email": "ximena.shah@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hello Hannah,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nThanks,\nXimena\nSenior Associate\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e020",
+      "thread_id": "i018-t011",
+      "in_reply_to": "i018-e018",
+      "references": [
+        "i018-e016",
+        "i018-e018"
+      ],
+      "timestamp": "2026-07-28T09:42:20.537170",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Chowdhury",
+        "email": "jasmine.chowdhury@ironbridgesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nJasmine Chowdhury\nGeneral Counsel\nIronbridge Systems\n\nOn Mon, Jul 27, 2026 at 08:51 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Hello Jasmine,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e021",
+      "thread_id": "i018-t013",
+      "in_reply_to": "i018-e019",
+      "references": [
+        "i018-e019"
+      ],
+      "timestamp": "2026-07-28T17:36:18.273519",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Shah",
+          "email": "ximena.shah@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Ximena,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 10:58 AM, Ximena Shah <ximena.shah@goldbergdelgado.com> wrote:\n> Hello Hannah,\n>\n> The draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": [
+            "i018-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e022",
+      "thread_id": "i018-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T13:54:01.580802",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Novak",
+        "email": "unovak@corviddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Hannah,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nRegards,\nUma Novak\nProject Manager\nCorvid Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e023",
+      "thread_id": "i018-t011",
+      "in_reply_to": "i018-e020",
+      "references": [
+        "i018-e016",
+        "i018-e018",
+        "i018-e020"
+      ],
+      "timestamp": "2026-07-29T16:22:05.586679",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Chowdhury",
+          "email": "jasmine.chowdhury@ironbridgesyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Dear Jasmine,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 28, 2026 at 09:42 AM, Jasmine Chowdhury <jasmine.chowdhury@ironbridgesyst.com> wrote:\n> Hannah,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e024",
+      "thread_id": "i018-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T08:40:52.831131",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@ironbridgesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hello Ivan,\n\nAttached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nThanks,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [
+            "i018-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e025",
+      "thread_id": "i018-t014",
+      "in_reply_to": "i018-e022",
+      "references": [
+        "i018-e022"
+      ],
+      "timestamp": "2026-07-30T14:36:31.863997",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Uma Novak",
+          "email": "unovak@corviddiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Uma,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 29, 2026 at 01:54 PM, Uma Novak <unovak@corviddiscovery.com> wrote:\n> Dear Hannah,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": [
+            "i018-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e026",
+      "thread_id": "i018-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T19:42:21.555877",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Kaplan",
+        "email": "mkaplan@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Counsel,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nBest,\nMarcus",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e027",
+      "thread_id": "i018-t015",
+      "in_reply_to": "i018-e024",
+      "references": [
+        "i018-e024"
+      ],
+      "timestamp": "2026-07-31T19:51:09.881292",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@ironbridgesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Hannah,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nIvan Young\nChief Executive Officer\nIronbridge Systems\n\nOn Thu, Jul 30, 2026 at 08:40 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Hello Ivan,\n>\n> Attached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [
+            "i018-m02"
+          ],
+          "keyword_candidates": [
+            "i018-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e028",
+      "thread_id": "i018-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:09:48.928767",
+      "folder": "inbox",
+      "from": {
+        "name": "James Quintero",
+        "email": "jquintero@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Hannah,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nJames Quintero\nGeneral Counsel\nDriftwood Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e029",
+      "thread_id": "i018-t015",
+      "in_reply_to": "i018-e027",
+      "references": [
+        "i018-e024",
+        "i018-e027"
+      ],
+      "timestamp": "2026-08-03T09:41:19.447620",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Young",
+          "email": "ivany@ironbridgesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Ivan,\n\nConfirmed. I'll update the checklist.\n\nBest,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 31, 2026 at 07:51 PM, Ivan Young <ivany@ironbridgesyst.com> wrote:\n> Dear Hannah,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e030",
+      "thread_id": "i018-t014",
+      "in_reply_to": "i018-e025",
+      "references": [
+        "i018-e022",
+        "i018-e025"
+      ],
+      "timestamp": "2026-08-03T10:52:14.341291",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Novak",
+        "email": "unovak@corviddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Varga",
+          "email": "priya.varga@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hi Hannah,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nRegards,\nUma Novak\nProject Manager\nCorvid Discovery\n\nOn Thu, Jul 30, 2026 at 02:36 PM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Uma,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": [
+            "i018-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e031",
+      "thread_id": "i018-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T08:21:51.652672",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Ito",
+        "email": "whitney.ito@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-824 - meet and confer",
+      "body": "Hannah,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nWhitney Ito\nStaff Attorney\nSecurities and Exchange Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m00"
+          ],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e032",
+      "thread_id": "i018-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T08:42:40.749628",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Goldberg",
+          "email": "quinng@parallaxsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Novak",
+          "email": "lucian@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Hello Quinn,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nRegards,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i018-e033",
+      "thread_id": "i018-t018",
+      "in_reply_to": "i018-e031",
+      "references": [
+        "i018-e031"
+      ],
+      "timestamp": "2026-08-13T07:16:09.269032",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Ito",
+          "email": "whitney.ito@sec.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-824 - meet and confer",
+      "body": "Hello Whitney,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 08:21 AM, Whitney Ito <whitney.ito@sec.gov> wrote:\n> Hannah,\n>\n> Following up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": [
+            "i018-m00"
+          ],
+          "identifier_candidates": [
+            "i018-m00"
+          ],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e034",
+      "thread_id": "i018-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T13:48:30.123027",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Goldberg",
+        "email": "quinng@parallaxsyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hello Hannah,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest regards,\nQuinn Goldberg\nHead of People\nParallax Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e035",
+      "thread_id": "i018-t018",
+      "in_reply_to": "i018-e033",
+      "references": [
+        "i018-e031",
+        "i018-e033"
+      ],
+      "timestamp": "2026-08-14T07:53:34.923132",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Ito",
+        "email": "whitney.ito@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-824 - meet and confer",
+      "body": "Hi Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nWhitney Ito\nStaff Attorney\nSecurities and Exchange Commission\n\nOn Thu, Aug 13, 2026 at 07:16 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Hello Whitney,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": [
+            "i018-m00"
+          ],
+          "identifier_candidates": [
+            "i018-m00"
+          ],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e036",
+      "thread_id": "i018-t019",
+      "in_reply_to": "i018-e032",
+      "references": [
+        "i018-e032"
+      ],
+      "timestamp": "2026-08-14T08:29:33.713624",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Goldberg",
+        "email": "quinng@parallaxsyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Novak",
+          "email": "lucian@goldbergdelgado.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hello Hannah,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nQuinn Goldberg\nHead of People\nParallax Systems\n\nOn Wed, Aug 12, 2026 at 08:42 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Hello Quinn,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": [
+            "i018-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e037",
+      "thread_id": "i018-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:07:07.883249",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "cjensen@wavecrestlogi.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Brennan",
+          "email": "biancab@wavecrestlogi.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hannah,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-824). It asks for documents about our customer data practices going back to 2021. The return date is August 31. Can you call me?\n\nBest regards,\nChen Jensen\nGeneral Counsel\nWavecrest Logistics",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m00"
+          ],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e038",
+      "thread_id": "i018-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:56:08.257119",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Young",
+        "email": "ivany@ironbridgesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hannah,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nIvan\nChief Executive Officer\nIronbridge Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e039",
+      "thread_id": "i018-t018",
+      "in_reply_to": "i018-e035",
+      "references": [
+        "i018-e031",
+        "i018-e033",
+        "i018-e035"
+      ],
+      "timestamp": "2026-08-17T10:41:36.210791",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Ito",
+          "email": "whitney.ito@sec.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-824 - meet and confer",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 14, 2026 at 07:53 AM, Whitney Ito <whitney.ito@sec.gov> wrote:\n> Hi Hannah,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m00",
+        "matter_ids": [
+          "i018-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m00"
+          ],
+          "thread_candidates": [
+            "i018-m00"
+          ],
+          "identifier_candidates": [
+            "i018-m00"
+          ],
+          "keyword_candidates": [
+            "i018-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e040",
+      "thread_id": "i018-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T09:21:34.460782",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Fischer",
+        "email": "yara.fischer@ferreirakaplan.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2139 Howard Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nYara Fischer\nPartner\nFerreira & Kaplan LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m04"
+          ],
+          "keyword_candidates": [
+            "i018-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e041",
+      "thread_id": "i018-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T09:55:59.640716",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Young",
+        "email": "tyoung@orchardrealty.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Shah",
+          "email": "hiros@latticerobo.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hannah,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nRegards,\nTara Young\nSenior Vice President\nOrchard Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e042",
+      "thread_id": "i018-t024",
+      "in_reply_to": "i018-e041",
+      "references": [
+        "i018-e041"
+      ],
+      "timestamp": "2026-08-21T20:51:23.383393",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Tara Young",
+          "email": "tyoung@orchardrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Shah",
+          "email": "hiros@latticerobo.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hi Tara,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 21, 2026 at 09:55 AM, Tara Young <tyoung@orchardrealty.com> wrote:\n> Hannah,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m04",
+        "matter_ids": [
+          "i018-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m04"
+          ],
+          "thread_candidates": [
+            "i018-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e043",
+      "thread_id": "i018-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:02:33.387566",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Iyer",
+        "email": "kenjii@fischerunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Daniel Castillo v. Parallax - Case No. 3:26-cv-09014",
+      "body": "Hannah,\n\nPlease see attached the complaint filed today in Daniel Castillo v. Parallax Systems, Case No. 3:26-cv-09014. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Parallax.\n\nBest,\nKenji\nPartner\nFischer & Underwood LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m01"
+          ],
+          "keyword_candidates": [
+            "i018-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e044",
+      "thread_id": "i018-t025",
+      "in_reply_to": "i018-e043",
+      "references": [
+        "i018-e043"
+      ],
+      "timestamp": "2026-08-26T08:54:09.439303",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Iyer",
+          "email": "kenjii@fischerunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Daniel Castillo v. Parallax - Case No. 3:26-cv-09014",
+      "body": "Hello Kenji,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01"
+          ],
+          "thread_candidates": [
+            "i018-m01"
+          ],
+          "identifier_candidates": [
+            "i018-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e045",
+      "thread_id": "i018-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:16:29.224363",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Nakamura",
+        "email": "rnakamura@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Driftwood",
+      "body": "Hannah,\n\nPre-bills for Driftwood Software are ready for your review:\n\n- 90298-001  Driftwood v. Lumen (MSA Dispute)\n\nPlease mark up and return by September 4.\n\nBest,\nRafael\nBilling Coordinator\nGoldberg & Delgado LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e046",
+      "thread_id": "i018-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T13:07:28.556687",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Nakamura",
+        "email": "rnakamura@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Parallax",
+      "body": "Hannah,\n\nPre-bills for Parallax Systems are ready for your review:\n\n- 94889-001  Daniel Castillo v. Parallax\n\nPlease mark up and return by September 4.\n\nBest,\nRafael\nBilling Coordinator\nGoldberg & Delgado LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e047",
+      "thread_id": "i018-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T08:35:18.746187",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Shah",
+        "email": "ximena.shah@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Hannah,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nThanks,\nXimena Shah\nSenior Associate\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e048",
+      "thread_id": "i018-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T14:16:24.899278",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Lee",
+        "email": "aishal@cascadesoft.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hannah,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest regards,\nAisha Lee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e049",
+      "thread_id": "i018-t028",
+      "in_reply_to": "i018-e047",
+      "references": [
+        "i018-e047"
+      ],
+      "timestamp": "2026-09-08T17:04:28.532745",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Shah",
+          "email": "ximena.shah@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Dear Ximena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nHannah Varga\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 08, 2026 at 08:35 AM, Ximena Shah <ximena.shah@goldbergdelgado.com> wrote:\n> Hi Hannah,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m02",
+        "matter_ids": [
+          "i018-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": [
+            "i018-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i018-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e050",
+      "thread_id": "i018-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:33:16.431982",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Dear Hannah,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nRegards,\nAisha Haddad\nIT Service Desk\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e051",
+      "thread_id": "i018-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:43:59.509414",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Shah",
+        "email": "ximena.shah@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hannah,\n\nStatus on my matters this week:\n\n- Castillo: complaint served; mediation being scheduled, deposition outline in draft.\n- Series C: financing docs in negotiation with Bluefin's counsel; cap table reconciliation in progress.\n- Lumen MSA: notice of breach sent, cure period running; damages model in draft.\n- 2139 Howard Street: second turn of landlord's lease draft; SNDA requested from lender.\n\nRegards,\nXimena Shah\nSenior Associate\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m01",
+        "matter_ids": [
+          "i018-m01",
+          "i018-m02",
+          "i018-m03",
+          "i018-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m01",
+            "i018-m02",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "keyword_candidates": [
+            "i018-m01",
+            "i018-m03",
+            "i018-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e052",
+      "thread_id": "i018-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T07:47:07.863801",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Rosen",
+        "email": "priyar@halcyonadr.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Nakamura",
+          "email": "priya.nakamura@yamamotoreyes.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Dear Hannah,\n\nThis confirms receipt of the demand for arbitration in Driftwood Software v. Lumen Biosciences. The administrative conference is scheduled for October 13. Please confirm your availability.\n\nThanks,\nPriya",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i018-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i018-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e053",
+      "thread_id": "i018-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T08:41:56.275725",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Zhang",
+        "email": "gabrielz@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hello Hannah,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest regards,\nGabriel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e054",
+      "thread_id": "i018-t032",
+      "in_reply_to": "i018-e052",
+      "references": [
+        "i018-e052"
+      ],
+      "timestamp": "2026-10-05T09:54:03.669371",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Varga",
+        "email": "hannahv@goldbergdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Priya Rosen",
+          "email": "priyar@halcyonadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Nakamura",
+          "email": "priya.nakamura@yamamotoreyes.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Dear Priya,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nHannah\nPartner\nGoldberg & Delgado LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m03"
+          ],
+          "thread_candidates": [
+            "i018-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i018-e055",
+      "thread_id": "i018-t032",
+      "in_reply_to": "i018-e054",
+      "references": [
+        "i018-e052",
+        "i018-e054"
+      ],
+      "timestamp": "2026-10-06T11:17:27.433999",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Rosen",
+        "email": "priyar@halcyonadr.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Varga",
+          "email": "hannahv@goldbergdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Nakamura",
+          "email": "priya.nakamura@yamamotoreyes.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hi Hannah,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nPriya Rosen\n\nOn Mon, Oct 05, 2026 at 09:54 AM, Hannah Varga <hannahv@goldbergdelgado.com> wrote:\n> Dear Priya,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i018-m03",
+        "matter_ids": [
+          "i018-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i018-m03"
+          ],
+          "thread_candidates": [
+            "i018-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700018
+}

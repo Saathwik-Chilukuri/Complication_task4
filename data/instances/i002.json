@@ -1,0 +1,2721 @@
+{
+  "instance_id": "i002",
+  "firm": {
+    "name": "Sato & Lindqvist LLP",
+    "domain": "satolindqvist.com"
+  },
+  "user_contact_id": "i002-c000",
+  "matters": [
+    {
+      "matter_id": "i002-m00",
+      "matter_number": "30389-001",
+      "name": "Pinnacle - Headquarters Lease (1246 California Street)",
+      "client": "Pinnacle Labs",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Pinnacle Labs's new headquarters at 1246 California Street, landlord Copperleaf Properties LLC.",
+      "counterparty": "Copperleaf Properties LLC",
+      "opposing_counsel_firm": "Nakamura & Goldberg LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "30389-001",
+        "1246 California Street",
+        "Copperleaf Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i002-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i002-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i002-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i002-c009",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i002-m01",
+      "matter_number": "31848-001",
+      "name": "Driftwood - Acquisition of Vantage Systems (Project Kestrel)",
+      "client": "Driftwood Software",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Vantage Systems by Driftwood Software. Stock purchase, ~$85 million.",
+      "counterparty": "Vantage Systems",
+      "opposing_counsel_firm": "Huang & Young LLP",
+      "status": "open",
+      "opened_on": "2026-06-29",
+      "key_terms": [
+        "31848-001",
+        "Project Kestrel",
+        "Kestrel",
+        "Vantage Systems",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i002-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i002-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i002-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i002-c012",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i002-m02",
+      "matter_number": "72839-001",
+      "name": "Brightline v. Amberly (MSA Dispute)",
+      "client": "Brightline Software",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Brightline Software against vendor Amberly Analytics.",
+      "counterparty": "Amberly Analytics",
+      "opposing_counsel_firm": "Kaplan & Osei LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "72839-001",
+        "Amberly Analytics",
+        "Amberly"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i002-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i002-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i002-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i002-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i002-m03",
+      "matter_number": "30389-002",
+      "name": "Pinnacle - Series B Financing",
+      "client": "Pinnacle Labs",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Pinnacle Labs, led by Keystone Ventures. Raising ~$25 million.",
+      "counterparty": "Keystone Ventures",
+      "opposing_counsel_firm": "Park & Chowdhury LLP",
+      "status": "open",
+      "opened_on": "2026-06-27",
+      "key_terms": [
+        "30389-002",
+        "Series B",
+        "Keystone Ventures",
+        "Keystone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i002-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i002-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i002-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i002-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i002-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i002-c019",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i002-c000",
+      "name": "Rafael Vasquez",
+      "first": "Rafael",
+      "email": "rafaelv@satolindqvist.com",
+      "organization": "Sato & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i002-c001",
+      "name": "Hannah Alvarez",
+      "first": "Hannah",
+      "email": "halvarez@satolindqvist.com",
+      "organization": "Sato & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i002-c002",
+      "name": "Bianca Patel",
+      "first": "Bianca",
+      "email": "bianca.patel@satolindqvist.com",
+      "organization": "Sato & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i002-c003",
+      "name": "Liam Varga",
+      "first": "Liam",
+      "email": "liamv@satolindqvist.com",
+      "organization": "Sato & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i002-c004",
+      "name": "Chen Laurent",
+      "first": "Chen",
+      "email": "chen.laurent@pinnaclelabs.com",
+      "organization": "Pinnacle Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c005",
+      "name": "Farid Iyer",
+      "first": "Farid",
+      "email": "faridi@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c006",
+      "name": "Zoe Xu",
+      "first": "Zoe",
+      "email": "zoex@brightlinesoft.com",
+      "organization": "Brightline Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c007",
+      "name": "Wei Reyes",
+      "first": "Wei",
+      "email": "wei.reyes@pinnaclelabs.com",
+      "organization": "Pinnacle Labs",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c008",
+      "name": "Arjun Vasquez",
+      "first": "Arjun",
+      "email": "arjun.vasquez@nakamuragoldberg.com",
+      "organization": "Nakamura & Goldberg LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c009",
+      "name": "Xavier Eriksen",
+      "first": "Xavier",
+      "email": "xaviere@nimbusrealty.com",
+      "organization": "Nimbus Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c010",
+      "name": "Kenji Iyer",
+      "first": "Kenji",
+      "email": "kiyer@driftwoodsoft.com",
+      "organization": "Driftwood Software",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c011",
+      "name": "Zoe Yamamoto",
+      "first": "Zoe",
+      "email": "zoe.yamamoto@huangyoung.com",
+      "organization": "Huang & Young LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c012",
+      "name": "Xavier Sato",
+      "first": "Xavier",
+      "email": "xavier.sato@silverpinetrust.com",
+      "organization": "Silverpine Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c013",
+      "name": "James Castillo",
+      "first": "James",
+      "email": "james.castillo@brightlinesoft.com",
+      "organization": "Brightline Software",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c014",
+      "name": "Lucia Jensen",
+      "first": "Lucia",
+      "email": "luciaj@kaplanosei.com",
+      "organization": "Kaplan & Osei LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c015",
+      "name": "James Reyes",
+      "first": "James",
+      "email": "jreyes@latticeadr.com",
+      "organization": "Lattice Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c016",
+      "name": "Nadia Banerjee",
+      "first": "Nadia",
+      "email": "nadiab@pinnaclelabs.com",
+      "organization": "Pinnacle Labs",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c017",
+      "name": "Wei Yamamoto",
+      "first": "Wei",
+      "email": "weiy@parkchowdhury.com",
+      "organization": "Park & Chowdhury LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c018",
+      "name": "Farid Delgado",
+      "first": "Farid",
+      "email": "fdelgado@keystonevc.com",
+      "organization": "Keystone Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c019",
+      "name": "Emma Chowdhury",
+      "first": "Emma",
+      "email": "emma.chowdhury@tidewatervc.com",
+      "organization": "Tidewater Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c020",
+      "name": "Femi Park",
+      "first": "Femi",
+      "email": "fpark@huangyoung.com",
+      "organization": "Huang & Young LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c021",
+      "name": "Kavya Ferreira",
+      "first": "Kavya",
+      "email": "kavya.ferreira@lumenbank.com",
+      "organization": "Lumen Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i002-c022",
+      "name": "Emma Shah",
+      "first": "Emma",
+      "email": "eshah@satolindqvist.com",
+      "organization": "Sato & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i002-c023",
+      "name": "Carla Huang",
+      "first": "Carla",
+      "email": "carlah@halcyonanal.com",
+      "organization": "Halcyon Analytics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i002-e000",
+      "thread_id": "i002-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-02T16:35:31.608761",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Iyer",
+        "email": "kiyer@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Rafael,\n\nThe board asked whether we could structure part of the $85 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nKenji\nVP, Corporate Development\nDriftwood Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e001",
+      "thread_id": "i002-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:22:07.560776",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Rafael,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nChen Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e002",
+      "thread_id": "i002-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:38:59.575667",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Iyer",
+        "email": "faridi@driftwoodsoft.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Rafael,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nFarid Iyer\nGeneral Counsel\nDriftwood Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e003",
+      "thread_id": "i002-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T09:59:25.370153",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Dear Rafael,\n\nTwo quick things.\n\n1. On the Series B, Keystone is asking about closing timing. Can you send them an update?\n2. On the 1246 California Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest,\nChen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03",
+          "i002-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e004",
+      "thread_id": "i002-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T16:32:47.115371",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Park",
+        "email": "fpark@huangyoung.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Rafael,\n\nI've joined the Vantage deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest regards,\nFemi Park\nAssociate\nHuang & Young LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m01"
+          ],
+          "keyword_candidates": [
+            "i002-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e005",
+      "thread_id": "i002-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:28:12.943168",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Banerjee",
+        "email": "nadiab@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Laurent",
+          "email": "chen.laurent@pinnaclelabs.com"
+        }
+      ],
+      "subject": "Series B term sheet from Keystone Ventures",
+      "body": "Hi Rafael,\n\nWe received the attached term sheet from Keystone Ventures last night: $25 million at a $90 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?\n\nBest,\nNadia Banerjee\nChief Executive Officer\nPinnacle Labs",
+      "attachments": [
+        "Keystone Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [
+            "i002-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e006",
+      "thread_id": "i002-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T09:55:23.563164",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Vasquez",
+          "email": "arjun.vasquez@nakamuragoldberg.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Arjun,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest regards,\nRafael Vasquez",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e007",
+      "thread_id": "i002-t006",
+      "in_reply_to": "i002-e006",
+      "references": [
+        "i002-e006"
+      ],
+      "timestamp": "2026-07-24T12:09:16.241838",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Vasquez",
+        "email": "arjun.vasquez@nakamuragoldberg.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Rafael,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nArjun Vasquez\n\nOn Thu, Jul 23, 2026 at 09:55 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Arjun,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e008",
+      "thread_id": "i002-t006",
+      "in_reply_to": "i002-e007",
+      "references": [
+        "i002-e006",
+        "i002-e007"
+      ],
+      "timestamp": "2026-07-27T10:22:14.568298",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Vasquez",
+          "email": "arjun.vasquez@nakamuragoldberg.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Hello Arjun,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nRafael Vasquez\n\nOn Fri, Jul 24, 2026 at 12:09 PM, Arjun Vasquez <arjun.vasquez@nakamuragoldberg.com> wrote:\n> Rafael,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e009",
+      "thread_id": "i002-t006",
+      "in_reply_to": "i002-e008",
+      "references": [
+        "i002-e006",
+        "i002-e007",
+        "i002-e008"
+      ],
+      "timestamp": "2026-07-29T09:57:51.441175",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Vasquez",
+        "email": "arjun.vasquez@nakamuragoldberg.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Hello Rafael,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nArjun Vasquez\n\nOn Mon, Jul 27, 2026 at 10:22 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Hello Arjun,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e010",
+      "thread_id": "i002-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:05:28.860880",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Huang",
+        "email": "carlah@halcyonanal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear Rafael,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nThanks,\nCarla\nRecruiter\nHalcyon Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e011",
+      "thread_id": "i002-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T18:14:15.648668",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Sato",
+        "email": "xavier.sato@silverpinetrust.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Dear Rafael,\n\nTo open the escrow account for the Kestrel transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nBest,\nXavier\nVice President, Escrow Services\nSilverpine Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e012",
+      "thread_id": "i002-t008",
+      "in_reply_to": "i002-e011",
+      "references": [
+        "i002-e011"
+      ],
+      "timestamp": "2026-08-12T08:27:56.152314",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Sato",
+          "email": "xavier.sato@silverpinetrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hi Xavier,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nRafael Vasquez\n\nOn Mon, Aug 10, 2026 at 06:14 PM, Xavier Sato <xavier.sato@silverpinetrust.com> wrote:\n> Dear Rafael,\n>\n> To open the escrow account for the Kestrel transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": [
+            "i002-m01"
+          ],
+          "identifier_candidates": [
+            "i002-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e013",
+      "thread_id": "i002-t008",
+      "in_reply_to": "i002-e012",
+      "references": [
+        "i002-e011",
+        "i002-e012"
+      ],
+      "timestamp": "2026-08-14T09:03:44.232372",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Sato",
+        "email": "xavier.sato@silverpinetrust.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hi Rafael,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nXavier\nVice President, Escrow Services\nSilverpine Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": [
+            "i002-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e014",
+      "thread_id": "i002-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T19:49:25.763048",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Banerjee",
+          "email": "nadiab@pinnaclelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hi Nadia,\n\nAttached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest,\nRafael Vasquez",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [
+            "i002-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e015",
+      "thread_id": "i002-t008",
+      "in_reply_to": "i002-e013",
+      "references": [
+        "i002-e011",
+        "i002-e012",
+        "i002-e013"
+      ],
+      "timestamp": "2026-08-17T08:58:14.975490",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Sato",
+          "email": "xavier.sato@silverpinetrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Xavier,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nRafael Vasquez\n\nOn Fri, Aug 14, 2026 at 09:03 AM, Xavier Sato <xavier.sato@silverpinetrust.com> wrote:\n> Hi Rafael,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m01",
+        "matter_ids": [
+          "i002-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m01"
+          ],
+          "thread_candidates": [
+            "i002-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e016",
+      "thread_id": "i002-t009",
+      "in_reply_to": "i002-e014",
+      "references": [
+        "i002-e014"
+      ],
+      "timestamp": "2026-08-17T10:00:37.530678",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Banerjee",
+        "email": "nadiab@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Rafael,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nNadia\nChief Executive Officer\nPinnacle Labs\n\nOn Fri, Aug 14, 2026 at 07:49 PM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Hi Nadia,\n>\n> Attached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [
+            "i002-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e017",
+      "thread_id": "i002-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:48:18.647667",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Rafael,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nChen Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e018",
+      "thread_id": "i002-t009",
+      "in_reply_to": "i002-e016",
+      "references": [
+        "i002-e014",
+        "i002-e016"
+      ],
+      "timestamp": "2026-08-17T15:16:35.132971",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Banerjee",
+          "email": "nadiab@pinnaclelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hi Nadia,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nRafael Vasquez\n\nOn Mon, Aug 17, 2026 at 10:00 AM, Nadia Banerjee <nadiab@pinnaclelabs.com> wrote:\n> Dear Rafael,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e019",
+      "thread_id": "i002-t010",
+      "in_reply_to": "i002-e017",
+      "references": [
+        "i002-e017"
+      ],
+      "timestamp": "2026-08-19T07:38:01.412201",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Chen Laurent",
+          "email": "chen.laurent@pinnaclelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hello Chen,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nRafael Vasquez",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e020",
+      "thread_id": "i002-t010",
+      "in_reply_to": "i002-e019",
+      "references": [
+        "i002-e017",
+        "i002-e019"
+      ],
+      "timestamp": "2026-08-21T07:01:53.834112",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Rafael,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nChen Laurent\n\nOn Wed, Aug 19, 2026 at 07:38 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Hello Chen,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e021",
+      "thread_id": "i002-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:16:04.795164",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Alvarez",
+        "email": "halvarez@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Rafael,\n\nStatus on my matters this week:\n\n- 1246 California Street: second turn of landlord's lease draft; SNDA requested from lender.\n- Project Kestrel: seller comments on the SPA in; issues list circulated, signing targeted for September 2.\n\nBest,\nHannah Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00",
+          "i002-m01"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m00",
+            "i002-m01"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e022",
+      "thread_id": "i002-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T09:37:10.164687",
+      "folder": "inbox",
+      "from": {
+        "name": "James Reyes",
+        "email": "jreyes@latticeadr.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Jensen",
+          "email": "luciaj@kaplanosei.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Dear Rafael,\n\nThis confirms receipt of the demand for arbitration in Brightline Software v. Amberly Analytics. The administrative conference is scheduled for September 20. Please confirm your availability.\n\nRegards,\nJames Reyes\nCase Administrator\nLattice Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e023",
+      "thread_id": "i002-t012",
+      "in_reply_to": "i002-e022",
+      "references": [
+        "i002-e022"
+      ],
+      "timestamp": "2026-08-28T15:34:27.785881",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "James Reyes",
+          "email": "jreyes@latticeadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Jensen",
+          "email": "luciaj@kaplanosei.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "James,\n\nAdding Bianca, who will handle the day-to-day on this.\n\nThanks,\nRafael\n\nOn Thu, Aug 27, 2026 at 09:37 AM, James Reyes <jreyes@latticeadr.com> wrote:\n> Dear Rafael,\n>\n> This confirms receipt of the demand for arbitration in Brightline Software v. Amberly Analytics. The administrative conference is scheduled for September 20. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": [
+            "i002-m02"
+          ],
+          "identifier_candidates": [
+            "i002-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e024",
+      "thread_id": "i002-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T08:16:51.571532",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Reyes",
+        "email": "wei.reyes@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1246 California Street",
+      "body": "Hello Rafael,\n\nWe've agreed on a non-binding LOI with Copperleaf Properties LLC for about 42,000 RSF at 1246 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nWei\nDirector of Real Estate\nPinnacle Labs",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m00"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e025",
+      "thread_id": "i002-t013",
+      "in_reply_to": "i002-e024",
+      "references": [
+        "i002-e024"
+      ],
+      "timestamp": "2026-09-04T07:45:51.138936",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Wei Reyes",
+          "email": "wei.reyes@pinnaclelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 1246 California Street",
+      "body": "Wei,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nRafael Vasquez\n\nOn Wed, Sep 02, 2026 at 08:16 AM, Wei Reyes <wei.reyes@pinnaclelabs.com> wrote:\n> Hello Rafael,\n>\n> We've agreed on a non-binding LOI with Copperleaf Properties LLC for about 42,000 RSF at 1246 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [
+            "i002-m00"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e026",
+      "thread_id": "i002-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:31:01.120080",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "fdelgado@keystonevc.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Banerjee",
+          "email": "nadiab@pinnaclelabs.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Dear Rafael,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 18 still realistic?\n\nRegards,\nFarid\nPartner\nKeystone Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i002-e027",
+      "thread_id": "i002-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T09:34:37.972299",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Yamamoto",
+        "email": "weiy@parkchowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Pinnacle Series B - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by October 1. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nWei Yamamoto\nPartner\nPark & Chowdhury LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [
+            "i002-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e028",
+      "thread_id": "i002-t015",
+      "in_reply_to": "i002-e027",
+      "references": [
+        "i002-e027"
+      ],
+      "timestamp": "2026-09-09T08:13:32.141847",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Wei Yamamoto",
+          "email": "weiy@parkchowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: Pinnacle Series B - draft financing documents",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nRafael Vasquez",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e029",
+      "thread_id": "i002-t014",
+      "in_reply_to": "i002-e026",
+      "references": [
+        "i002-e026"
+      ],
+      "timestamp": "2026-09-09T09:41:00.184723",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Farid Delgado",
+          "email": "fdelgado@keystonevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Banerjee",
+          "email": "nadiab@pinnaclelabs.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Farid,\n\nWorks for me. Let's do Wednesday at noon.\n\nBest,\nRafael\n\nOn Mon, Sep 07, 2026 at 09:31 AM, Farid Delgado <fdelgado@keystonevc.com> wrote:\n> Dear Rafael,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 18 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e030",
+      "thread_id": "i002-t015",
+      "in_reply_to": "i002-e028",
+      "references": [
+        "i002-e027",
+        "i002-e028"
+      ],
+      "timestamp": "2026-09-10T09:37:57.725687",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Yamamoto",
+        "email": "weiy@parkchowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Patel",
+          "email": "bianca.patel@satolindqvist.com"
+        }
+      ],
+      "subject": "Re: Pinnacle Series B - draft financing documents",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nWei Yamamoto\nPartner\nPark & Chowdhury LLP\n\nOn Wed, Sep 09, 2026 at 08:13 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Counsel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e031",
+      "thread_id": "i002-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T13:49:32.527832",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Ferreira",
+        "email": "kavya.ferreira@lumenbank.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Hello Rafael,\n\nWe received a request for an SNDA in favor of Pinnacle Labs. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nRegards,\nKavya Ferreira\nLoan Officer\nLumen Bank",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e032",
+      "thread_id": "i002-t014",
+      "in_reply_to": "i002-e029",
+      "references": [
+        "i002-e026",
+        "i002-e029"
+      ],
+      "timestamp": "2026-09-11T07:12:05.332943",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "fdelgado@keystonevc.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Banerjee",
+          "email": "nadiab@pinnaclelabs.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Rafael,\n\nAdding Bianca, who will handle the day-to-day on this.\n\nBest,\nFarid Delgado\nPartner\nKeystone Ventures\n\nOn Wed, Sep 09, 2026 at 09:41 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Farid,\n>\n> Works for me. Let's do Wednesday at noon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m03",
+        "matter_ids": [
+          "i002-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m03"
+          ],
+          "identifier_candidates": [
+            "i002-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e033",
+      "thread_id": "i002-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T09:41:06.826240",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Patel",
+        "email": "bianca.patel@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Rafael,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nRegards,\nBianca Patel\nAssociate\nSato & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m01",
+            "i002-m02",
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e034",
+      "thread_id": "i002-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T09:42:40.782966",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Rafael,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nChen Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e035",
+      "thread_id": "i002-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T15:54:50.853768",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Vasquez",
+        "email": "arjun.vasquez@nakamuragoldberg.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1246 California Street - lease draft",
+      "body": "Rafael,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nBest,\nArjun Vasquez",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m00"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e036",
+      "thread_id": "i002-t019",
+      "in_reply_to": "i002-e035",
+      "references": [
+        "i002-e035"
+      ],
+      "timestamp": "2026-09-24T10:46:00.256008",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Vasquez",
+          "email": "arjun.vasquez@nakamuragoldberg.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1246 California Street - lease draft",
+      "body": "Counsel,\n\nWorks for me. Let's do Friday at 3:30 p.m..\n\nRegards,\nRafael Vasquez\n\nOn Wed, Sep 23, 2026 at 03:54 PM, Arjun Vasquez <arjun.vasquez@nakamuragoldberg.com> wrote:\n> Rafael,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [
+            "i002-m00"
+          ],
+          "keyword_candidates": [
+            "i002-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e037",
+      "thread_id": "i002-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T18:19:28.853328",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Xu",
+        "email": "zoex@brightlinesoft.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello Rafael,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nRegards,\nZoe Xu\nGeneral Counsel\nBrightline Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e038",
+      "thread_id": "i002-t018",
+      "in_reply_to": "i002-e034",
+      "references": [
+        "i002-e034"
+      ],
+      "timestamp": "2026-09-25T07:46:41.057753",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Chen Laurent",
+          "email": "chen.laurent@pinnaclelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Chen,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nRafael Vasquez\n\nOn Wed, Sep 23, 2026 at 09:42 AM, Chen Laurent <chen.laurent@pinnaclelabs.com> wrote:\n> Hi Rafael,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e039",
+      "thread_id": "i002-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T09:23:48.217911",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Jensen",
+        "email": "luciaj@kaplanosei.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nThanks,\nLucia\nPartner\nKaplan & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e040",
+      "thread_id": "i002-t019",
+      "in_reply_to": "i002-e036",
+      "references": [
+        "i002-e035",
+        "i002-e036"
+      ],
+      "timestamp": "2026-09-25T17:01:04.661889",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Vasquez",
+        "email": "arjun.vasquez@nakamuragoldberg.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1246 California Street - lease draft",
+      "body": "Hello Rafael,\n\nWorks for me. Let's do Monday at 2:00 p.m..\n\nThanks,\nArjun\n\nOn Thu, Sep 24, 2026 at 10:46 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Counsel,\n>\n> Works for me. Let's do Friday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [
+            "i002-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e041",
+      "thread_id": "i002-t018",
+      "in_reply_to": "i002-e038",
+      "references": [
+        "i002-e034",
+        "i002-e038"
+      ],
+      "timestamp": "2026-09-28T09:44:24.402785",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Laurent",
+        "email": "chen.laurent@pinnaclelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Rafael,\n\nQuick follow-up on the below. Any update?\n\nBest,\nChen\n\nOn Fri, Sep 25, 2026 at 07:46 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Dear Chen,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m00",
+        "matter_ids": [
+          "i002-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i002-m00",
+            "i002-m03"
+          ],
+          "thread_candidates": [
+            "i002-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e042",
+      "thread_id": "i002-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T09:27:04.481504",
+      "folder": "inbox",
+      "from": {
+        "name": "James Castillo",
+        "email": "james.castillo@brightlinesoft.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Xu",
+          "email": "zoex@brightlinesoft.com"
+        }
+      ],
+      "subject": "Amberly Analytics - repeated SLA failures",
+      "body": "Hi Rafael,\n\nAmberly Analytics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nRegards,\nJames Castillo\nChief Operating Officer\nBrightline Software",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i002-m02"
+          ],
+          "keyword_candidates": [
+            "i002-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e043",
+      "thread_id": "i002-t022",
+      "in_reply_to": "i002-e042",
+      "references": [
+        "i002-e042"
+      ],
+      "timestamp": "2026-10-05T08:11:07.970592",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "James Castillo",
+          "email": "james.castillo@brightlinesoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Xu",
+          "email": "zoex@brightlinesoft.com"
+        }
+      ],
+      "subject": "Re: Amberly Analytics - repeated SLA failures",
+      "body": "Hi James,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest regards,\nRafael\n\nOn Fri, Oct 02, 2026 at 09:27 AM, James Castillo <james.castillo@brightlinesoft.com> wrote:\n> Hi Rafael,\n>\n> Amberly Analytics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": [
+            "i002-m02"
+          ],
+          "identifier_candidates": [
+            "i002-m02"
+          ],
+          "keyword_candidates": [
+            "i002-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e044",
+      "thread_id": "i002-t022",
+      "in_reply_to": "i002-e043",
+      "references": [
+        "i002-e042",
+        "i002-e043"
+      ],
+      "timestamp": "2026-10-05T09:27:33.675641",
+      "folder": "inbox",
+      "from": {
+        "name": "James Castillo",
+        "email": "james.castillo@brightlinesoft.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Xu",
+          "email": "zoex@brightlinesoft.com"
+        }
+      ],
+      "subject": "Re: Amberly Analytics - repeated SLA failures",
+      "body": "Dear Rafael,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nJames Castillo\nChief Operating Officer\nBrightline Software\n\nOn Mon, Oct 05, 2026 at 08:11 AM, Rafael Vasquez <rafaelv@satolindqvist.com> wrote:\n> Hi James,\n>\n> Thanks. Received; we'll review and come back to you by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i002-m02",
+        "matter_ids": [
+          "i002-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i002-m02"
+          ],
+          "thread_candidates": [
+            "i002-m02"
+          ],
+          "identifier_candidates": [
+            "i002-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i002-e045",
+      "thread_id": "i002-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-13T07:06:58.785187",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Shah",
+        "email": "eshah@satolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Vasquez",
+          "email": "rafaelv@satolindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hi Rafael,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nEmma\nPartner\nSato & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700002
+}

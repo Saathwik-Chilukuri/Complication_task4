@@ -1,0 +1,3220 @@
+{
+  "instance_id": "i023",
+  "firm": {
+    "name": "Park & Ito LLP",
+    "domain": "parkito.com"
+  },
+  "user_contact_id": "i023-c000",
+  "matters": [
+    {
+      "matter_id": "i023-m00",
+      "matter_number": "86179-001",
+      "name": "Wei Chowdhury v. Trellis",
+      "client": "Trellis Foods",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Wei Chowdhury against Trellis Foods. Case No. 3:26-cv-08692.",
+      "counterparty": "Wei Chowdhury",
+      "opposing_counsel_firm": "Brennan & Xu LLP",
+      "status": "open",
+      "opened_on": "2026-06-06",
+      "key_terms": [
+        "86179-001",
+        "Wei Chowdhury",
+        "Chowdhury",
+        "3:26-cv-08692"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i023-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i023-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i023-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i023-c010",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i023-m01",
+      "matter_number": "14572-001",
+      "name": "Ironbridge v. Halcyon (MSA Dispute)",
+      "client": "Ironbridge Analytics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Ironbridge Analytics against vendor Halcyon Systems.",
+      "counterparty": "Halcyon Systems",
+      "opposing_counsel_firm": "Brennan & Xu LLP",
+      "status": "open",
+      "opened_on": "2026-07-08",
+      "key_terms": [
+        "14572-001",
+        "Halcyon Systems",
+        "Halcyon"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i023-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i023-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i023-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i023-c012",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i023-m02",
+      "matter_number": "71050-001",
+      "name": "Wavecrest v. Sterling ('207 Patent)",
+      "client": "Wavecrest Systems",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Wavecrest Systems against Sterling Health asserting U.S. Patent No. 10,207,331.",
+      "counterparty": "Sterling Health",
+      "opposing_counsel_firm": "Castillo & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "71050-001",
+        "10,207,331",
+        "'207",
+        "Sterling Health",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i023-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i023-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i023-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i023-c015",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i023-m03",
+      "matter_number": "54054-001",
+      "name": "Evergreen - FTC Investigation (CID No. 2026-402)",
+      "client": "Evergreen Health",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Evergreen Health's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "54054-001",
+        "2026-402",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i023-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i023-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i023-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i023-c018",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i023-m04",
+      "matter_number": "14572-002",
+      "name": "Ironbridge - Data Security Incident",
+      "client": "Ironbridge Analytics",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Ironbridge Analytics's customer database. Forensics by Quarry Cyber.",
+      "counterparty": "Quarry Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "14572-002",
+        "Quarry Cyber",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i023-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i023-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i023-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i023-c020",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i023-c021",
+          "role": "insurer"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i023-c000",
+      "name": "James Abbott",
+      "first": "James",
+      "email": "jamesa@parkito.com",
+      "organization": "Park & Ito LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i023-c001",
+      "name": "Jasmine Mendoza",
+      "first": "Jasmine",
+      "email": "jasminem@parkito.com",
+      "organization": "Park & Ito LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i023-c002",
+      "name": "Jasmine Park",
+      "first": "Jasmine",
+      "email": "jpark@parkito.com",
+      "organization": "Park & Ito LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i023-c003",
+      "name": "Farid Lindqvist",
+      "first": "Farid",
+      "email": "farid.lindqvist@parkito.com",
+      "organization": "Park & Ito LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i023-c004",
+      "name": "Carla Alvarez",
+      "first": "Carla",
+      "email": "carla.alvarez@trellisfood.com",
+      "organization": "Trellis Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c005",
+      "name": "Liam Park",
+      "first": "Liam",
+      "email": "liam.park@wavecrestsyst.com",
+      "organization": "Wavecrest Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c006",
+      "name": "Chen Ellis",
+      "first": "Chen",
+      "email": "cellis@evergreenheal.com",
+      "organization": "Evergreen Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c007",
+      "name": "Jasmine Jensen",
+      "first": "Jasmine",
+      "email": "jasmine.jensen@ironbridgeanal.com",
+      "organization": "Ironbridge Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c008",
+      "name": "Kavya Alvarez",
+      "first": "Kavya",
+      "email": "kavyaa@trellisfood.com",
+      "organization": "Trellis Foods",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c009",
+      "name": "Elena Park",
+      "first": "Elena",
+      "email": "elena.park@brennanxu.com",
+      "organization": "Brennan & Xu LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c010",
+      "name": "Thomas Underwood",
+      "first": "Thomas",
+      "email": "tunderwood@solaceadr.com",
+      "organization": "Solace Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c011",
+      "name": "Xavier Delgado",
+      "first": "Xavier",
+      "email": "xdelgado@ironbridgeanal.com",
+      "organization": "Ironbridge Analytics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c012",
+      "name": "James Weiss",
+      "first": "James",
+      "email": "jweiss@tidewateradr.com",
+      "organization": "Tidewater Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c013",
+      "name": "Zoe Eriksen",
+      "first": "Zoe",
+      "email": "zeriksen@wavecrestsyst.com",
+      "organization": "Wavecrest Systems",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c014",
+      "name": "Ximena Novak",
+      "first": "Ximena",
+      "email": "ximenan@castillosato.com",
+      "organization": "Castillo & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c015",
+      "name": "Samuel Nakamura",
+      "first": "Samuel",
+      "email": "snakamura@redwoodtech.com",
+      "organization": "Redwood Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c016",
+      "name": "Umar Reyes",
+      "first": "Umar",
+      "email": "umarr@evergreenheal.com",
+      "organization": "Evergreen Health",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c017",
+      "name": "Hiro Huang",
+      "first": "Hiro",
+      "email": "hiroh@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c018",
+      "name": "Diego Kowalski",
+      "first": "Diego",
+      "email": "diegok@northwinddiscovery.com",
+      "organization": "Northwind Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c019",
+      "name": "Daniel Tanaka",
+      "first": "Daniel",
+      "email": "danielt@ironbridgeanal.com",
+      "organization": "Ironbridge Analytics",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c020",
+      "name": "Yara Fischer",
+      "first": "Yara",
+      "email": "yfischer@quarrycyber.com",
+      "organization": "Quarry Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c021",
+      "name": "Farid Eriksen",
+      "first": "Farid",
+      "email": "feriksen@keystonemutual.com",
+      "organization": "Keystone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c022",
+      "name": "Valerie Jensen",
+      "first": "Valerie",
+      "email": "valeriej@silverpinetech.com",
+      "organization": "Silverpine Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c023",
+      "name": "Uma Haddad",
+      "first": "Uma",
+      "email": "uhaddad@driftwoodanal.com",
+      "organization": "Driftwood Analytics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c024",
+      "name": "Farid Ferreira",
+      "first": "Farid",
+      "email": "farid.ferreira@brightlinecomms.com",
+      "organization": "Brightline Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i023-c025",
+      "name": "Zoe Castillo",
+      "first": "Zoe",
+      "email": "zoe.castillo@latticeadr.com",
+      "organization": "Lattice Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i023-e000",
+      "thread_id": "i023-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T20:26:51.824273",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Alvarez",
+        "email": "carla.alvarez@trellisfood.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Dear James,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nBest,\nCarla",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e001",
+      "thread_id": "i023-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-18T07:02:58.968819",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Underwood",
+        "email": "tunderwood@solaceadr.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Park",
+          "email": "elena.park@brennanxu.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "James,\n\nI have the following dates available for a full-day mediation: July 4 and July 11. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nRegards,\nThomas\nMediator\nSolace Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e002",
+      "thread_id": "i023-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T11:01:44.238468",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Jensen",
+        "email": "valeriej@silverpinetech.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Engagement - source code review",
+      "body": "Hi James,\n\nFollowing up on the call with Jasmine: we can start the source code review for the '207 patent matter on July 2. Our conflicts check against Sterling Health came back clear. Engagement letter attached.\n\nRegards,\nValerie Jensen\nSenior Engineer\nSilverpine Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01",
+            "i023-m02",
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e003",
+      "thread_id": "i023-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-26T18:17:28.419925",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Alvarez",
+        "email": "carla.alvarez@trellisfood.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hello James,\n\nBefore the call on Tuesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nCarla",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e004",
+      "thread_id": "i023-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T10:34:03.261214",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Ferreira",
+        "email": "farid.ferreira@brightlinecomms.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear James,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nRegards,\nFarid Ferreira\nEditor\nBrightline Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e005",
+      "thread_id": "i023-t003",
+      "in_reply_to": "i023-e003",
+      "references": [
+        "i023-e003"
+      ],
+      "timestamp": "2026-06-29T10:53:49.830237",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Carla Alvarez",
+          "email": "carla.alvarez@trellisfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Hello Carla,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jun 26, 2026 at 06:17 PM, Carla Alvarez <carla.alvarez@trellisfood.com> wrote:\n> Hello James,\n>\n> Before the call on Tuesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": [
+            "i023-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e006",
+      "thread_id": "i023-t003",
+      "in_reply_to": "i023-e005",
+      "references": [
+        "i023-e003",
+        "i023-e005"
+      ],
+      "timestamp": "2026-06-30T08:04:46.014723",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Alvarez",
+        "email": "carla.alvarez@trellisfood.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "James,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nCarla\n\nOn Mon, Jun 29, 2026 at 10:53 AM, James Abbott <jamesa@parkito.com> wrote:\n> Hello Carla,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": [
+            "i023-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e007",
+      "thread_id": "i023-t003",
+      "in_reply_to": "i023-e006",
+      "references": [
+        "i023-e003",
+        "i023-e005",
+        "i023-e006"
+      ],
+      "timestamp": "2026-07-01T13:55:57.073021",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Carla Alvarez",
+          "email": "carla.alvarez@trellisfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Carla,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": [
+            "i023-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e008",
+      "thread_id": "i023-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:06:25.214775",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Nakamura",
+        "email": "snakamura@redwoodtech.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear James,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by July 22.\n\nBest,\nSamuel\nPrincipal\nRedwood Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e009",
+      "thread_id": "i023-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:11:04.825819",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Eriksen",
+          "email": "zeriksen@wavecrestsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Infringement contentions due August 5",
+      "body": "Hi Zoe,\n\nReminder that our infringement contentions are due August 5. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e010",
+      "thread_id": "i023-t006",
+      "in_reply_to": "i023-e009",
+      "references": [
+        "i023-e009"
+      ],
+      "timestamp": "2026-07-13T10:32:05.368104",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Eriksen",
+        "email": "zeriksen@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 5",
+      "body": "James,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nZoe\nChief Technology Officer\nWavecrest Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e011",
+      "thread_id": "i023-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T08:38:31.334656",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Haddad",
+        "email": "uhaddad@driftwoodanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear James,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nUma Haddad\nRecruiter\nDriftwood Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e012",
+      "thread_id": "i023-t006",
+      "in_reply_to": "i023-e010",
+      "references": [
+        "i023-e009",
+        "i023-e010"
+      ],
+      "timestamp": "2026-07-14T09:50:09.723196",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Eriksen",
+          "email": "zeriksen@wavecrestsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 5",
+      "body": "Zoe,\n\nAdding Jasmine, who will handle the day-to-day on this.\n\nThanks,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 10:32 AM, Zoe Eriksen <zeriksen@wavecrestsyst.com> wrote:\n> James,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e013",
+      "thread_id": "i023-t006",
+      "in_reply_to": "i023-e012",
+      "references": [
+        "i023-e009",
+        "i023-e010",
+        "i023-e012"
+      ],
+      "timestamp": "2026-07-16T08:45:58.500204",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Eriksen",
+        "email": "zeriksen@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due August 5",
+      "body": "Hi James,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nZoe\nChief Technology Officer\nWavecrest Systems\n\nOn Tue, Jul 14, 2026 at 09:50 AM, James Abbott <jamesa@parkito.com> wrote:\n> Zoe,\n>\n> Adding Jasmine, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e014",
+      "thread_id": "i023-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:22:32.822466",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Park",
+        "email": "liam.park@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear James,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nThanks,\nLiam Park\nGeneral Counsel\nWavecrest Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e015",
+      "thread_id": "i023-t008",
+      "in_reply_to": "i023-e014",
+      "references": [
+        "i023-e014"
+      ],
+      "timestamp": "2026-07-21T15:47:20.436745",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Liam Park",
+          "email": "liam.park@wavecrestsyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hi Liam,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 20, 2026 at 08:22 AM, Liam Park <liam.park@wavecrestsyst.com> wrote:\n> Dear James,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e016",
+      "thread_id": "i023-t008",
+      "in_reply_to": "i023-e015",
+      "references": [
+        "i023-e014",
+        "i023-e015"
+      ],
+      "timestamp": "2026-07-22T15:43:05.464621",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Park",
+        "email": "liam.park@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello James,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nLiam Park\nGeneral Counsel\nWavecrest Systems\n\nOn Tue, Jul 21, 2026 at 03:47 PM, James Abbott <jamesa@parkito.com> wrote:\n> Hi Liam,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e017",
+      "thread_id": "i023-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T07:28:45.091052",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Kowalski",
+        "email": "diegok@northwinddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Park",
+          "email": "jpark@parkito.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear James,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nRegards,\nDiego Kowalski\nProject Manager\nNorthwind Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e018",
+      "thread_id": "i023-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T09:32:20.449849",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Alvarez",
+        "email": "kavyaa@trellisfood.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Alvarez",
+          "email": "carla.alvarez@trellisfood.com"
+        }
+      ],
+      "subject": "Demand letter - Wei Chowdhury",
+      "body": "Hi James,\n\nWe received the attached demand letter from counsel for Wei Chowdhury, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $2.5 million. I've put a hold on the personnel file. How should we respond?\n\nRegards,\nKavya",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m00"
+          ],
+          "keyword_candidates": [
+            "i023-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e019",
+      "thread_id": "i023-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T07:32:44.852083",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Ellis",
+        "email": "cellis@evergreenheal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Reyes",
+          "email": "umarr@evergreenheal.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "James,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2026-402). It asks for documents about our customer data practices going back to 2021. The return date is August 12. Can you call me?\n\nBest,\nChen Ellis\nGeneral Counsel\nEvergreen Health",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m03"
+          ],
+          "keyword_candidates": [
+            "i023-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e020",
+      "thread_id": "i023-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T08:31:28.838622",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Mendoza",
+        "email": "jasminem@parkito.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hello James,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nJasmine\nSenior Associate\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01",
+            "i023-m02",
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e021",
+      "thread_id": "i023-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T10:28:13.423405",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Park",
+        "email": "jpark@parkito.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi James,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nJasmine\nAssociate\nPark & Ito LLP",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e022",
+      "thread_id": "i023-t012",
+      "in_reply_to": "i023-e020",
+      "references": [
+        "i023-e020"
+      ],
+      "timestamp": "2026-07-30T19:16:47.186759",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Jasmine,\n\nAdding Jasmine, who will handle the day-to-day on this.\n\nBest regards,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 29, 2026 at 08:31 AM, Jasmine Mendoza <jasminem@parkito.com> wrote:\n> Hello James,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01",
+            "i023-m02",
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e023",
+      "thread_id": "i023-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T15:00:05.248885",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Jensen",
+        "email": "jasmine.jensen@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello James,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nJasmine\nGeneral Counsel\nIronbridge Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01",
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e024",
+      "thread_id": "i023-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T10:55:25.442057",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Tanaka",
+          "email": "danielt@ironbridgeanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Daniel,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Quarry.\n\nBest regards,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e025",
+      "thread_id": "i023-t015",
+      "in_reply_to": "i023-e024",
+      "references": [
+        "i023-e024"
+      ],
+      "timestamp": "2026-08-04T14:04:39.346807",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Tanaka",
+        "email": "danielt@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "James,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nDaniel Tanaka\nChief Information Security Officer\nIronbridge Analytics\n\nOn Tue, Aug 04, 2026 at 10:55 AM, James Abbott <jamesa@parkito.com> wrote:\n> Dear Daniel,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Quarry.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [
+            "i023-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e026",
+      "thread_id": "i023-t014",
+      "in_reply_to": "i023-e023",
+      "references": [
+        "i023-e023"
+      ],
+      "timestamp": "2026-08-04T17:32:23.895493",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Dear Jasmine,\n\nWorks for me. Let's do Wednesday at 9:00 a.m..\n\nThanks,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 03:00 PM, Jasmine Jensen <jasmine.jensen@ironbridgeanal.com> wrote:\n> Hello James,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01",
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e027",
+      "thread_id": "i023-t014",
+      "in_reply_to": "i023-e026",
+      "references": [
+        "i023-e023",
+        "i023-e026"
+      ],
+      "timestamp": "2026-08-05T12:41:54.917554",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Jensen",
+        "email": "jasmine.jensen@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "James,\n\nThanks. Separately, on the security incident, our insurer is asking for an updated budget.\n\nBest regards,\nJasmine Jensen\nGeneral Counsel\nIronbridge Analytics\n\nOn Tue, Aug 04, 2026 at 05:32 PM, James Abbott <jamesa@parkito.com> wrote:\n> Dear Jasmine,\n>\n> Works for me. Let's do Wednesday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04",
+          "i023-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "no_matter_specific_text",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01",
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e028",
+      "thread_id": "i023-t015",
+      "in_reply_to": "i023-e025",
+      "references": [
+        "i023-e024",
+        "i023-e025"
+      ],
+      "timestamp": "2026-08-05T17:02:01.772091",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Tanaka",
+          "email": "danielt@ironbridgeanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hello Daniel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 04, 2026 at 02:04 PM, Daniel Tanaka <danielt@ironbridgeanal.com> wrote:\n> James,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e029",
+      "thread_id": "i023-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:07:51.117400",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Castillo",
+        "email": "zoe.castillo@latticeadr.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hi James,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nZoe\nSection Chair\nLattice Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e030",
+      "thread_id": "i023-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:47:48.036559",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Elena Park",
+          "email": "elena.park@brennanxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e031",
+      "thread_id": "i023-t017",
+      "in_reply_to": "i023-e030",
+      "references": [
+        "i023-e030"
+      ],
+      "timestamp": "2026-08-10T17:11:22.797194",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Park",
+        "email": "elena.park@brennanxu.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Mendoza",
+          "email": "jasminem@parkito.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Dear James,\n\nQuick follow-up on the below. Any update?\n\nBest,\nElena\n\nOn Mon, Aug 10, 2026 at 10:47 AM, James Abbott <jamesa@parkito.com> wrote:\n> Counsel,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01"
+          ],
+          "thread_candidates": [
+            "i023-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i023-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e032",
+      "thread_id": "i023-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T20:04:16.459920",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Delgado",
+        "email": "xdelgado@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Halcyon Systems - repeated SLA failures",
+      "body": "James,\n\nHalcyon Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nXavier\nChief Operating Officer\nIronbridge Analytics",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m01"
+          ],
+          "keyword_candidates": [
+            "i023-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i023-e033",
+      "thread_id": "i023-t018",
+      "in_reply_to": "i023-e032",
+      "references": [
+        "i023-e032"
+      ],
+      "timestamp": "2026-08-12T20:01:36.658333",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Delgado",
+          "email": "xdelgado@ironbridgeanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Re: Halcyon Systems - repeated SLA failures",
+      "body": "Hello Xavier,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest regards,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01"
+          ],
+          "thread_candidates": [
+            "i023-m01"
+          ],
+          "identifier_candidates": [
+            "i023-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e034",
+      "thread_id": "i023-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T14:32:02.838088",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Ellis",
+        "email": "cellis@evergreenheal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "James,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nChen Ellis\nGeneral Counsel\nEvergreen Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e035",
+      "thread_id": "i023-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T07:10:37.590312",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Park",
+        "email": "elena.park@brennanxu.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Wei Chowdhury v. Trellis - Case No. 3:26-cv-08692",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Wei Chowdhury v. Trellis Foods, Case No. 3:26-cv-08692. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Trellis.\n\nRegards,\nElena Park",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m00"
+          ],
+          "keyword_candidates": [
+            "i023-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e036",
+      "thread_id": "i023-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T07:13:07.745424",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Eriksen",
+        "email": "zeriksen@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Park",
+          "email": "liam.park@wavecrestsyst.com"
+        }
+      ],
+      "subject": "Sterling Health product launch - possible infringement of '207 patent",
+      "body": "Hi James,\n\nOur engineers looked at the product Sterling Health launched last month and believe it practices claims 1 and 7 of our '207 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest regards,\nZoe\nChief Technology Officer\nWavecrest Systems",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e037",
+      "thread_id": "i023-t021",
+      "in_reply_to": "i023-e036",
+      "references": [
+        "i023-e036"
+      ],
+      "timestamp": "2026-08-28T08:13:02.294566",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Eriksen",
+          "email": "zeriksen@wavecrestsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Park",
+          "email": "liam.park@wavecrestsyst.com"
+        }
+      ],
+      "subject": "Re: Sterling Health product launch - possible infringement of '207 patent",
+      "body": "Dear Zoe,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 27, 2026 at 07:13 AM, Zoe Eriksen <zeriksen@wavecrestsyst.com> wrote:\n> Hi James,\n>\n> Our engineers looked at the product Sterling Health launched last month and believe it practices claims 1 and 7 of our '207 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e038",
+      "thread_id": "i023-t021",
+      "in_reply_to": "i023-e037",
+      "references": [
+        "i023-e036",
+        "i023-e037"
+      ],
+      "timestamp": "2026-08-31T08:17:59.919443",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Eriksen",
+        "email": "zeriksen@wavecrestsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Park",
+          "email": "liam.park@wavecrestsyst.com"
+        }
+      ],
+      "subject": "Re: Sterling Health product launch - possible infringement of '207 patent",
+      "body": "Hello James,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nZoe Eriksen\nChief Technology Officer\nWavecrest Systems\n\nOn Fri, Aug 28, 2026 at 08:13 AM, James Abbott <jamesa@parkito.com> wrote:\n> Dear Zoe,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e039",
+      "thread_id": "i023-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:12:40.883587",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Lindqvist",
+        "email": "farid.lindqvist@parkito.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Wavecrest",
+      "body": "Hi James,\n\nPre-bills for Wavecrest Systems are ready for your review:\n\n- 71050-001  Wavecrest v. Sterling ('207 Patent)\n\nPlease mark up and return by September 4.\n\nBest,\nFarid Lindqvist\nBilling Coordinator\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e040",
+      "thread_id": "i023-t021",
+      "in_reply_to": "i023-e038",
+      "references": [
+        "i023-e036",
+        "i023-e037",
+        "i023-e038"
+      ],
+      "timestamp": "2026-09-01T19:58:20.544676",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Eriksen",
+          "email": "zeriksen@wavecrestsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Park",
+          "email": "liam.park@wavecrestsyst.com"
+        }
+      ],
+      "subject": "Re: Sterling Health product launch - possible infringement of '207 patent",
+      "body": "Hello Zoe,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nJames\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m02",
+        "matter_ids": [
+          "i023-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m02"
+          ],
+          "thread_candidates": [
+            "i023-m02"
+          ],
+          "identifier_candidates": [
+            "i023-m02"
+          ],
+          "keyword_candidates": [
+            "i023-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e041",
+      "thread_id": "i023-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T12:11:53.241655",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Park",
+        "email": "jpark@parkito.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "James,\n\nStatus on my matters this week:\n\n- Chowdhury: complaint served; mediation being scheduled, deposition outline in draft.\n- FTC CID: collection 80% complete; first rolling production targeted for September 22.\n\nThanks,\nJasmine\nAssociate\nPark & Ito LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m00",
+        "matter_ids": [
+          "i023-m00",
+          "i023-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m00",
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m00"
+          ],
+          "keyword_candidates": [
+            "i023-m00",
+            "i023-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e042",
+      "thread_id": "i023-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T09:54:42.752092",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Reyes",
+        "email": "umarr@evergreenheal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello James,\n\nThe audit committee wants an update at its meeting on September 15. Could you prepare a short summary of status, exposure, and next steps?\n\nRegards,\nUmar",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e043",
+      "thread_id": "i023-t024",
+      "in_reply_to": "i023-e042",
+      "references": [
+        "i023-e042"
+      ],
+      "timestamp": "2026-09-09T10:32:39.497821",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Umar Reyes",
+          "email": "umarr@evergreenheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello Umar,\n\nAdding Jasmine, who will handle the day-to-day on this.\n\nBest,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 08, 2026 at 09:54 AM, Umar Reyes <umarr@evergreenheal.com> wrote:\n> Hello James,\n>\n> The audit committee wants an update at its meeting on September 15. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": [
+            "i023-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e044",
+      "thread_id": "i023-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T09:00:12.821079",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Eriksen",
+        "email": "feriksen@keystonemutual.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hello James,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Quarry.\n\nBest,\nFarid Eriksen\nClaims Specialist\nKeystone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e045",
+      "thread_id": "i023-t025",
+      "in_reply_to": "i023-e044",
+      "references": [
+        "i023-e044"
+      ],
+      "timestamp": "2026-09-11T10:10:53.591218",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Farid Eriksen",
+          "email": "feriksen@keystonemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Farid,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e046",
+      "thread_id": "i023-t024",
+      "in_reply_to": "i023-e043",
+      "references": [
+        "i023-e042",
+        "i023-e043"
+      ],
+      "timestamp": "2026-09-11T10:11:51.700838",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Reyes",
+        "email": "umarr@evergreenheal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello James,\n\nAdding Jasmine, who will handle the day-to-day on this.\n\nBest regards,\nUmar\n\nOn Wed, Sep 09, 2026 at 10:32 AM, James Abbott <jamesa@parkito.com> wrote:\n> Hello Umar,\n>\n> Adding Jasmine, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": [
+            "i023-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e047",
+      "thread_id": "i023-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:13:46.909452",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Fischer",
+        "email": "yfischer@quarrycyber.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Tanaka",
+          "email": "danielt@ironbridgeanal.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "James,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest regards,\nYara\nIncident Response Lead\nQuarry Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m04"
+          ],
+          "keyword_candidates": [
+            "i023-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e048",
+      "thread_id": "i023-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:04:05.221903",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Tanaka",
+        "email": "danielt@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Jensen",
+          "email": "jasmine.jensen@ironbridgeanal.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "James,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Quarry Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nRegards,\nDaniel Tanaka\nChief Information Security Officer\nIronbridge Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m04"
+          ],
+          "keyword_candidates": [
+            "i023-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e049",
+      "thread_id": "i023-t025",
+      "in_reply_to": "i023-e045",
+      "references": [
+        "i023-e044",
+        "i023-e045"
+      ],
+      "timestamp": "2026-09-14T10:33:12.995590",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Eriksen",
+        "email": "feriksen@keystonemutual.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello James,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nFarid Eriksen\nClaims Specialist\nKeystone Mutual Insurance\n\nOn Fri, Sep 11, 2026 at 10:10 AM, James Abbott <jamesa@parkito.com> wrote:\n> Farid,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e050",
+      "thread_id": "i023-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T07:50:00.093375",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Huang",
+        "email": "hiroh@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-402 - meet and confer",
+      "body": "Dear James,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest regards,\nHiro\nStaff Attorney\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i023-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m03"
+          ],
+          "keyword_candidates": [
+            "i023-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e051",
+      "thread_id": "i023-t025",
+      "in_reply_to": "i023-e049",
+      "references": [
+        "i023-e044",
+        "i023-e045",
+        "i023-e049"
+      ],
+      "timestamp": "2026-09-16T10:39:55.777165",
+      "folder": "sent",
+      "from": {
+        "name": "James Abbott",
+        "email": "jamesa@parkito.com"
+      },
+      "to": [
+        {
+          "name": "Farid Eriksen",
+          "email": "feriksen@keystonemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Farid,\n\nWorks for me. Let's do Friday at 3:30 p.m..\n\nBest,\nJames Abbott\nPartner\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m04",
+        "matter_ids": [
+          "i023-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m04"
+          ],
+          "thread_candidates": [
+            "i023-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e052",
+      "thread_id": "i023-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T13:34:45.423805",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Jensen",
+        "email": "jasmine.jensen@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello James,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest regards,\nJasmine\nGeneral Counsel\nIronbridge Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01",
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e053",
+      "thread_id": "i023-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T10:51:45.502437",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Jensen",
+        "email": "jasmine.jensen@ironbridgeanal.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "James,\n\nTwo quick things.\n\n1. On the Halcyon dispute, their account team reached out to our COO again.\n2. On the security incident, our insurer is asking for an updated budget.\n\nBest regards,\nJasmine Jensen\nGeneral Counsel\nIronbridge Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m01",
+        "matter_ids": [
+          "i023-m01",
+          "i023-m04"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i023-m01",
+            "i023-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i023-e054",
+      "thread_id": "i023-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T15:05:34.426177",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Lindqvist",
+        "email": "farid.lindqvist@parkito.com"
+      },
+      "to": [
+        {
+          "name": "James Abbott",
+          "email": "jamesa@parkito.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Evergreen",
+      "body": "Hi James,\n\nPre-bills for Evergreen Health are ready for your review:\n\n- 54054-001  Evergreen - FTC Investigation (CID No. 2026-402)\n\nPlease mark up and return by October 4.\n\nThanks,\nFarid Lindqvist\nBilling Coordinator\nPark & Ito LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i023-m03",
+        "matter_ids": [
+          "i023-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i023-m03"
+          ],
+          "keyword_candidates": [
+            "i023-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700023
+}

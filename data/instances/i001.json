@@ -1,0 +1,3245 @@
+{
+  "instance_id": "i001",
+  "firm": {
+    "name": "Yamamoto & Chowdhury LLP",
+    "domain": "yamamotochowdhury.com"
+  },
+  "user_contact_id": "i001-c000",
+  "matters": [
+    {
+      "matter_id": "i001-m00",
+      "matter_number": "71137-001",
+      "name": "Stratus - Data Security Incident",
+      "client": "Stratus Robotics",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Stratus Robotics's customer database. Forensics by Trellis Cyber.",
+      "counterparty": "Trellis Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "71137-001",
+        "Trellis Cyber",
+        "Trellis"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i001-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i001-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i001-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i001-c009",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i001-c010",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i001-m01",
+      "matter_number": "71137-002",
+      "name": "Stratus - SEC Investigation (CID No. 2026-352)",
+      "client": "Stratus Robotics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Stratus Robotics's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-06-12",
+      "key_terms": [
+        "71137-002",
+        "2026-352",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i001-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i001-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i001-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i001-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i001-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i001-c013",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i001-m02",
+      "matter_number": "30729-001",
+      "name": "Yusuf Rosen v. Keystone",
+      "client": "Keystone Labs",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Yusuf Rosen against Keystone Labs. Case No. 5:26-cv-01198.",
+      "counterparty": "Yusuf Rosen",
+      "opposing_counsel_firm": "Osei & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-07-21",
+      "key_terms": [
+        "30729-001",
+        "Yusuf Rosen",
+        "Rosen",
+        "5:26-cv-01198"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i001-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i001-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i001-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i001-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i001-c016",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i001-m03",
+      "matter_number": "42959-001",
+      "name": "Silverpine - Series B Financing",
+      "client": "Silverpine Networks",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Silverpine Networks, led by Northwind Ventures. Raising ~$40 million.",
+      "counterparty": "Northwind Ventures",
+      "opposing_counsel_firm": "Osei & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "42959-001",
+        "Series B",
+        "Northwind Ventures",
+        "Northwind"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i001-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i001-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i001-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i001-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i001-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i001-c019",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i001-c000",
+      "name": "Whitney Shah",
+      "first": "Whitney",
+      "email": "wshah@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c001",
+      "name": "Valerie Lindqvist",
+      "first": "Valerie",
+      "email": "vlindqvist@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c002",
+      "name": "Grace Yamamoto",
+      "first": "Grace",
+      "email": "grace.yamamoto@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c003",
+      "name": "Priya Ellis",
+      "first": "Priya",
+      "email": "priya.ellis@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c004",
+      "name": "Jasmine Fischer",
+      "first": "Jasmine",
+      "email": "jasmine.fischer@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c005",
+      "name": "Carla Haddad",
+      "first": "Carla",
+      "email": "carla.haddad@stratusrobo.com",
+      "organization": "Stratus Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c006",
+      "name": "Victor Brennan",
+      "first": "Victor",
+      "email": "vbrennan@keystonelabs.com",
+      "organization": "Keystone Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c007",
+      "name": "Kavya Sato",
+      "first": "Kavya",
+      "email": "kavya.sato@silverpinenetw.com",
+      "organization": "Silverpine Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c008",
+      "name": "Umar Jensen",
+      "first": "Umar",
+      "email": "umarj@stratusrobo.com",
+      "organization": "Stratus Robotics",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c009",
+      "name": "Victor Park",
+      "first": "Victor",
+      "email": "victor.park@trelliscyber.com",
+      "organization": "Trellis Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c010",
+      "name": "Pedro Ellis",
+      "first": "Pedro",
+      "email": "pedroe@corvidmutual.com",
+      "organization": "Corvid Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c011",
+      "name": "Liam Osei",
+      "first": "Liam",
+      "email": "liam.osei@stratusrobo.com",
+      "organization": "Stratus Robotics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c012",
+      "name": "Victor Shah",
+      "first": "Victor",
+      "email": "victor.shah@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c013",
+      "name": "Rafael Ellis",
+      "first": "Rafael",
+      "email": "rellis@parallaxdiscovery.com",
+      "organization": "Parallax Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c014",
+      "name": "Pedro Haddad",
+      "first": "Pedro",
+      "email": "pedroh@keystonelabs.com",
+      "organization": "Keystone Labs",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c015",
+      "name": "Gabriel Nakamura",
+      "first": "Gabriel",
+      "email": "gabrieln@oseiellis.com",
+      "organization": "Osei & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c016",
+      "name": "Elena Chowdhury",
+      "first": "Elena",
+      "email": "elena.chowdhury@solaceadr.com",
+      "organization": "Solace Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c017",
+      "name": "Valerie Alvarez",
+      "first": "Valerie",
+      "email": "valeriea@silverpinenetw.com",
+      "organization": "Silverpine Networks",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c018",
+      "name": "Ivan Moreau",
+      "first": "Ivan",
+      "email": "imoreau@northwindvc.com",
+      "organization": "Northwind Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c019",
+      "name": "Diego Ito",
+      "first": "Diego",
+      "email": "diego.ito@riverstonevc.com",
+      "organization": "Riverstone Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c020",
+      "name": "Bianca Park",
+      "first": "Bianca",
+      "email": "bianca.park@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i001-c021",
+      "name": "Chen Dubois",
+      "first": "Chen",
+      "email": "chen.dubois@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c022",
+      "name": "Hiro Sato",
+      "first": "Hiro",
+      "email": "hsato@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c023",
+      "name": "Femi Varga",
+      "first": "Femi",
+      "email": "femiv@yamamotochowdhury.com",
+      "organization": "Yamamoto & Chowdhury LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i001-c024",
+      "name": "Yusuf Laurent",
+      "first": "Yusuf",
+      "email": "ylaurent@driftwoodadr.com",
+      "organization": "Driftwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i001-e000",
+      "thread_id": "i001-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-11T10:25:51.972940",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Alvarez",
+        "email": "valeriea@silverpinenetw.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Sato",
+          "email": "kavya.sato@silverpinenetw.com"
+        }
+      ],
+      "subject": "Series B term sheet from Northwind Ventures",
+      "body": "Hello Whitney,\n\nWe received the attached term sheet from Northwind Ventures last night: $40 million at a $310 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Wednesday?\n\nRegards,\nValerie Alvarez",
+      "attachments": [
+        "Northwind Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m03"
+          ],
+          "keyword_candidates": [
+            "i001-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e001",
+      "thread_id": "i001-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T07:55:43.803789",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Shah",
+        "email": "victor.shah@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest,\nVictor Shah\nStaff Attorney\nSecurities and Exchange Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e002",
+      "thread_id": "i001-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:32:27.487669",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Alvarez",
+        "email": "valeriea@silverpinenetw.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hello Whitney,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e003",
+      "thread_id": "i001-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T12:03:09.095143",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hi Whitney,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nRegards,\nValerie\nAssociate\nYamamoto & Chowdhury LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e004",
+      "thread_id": "i001-t003",
+      "in_reply_to": "i001-e003",
+      "references": [
+        "i001-e003"
+      ],
+      "timestamp": "2026-06-16T09:12:52.132670",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Valerie,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Mon, Jun 15, 2026 at 12:03 PM, Valerie Lindqvist <vlindqvist@yamamotochowdhury.com> wrote:\n> Hi Whitney,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e005",
+      "thread_id": "i001-t003",
+      "in_reply_to": "i001-e004",
+      "references": [
+        "i001-e003",
+        "i001-e004"
+      ],
+      "timestamp": "2026-06-17T15:21:56.001725",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Dear Whitney,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nValerie\nAssociate\nYamamoto & Chowdhury LLP\n\nOn Tue, Jun 16, 2026 at 09:12 AM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Valerie,\n>\n> Adding Valerie, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e006",
+      "thread_id": "i001-t003",
+      "in_reply_to": "i001-e005",
+      "references": [
+        "i001-e003",
+        "i001-e004",
+        "i001-e005"
+      ],
+      "timestamp": "2026-06-19T07:59:02.215970",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Valerie,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e007",
+      "thread_id": "i001-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T08:52:13.724371",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Osei",
+          "email": "liam.osei@stratusrobo.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hi Whitney,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-352). It asks for documents about our customer data practices going back to 2021. The return date is July 12. Can you call me?\n\nBest regards,\nCarla Haddad",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e008",
+      "thread_id": "i001-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T08:03:59.538585",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Moreau",
+        "email": "imoreau@northwindvc.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Alvarez",
+          "email": "valeriea@silverpinenetw.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Dear Whitney,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is July 12 still realistic?\n\nBest,\nIvan\nPartner\nNorthwind Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e009",
+      "thread_id": "i001-t004",
+      "in_reply_to": "i001-e007",
+      "references": [
+        "i001-e007"
+      ],
+      "timestamp": "2026-06-22T08:51:33.582885",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Carla Haddad",
+          "email": "carla.haddad@stratusrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Osei",
+          "email": "liam.osei@stratusrobo.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Carla,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e010",
+      "thread_id": "i001-t004",
+      "in_reply_to": "i001-e009",
+      "references": [
+        "i001-e007",
+        "i001-e009"
+      ],
+      "timestamp": "2026-06-22T11:19:28.212789",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Osei",
+          "email": "liam.osei@stratusrobo.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Whitney,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nCarla Haddad\n\nOn Mon, Jun 22, 2026 at 08:51 AM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Hi Carla,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e011",
+      "thread_id": "i001-t005",
+      "in_reply_to": "i001-e008",
+      "references": [
+        "i001-e008"
+      ],
+      "timestamp": "2026-06-23T13:24:42.470371",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Moreau",
+          "email": "imoreau@northwindvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Alvarez",
+          "email": "valeriea@silverpinenetw.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Ivan,\n\nConfirmed. I'll update the checklist.\n\nBest,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Mon, Jun 22, 2026 at 08:03 AM, Ivan Moreau <imoreau@northwindvc.com> wrote:\n> Dear Whitney,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is July 12 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e012",
+      "thread_id": "i001-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:44:51.411337",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Sato",
+        "email": "hsato@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hi Whitney,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nRegards,\nHiro\nPartner\nYamamoto & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e013",
+      "thread_id": "i001-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T11:40:41.715045",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hi Whitney,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest,\nValerie\nAssociate\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e014",
+      "thread_id": "i001-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T16:46:54.088079",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Sato",
+        "email": "kavya.sato@silverpinenetw.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hello Whitney,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nKavya Sato",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e015",
+      "thread_id": "i001-t008",
+      "in_reply_to": "i001-e014",
+      "references": [
+        "i001-e014"
+      ],
+      "timestamp": "2026-07-13T09:28:01.038401",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Sato",
+          "email": "kavya.sato@silverpinenetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hi Kavya,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Fri, Jul 10, 2026 at 04:46 PM, Kavya Sato <kavya.sato@silverpinenetw.com> wrote:\n> Hello Whitney,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e016",
+      "thread_id": "i001-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:40:54.012457",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Park",
+        "email": "bianca.park@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Ellis",
+          "email": "priya.ellis@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Production format",
+      "body": "Counsel,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nRegards,\nBianca Park",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e017",
+      "thread_id": "i001-t008",
+      "in_reply_to": "i001-e015",
+      "references": [
+        "i001-e014",
+        "i001-e015"
+      ],
+      "timestamp": "2026-07-14T08:22:17.223812",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Sato",
+        "email": "kavya.sato@silverpinenetw.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hi Whitney,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nKavya Sato\n\nOn Mon, Jul 13, 2026 at 09:28 AM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Hi Kavya,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e018",
+      "thread_id": "i001-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:36:53.049679",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Civil investigative demand received",
+      "body": "Whitney,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-352). It asks for documents about our customer data practices going back to 2021. The return date is August 8. Can you call me?\n\nRegards,\nCarla Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e019",
+      "thread_id": "i001-t010",
+      "in_reply_to": "i001-e018",
+      "references": [
+        "i001-e018"
+      ],
+      "timestamp": "2026-07-21T08:50:49.875521",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Carla Haddad",
+          "email": "carla.haddad@stratusrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Carla,\n\nAdding Priya, who will handle the day-to-day on this.\n\nBest regards,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Mon, Jul 20, 2026 at 09:36 AM, Carla Haddad <carla.haddad@stratusrobo.com> wrote:\n> Whitney,\n>\n> We received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2026-352). It asks for documents about our customer data practices going back to 2021. The return date is August 8. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e020",
+      "thread_id": "i001-t010",
+      "in_reply_to": "i001-e019",
+      "references": [
+        "i001-e018",
+        "i001-e019"
+      ],
+      "timestamp": "2026-07-22T07:45:23.459656",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hello Whitney,\n\nThanks. Separately, on the security incident, our insurer is asking for an updated budget.\n\nThanks,\nCarla Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00",
+          "i001-m01"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "no_matter_specific_text",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e021",
+      "thread_id": "i001-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:22:15.308832",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Park",
+        "email": "victor.park@trelliscyber.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Jensen",
+          "email": "umarj@stratusrobo.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Whitney,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nVictor Park\nIncident Response Lead\nTrellis Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m00"
+          ],
+          "keyword_candidates": [
+            "i001-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e022",
+      "thread_id": "i001-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T07:11:09.964618",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Alvarez",
+          "email": "valeriea@silverpinenetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Valerie,\n\nAttached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nRegards,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m03"
+          ],
+          "keyword_candidates": [
+            "i001-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e023",
+      "thread_id": "i001-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:02:05.811473",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Dubois",
+        "email": "chen.dubois@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Whitney,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nChen Dubois\nProfessional Development Manager\nYamamoto & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e024",
+      "thread_id": "i001-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:37:30.307210",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Whitney,\n\nTwo quick things.\n\n1. On the SEC investigation, the audit committee wants to know whether we're on track for the first production.\n2. On the security incident, our insurer is asking for an updated budget.\n\nThanks,\nCarla Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01",
+          "i001-m00"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e025",
+      "thread_id": "i001-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:50:21.688856",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Ellis",
+        "email": "rellis@parallaxdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hi Whitney,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nRafael Ellis",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e026",
+      "thread_id": "i001-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T08:05:57.959976",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Nakamura",
+        "email": "gabrieln@oseiellis.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Silverpine Series B - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by September 7. Please send the updated cap table and disclosure schedule when ready.\n\nRegards,\nGabriel\nPartner\nOsei & Ellis LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m03",
+        "matter_ids": [
+          "i001-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m03"
+          ],
+          "keyword_candidates": [
+            "i001-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e027",
+      "thread_id": "i001-t015",
+      "in_reply_to": "i001-e025",
+      "references": [
+        "i001-e025"
+      ],
+      "timestamp": "2026-08-19T07:07:03.670547",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Ellis",
+          "email": "rellis@parallaxdiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Rafael,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nWhitney\nPartner\nYamamoto & Chowdhury LLP\n\nOn Mon, Aug 17, 2026 at 09:50 AM, Rafael Ellis <rellis@parallaxdiscovery.com> wrote:\n> Hi Whitney,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e028",
+      "thread_id": "i001-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T08:56:59.031067",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Whitney,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest regards,\nCarla",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e029",
+      "thread_id": "i001-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T09:22:48.426860",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Haddad",
+          "email": "pedroh@keystonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Hello Pedro,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nBest regards,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e030",
+      "thread_id": "i001-t017",
+      "in_reply_to": "i001-e028",
+      "references": [
+        "i001-e028"
+      ],
+      "timestamp": "2026-08-20T09:41:41.994608",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Carla Haddad",
+          "email": "carla.haddad@stratusrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Carla,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Wed, Aug 19, 2026 at 08:56 AM, Carla Haddad <carla.haddad@stratusrobo.com> wrote:\n> Whitney,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e031",
+      "thread_id": "i001-t018",
+      "in_reply_to": "i001-e029",
+      "references": [
+        "i001-e029"
+      ],
+      "timestamp": "2026-08-20T18:18:03.822056",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Haddad",
+        "email": "pedroh@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hi Whitney,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nPedro\nHead of People\nKeystone Labs\n\nOn Wed, Aug 19, 2026 at 09:22 AM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Hello Pedro,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e032",
+      "thread_id": "i001-t015",
+      "in_reply_to": "i001-e027",
+      "references": [
+        "i001-e025",
+        "i001-e027"
+      ],
+      "timestamp": "2026-08-21T09:37:55.060353",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Ellis",
+        "email": "rellis@parallaxdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Whitney,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nRafael Ellis\n\nOn Wed, Aug 19, 2026 at 07:07 AM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Hello Rafael,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i001-e033",
+      "thread_id": "i001-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:54:42.998992",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Ellis",
+        "email": "pedroe@corvidmutual.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Whitney,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Trellis.\n\nRegards,\nPedro\nClaims Specialist\nCorvid Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e034",
+      "thread_id": "i001-t017",
+      "in_reply_to": "i001-e030",
+      "references": [
+        "i001-e028",
+        "i001-e030"
+      ],
+      "timestamp": "2026-08-24T10:42:48.519338",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Haddad",
+        "email": "carla.haddad@stratusrobo.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Whitney,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nCarla Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e035",
+      "thread_id": "i001-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T07:31:11.610043",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear Whitney,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nValerie Lindqvist\nAssociate\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e036",
+      "thread_id": "i001-t017",
+      "in_reply_to": "i001-e034",
+      "references": [
+        "i001-e028",
+        "i001-e030",
+        "i001-e034"
+      ],
+      "timestamp": "2026-08-25T14:00:40.469059",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Carla Haddad",
+          "email": "carla.haddad@stratusrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Carla,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Mon, Aug 24, 2026 at 10:42 AM, Carla Haddad <carla.haddad@stratusrobo.com> wrote:\n> Hi Whitney,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e037",
+      "thread_id": "i001-t020",
+      "in_reply_to": "i001-e035",
+      "references": [
+        "i001-e035"
+      ],
+      "timestamp": "2026-08-26T09:53:07.992669",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Lindqvist",
+          "email": "vlindqvist@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hello Valerie,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e038",
+      "thread_id": "i001-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T15:01:46.699768",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Shah",
+        "email": "victor.shah@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-352 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest,\nVictor Shah\nStaff Attorney\nSecurities and Exchange Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e039",
+      "thread_id": "i001-t020",
+      "in_reply_to": "i001-e037",
+      "references": [
+        "i001-e035",
+        "i001-e037"
+      ],
+      "timestamp": "2026-08-27T18:37:17.997845",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Whitney,\n\nWorks for me. Let's do Tuesday at noon.\n\nRegards,\nValerie Lindqvist\nAssociate\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e040",
+      "thread_id": "i001-t021",
+      "in_reply_to": "i001-e038",
+      "references": [
+        "i001-e038"
+      ],
+      "timestamp": "2026-08-28T08:09:16.627111",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Victor Shah",
+          "email": "victor.shah@sec.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-352 - meet and confer",
+      "body": "Hi Victor,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m01",
+        "matter_ids": [
+          "i001-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m01"
+          ],
+          "thread_candidates": [
+            "i001-m01"
+          ],
+          "identifier_candidates": [
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e041",
+      "thread_id": "i001-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T12:51:07.922971",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Fischer",
+        "email": "jasmine.fischer@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Keystone",
+      "body": "Whitney,\n\nPre-bills for Keystone Labs are ready for your review:\n\n- 30729-001  Yusuf Rosen v. Keystone\n\nPlease mark up and return by September 4.\n\nThanks,\nJasmine\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e042",
+      "thread_id": "i001-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T09:00:04.648521",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lindqvist",
+        "email": "vlindqvist@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Whitney,\n\nStatus on my matters this week:\n\n- Security incident: forensics report pending; consumer notification letters in draft.\n- SEC CID: collection 80% complete; first rolling production targeted for September 24.\n- Rosen: complaint served; mediation being scheduled, deposition outline in draft.\n- Series B: financing docs in negotiation with Northwind's counsel; cap table reconciliation in progress.\n\nBest,\nValerie\nAssociate\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00",
+          "i001-m01",
+          "i001-m02",
+          "i001-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m02",
+            "i001-m03"
+          ],
+          "keyword_candidates": [
+            "i001-m00",
+            "i001-m01",
+            "i001-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e043",
+      "thread_id": "i001-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T20:38:10.366175",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Varga",
+        "email": "femiv@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hello Whitney,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest,\nFemi Varga\nIT Service Desk\nYamamoto & Chowdhury LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e044",
+      "thread_id": "i001-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T11:53:09.955323",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Laurent",
+        "email": "ylaurent@driftwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Dear Whitney,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest,\nYusuf\nSection Chair\nDriftwood Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i001-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e045",
+      "thread_id": "i001-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T09:40:31.971785",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Nakamura",
+        "email": "gabrieln@oseiellis.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Yusuf Rosen v. Keystone - Case No. 5:26-cv-01198",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Yusuf Rosen v. Keystone Labs, Case No. 5:26-cv-01198. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Keystone.\n\nThanks,\nGabriel\nPartner\nOsei & Ellis LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [
+            "i001-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e046",
+      "thread_id": "i001-t026",
+      "in_reply_to": "i001-e045",
+      "references": [
+        "i001-e045"
+      ],
+      "timestamp": "2026-09-18T14:18:16.019254",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Nakamura",
+          "email": "gabrieln@oseiellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Yusuf Rosen v. Keystone - Case No. 5:26-cv-01198",
+      "body": "Counsel,\n\nWorks for me. Let's do Friday at noon.\n\nBest regards,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e047",
+      "thread_id": "i001-t026",
+      "in_reply_to": "i001-e046",
+      "references": [
+        "i001-e045",
+        "i001-e046"
+      ],
+      "timestamp": "2026-09-21T09:08:21.851994",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Nakamura",
+        "email": "gabrieln@oseiellis.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Yusuf Rosen v. Keystone - Case No. 5:26-cv-01198",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nGabriel\nPartner\nOsei & Ellis LLP\n\nOn Fri, Sep 18, 2026 at 02:18 PM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Counsel,\n>\n> Works for me. Let's do Friday at noon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02",
+            "i001-m03"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e048",
+      "thread_id": "i001-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-22T18:55:34.349750",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Haddad",
+        "email": "pedroh@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@keystonelabs.com"
+        }
+      ],
+      "subject": "Demand letter - Yusuf Rosen",
+      "body": "Hi Whitney,\n\nWe received the attached demand letter from counsel for Yusuf Rosen, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $780,000. I've put a hold on the personnel file. How should we respond?\n\nBest,\nPedro\nHead of People\nKeystone Labs",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [
+            "i001-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e049",
+      "thread_id": "i001-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T08:16:06.757543",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Brennan",
+        "email": "vbrennan@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Whitney,\n\nBefore the call on Tuesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nVictor Brennan\nGeneral Counsel\nKeystone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e050",
+      "thread_id": "i001-t028",
+      "in_reply_to": "i001-e049",
+      "references": [
+        "i001-e049"
+      ],
+      "timestamp": "2026-09-24T11:18:51.163753",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@keystonelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Victor,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nBest,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Wed, Sep 23, 2026 at 08:16 AM, Victor Brennan <vbrennan@keystonelabs.com> wrote:\n> Whitney,\n>\n> Before the call on Tuesday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e051",
+      "thread_id": "i001-t027",
+      "in_reply_to": "i001-e048",
+      "references": [
+        "i001-e048"
+      ],
+      "timestamp": "2026-09-24T17:18:16.959777",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Haddad",
+          "email": "pedroh@keystonelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@keystonelabs.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Yusuf Rosen",
+      "body": "Hi Pedro,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nWhitney\nPartner\nYamamoto & Chowdhury LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e052",
+      "thread_id": "i001-t028",
+      "in_reply_to": "i001-e050",
+      "references": [
+        "i001-e049",
+        "i001-e050"
+      ],
+      "timestamp": "2026-09-25T10:44:21.281400",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Brennan",
+        "email": "vbrennan@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Whitney,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nVictor Brennan\nGeneral Counsel\nKeystone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e053",
+      "thread_id": "i001-t028",
+      "in_reply_to": "i001-e052",
+      "references": [
+        "i001-e049",
+        "i001-e050",
+        "i001-e052"
+      ],
+      "timestamp": "2026-09-28T09:12:58.819684",
+      "folder": "sent",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "wshah@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@keystonelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Victor,\n\nQuick follow-up on the below. Any update?\n\nBest,\nWhitney Shah\nPartner\nYamamoto & Chowdhury LLP\n\nOn Fri, Sep 25, 2026 at 10:44 AM, Victor Brennan <vbrennan@keystonelabs.com> wrote:\n> Dear Whitney,\n>\n> Adding Valerie, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e054",
+      "thread_id": "i001-t027",
+      "in_reply_to": "i001-e051",
+      "references": [
+        "i001-e048",
+        "i001-e051"
+      ],
+      "timestamp": "2026-09-28T10:06:55.286513",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Haddad",
+        "email": "pedroh@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@keystonelabs.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Yusuf Rosen",
+      "body": "Whitney,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nPedro\nHead of People\nKeystone Labs\n\nOn Thu, Sep 24, 2026 at 05:18 PM, Whitney Shah <wshah@yamamotochowdhury.com> wrote:\n> Hi Pedro,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m02",
+        "matter_ids": [
+          "i001-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i001-m02"
+          ],
+          "thread_candidates": [
+            "i001-m02"
+          ],
+          "identifier_candidates": [
+            "i001-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i001-e055",
+      "thread_id": "i001-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T11:02:14.391731",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Fischer",
+        "email": "jasmine.fischer@yamamotochowdhury.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "wshah@yamamotochowdhury.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Stratus",
+      "body": "Hello Whitney,\n\nPre-bills for Stratus Robotics are ready for your review:\n\n- 71137-001  Stratus - Data Security Incident\n- 71137-002  Stratus - SEC Investigation (CID No. 2026-352)\n\nPlease mark up and return by October 4.\n\nThanks,\nJasmine\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i001-m00",
+        "matter_ids": [
+          "i001-m00",
+          "i001-m01"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i001-m00",
+            "i001-m01"
+          ],
+          "keyword_candidates": [
+            "i001-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700001
+}

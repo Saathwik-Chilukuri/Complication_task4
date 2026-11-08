@@ -1,0 +1,3676 @@
+{
+  "instance_id": "i042",
+  "firm": {
+    "name": "Fischer & Patel LLP",
+    "domain": "fischerpatel.com"
+  },
+  "user_contact_id": "i042-c000",
+  "matters": [
+    {
+      "matter_id": "i042-m00",
+      "matter_number": "67772-001",
+      "name": "Wavecrest v. Brightline (MSA Dispute)",
+      "client": "Wavecrest Health",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Wavecrest Health against vendor Brightline Payments.",
+      "counterparty": "Brightline Payments",
+      "opposing_counsel_firm": "Dubois & Laurent LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "67772-001",
+        "Brightline Payments",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i042-c012",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i042-m01",
+      "matter_number": "34743-001",
+      "name": "Mariner v. Sterling ('236 Patent)",
+      "client": "Mariner Robotics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Mariner Robotics against Sterling Logistics asserting U.S. Patent No. 10,236,286.",
+      "counterparty": "Sterling Logistics",
+      "opposing_counsel_firm": "Banerjee & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-06-27",
+      "key_terms": [
+        "34743-001",
+        "10,236,286",
+        "'236",
+        "Sterling Logistics",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i042-c015",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i042-m02",
+      "matter_number": "34743-002",
+      "name": "Mariner - Headquarters Lease (261 Howard Street)",
+      "client": "Mariner Robotics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Mariner Robotics's new headquarters at 261 Howard Street, landlord Parallax Properties LLC.",
+      "counterparty": "Parallax Properties LLC",
+      "opposing_counsel_firm": "Eriksen & Varga LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "34743-002",
+        "261 Howard Street",
+        "Parallax Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i042-c018",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i042-m03",
+      "matter_number": "27858-001",
+      "name": "Quarry - Data Security Incident",
+      "client": "Quarry Energy",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Quarry Energy's customer database. Forensics by Vantage Cyber.",
+      "counterparty": "Vantage Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "27858-001",
+        "Vantage Cyber",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c020",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i042-c021",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i042-m04",
+      "matter_number": "27433-001",
+      "name": "Pinnacle - CFPB Investigation (CID No. 2026-797)",
+      "client": "Pinnacle Robotics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Pinnacle Robotics's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-07-26",
+      "key_terms": [
+        "27433-001",
+        "2026-797",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c023",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i042-c024",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i042-m05",
+      "matter_number": "97006-001",
+      "name": "Redwood v. Cascade (MSA Dispute)",
+      "client": "Redwood Robotics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Redwood Robotics against vendor Cascade Networks.",
+      "counterparty": "Cascade Networks",
+      "opposing_counsel_firm": "Kaplan & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "97006-001",
+        "Cascade Networks",
+        "Cascade"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i042-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i042-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i042-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i042-c026",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i042-c027",
+          "role": "arbitration_admin"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i042-c000",
+      "name": "Lucia Alvarez",
+      "first": "Lucia",
+      "email": "lalvarez@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c001",
+      "name": "Valerie Rosen",
+      "first": "Valerie",
+      "email": "vrosen@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c002",
+      "name": "Nikhil Osei",
+      "first": "Nikhil",
+      "email": "nikhil.osei@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c003",
+      "name": "Maya Ito",
+      "first": "Maya",
+      "email": "mayai@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c004",
+      "name": "Ximena Alvarez",
+      "first": "Ximena",
+      "email": "xalvarez@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c005",
+      "name": "Daniel Patel",
+      "first": "Daniel",
+      "email": "dpatel@wavecrestheal.com",
+      "organization": "Wavecrest Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c006",
+      "name": "Carla Castillo",
+      "first": "Carla",
+      "email": "carla.castillo@marinerrobo.com",
+      "organization": "Mariner Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c007",
+      "name": "Femi Lindqvist",
+      "first": "Femi",
+      "email": "flindqvist@quarryener.com",
+      "organization": "Quarry Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c008",
+      "name": "Kavya Jensen",
+      "first": "Kavya",
+      "email": "kjensen@pinnaclerobo.com",
+      "organization": "Pinnacle Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c009",
+      "name": "Liam Abbott",
+      "first": "Liam",
+      "email": "liama@redwoodrobo.com",
+      "organization": "Redwood Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c010",
+      "name": "Farid Eriksen",
+      "first": "Farid",
+      "email": "faride@wavecrestheal.com",
+      "organization": "Wavecrest Health",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c011",
+      "name": "Umar Delgado",
+      "first": "Umar",
+      "email": "umard@duboislaurent.com",
+      "organization": "Dubois & Laurent LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c012",
+      "name": "Ben Shah",
+      "first": "Ben",
+      "email": "bens@stratusadr.com",
+      "organization": "Stratus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c013",
+      "name": "Samuel Brennan",
+      "first": "Samuel",
+      "email": "samuel.brennan@marinerrobo.com",
+      "organization": "Mariner Robotics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c014",
+      "name": "Gabriel Banerjee",
+      "first": "Gabriel",
+      "email": "gbanerjee@banerjeeellis.com",
+      "organization": "Banerjee & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c015",
+      "name": "Quinn Thompson",
+      "first": "Quinn",
+      "email": "quinn.thompson@halcyontech.com",
+      "organization": "Halcyon Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c016",
+      "name": "Thomas Morgan",
+      "first": "Thomas",
+      "email": "thomas.morgan@marinerrobo.com",
+      "organization": "Mariner Robotics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c017",
+      "name": "Arjun Mendoza",
+      "first": "Arjun",
+      "email": "arjunm@eriksenvarga.com",
+      "organization": "Eriksen & Varga LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c018",
+      "name": "Ben Mendoza",
+      "first": "Ben",
+      "email": "bmendoza@trellisrealty.com",
+      "organization": "Trellis Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c019",
+      "name": "Valerie Delgado",
+      "first": "Valerie",
+      "email": "valeried@quarryener.com",
+      "organization": "Quarry Energy",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c020",
+      "name": "Tara Laurent",
+      "first": "Tara",
+      "email": "taral@vantagecyber.com",
+      "organization": "Vantage Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c021",
+      "name": "Hiro Tanaka",
+      "first": "Hiro",
+      "email": "hirot@nimbusmutual.com",
+      "organization": "Nimbus Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c022",
+      "name": "Ben Eriksen",
+      "first": "Ben",
+      "email": "beriksen@pinnaclerobo.com",
+      "organization": "Pinnacle Robotics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c023",
+      "name": "Ben Ellis",
+      "first": "Ben",
+      "email": "bellis@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c024",
+      "name": "Daniel Goldberg",
+      "first": "Daniel",
+      "email": "danielg@evergreendiscovery.com",
+      "organization": "Evergreen Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c025",
+      "name": "Daniel Kowalski",
+      "first": "Daniel",
+      "email": "daniel.kowalski@redwoodrobo.com",
+      "organization": "Redwood Robotics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c026",
+      "name": "Omar Huang",
+      "first": "Omar",
+      "email": "omarh@kaplanshah.com",
+      "organization": "Kaplan & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c027",
+      "name": "Xavier Jensen",
+      "first": "Xavier",
+      "email": "xavier.jensen@copperleafadr.com",
+      "organization": "Copperleaf Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c028",
+      "name": "Umar Abbott",
+      "first": "Umar",
+      "email": "uabbott@northwindcomms.com",
+      "organization": "Northwind Communications",
+      "org_type": "pr",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c029",
+      "name": "Pedro Grant",
+      "first": "Pedro",
+      "email": "pedrog@amberlyadr.com",
+      "organization": "Amberly Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i042-c030",
+      "name": "Nadia Eriksen",
+      "first": "Nadia",
+      "email": "nadia.eriksen@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c031",
+      "name": "Zoe Young",
+      "first": "Zoe",
+      "email": "zoe.young@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i042-c032",
+      "name": "Grace Thompson",
+      "first": "Grace",
+      "email": "grace.thompson@fischerpatel.com",
+      "organization": "Fischer & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i042-e000",
+      "thread_id": "i042-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-04T12:31:18.430155",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Ito",
+        "email": "mayai@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Lucia,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nMaya Ito\nSenior Associate\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e001",
+      "thread_id": "i042-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:33:35.527157",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Abbott",
+        "email": "liama@redwoodrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Dear Lucia,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest,\nLiam",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e002",
+      "thread_id": "i042-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T16:24:05.211889",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Omar Huang",
+          "email": "omarh@kaplanshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Osei",
+          "email": "nikhil.osei@fischerpatel.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hello Omar,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nBest,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e003",
+      "thread_id": "i042-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T11:52:39.917981",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Abbott",
+        "email": "liama@redwoodrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Lucia,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nLiam Abbott",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e004",
+      "thread_id": "i042-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-02T09:53:16.046204",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Castillo",
+        "email": "carla.castillo@marinerrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Lucia,\n\nTwo quick things.\n\n1. On the 261 Howard Street lease, the broker says the landlord moved on TI. Did you see that?\n2. On the '236 patent case, our CTO wants to know if we should expect a counterclaim.\n\nRegards,\nCarla",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02",
+          "i042-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e005",
+      "thread_id": "i042-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T10:57:20.736702",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Grant",
+        "email": "pedrog@amberlyadr.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Lucia,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nPedro\nSection Chair\nAmberly Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e006",
+      "thread_id": "i042-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:02:39.648787",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Umar Delgado",
+          "email": "umard@duboislaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Umar,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e007",
+      "thread_id": "i042-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T10:54:22.354890",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Delgado",
+        "email": "umard@duboislaurent.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Hi Lucia,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nUmar Delgado\nPartner\nDubois & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e008",
+      "thread_id": "i042-t006",
+      "in_reply_to": "i042-e006",
+      "references": [
+        "i042-e006"
+      ],
+      "timestamp": "2026-07-07T07:16:48.900312",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Delgado",
+        "email": "umard@duboislaurent.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Dear Lucia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nUmar\nPartner\nDubois & Laurent LLP\n\nOn Mon, Jul 06, 2026 at 09:02 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Umar,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": [
+            "i042-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e009",
+      "thread_id": "i042-t006",
+      "in_reply_to": "i042-e008",
+      "references": [
+        "i042-e006",
+        "i042-e008"
+      ],
+      "timestamp": "2026-07-08T12:31:54.180949",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Umar Delgado",
+          "email": "umard@duboislaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Umar,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": [
+            "i042-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e010",
+      "thread_id": "i042-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T17:02:48.916356",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Rosen",
+        "email": "vrosen@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Dear Lucia,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nValerie Rosen",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e011",
+      "thread_id": "i042-t008",
+      "in_reply_to": "i042-e010",
+      "references": [
+        "i042-e010"
+      ],
+      "timestamp": "2026-07-20T08:16:03.094374",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hello Valerie,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nLucia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 17, 2026 at 05:02 PM, Valerie Rosen <vrosen@fischerpatel.com> wrote:\n> Dear Lucia,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e012",
+      "thread_id": "i042-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T11:13:59.088173",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Castillo",
+        "email": "carla.castillo@marinerrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Lucia,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nCarla Castillo",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e013",
+      "thread_id": "i042-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T08:49:14.267104",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Rosen",
+        "email": "vrosen@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Lucia,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nValerie",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e014",
+      "thread_id": "i042-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T15:32:49.867455",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Kowalski",
+        "email": "daniel.kowalski@redwoodrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Lucia,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest regards,\nDaniel\nChief Operating Officer\nRedwood Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e015",
+      "thread_id": "i042-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T07:01:40.461798",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Kowalski",
+        "email": "daniel.kowalski@redwoodrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Abbott",
+          "email": "liama@redwoodrobo.com"
+        }
+      ],
+      "subject": "Cascade Networks - repeated SLA failures",
+      "body": "Lucia,\n\nCascade Networks has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nDaniel\nChief Operating Officer\nRedwood Robotics",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m05"
+          ],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e016",
+      "thread_id": "i042-t012",
+      "in_reply_to": "i042-e015",
+      "references": [
+        "i042-e015"
+      ],
+      "timestamp": "2026-07-23T13:57:36.092705",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Kowalski",
+          "email": "daniel.kowalski@redwoodrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Abbott",
+          "email": "liama@redwoodrobo.com"
+        }
+      ],
+      "subject": "Re: Cascade Networks - repeated SLA failures",
+      "body": "Dear Daniel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 23, 2026 at 07:01 AM, Daniel Kowalski <daniel.kowalski@redwoodrobo.com> wrote:\n> Lucia,\n>\n> Cascade Networks has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": [
+            "i042-m05"
+          ],
+          "identifier_candidates": [
+            "i042-m05"
+          ],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e017",
+      "thread_id": "i042-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:13:22.985232",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Huang",
+        "email": "omarh@kaplanshah.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Lucia,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nOmar",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e018",
+      "thread_id": "i042-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T08:23:07.102277",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Mendoza",
+          "email": "arjunm@eriksenvarga.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hello Arjun,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest regards,\nLucia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e019",
+      "thread_id": "i042-t014",
+      "in_reply_to": "i042-e018",
+      "references": [
+        "i042-e018"
+      ],
+      "timestamp": "2026-07-30T09:46:10.027046",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Mendoza",
+        "email": "arjunm@eriksenvarga.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Dear Lucia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nArjun Mendoza\nPartner\nEriksen & Varga LLP\n\nOn Wed, Jul 29, 2026 at 08:23 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Hello Arjun,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m02"
+          ],
+          "thread_candidates": [
+            "i042-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e020",
+      "thread_id": "i042-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T11:12:24.830536",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Alvarez",
+        "email": "xalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Pinnacle",
+      "body": "Lucia,\n\nPre-bills for Pinnacle Robotics are ready for your review:\n\n- 27433-001  Pinnacle - CFPB Investigation (CID No. 2026-797)\n\nPlease mark up and return by August 4.\n\nBest regards,\nXimena Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m04"
+          ],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e021",
+      "thread_id": "i042-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T14:10:27.293898",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Alvarez",
+        "email": "xalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Mariner",
+      "body": "Hi Lucia,\n\nPre-bills for Mariner Robotics are ready for your review:\n\n- 34743-001  Mariner v. Sterling ('236 Patent)\n- 34743-002  Mariner - Headquarters Lease (261 Howard Street)\n\nPlease mark up and return by August 4.\n\nThanks,\nXimena Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01",
+          "i042-m02"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e022",
+      "thread_id": "i042-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T16:14:00.825141",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Alvarez",
+        "email": "xalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Wavecrest",
+      "body": "Hi Lucia,\n\nPre-bills for Wavecrest Health are ready for your review:\n\n- 67772-001  Wavecrest v. Brightline (MSA Dispute)\n\nPlease mark up and return by August 4.\n\nRegards,\nXimena\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e023",
+      "thread_id": "i042-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T20:38:23.920316",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Thompson",
+        "email": "grace.thompson@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hi Lucia,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest,\nGrace Thompson\nProfessional Development Manager\nFischer & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e024",
+      "thread_id": "i042-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T09:10:52.828304",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Osei",
+        "email": "nikhil.osei@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Dear Lucia,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $780,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest regards,\nNikhil Osei\nAssociate\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e025",
+      "thread_id": "i042-t019",
+      "in_reply_to": "i042-e024",
+      "references": [
+        "i042-e024"
+      ],
+      "timestamp": "2026-08-05T07:37:39.859483",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Osei",
+          "email": "nikhil.osei@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Nikhil,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nLucia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": [
+            "i042-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e026",
+      "thread_id": "i042-t019",
+      "in_reply_to": "i042-e025",
+      "references": [
+        "i042-e024",
+        "i042-e025"
+      ],
+      "timestamp": "2026-08-06T08:31:38.986064",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Osei",
+        "email": "nikhil.osei@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Lucia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nNikhil Osei\nAssociate\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": [
+            "i042-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e027",
+      "thread_id": "i042-t019",
+      "in_reply_to": "i042-e026",
+      "references": [
+        "i042-e024",
+        "i042-e025",
+        "i042-e026"
+      ],
+      "timestamp": "2026-08-06T19:47:03.818701",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Osei",
+          "email": "nikhil.osei@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Nikhil,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 06, 2026 at 08:31 AM, Nikhil Osei <nikhil.osei@fischerpatel.com> wrote:\n> Hello Lucia,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m05",
+        "matter_ids": [
+          "i042-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m05"
+          ],
+          "thread_candidates": [
+            "i042-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e028",
+      "thread_id": "i042-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T16:22:53.558159",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Eriksen",
+        "email": "nadia.eriksen@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Lucia,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest,\nNadia\nIT Service Desk\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e029",
+      "thread_id": "i042-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T07:05:14.409646",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Lindqvist",
+        "email": "flindqvist@quarryener.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Lucia,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nFemi Lindqvist\nGeneral Counsel\nQuarry Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e030",
+      "thread_id": "i042-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T07:17:34.685086",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Ito",
+        "email": "mayai@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi Lucia,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest,\nMaya Ito\nSenior Associate\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e031",
+      "thread_id": "i042-t022",
+      "in_reply_to": "i042-e030",
+      "references": [
+        "i042-e030"
+      ],
+      "timestamp": "2026-08-11T13:37:49.006448",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Maya,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 07:17 AM, Maya Ito <mayai@fischerpatel.com> wrote:\n> Hi Lucia,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e032",
+      "thread_id": "i042-t021",
+      "in_reply_to": "i042-e029",
+      "references": [
+        "i042-e029"
+      ],
+      "timestamp": "2026-08-11T16:49:56.051909",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Femi Lindqvist",
+          "email": "flindqvist@quarryener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Femi,\n\nAdding Maya, who will handle the day-to-day on this.\n\nRegards,\nLucia\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 07:05 AM, Femi Lindqvist <flindqvist@quarryener.com> wrote:\n> Hello Lucia,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": [
+            "i042-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e033",
+      "thread_id": "i042-t021",
+      "in_reply_to": "i042-e032",
+      "references": [
+        "i042-e029",
+        "i042-e032"
+      ],
+      "timestamp": "2026-08-11T17:46:45.773729",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Lindqvist",
+        "email": "flindqvist@quarryener.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Lucia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nFemi Lindqvist\nGeneral Counsel\nQuarry Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": [
+            "i042-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e034",
+      "thread_id": "i042-t022",
+      "in_reply_to": "i042-e031",
+      "references": [
+        "i042-e030",
+        "i042-e031"
+      ],
+      "timestamp": "2026-08-13T08:39:46.727883",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Ito",
+        "email": "mayai@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Dear Lucia,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nRegards,\nMaya Ito\nSenior Associate\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 01:37 PM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Maya,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e035",
+      "thread_id": "i042-t022",
+      "in_reply_to": "i042-e034",
+      "references": [
+        "i042-e030",
+        "i042-e031",
+        "i042-e034"
+      ],
+      "timestamp": "2026-08-13T09:55:58.947035",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Hello Maya,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 13, 2026 at 08:39 AM, Maya Ito <mayai@fischerpatel.com> wrote:\n> Dear Lucia,\n>\n> Thanks. Received; we'll review and come back to you by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i042-e036",
+      "thread_id": "i042-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T20:02:33.083391",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Morgan",
+        "email": "thomas.morgan@marinerrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 261 Howard Street",
+      "body": "Dear Lucia,\n\nWe've agreed on a non-binding LOI with Parallax Properties LLC for about 42,000 RSF at 261 Howard Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nThomas\nDirector of Real Estate\nMariner Robotics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m02"
+          ],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e037",
+      "thread_id": "i042-t023",
+      "in_reply_to": "i042-e036",
+      "references": [
+        "i042-e036"
+      ],
+      "timestamp": "2026-08-14T08:32:00.793835",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Morgan",
+          "email": "thomas.morgan@marinerrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 261 Howard Street",
+      "body": "Hi Thomas,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 13, 2026 at 08:02 PM, Thomas Morgan <thomas.morgan@marinerrobo.com> wrote:\n> Dear Lucia,\n>\n> We've agreed on a non-binding LOI with Parallax Properties LLC for about 42,000 RSF at 261 Howard Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m02"
+          ],
+          "thread_candidates": [
+            "i042-m02"
+          ],
+          "identifier_candidates": [
+            "i042-m02"
+          ],
+          "keyword_candidates": [
+            "i042-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e038",
+      "thread_id": "i042-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:20:20.694861",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Brennan",
+          "email": "samuel.brennan@marinerrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 1",
+      "body": "Samuel,\n\nReminder that our infringement contentions are due September 1. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i042-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e039",
+      "thread_id": "i042-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:24:23.577076",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Thompson",
+        "email": "quinn.thompson@halcyontech.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hello Lucia,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 25.\n\nBest regards,\nQuinn Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e040",
+      "thread_id": "i042-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:49:13.295948",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Castillo",
+        "email": "carla.castillo@marinerrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Lucia,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nCarla",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e041",
+      "thread_id": "i042-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:56:30.632759",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Eriksen",
+        "email": "faride@wavecrestheal.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Patel",
+          "email": "dpatel@wavecrestheal.com"
+        }
+      ],
+      "subject": "Brightline Payments - repeated SLA failures",
+      "body": "Dear Lucia,\n\nBrightline Payments has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest,\nFarid Eriksen\nChief Operating Officer\nWavecrest Health",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m00"
+          ],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e042",
+      "thread_id": "i042-t025",
+      "in_reply_to": "i042-e039",
+      "references": [
+        "i042-e039"
+      ],
+      "timestamp": "2026-08-18T07:03:45.007045",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Thompson",
+          "email": "quinn.thompson@halcyontech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Quinn,\n\nQuick follow-up on the below. Any update?\n\nBest,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 10:24 AM, Quinn Thompson <quinn.thompson@halcyontech.com> wrote:\n> Hello Lucia,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 25.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": [
+            "i042-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e043",
+      "thread_id": "i042-t026",
+      "in_reply_to": "i042-e040",
+      "references": [
+        "i042-e040"
+      ],
+      "timestamp": "2026-08-18T10:26:16.154784",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Carla Castillo",
+          "email": "carla.castillo@marinerrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Carla,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 10:49 AM, Carla Castillo <carla.castillo@marinerrobo.com> wrote:\n> Dear Lucia,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m02",
+        "matter_ids": [
+          "i042-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "thread_candidates": [
+            "i042-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e044",
+      "thread_id": "i042-t027",
+      "in_reply_to": "i042-e041",
+      "references": [
+        "i042-e041"
+      ],
+      "timestamp": "2026-08-19T07:03:39.844817",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Farid Eriksen",
+          "email": "faride@wavecrestheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Patel",
+          "email": "dpatel@wavecrestheal.com"
+        }
+      ],
+      "subject": "Re: Brightline Payments - repeated SLA failures",
+      "body": "Farid,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 10:56 AM, Farid Eriksen <faride@wavecrestheal.com> wrote:\n> Dear Lucia,\n>\n> Brightline Payments has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m00",
+        "matter_ids": [
+          "i042-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00"
+          ],
+          "thread_candidates": [
+            "i042-m00"
+          ],
+          "identifier_candidates": [
+            "i042-m00"
+          ],
+          "keyword_candidates": [
+            "i042-m00",
+            "i042-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e045",
+      "thread_id": "i042-t025",
+      "in_reply_to": "i042-e042",
+      "references": [
+        "i042-e039",
+        "i042-e042"
+      ],
+      "timestamp": "2026-08-19T08:45:22.731706",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Thompson",
+        "email": "quinn.thompson@halcyontech.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Lucia,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nQuinn\n\nOn Tue, Aug 18, 2026 at 07:03 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Quinn,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": [
+            "i042-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e046",
+      "thread_id": "i042-t026",
+      "in_reply_to": "i042-e043",
+      "references": [
+        "i042-e040",
+        "i042-e043"
+      ],
+      "timestamp": "2026-08-19T16:00:55.442320",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Castillo",
+        "email": "carla.castillo@marinerrobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Lucia,\n\nThanks. Separately, on the '236 patent case, our CTO wants to know if we should expect a counterclaim.\n\nBest,\nCarla\n\nOn Tue, Aug 18, 2026 at 10:26 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Hello Carla,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01",
+          "i042-m02"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "thread_candidates": [
+            "i042-m02"
+          ],
+          "identifier_candidates": [
+            "i042-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e047",
+      "thread_id": "i042-t025",
+      "in_reply_to": "i042-e045",
+      "references": [
+        "i042-e039",
+        "i042-e042",
+        "i042-e045"
+      ],
+      "timestamp": "2026-08-20T08:57:42.702315",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Thompson",
+          "email": "quinn.thompson@halcyontech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Quinn,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": [
+            "i042-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e048",
+      "thread_id": "i042-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T18:15:51.652126",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Jensen",
+        "email": "kjensen@pinnaclerobo.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ben Eriksen",
+          "email": "beriksen@pinnaclerobo.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hi Lucia,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2026-797). It asks for documents about our customer data practices going back to 2021. The return date is September 4. Can you call me?\n\nBest,\nKavya\nGeneral Counsel\nPinnacle Robotics",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m04"
+          ],
+          "keyword_candidates": [
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e049",
+      "thread_id": "i042-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T07:22:58.892486",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Banerjee",
+        "email": "gbanerjee@banerjeeellis.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Mariner v. Sterling - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nBest,\nGabriel Banerjee\nPartner\nBanerjee & Ellis LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e050",
+      "thread_id": "i042-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T07:47:19.290232",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Laurent",
+        "email": "taral@vantagecyber.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Delgado",
+          "email": "valeried@quarryener.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear Lucia,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest regards,\nTara Laurent\nIncident Response Lead\nVantage Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m03"
+          ],
+          "keyword_candidates": [
+            "i042-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e051",
+      "thread_id": "i042-t030",
+      "in_reply_to": "i042-e050",
+      "references": [
+        "i042-e050"
+      ],
+      "timestamp": "2026-08-31T10:29:36.974881",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Tara Laurent",
+          "email": "taral@vantagecyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Delgado",
+          "email": "valeried@quarryener.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Dear Tara,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": [
+            "i042-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e052",
+      "thread_id": "i042-t029",
+      "in_reply_to": "i042-e049",
+      "references": [
+        "i042-e049"
+      ],
+      "timestamp": "2026-09-02T09:11:23.337094",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Banerjee",
+          "email": "gbanerjee@banerjeeellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Rosen",
+          "email": "vrosen@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Mariner v. Sterling - proposed protective order",
+      "body": "Hi Gabriel,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 07:22 AM, Gabriel Banerjee <gbanerjee@banerjeeellis.com> wrote:\n> Counsel,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01"
+          ],
+          "thread_candidates": [
+            "i042-m01"
+          ],
+          "identifier_candidates": [
+            "i042-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e053",
+      "thread_id": "i042-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T08:26:50.683135",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Rosen",
+        "email": "vrosen@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Lucia,\n\nStatus on my matters this week:\n\n- '236 patent: protective order negotiated; infringement contentions due September 22.\n- 261 Howard Street: second turn of landlord's lease draft; SNDA requested from lender.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- CFPB CID: collection 80% complete; first rolling production targeted for September 18.\n\nBest regards,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m01",
+        "matter_ids": [
+          "i042-m01",
+          "i042-m02",
+          "i042-m03",
+          "i042-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m01",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m01",
+            "i042-m02"
+          ],
+          "keyword_candidates": [
+            "i042-m01",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e054",
+      "thread_id": "i042-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:17:05.250196",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Abbott",
+        "email": "uabbott@northwindcomms.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Communications support",
+      "body": "Hi Lucia,\n\nQuarry's CEO asked us to help with external communications around the incident. Could we get 30 minutes with you to align on what can be said publicly?\n\nThanks,\nUmar Abbott\nManaging Director\nNorthwind Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m00",
+            "i042-m02",
+            "i042-m03",
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e055",
+      "thread_id": "i042-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T07:29:13.754904",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Delgado",
+          "email": "valeried@quarryener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Lindqvist",
+          "email": "flindqvist@quarryener.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Valerie,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Vantage.\n\nRegards,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i042-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e056",
+      "thread_id": "i042-t034",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T16:00:37.740867",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Goldberg",
+        "email": "danielg@evergreendiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Lucia,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nDaniel\nProject Manager\nEvergreen Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e057",
+      "thread_id": "i042-t035",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T19:15:41.705339",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Young",
+        "email": "zoe.young@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Lucia,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nZoe\nPartner\nFischer & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e058",
+      "thread_id": "i042-t033",
+      "in_reply_to": "i042-e055",
+      "references": [
+        "i042-e055"
+      ],
+      "timestamp": "2026-09-18T08:20:45.646363",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Delgado",
+        "email": "valeried@quarryener.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Lindqvist",
+          "email": "flindqvist@quarryener.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hi Lucia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nValerie\nChief Information Security Officer\nQuarry Energy\n\nOn Wed, Sep 16, 2026 at 07:29 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Dear Valerie,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Vantage.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m03",
+        "matter_ids": [
+          "i042-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i042-m03"
+          ],
+          "thread_candidates": [
+            "i042-m03"
+          ],
+          "identifier_candidates": [
+            "i042-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e059",
+      "thread_id": "i042-t034",
+      "in_reply_to": "i042-e056",
+      "references": [
+        "i042-e056"
+      ],
+      "timestamp": "2026-09-18T10:26:00.479059",
+      "folder": "sent",
+      "from": {
+        "name": "Lucia Alvarez",
+        "email": "lalvarez@fischerpatel.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Goldberg",
+          "email": "danielg@evergreendiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Daniel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nLucia Alvarez\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 16, 2026 at 04:00 PM, Daniel Goldberg <danielg@evergreendiscovery.com> wrote:\n> Lucia,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i042-e060",
+      "thread_id": "i042-t034",
+      "in_reply_to": "i042-e059",
+      "references": [
+        "i042-e056",
+        "i042-e059"
+      ],
+      "timestamp": "2026-09-21T09:12:34.357892",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Goldberg",
+        "email": "danielg@evergreendiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Alvarez",
+          "email": "lalvarez@fischerpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Ito",
+          "email": "mayai@fischerpatel.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Lucia,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nDaniel\nProject Manager\nEvergreen Discovery\n\nOn Fri, Sep 18, 2026 at 10:26 AM, Lucia Alvarez <lalvarez@fischerpatel.com> wrote:\n> Dear Daniel,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i042-m04",
+        "matter_ids": [
+          "i042-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i042-m04"
+          ],
+          "thread_candidates": [
+            "i042-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700042
+}

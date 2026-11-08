@@ -1,0 +1,3593 @@
+{
+  "instance_id": "i037",
+  "firm": {
+    "name": "Whitaker & Alvarez LLP",
+    "domain": "whitakeralvarez.com"
+  },
+  "user_contact_id": "i037-c000",
+  "matters": [
+    {
+      "matter_id": "i037-m00",
+      "matter_number": "82866-001",
+      "name": "Copperleaf v. Evergreen ('467 Patent)",
+      "client": "Copperleaf Logistics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Copperleaf Logistics against Evergreen Analytics asserting U.S. Patent No. 10,467,294.",
+      "counterparty": "Evergreen Analytics",
+      "opposing_counsel_firm": "Varga & Dubois LLP",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "82866-001",
+        "10,467,294",
+        "'467",
+        "Evergreen Analytics",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i037-c012",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i037-m01",
+      "matter_number": "97408-001",
+      "name": "Riverstone - Acquisition of Wavecrest Software (Project Falcon)",
+      "client": "Riverstone Health",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Wavecrest Software by Riverstone Health. Stock purchase, ~$120 million.",
+      "counterparty": "Wavecrest Software",
+      "opposing_counsel_firm": "Xu & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-06-07",
+      "key_terms": [
+        "97408-001",
+        "Project Falcon",
+        "Falcon",
+        "Wavecrest Software",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i037-c015",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i037-m02",
+      "matter_number": "52022-001",
+      "name": "Lumen - Data Security Incident",
+      "client": "Lumen Biosciences",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Lumen Biosciences's customer database. Forensics by Quarry Cyber.",
+      "counterparty": "Quarry Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "52022-001",
+        "Quarry Cyber",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i037-c018",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i037-m03",
+      "matter_number": "38881-001",
+      "name": "Brightline - Headquarters Lease (2851 Embarcadero Center)",
+      "client": "Brightline Robotics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Brightline Robotics's new headquarters at 2851 Embarcadero Center, landlord Sterling Properties LLC.",
+      "counterparty": "Sterling Properties LLC",
+      "opposing_counsel_firm": "Varga & Dubois LLP",
+      "status": "open",
+      "opened_on": "2026-06-02",
+      "key_terms": [
+        "38881-001",
+        "2851 Embarcadero Center",
+        "Sterling Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i037-c021",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i037-m04",
+      "matter_number": "20678-001",
+      "name": "Tidewater - California DOJ Investigation (CID No. 2026-447)",
+      "client": "Tidewater Robotics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Tidewater Robotics's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-06-21",
+      "key_terms": [
+        "20678-001",
+        "2026-447",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c023",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i037-c024",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i037-m05",
+      "matter_number": "64516-001",
+      "name": "Northwind v. Redwood (MSA Dispute)",
+      "client": "Northwind Energy",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Northwind Energy against vendor Redwood Analytics.",
+      "counterparty": "Redwood Analytics",
+      "opposing_counsel_firm": "Rosen & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-06-21",
+      "key_terms": [
+        "64516-001",
+        "Redwood Analytics",
+        "Redwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i037-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i037-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i037-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i037-c026",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i037-c027",
+          "role": "arbitration_admin"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i037-c000",
+      "name": "Farid Jensen",
+      "first": "Farid",
+      "email": "faridj@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c001",
+      "name": "Jasmine Nakamura",
+      "first": "Jasmine",
+      "email": "jasmine.nakamura@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c002",
+      "name": "Marcus Huang",
+      "first": "Marcus",
+      "email": "mhuang@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c003",
+      "name": "Quinn Ferreira",
+      "first": "Quinn",
+      "email": "quinnf@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c004",
+      "name": "Chen Jensen",
+      "first": "Chen",
+      "email": "chen.jensen@copperleaflogi.com",
+      "organization": "Copperleaf Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c005",
+      "name": "Liam Rosen",
+      "first": "Liam",
+      "email": "lrosen@riverstoneheal.com",
+      "organization": "Riverstone Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c006",
+      "name": "Omar Ito",
+      "first": "Omar",
+      "email": "omari@lumenbios.com",
+      "organization": "Lumen Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c007",
+      "name": "Umar Jensen",
+      "first": "Umar",
+      "email": "umar.jensen@brightlinerobo.com",
+      "organization": "Brightline Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c008",
+      "name": "Zoe Ito",
+      "first": "Zoe",
+      "email": "zito@tidewaterrobo.com",
+      "organization": "Tidewater Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c009",
+      "name": "Elena Moreau",
+      "first": "Elena",
+      "email": "elenam@northwindener.com",
+      "organization": "Northwind Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c010",
+      "name": "Umar Chowdhury",
+      "first": "Umar",
+      "email": "umarc@copperleaflogi.com",
+      "organization": "Copperleaf Logistics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c011",
+      "name": "Carla Grant",
+      "first": "Carla",
+      "email": "cgrant@vargadubois.com",
+      "organization": "Varga & Dubois LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c012",
+      "name": "Kavya Osei",
+      "first": "Kavya",
+      "email": "kavyao@trellistech.com",
+      "organization": "Trellis Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c013",
+      "name": "Victor Tanaka",
+      "first": "Victor",
+      "email": "vtanaka@riverstoneheal.com",
+      "organization": "Riverstone Health",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c014",
+      "name": "Isabel Alvarez",
+      "first": "Isabel",
+      "email": "ialvarez@xueriksen.com",
+      "organization": "Xu & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c015",
+      "name": "Kavya Castillo",
+      "first": "Kavya",
+      "email": "kavyac@keystonetrust.com",
+      "organization": "Keystone Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c016",
+      "name": "Olivia Shah",
+      "first": "Olivia",
+      "email": "olivias@lumenbios.com",
+      "organization": "Lumen Biosciences",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c017",
+      "name": "Whitney Jensen",
+      "first": "Whitney",
+      "email": "whitneyj@quarrycyber.com",
+      "organization": "Quarry Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c018",
+      "name": "Arjun Morgan",
+      "first": "Arjun",
+      "email": "arjun.morgan@silverpinemutual.com",
+      "organization": "Silverpine Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c019",
+      "name": "Ivan Sato",
+      "first": "Ivan",
+      "email": "ivan.sato@brightlinerobo.com",
+      "organization": "Brightline Robotics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c020",
+      "name": "Sofia Varga",
+      "first": "Sofia",
+      "email": "svarga@vargadubois.com",
+      "organization": "Varga & Dubois LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c021",
+      "name": "Xavier Weiss",
+      "first": "Xavier",
+      "email": "xavier.weiss@ironbridgerealty.com",
+      "organization": "Ironbridge Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c022",
+      "name": "Rachel Morgan",
+      "first": "Rachel",
+      "email": "rachelm@tidewaterrobo.com",
+      "organization": "Tidewater Robotics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c023",
+      "name": "Marcus Tanaka",
+      "first": "Marcus",
+      "email": "marcust@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c024",
+      "name": "Uma Goldberg",
+      "first": "Uma",
+      "email": "ugoldberg@pinnaclediscovery.com",
+      "organization": "Pinnacle Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c025",
+      "name": "Rachel Varga",
+      "first": "Rachel",
+      "email": "rachel.varga@northwindener.com",
+      "organization": "Northwind Energy",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c026",
+      "name": "Rachel Banerjee",
+      "first": "Rachel",
+      "email": "rachel.banerjee@rosenokafor.com",
+      "organization": "Rosen & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c027",
+      "name": "Priya Quintero",
+      "first": "Priya",
+      "email": "priyaq@stratusadr.com",
+      "organization": "Stratus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c028",
+      "name": "Uma Varga",
+      "first": "Uma",
+      "email": "uma.varga@corvidbank.com",
+      "organization": "Corvid Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c029",
+      "name": "Priya Fischer",
+      "first": "Priya",
+      "email": "priyaf@xueriksen.com",
+      "organization": "Xu & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i037-c030",
+      "name": "Ben Dubois",
+      "first": "Ben",
+      "email": "bdubois@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c031",
+      "name": "Yusuf Haddad",
+      "first": "Yusuf",
+      "email": "yhaddad@whitakeralvarez.com",
+      "organization": "Whitaker & Alvarez LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i037-c032",
+      "name": "Thomas Lee",
+      "first": "Thomas",
+      "email": "thomas.lee@latticeadr.com",
+      "organization": "Lattice Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i037-e000",
+      "thread_id": "i037-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-05T09:21:59.776069",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Jensen",
+        "email": "umar.jensen@brightlinerobo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Farid,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nUmar Jensen\nGeneral Counsel\nBrightline Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e001",
+      "thread_id": "i037-t000",
+      "in_reply_to": "i037-e000",
+      "references": [
+        "i037-e000"
+      ],
+      "timestamp": "2026-06-08T08:51:13.106356",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Umar Jensen",
+          "email": "umar.jensen@brightlinerobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Umar,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Fri, Jun 05, 2026 at 09:21 AM, Umar Jensen <umar.jensen@brightlinerobo.com> wrote:\n> Hi Farid,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e002",
+      "thread_id": "i037-t000",
+      "in_reply_to": "i037-e001",
+      "references": [
+        "i037-e000",
+        "i037-e001"
+      ],
+      "timestamp": "2026-06-08T12:33:44.865493",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Jensen",
+        "email": "umar.jensen@brightlinerobo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Farid,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nUmar Jensen\nGeneral Counsel\nBrightline Robotics\n\nOn Mon, Jun 08, 2026 at 08:51 AM, Farid Jensen <faridj@whitakeralvarez.com> wrote:\n> Dear Umar,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e003",
+      "thread_id": "i037-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T10:29:41.951980",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Sato",
+        "email": "ivan.sato@brightlinerobo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2851 Embarcadero Center",
+      "body": "Hello Farid,\n\nWe've agreed on a non-binding LOI with Sterling Properties LLC for about 42,000 RSF at 2851 Embarcadero Center: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nIvan Sato\nDirector of Real Estate\nBrightline Robotics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m03"
+          ],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e004",
+      "thread_id": "i037-t001",
+      "in_reply_to": "i037-e003",
+      "references": [
+        "i037-e003"
+      ],
+      "timestamp": "2026-06-18T07:51:43.574517",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Sato",
+          "email": "ivan.sato@brightlinerobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 2851 Embarcadero Center",
+      "body": "Dear Ivan,\n\nQuick follow-up on the below. Any update?\n\nBest,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Wed, Jun 17, 2026 at 10:29 AM, Ivan Sato <ivan.sato@brightlinerobo.com> wrote:\n> Hello Farid,\n>\n> We've agreed on a non-binding LOI with Sterling Properties LLC for about 42,000 RSF at 2851 Embarcadero Center: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [
+            "i037-m03"
+          ],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e005",
+      "thread_id": "i037-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T10:06:26.104013",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Tanaka",
+        "email": "vtanaka@riverstoneheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Farid,\n\nThe board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nVictor Tanaka\nVP, Corporate Development\nRiverstone Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e006",
+      "thread_id": "i037-t002",
+      "in_reply_to": "i037-e005",
+      "references": [
+        "i037-e005"
+      ],
+      "timestamp": "2026-06-22T11:51:48.617611",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Victor Tanaka",
+          "email": "vtanaka@riverstoneheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hello Victor,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Jun 22, 2026 at 10:06 AM, Victor Tanaka <vtanaka@riverstoneheal.com> wrote:\n> Hello Farid,\n>\n> The board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": [
+            "i037-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e007",
+      "thread_id": "i037-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:02:36.940000",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Rosen",
+        "email": "lrosen@riverstoneheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Farid,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nLiam Rosen\nGeneral Counsel\nRiverstone Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e008",
+      "thread_id": "i037-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T10:44:45.725835",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Varga",
+        "email": "uma.varga@corvidbank.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Farid,\n\nWe received a request for an SNDA in favor of Brightline Robotics. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nBest,\nUma Varga\nLoan Officer\nCorvid Bank",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e009",
+      "thread_id": "i037-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T08:12:43.850438",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Nakamura",
+        "email": "jasmine.nakamura@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello Farid,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nJasmine Nakamura\nAssociate\nWhitaker & Alvarez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e010",
+      "thread_id": "i037-t005",
+      "in_reply_to": "i037-e009",
+      "references": [
+        "i037-e009"
+      ],
+      "timestamp": "2026-07-09T08:16:24.366192",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Jasmine,\n\nAdding Jasmine, who will handle the day-to-day on this.\n\nBest,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Wed, Jul 08, 2026 at 08:12 AM, Jasmine Nakamura <jasmine.nakamura@whitakeralvarez.com> wrote:\n> Hello Farid,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e011",
+      "thread_id": "i037-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T18:01:56.126202",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Huang",
+        "email": "mhuang@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hi Farid,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nThanks,\nMarcus Huang",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e012",
+      "thread_id": "i037-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:09:05.309631",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Moreau",
+        "email": "elenam@northwindener.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Farid,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nElena Moreau\nGeneral Counsel\nNorthwind Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e013",
+      "thread_id": "i037-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:28:09.949416",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Tanaka",
+        "email": "vtanaka@riverstoneheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Farid,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nVictor Tanaka\nVP, Corporate Development\nRiverstone Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e014",
+      "thread_id": "i037-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:48:01.951900",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Lee",
+        "email": "thomas.lee@latticeadr.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Farid,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nThomas Lee\nSection Chair\nLattice Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e015",
+      "thread_id": "i037-t005",
+      "in_reply_to": "i037-e010",
+      "references": [
+        "i037-e009",
+        "i037-e010"
+      ],
+      "timestamp": "2026-07-13T10:20:48.275380",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Nakamura",
+        "email": "jasmine.nakamura@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Farid,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nJasmine Nakamura\nAssociate\nWhitaker & Alvarez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e016",
+      "thread_id": "i037-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:19:07.081869",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Nakamura",
+        "email": "jasmine.nakamura@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Falcon - disclosure schedules open items",
+      "body": "Dear Farid,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Wavecrest's counsel directly?\n\nThanks,\nJasmine\nAssociate\nWhitaker & Alvarez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m01"
+          ],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e017",
+      "thread_id": "i037-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:42:49.912803",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Banerjee",
+        "email": "rachel.banerjee@rosenokafor.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest regards,\nRachel\nPartner\nRosen & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e018",
+      "thread_id": "i037-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:47:00.499807",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Fischer",
+        "email": "priyaf@xueriksen.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Wavecrest deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest,\nPriya\nAssociate\nXu & Eriksen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m01"
+          ],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e019",
+      "thread_id": "i037-t010",
+      "in_reply_to": "i037-e016",
+      "references": [
+        "i037-e016"
+      ],
+      "timestamp": "2026-07-20T13:53:43.971873",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Falcon - disclosure schedules open items",
+      "body": "Hello Jasmine,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Jul 20, 2026 at 09:19 AM, Jasmine Nakamura <jasmine.nakamura@whitakeralvarez.com> wrote:\n> Dear Farid,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Wavecrest's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m01"
+          ],
+          "identifier_candidates": [
+            "i037-m01"
+          ],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e020",
+      "thread_id": "i037-t011",
+      "in_reply_to": "i037-e017",
+      "references": [
+        "i037-e017"
+      ],
+      "timestamp": "2026-07-21T08:54:02.319395",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Banerjee",
+          "email": "rachel.banerjee@rosenokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Jul 20, 2026 at 09:42 AM, Rachel Banerjee <rachel.banerjee@rosenokafor.com> wrote:\n> Counsel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e021",
+      "thread_id": "i037-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T14:05:47.903153",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Alvarez",
+        "email": "ialvarez@xueriksen.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Wavecrest / Riverstone - SPA comments",
+      "body": "Hi Farid,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Wavecrest customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest regards,\nIsabel Alvarez\nPartner\nXu & Eriksen LLP",
+      "attachments": [
+        "Wavecrest SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m01",
+        "matter_ids": [
+          "i037-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m01"
+          ],
+          "keyword_candidates": [
+            "i037-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e022",
+      "thread_id": "i037-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T07:23:50.090474",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Tanaka",
+        "email": "marcust@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-447 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nRegards,\nMarcus",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m04"
+          ],
+          "keyword_candidates": [
+            "i037-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e023",
+      "thread_id": "i037-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T17:14:40.391570",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Shah",
+          "email": "olivias@lumenbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Omar Ito",
+          "email": "omari@lumenbios.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Olivia,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Quarry.\n\nThanks,\nFarid\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e024",
+      "thread_id": "i037-t014",
+      "in_reply_to": "i037-e022",
+      "references": [
+        "i037-e022"
+      ],
+      "timestamp": "2026-07-31T19:49:01.639733",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Tanaka",
+          "email": "marcust@doj.ca.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-447 - meet and confer",
+      "body": "Hi Marcus,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Fri, Jul 31, 2026 at 07:23 AM, Marcus Tanaka <marcust@doj.ca.gov> wrote:\n> Counsel,\n>\n> Following up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": [
+            "i037-m04"
+          ],
+          "identifier_candidates": [
+            "i037-m04"
+          ],
+          "keyword_candidates": [
+            "i037-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e025",
+      "thread_id": "i037-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:38:54.093985",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Haddad",
+        "email": "yhaddad@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Farid,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nYusuf\nIT Service Desk\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e026",
+      "thread_id": "i037-t015",
+      "in_reply_to": "i037-e023",
+      "references": [
+        "i037-e023"
+      ],
+      "timestamp": "2026-08-03T10:22:07.026874",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Shah",
+        "email": "olivias@lumenbios.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Omar Ito",
+          "email": "omari@lumenbios.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Farid,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nOlivia Shah\nChief Information Security Officer\nLumen Biosciences\n\nOn Fri, Jul 31, 2026 at 05:14 PM, Farid Jensen <faridj@whitakeralvarez.com> wrote:\n> Dear Olivia,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Quarry.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [
+            "i037-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e027",
+      "thread_id": "i037-t015",
+      "in_reply_to": "i037-e026",
+      "references": [
+        "i037-e023",
+        "i037-e026"
+      ],
+      "timestamp": "2026-08-03T12:55:37.955316",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Shah",
+          "email": "olivias@lumenbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Omar Ito",
+          "email": "omari@lumenbios.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hi Olivia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e028",
+      "thread_id": "i037-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T07:07:37.097353",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Varga",
+        "email": "svarga@vargadubois.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2851 Embarcadero Center - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nRegards,\nSofia Varga\nPartner\nVarga & Dubois LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m03"
+          ],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e029",
+      "thread_id": "i037-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T19:29:26.762234",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Quintero",
+        "email": "priyaq@stratusadr.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Banerjee",
+          "email": "rachel.banerjee@rosenokafor.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Dear Farid,\n\nThis confirms receipt of the demand for arbitration in Northwind Energy v. Redwood Analytics. The administrative conference is scheduled for September 7. Please confirm your availability.\n\nBest,\nPriya Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e030",
+      "thread_id": "i037-t018",
+      "in_reply_to": "i037-e029",
+      "references": [
+        "i037-e029"
+      ],
+      "timestamp": "2026-08-14T07:21:58.954924",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Priya Quintero",
+          "email": "priyaq@stratusadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Banerjee",
+          "email": "rachel.banerjee@rosenokafor.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Priya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Thu, Aug 13, 2026 at 07:29 PM, Priya Quintero <priyaq@stratusadr.com> wrote:\n> Dear Farid,\n>\n> This confirms receipt of the demand for arbitration in Northwind Energy v. Redwood Analytics. The administrative conference is scheduled for September 7. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [
+            "i037-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e031",
+      "thread_id": "i037-t017",
+      "in_reply_to": "i037-e028",
+      "references": [
+        "i037-e028"
+      ],
+      "timestamp": "2026-08-14T07:30:07.422440",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Varga",
+          "email": "svarga@vargadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2851 Embarcadero Center - lease draft",
+      "body": "Hi Sofia,\n\nWorks for me. Let's do Monday at 5:00 p.m..\n\nBest regards,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Wed, Aug 12, 2026 at 07:07 AM, Sofia Varga <svarga@vargadubois.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [
+            "i037-m03"
+          ],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e032",
+      "thread_id": "i037-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:09:02.288004",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Morgan",
+        "email": "arjun.morgan@silverpinemutual.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Farid,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Quarry.\n\nThanks,\nArjun Morgan\nClaims Specialist\nSilverpine Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e033",
+      "thread_id": "i037-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:41:02.373222",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Morgan",
+        "email": "rachelm@tidewaterrobo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Dear Farid,\n\nThe audit committee wants an update at its meeting on September 4. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nRachel Morgan\nChief Compliance Officer\nTidewater Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e034",
+      "thread_id": "i037-t019",
+      "in_reply_to": "i037-e032",
+      "references": [
+        "i037-e032"
+      ],
+      "timestamp": "2026-08-17T17:13:27.380954",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Morgan",
+          "email": "arjun.morgan@silverpinemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Arjun,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Aug 17, 2026 at 08:09 AM, Arjun Morgan <arjun.morgan@silverpinemutual.com> wrote:\n> Hi Farid,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Quarry.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [
+            "i037-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e035",
+      "thread_id": "i037-t019",
+      "in_reply_to": "i037-e034",
+      "references": [
+        "i037-e032",
+        "i037-e034"
+      ],
+      "timestamp": "2026-08-18T08:11:55.825645",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Morgan",
+        "email": "arjun.morgan@silverpinemutual.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Farid,\n\nQuick follow-up on the below. Any update?\n\nBest,\nArjun\nClaims Specialist\nSilverpine Mutual Insurance\n\nOn Mon, Aug 17, 2026 at 05:13 PM, Farid Jensen <faridj@whitakeralvarez.com> wrote:\n> Hi Arjun,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i037-e036",
+      "thread_id": "i037-t019",
+      "in_reply_to": "i037-e035",
+      "references": [
+        "i037-e032",
+        "i037-e034",
+        "i037-e035"
+      ],
+      "timestamp": "2026-08-19T09:49:15.651333",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Morgan",
+          "email": "arjun.morgan@silverpinemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Arjun,\n\nWorks for me. Let's do Tuesday at 10:30 a.m..\n\nRegards,\nFarid\nPartner\nWhitaker & Alvarez LLP\n\nOn Tue, Aug 18, 2026 at 08:11 AM, Arjun Morgan <arjun.morgan@silverpinemutual.com> wrote:\n> Dear Farid,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m02"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e037",
+      "thread_id": "i037-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T08:10:44.646453",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Weiss",
+        "email": "xavier.weiss@ironbridgerealty.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Sato",
+          "email": "ivan.sato@brightlinerobo.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hi Farid,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nThanks,\nXavier",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e038",
+      "thread_id": "i037-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T15:27:42.920118",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Nakamura",
+        "email": "jasmine.nakamura@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Farid,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nJasmine Nakamura\nAssociate\nWhitaker & Alvarez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m01",
+            "i037-m04",
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e039",
+      "thread_id": "i037-t021",
+      "in_reply_to": "i037-e037",
+      "references": [
+        "i037-e037"
+      ],
+      "timestamp": "2026-08-24T09:16:40.802902",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Weiss",
+          "email": "xavier.weiss@ironbridgerealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Sato",
+          "email": "ivan.sato@brightlinerobo.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Dear Xavier,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nRegards,\nFarid\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e040",
+      "thread_id": "i037-t021",
+      "in_reply_to": "i037-e039",
+      "references": [
+        "i037-e037",
+        "i037-e039"
+      ],
+      "timestamp": "2026-08-26T07:51:01.989233",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Weiss",
+        "email": "xavier.weiss@ironbridgerealty.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Sato",
+          "email": "ivan.sato@brightlinerobo.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Farid,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nXavier Weiss\n\nOn Mon, Aug 24, 2026 at 09:16 AM, Farid Jensen <faridj@whitakeralvarez.com> wrote:\n> Dear Xavier,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m03",
+        "matter_ids": [
+          "i037-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e041",
+      "thread_id": "i037-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T14:52:55.946790",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Dubois",
+        "email": "bdubois@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hi Farid,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nBen Dubois\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e042",
+      "thread_id": "i037-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T16:16:14.197576",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Banerjee",
+          "email": "rachel.banerjee@rosenokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nFarid\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e043",
+      "thread_id": "i037-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T20:11:39.018502",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Varga",
+        "email": "rachel.varga@northwindener.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Moreau",
+          "email": "elenam@northwindener.com"
+        }
+      ],
+      "subject": "Redwood Analytics - repeated SLA failures",
+      "body": "Farid,\n\nRedwood Analytics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nRegards,\nRachel",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m05"
+          ],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e044",
+      "thread_id": "i037-t025",
+      "in_reply_to": "i037-e043",
+      "references": [
+        "i037-e043"
+      ],
+      "timestamp": "2026-09-01T11:48:53.330656",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Varga",
+          "email": "rachel.varga@northwindener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Moreau",
+          "email": "elenam@northwindener.com"
+        }
+      ],
+      "subject": "Re: Redwood Analytics - repeated SLA failures",
+      "body": "Hi Rachel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Aug 31, 2026 at 08:11 PM, Rachel Varga <rachel.varga@northwindener.com> wrote:\n> Farid,\n>\n> Redwood Analytics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [
+            "i037-m05"
+          ],
+          "keyword_candidates": [
+            "i037-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e045",
+      "thread_id": "i037-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T13:43:51.879790",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Morgan",
+          "email": "rachelm@tidewaterrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hi Rachel,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nFarid\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e046",
+      "thread_id": "i037-t025",
+      "in_reply_to": "i037-e044",
+      "references": [
+        "i037-e043",
+        "i037-e044"
+      ],
+      "timestamp": "2026-09-02T07:30:29.890925",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Varga",
+        "email": "rachel.varga@northwindener.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Moreau",
+          "email": "elenam@northwindener.com"
+        }
+      ],
+      "subject": "Re: Redwood Analytics - repeated SLA failures",
+      "body": "Dear Farid,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nRachel Varga",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m05",
+        "matter_ids": [
+          "i037-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m05"
+          ],
+          "thread_candidates": [
+            "i037-m05"
+          ],
+          "identifier_candidates": [
+            "i037-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e047",
+      "thread_id": "i037-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T17:28:17.471261",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Huang",
+        "email": "mhuang@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hi Farid,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nRegards,\nMarcus",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e048",
+      "thread_id": "i037-t027",
+      "in_reply_to": "i037-e047",
+      "references": [
+        "i037-e047"
+      ],
+      "timestamp": "2026-09-02T19:50:06.877156",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Huang",
+          "email": "mhuang@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Marcus,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e049",
+      "thread_id": "i037-t026",
+      "in_reply_to": "i037-e045",
+      "references": [
+        "i037-e045"
+      ],
+      "timestamp": "2026-09-03T13:37:03.438376",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Morgan",
+        "email": "rachelm@tidewaterrobo.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Farid,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nRachel Morgan\nChief Compliance Officer\nTidewater Robotics\n\nOn Tue, Sep 01, 2026 at 01:43 PM, Farid Jensen <faridj@whitakeralvarez.com> wrote:\n> Hi Rachel,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": [
+            "i037-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e050",
+      "thread_id": "i037-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T15:56:53.825990",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Huang",
+        "email": "mhuang@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Farid,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nRegards,\nMarcus Huang",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e051",
+      "thread_id": "i037-t028",
+      "in_reply_to": "i037-e050",
+      "references": [
+        "i037-e050"
+      ],
+      "timestamp": "2026-09-04T10:54:44.494607",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Huang",
+          "email": "mhuang@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Marcus,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Thu, Sep 03, 2026 at 03:56 PM, Marcus Huang <mhuang@whitakeralvarez.com> wrote:\n> Farid,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i037-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e052",
+      "thread_id": "i037-t028",
+      "in_reply_to": "i037-e051",
+      "references": [
+        "i037-e050",
+        "i037-e051"
+      ],
+      "timestamp": "2026-09-07T10:38:15.137015",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Huang",
+        "email": "mhuang@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Farid,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nMarcus",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e053",
+      "thread_id": "i037-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T08:08:24.275039",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Goldberg",
+        "email": "ugoldberg@pinnaclediscovery.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hi Farid,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nThanks,\nUma\nProject Manager\nPinnacle Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e054",
+      "thread_id": "i037-t028",
+      "in_reply_to": "i037-e052",
+      "references": [
+        "i037-e050",
+        "i037-e051",
+        "i037-e052"
+      ],
+      "timestamp": "2026-09-09T08:45:40.484765",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Huang",
+          "email": "mhuang@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Marcus,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Mon, Sep 07, 2026 at 10:38 AM, Marcus Huang <mhuang@whitakeralvarez.com> wrote:\n> Farid,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m02",
+        "matter_ids": [
+          "i037-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": [
+            "i037-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e055",
+      "thread_id": "i037-t029",
+      "in_reply_to": "i037-e053",
+      "references": [
+        "i037-e053"
+      ],
+      "timestamp": "2026-09-09T13:53:32.927840",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Uma Goldberg",
+          "email": "ugoldberg@pinnaclediscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Nakamura",
+          "email": "jasmine.nakamura@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Uma,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nFarid Jensen\nPartner\nWhitaker & Alvarez LLP\n\nOn Wed, Sep 09, 2026 at 08:08 AM, Uma Goldberg <ugoldberg@pinnaclediscovery.com> wrote:\n> Hi Farid,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m04",
+        "matter_ids": [
+          "i037-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m04"
+          ],
+          "thread_candidates": [
+            "i037-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e056",
+      "thread_id": "i037-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T16:10:28.908828",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "chen.jensen@copperleaflogi.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Farid,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nRegards,\nChen Jensen\nGeneral Counsel\nCopperleaf Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e057",
+      "thread_id": "i037-t030",
+      "in_reply_to": "i037-e056",
+      "references": [
+        "i037-e056"
+      ],
+      "timestamp": "2026-09-14T09:02:19.154768",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Jensen",
+        "email": "faridj@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Chen Jensen",
+          "email": "chen.jensen@copperleaflogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Chen,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nFarid\nPartner\nWhitaker & Alvarez LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00"
+          ],
+          "thread_candidates": [
+            "i037-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e058",
+      "thread_id": "i037-t030",
+      "in_reply_to": "i037-e057",
+      "references": [
+        "i037-e056",
+        "i037-e057"
+      ],
+      "timestamp": "2026-09-14T10:47:56.650542",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Jensen",
+        "email": "chen.jensen@copperleaflogi.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Farid,\n\nWorks for me. Let's do Friday at noon.\n\nBest regards,\nChen\nGeneral Counsel\nCopperleaf Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00"
+          ],
+          "thread_candidates": [
+            "i037-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e059",
+      "thread_id": "i037-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T07:07:47.707950",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Grant",
+        "email": "cgrant@vargadubois.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Huang",
+          "email": "mhuang@whitakeralvarez.com"
+        }
+      ],
+      "subject": "Copperleaf v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nThanks,\nCarla\nPartner\nVarga & Dubois LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i037-e060",
+      "thread_id": "i037-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T16:22:51.709987",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Huang",
+        "email": "mhuang@whitakeralvarez.com"
+      },
+      "to": [
+        {
+          "name": "Farid Jensen",
+          "email": "faridj@whitakeralvarez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Farid,\n\nStatus on my matters this week:\n\n- '467 patent: protective order negotiated; infringement contentions due October 16.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- 2851 Embarcadero Center: second turn of landlord's lease draft; SNDA requested from lender.\n\nThanks,\nMarcus",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i037-m00",
+        "matter_ids": [
+          "i037-m00",
+          "i037-m02",
+          "i037-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i037-m00",
+            "i037-m03"
+          ],
+          "keyword_candidates": [
+            "i037-m00",
+            "i037-m02",
+            "i037-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700037
+}

@@ -1,0 +1,3701 @@
+{
+  "instance_id": "i041",
+  "firm": {
+    "name": "Reyes & Dubois LLP",
+    "domain": "reyesdubois.com"
+  },
+  "user_contact_id": "i041-c000",
+  "matters": [
+    {
+      "matter_id": "i041-m00",
+      "matter_number": "21664-001",
+      "name": "Vantage - Data Security Incident",
+      "client": "Vantage Labs",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Vantage Labs's customer database. Forensics by Wavecrest Cyber.",
+      "counterparty": "Wavecrest Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-29",
+      "key_terms": [
+        "21664-001",
+        "Wavecrest Cyber",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c012",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i041-c013",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i041-m01",
+      "matter_number": "26202-001",
+      "name": "Yusuf Xu v. Lattice",
+      "client": "Lattice Labs",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Yusuf Xu against Lattice Labs. Case No. 5:26-cv-07271.",
+      "counterparty": "Yusuf Xu",
+      "opposing_counsel_firm": "Rosen & Iyer LLP",
+      "status": "open",
+      "opened_on": "2026-06-14",
+      "key_terms": [
+        "26202-001",
+        "Yusuf Xu",
+        "Xu",
+        "5:26-cv-07271"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i041-c016",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i041-m02",
+      "matter_number": "28054-001",
+      "name": "Halcyon - California DOJ Investigation (CID No. 2026-910)",
+      "client": "Halcyon Labs",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Halcyon Labs's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "28054-001",
+        "2026-910",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i041-c019",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i041-m03",
+      "matter_number": "98386-001",
+      "name": "Trellis - Series A Financing",
+      "client": "Trellis Health",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Trellis Health, led by Corvid Ventures. Raising ~$60 million.",
+      "counterparty": "Corvid Ventures",
+      "opposing_counsel_firm": "Osei & Castillo LLP",
+      "status": "open",
+      "opened_on": "2026-07-21",
+      "key_terms": [
+        "98386-001",
+        "Series A",
+        "Corvid Ventures",
+        "Corvid"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i041-c022",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i041-c023",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i041-m04",
+      "matter_number": "12963-001",
+      "name": "Copperleaf - Headquarters Lease (2674 Page Mill Road)",
+      "client": "Copperleaf Energy",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Copperleaf Energy's new headquarters at 2674 Page Mill Road, landlord Tidewater Properties LLC.",
+      "counterparty": "Tidewater Properties LLC",
+      "opposing_counsel_firm": "Ferreira & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-07-29",
+      "key_terms": [
+        "12963-001",
+        "2674 Page Mill Road",
+        "Tidewater Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c024",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c025",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i041-c026",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i041-m05",
+      "matter_number": "19980-001",
+      "name": "Nimbus v. Evergreen ('681 Patent)",
+      "client": "Nimbus Analytics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Nimbus Analytics against Evergreen Logistics asserting U.S. Patent No. 10,681,596.",
+      "counterparty": "Evergreen Logistics",
+      "opposing_counsel_firm": "Rosen & Iyer LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "19980-001",
+        "10,681,596",
+        "'681",
+        "Evergreen Logistics",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i041-c010",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i041-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i041-c027",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i041-c028",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i041-c029",
+          "role": "technical_expert"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i041-c000",
+      "name": "Rafael Delgado",
+      "first": "Rafael",
+      "email": "rafael.delgado@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c001",
+      "name": "Arjun Jensen",
+      "first": "Arjun",
+      "email": "arjunj@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c002",
+      "name": "Whitney Banerjee",
+      "first": "Whitney",
+      "email": "wbanerjee@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c003",
+      "name": "Uma Zhang",
+      "first": "Uma",
+      "email": "umaz@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c004",
+      "name": "Uma Novak",
+      "first": "Uma",
+      "email": "uman@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c005",
+      "name": "Farid Thompson",
+      "first": "Farid",
+      "email": "fthompson@vantagelabs.com",
+      "organization": "Vantage Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c006",
+      "name": "Samuel Eriksen",
+      "first": "Samuel",
+      "email": "seriksen@latticelabs.com",
+      "organization": "Lattice Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c007",
+      "name": "Liam Nakamura",
+      "first": "Liam",
+      "email": "liamn@halcyonlabs.com",
+      "organization": "Halcyon Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c008",
+      "name": "Carla Novak",
+      "first": "Carla",
+      "email": "carla.novak@trellisheal.com",
+      "organization": "Trellis Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c009",
+      "name": "Gabriel Goldberg",
+      "first": "Gabriel",
+      "email": "gabriel.goldberg@copperleafener.com",
+      "organization": "Copperleaf Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c010",
+      "name": "Bianca Abbott",
+      "first": "Bianca",
+      "email": "biancaa@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c011",
+      "name": "Diego Goldberg",
+      "first": "Diego",
+      "email": "diego.goldberg@vantagelabs.com",
+      "organization": "Vantage Labs",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c012",
+      "name": "James Delgado",
+      "first": "James",
+      "email": "jamesd@wavecrestcyber.com",
+      "organization": "Wavecrest Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c013",
+      "name": "Emma Whitaker",
+      "first": "Emma",
+      "email": "emma.whitaker@keystonemutual.com",
+      "organization": "Keystone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c014",
+      "name": "Pedro Varga",
+      "first": "Pedro",
+      "email": "pvarga@latticelabs.com",
+      "organization": "Lattice Labs",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c015",
+      "name": "Rachel Mendoza",
+      "first": "Rachel",
+      "email": "rmendoza@roseniyer.com",
+      "organization": "Rosen & Iyer LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c016",
+      "name": "Ben Laurent",
+      "first": "Ben",
+      "email": "benl@marineradr.com",
+      "organization": "Mariner Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c017",
+      "name": "Nadia Moreau",
+      "first": "Nadia",
+      "email": "nmoreau@halcyonlabs.com",
+      "organization": "Halcyon Labs",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c018",
+      "name": "Pedro Ferreira",
+      "first": "Pedro",
+      "email": "pedro.ferreira@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c019",
+      "name": "Priya Yamamoto",
+      "first": "Priya",
+      "email": "priya.yamamoto@orcharddiscovery.com",
+      "organization": "Orchard Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c020",
+      "name": "Grace Laurent",
+      "first": "Grace",
+      "email": "glaurent@trellisheal.com",
+      "organization": "Trellis Health",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c021",
+      "name": "Aisha Park",
+      "first": "Aisha",
+      "email": "aisha.park@oseicastillo.com",
+      "organization": "Osei & Castillo LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c022",
+      "name": "Pedro Chowdhury",
+      "first": "Pedro",
+      "email": "pedro.chowdhury@corvidvc.com",
+      "organization": "Corvid Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c023",
+      "name": "Umar Dubois",
+      "first": "Umar",
+      "email": "udubois@parallaxvc.com",
+      "organization": "Parallax Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c024",
+      "name": "Kenji Vasquez",
+      "first": "Kenji",
+      "email": "kvasquez@copperleafener.com",
+      "organization": "Copperleaf Energy",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c025",
+      "name": "Xavier Weiss",
+      "first": "Xavier",
+      "email": "xweiss@ferreirarosen.com",
+      "organization": "Ferreira & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c026",
+      "name": "Xavier Sato",
+      "first": "Xavier",
+      "email": "xsato@silverpinerealty.com",
+      "organization": "Silverpine Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c027",
+      "name": "Arjun Fischer",
+      "first": "Arjun",
+      "email": "arjun.fischer@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c028",
+      "name": "Ximena Laurent",
+      "first": "Ximena",
+      "email": "ximenal@roseniyer.com",
+      "organization": "Rosen & Iyer LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c029",
+      "name": "Olivia Varga",
+      "first": "Olivia",
+      "email": "ovarga@redwoodtech.com",
+      "organization": "Redwood Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c030",
+      "name": "Umar Morgan",
+      "first": "Umar",
+      "email": "umar.morgan@brightlinetech.com",
+      "organization": "Brightline Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i041-c031",
+      "name": "Wei Dubois",
+      "first": "Wei",
+      "email": "wei.dubois@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c032",
+      "name": "Ben Moreau",
+      "first": "Ben",
+      "email": "bmoreau@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i041-c033",
+      "name": "Valerie Patel",
+      "first": "Valerie",
+      "email": "valerie.patel@reyesdubois.com",
+      "organization": "Reyes & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i041-e000",
+      "thread_id": "i041-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T13:19:25.129612",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Patel",
+        "email": "valerie.patel@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Dear Rafael,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nThanks,\nValerie\nMarketing Coordinator\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e001",
+      "thread_id": "i041-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T08:17:26.436936",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Moreau",
+        "email": "bmoreau@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Dear Rafael,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest,\nBen Moreau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e002",
+      "thread_id": "i041-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:19:35.963230",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Eriksen",
+        "email": "seriksen@latticelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hello Rafael,\n\nBefore the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nSamuel Eriksen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m01",
+        "matter_ids": [
+          "i041-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e003",
+      "thread_id": "i041-t002",
+      "in_reply_to": "i041-e002",
+      "references": [
+        "i041-e002"
+      ],
+      "timestamp": "2026-06-29T16:59:26.917848",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Eriksen",
+          "email": "seriksen@latticelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Samuel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Mon, Jun 29, 2026 at 09:19 AM, Samuel Eriksen <seriksen@latticelabs.com> wrote:\n> Hello Rafael,\n>\n> Before the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m01",
+        "matter_ids": [
+          "i041-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01"
+          ],
+          "thread_candidates": [
+            "i041-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e004",
+      "thread_id": "i041-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T08:34:49.952907",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Goldberg",
+        "email": "diego.goldberg@vantagelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Thompson",
+          "email": "fthompson@vantagelabs.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hello Rafael,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Wavecrest Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?\n\nBest,\nDiego Goldberg\nChief Information Security Officer\nVantage Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m00"
+          ],
+          "keyword_candidates": [
+            "i041-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e005",
+      "thread_id": "i041-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T10:22:46.070118",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Ferreira",
+        "email": "pedro.ferreira@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-910 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nRegards,\nPedro\nStaff Attorney\nCalifornia Department of Justice",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m02"
+          ],
+          "keyword_candidates": [
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e006",
+      "thread_id": "i041-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T14:04:10.491877",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Yamamoto",
+        "email": "priya.yamamoto@orcharddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Rafael,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nPriya Yamamoto",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e007",
+      "thread_id": "i041-t004",
+      "in_reply_to": "i041-e005",
+      "references": [
+        "i041-e005"
+      ],
+      "timestamp": "2026-07-06T09:24:57.305521",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Ferreira",
+          "email": "pedro.ferreira@doj.ca.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-910 - meet and confer",
+      "body": "Dear Pedro,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Fri, Jul 03, 2026 at 10:22 AM, Pedro Ferreira <pedro.ferreira@doj.ca.gov> wrote:\n> Counsel,\n>\n> Following up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [
+            "i041-m02"
+          ],
+          "keyword_candidates": [
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e008",
+      "thread_id": "i041-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T09:31:28.327763",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Mendoza",
+        "email": "rmendoza@roseniyer.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Yusuf Xu v. Lattice - Case No. 5:26-cv-07271",
+      "body": "Hi Rafael,\n\nPlease see attached the complaint filed today in Yusuf Xu v. Lattice Labs, Case No. 5:26-cv-07271. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Lattice.\n\nBest,\nRachel Mendoza",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m01",
+        "matter_ids": [
+          "i041-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m01"
+          ],
+          "keyword_candidates": [
+            "i041-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e009",
+      "thread_id": "i041-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:03:33.745893",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Varga",
+          "email": "pvarga@latticelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Hi Pedro,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nBest,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m01",
+        "matter_ids": [
+          "i041-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e010",
+      "thread_id": "i041-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:02:46.856691",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Dubois",
+        "email": "wei.dubois@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Rafael,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest,\nWei Dubois\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e011",
+      "thread_id": "i041-t007",
+      "in_reply_to": "i041-e009",
+      "references": [
+        "i041-e009"
+      ],
+      "timestamp": "2026-07-14T10:27:26.172274",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Varga",
+        "email": "pvarga@latticelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Litigation hold notice",
+      "body": "Hello Rafael,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nPedro Varga\nHead of People\nLattice Labs\n\nOn Mon, Jul 13, 2026 at 08:03 AM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Hi Pedro,\n>\n> Attached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m01",
+        "matter_ids": [
+          "i041-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01"
+          ],
+          "thread_candidates": [
+            "i041-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e012",
+      "thread_id": "i041-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T16:18:29.752791",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Diego Goldberg",
+          "email": "diego.goldberg@vantagelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Thompson",
+          "email": "fthompson@vantagelabs.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hi Diego,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Wavecrest.\n\nThanks,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e013",
+      "thread_id": "i041-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T07:37:48.276883",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Laurent",
+        "email": "ximenal@roseniyer.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Nimbus v. Evergreen - proposed protective order",
+      "body": "Rafael,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Monday.\n\nBest regards,\nXimena\nPartner\nRosen & Iyer LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e014",
+      "thread_id": "i041-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:56:36.193813",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Thompson",
+        "email": "fthompson@vantagelabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Dear Rafael,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest,\nFarid Thompson\nGeneral Counsel\nVantage Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e015",
+      "thread_id": "i041-t010",
+      "in_reply_to": "i041-e013",
+      "references": [
+        "i041-e013"
+      ],
+      "timestamp": "2026-07-27T12:12:34.377787",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Laurent",
+          "email": "ximenal@roseniyer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Nimbus v. Evergreen - proposed protective order",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Mon, Jul 27, 2026 at 07:37 AM, Ximena Laurent <ximenal@roseniyer.com> wrote:\n> Rafael,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e016",
+      "thread_id": "i041-t011",
+      "in_reply_to": "i041-e014",
+      "references": [
+        "i041-e014"
+      ],
+      "timestamp": "2026-07-28T08:42:04.373824",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Farid Thompson",
+          "email": "fthompson@vantagelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Farid,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Mon, Jul 27, 2026 at 08:56 AM, Farid Thompson <fthompson@vantagelabs.com> wrote:\n> Dear Rafael,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": [
+            "i041-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e017",
+      "thread_id": "i041-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T09:47:20.555525",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Whitaker",
+        "email": "emma.whitaker@keystonemutual.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Rafael,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Wavecrest.\n\nBest regards,\nEmma Whitaker\nClaims Specialist\nKeystone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e018",
+      "thread_id": "i041-t010",
+      "in_reply_to": "i041-e015",
+      "references": [
+        "i041-e013",
+        "i041-e015"
+      ],
+      "timestamp": "2026-07-29T09:41:25.157714",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Laurent",
+        "email": "ximenal@roseniyer.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Nimbus v. Evergreen - proposed protective order",
+      "body": "Hi Rafael,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nXimena\nPartner\nRosen & Iyer LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e019",
+      "thread_id": "i041-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-29T19:23:07.421964",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Nadia,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e020",
+      "thread_id": "i041-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T15:24:17.900137",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Novak",
+        "email": "uman@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Trellis",
+      "body": "Hi Rafael,\n\nPre-bills for Trellis Health are ready for your review:\n\n- 98386-001  Trellis - Series A Financing\n\nPlease mark up and return by August 4.\n\nThanks,\nUma\nBilling Coordinator\nReyes & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e021",
+      "thread_id": "i041-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T08:42:08.533346",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Park",
+        "email": "aisha.park@oseicastillo.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Trellis Series A - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by August 27. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nAisha",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [
+            "i041-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e022",
+      "thread_id": "i041-t015",
+      "in_reply_to": "i041-e021",
+      "references": [
+        "i041-e021"
+      ],
+      "timestamp": "2026-08-06T11:20:42.288556",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Park",
+          "email": "aisha.park@oseicastillo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Trellis Series A - draft financing documents",
+      "body": "Dear Aisha,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nRafael\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e023",
+      "thread_id": "i041-t015",
+      "in_reply_to": "i041-e022",
+      "references": [
+        "i041-e021",
+        "i041-e022"
+      ],
+      "timestamp": "2026-08-07T10:32:23.074792",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Park",
+        "email": "aisha.park@oseicastillo.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Trellis Series A - draft financing documents",
+      "body": "Counsel,\n\nAdding Whitney, who will handle the day-to-day on this.\n\nBest,\nAisha Park",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e024",
+      "thread_id": "i041-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T17:52:05.915191",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Nakamura",
+        "email": "liamn@halcyonlabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Rafael,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest,\nLiam Nakamura\nGeneral Counsel\nHalcyon Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e025",
+      "thread_id": "i041-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T09:00:31.677688",
+      "folder": "inbox",
+      "from": {
+        "name": "James Delgado",
+        "email": "jamesd@wavecrestcyber.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Goldberg",
+          "email": "diego.goldberg@vantagelabs.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear Rafael,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest regards,\nJames Delgado\nIncident Response Lead\nWavecrest Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m00"
+          ],
+          "keyword_candidates": [
+            "i041-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e026",
+      "thread_id": "i041-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:25:03.175565",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Weiss",
+        "email": "xweiss@ferreirarosen.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2674 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nBest regards,\nXavier",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m04"
+          ],
+          "keyword_candidates": [
+            "i041-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e027",
+      "thread_id": "i041-t018",
+      "in_reply_to": "i041-e026",
+      "references": [
+        "i041-e026"
+      ],
+      "timestamp": "2026-08-24T09:18:29.635962",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Weiss",
+          "email": "xweiss@ferreirarosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2674 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nWorks for me. Let's do Friday at noon.\n\nRegards,\nRafael\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": [
+            "i041-m04"
+          ],
+          "identifier_candidates": [
+            "i041-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e028",
+      "thread_id": "i041-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:56:17.011305",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Nakamura",
+        "email": "liamn@halcyonlabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hi Rafael,\n\nWe received a Civil Investigative Demand from the California Department of Justice this morning (CID No. 2026-910). It asks for documents about our customer data practices going back to 2021. The return date is September 17. Can you call me?\n\nBest regards,\nLiam\nGeneral Counsel\nHalcyon Labs",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m02"
+          ],
+          "keyword_candidates": [
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e029",
+      "thread_id": "i041-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T07:50:54.025287",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Banerjee",
+        "email": "wbanerjee@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Rafael,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nRegards,\nWhitney",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00",
+            "i041-m02",
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i041-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e030",
+      "thread_id": "i041-t019",
+      "in_reply_to": "i041-e028",
+      "references": [
+        "i041-e028"
+      ],
+      "timestamp": "2026-08-25T09:07:58.048567",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Liam Nakamura",
+          "email": "liamn@halcyonlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Liam,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Mon, Aug 24, 2026 at 10:56 AM, Liam Nakamura <liamn@halcyonlabs.com> wrote:\n> Hi Rafael,\n>\n> We received a Civil Investigative Demand from the California Department of Justice this morning (CID No. 2026-910). It asks for documents about our customer data practices going back to 2021. The return date is September 17. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [
+            "i041-m02"
+          ],
+          "keyword_candidates": [
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e031",
+      "thread_id": "i041-t019",
+      "in_reply_to": "i041-e030",
+      "references": [
+        "i041-e028",
+        "i041-e030"
+      ],
+      "timestamp": "2026-08-25T20:03:34.612188",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Nakamura",
+        "email": "liamn@halcyonlabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Rafael,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nLiam Nakamura\nGeneral Counsel\nHalcyon Labs\n\nOn Tue, Aug 25, 2026 at 09:07 AM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Dear Liam,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e032",
+      "thread_id": "i041-t020",
+      "in_reply_to": "i041-e029",
+      "references": [
+        "i041-e029"
+      ],
+      "timestamp": "2026-08-26T07:26:01.304310",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hi Whitney,\n\nWorks for me. Let's do Monday at 2:00 p.m..\n\nBest regards,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Tue, Aug 25, 2026 at 07:50 AM, Whitney Banerjee <wbanerjee@reyesdubois.com> wrote:\n> Hi Rafael,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00",
+            "i041-m02",
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i041-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e033",
+      "thread_id": "i041-t019",
+      "in_reply_to": "i041-e031",
+      "references": [
+        "i041-e028",
+        "i041-e030",
+        "i041-e031"
+      ],
+      "timestamp": "2026-08-27T09:54:40.049084",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Liam Nakamura",
+          "email": "liamn@halcyonlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Liam,\n\nAdding Whitney, who will handle the day-to-day on this.\n\nBest,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Tue, Aug 25, 2026 at 08:03 PM, Liam Nakamura <liamn@halcyonlabs.com> wrote:\n> Hi Rafael,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e034",
+      "thread_id": "i041-t020",
+      "in_reply_to": "i041-e032",
+      "references": [
+        "i041-e029",
+        "i041-e032"
+      ],
+      "timestamp": "2026-08-27T12:30:16.911514",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Banerjee",
+        "email": "wbanerjee@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Rafael,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nWhitney Banerjee\n\nOn Wed, Aug 26, 2026 at 07:26 AM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Hi Whitney,\n>\n> Works for me. Let's do Monday at 2:00 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00",
+            "i041-m02",
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e035",
+      "thread_id": "i041-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T12:14:17.733088",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Novak",
+        "email": "uman@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Halcyon",
+      "body": "Hi Rafael,\n\nPre-bills for Halcyon Labs are ready for your review:\n\n- 28054-001  Halcyon - California DOJ Investigation (CID No. 2026-910)\n\nPlease mark up and return by September 4.\n\nRegards,\nUma\nBilling Coordinator\nReyes & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m02"
+          ],
+          "keyword_candidates": [
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e036",
+      "thread_id": "i041-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T15:30:47.343713",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nmoreau@halcyonlabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello Rafael,\n\nThe audit committee wants an update at its meeting on September 14. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nNadia\nChief Compliance Officer\nHalcyon Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i041-e037",
+      "thread_id": "i041-t022",
+      "in_reply_to": "i041-e036",
+      "references": [
+        "i041-e036"
+      ],
+      "timestamp": "2026-09-04T12:58:12.227250",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Nadia,\n\nAdding Whitney, who will handle the day-to-day on this.\n\nThanks,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Wed, Sep 02, 2026 at 03:30 PM, Nadia Moreau <nmoreau@halcyonlabs.com> wrote:\n> Hello Rafael,\n>\n> The audit committee wants an update at its meeting on September 14. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e038",
+      "thread_id": "i041-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:15:46.761542",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Fischer",
+        "email": "arjun.fischer@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Abbott",
+          "email": "biancaa@nimbusanal.com"
+        }
+      ],
+      "subject": "Evergreen Logistics product launch - possible infringement of '681 patent",
+      "body": "Hello Rafael,\n\nOur engineers looked at the product Evergreen Logistics launched last month and believe it practices claims 1 and 7 of our '681 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nArjun",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [
+            "i041-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e039",
+      "thread_id": "i041-t022",
+      "in_reply_to": "i041-e037",
+      "references": [
+        "i041-e036",
+        "i041-e037"
+      ],
+      "timestamp": "2026-09-07T08:34:38.385611",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nmoreau@halcyonlabs.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Rafael,\n\nWorks for me. Let's do Friday at 10:30 a.m..\n\nRegards,\nNadia Moreau\nChief Compliance Officer\nHalcyon Labs\n\nOn Fri, Sep 04, 2026 at 12:58 PM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Dear Nadia,\n>\n> Adding Whitney, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e040",
+      "thread_id": "i041-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T20:43:56.408158",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Morgan",
+        "email": "umar.morgan@brightlinetech.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "subject": "Engagement - source code review",
+      "body": "Rafael,\n\nFollowing up on the call with Arjun: we can start the source code review for the '681 patent matter on September 16. Our conflicts check against Evergreen Logistics came back clear. Engagement letter attached.\n\nThanks,\nUmar Morgan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01",
+            "i041-m03",
+            "i041-m04",
+            "i041-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e041",
+      "thread_id": "i041-t023",
+      "in_reply_to": "i041-e038",
+      "references": [
+        "i041-e038"
+      ],
+      "timestamp": "2026-09-08T16:35:29.029061",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Fischer",
+          "email": "arjun.fischer@nimbusanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Abbott",
+          "email": "biancaa@nimbusanal.com"
+        }
+      ],
+      "subject": "Re: Evergreen Logistics product launch - possible infringement of '681 patent",
+      "body": "Dear Arjun,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Mon, Sep 07, 2026 at 08:15 AM, Arjun Fischer <arjun.fischer@nimbusanal.com> wrote:\n> Hello Rafael,\n>\n> Our engineers looked at the product Evergreen Logistics launched last month and believe it practices claims 1 and 7 of our '681 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [
+            "i041-m05"
+          ],
+          "keyword_candidates": [
+            "i041-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e042",
+      "thread_id": "i041-t022",
+      "in_reply_to": "i041-e039",
+      "references": [
+        "i041-e036",
+        "i041-e037",
+        "i041-e039"
+      ],
+      "timestamp": "2026-09-09T07:42:06.658322",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nmoreau@halcyonlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Nadia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Mon, Sep 07, 2026 at 08:34 AM, Nadia Moreau <nmoreau@halcyonlabs.com> wrote:\n> Rafael,\n>\n> Works for me. Let's do Friday at 10:30 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m02",
+        "matter_ids": [
+          "i041-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m02"
+          ],
+          "thread_candidates": [
+            "i041-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e043",
+      "thread_id": "i041-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T18:13:07.468952",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Vasquez",
+        "email": "kvasquez@copperleafener.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Rafael,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest,\nKenji Vasquez\nDirector of Real Estate\nCopperleaf Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e044",
+      "thread_id": "i041-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T09:07:51.691291",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Novak",
+        "email": "carla.novak@trellisheal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hi Rafael,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest regards,\nCarla Novak\nGeneral Counsel\nTrellis Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e045",
+      "thread_id": "i041-t026",
+      "in_reply_to": "i041-e044",
+      "references": [
+        "i041-e044"
+      ],
+      "timestamp": "2026-09-16T11:12:27.474769",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Carla Novak",
+          "email": "carla.novak@trellisheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hello Carla,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Wed, Sep 16, 2026 at 09:07 AM, Carla Novak <carla.novak@trellisheal.com> wrote:\n> Hi Rafael,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e046",
+      "thread_id": "i041-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-17T12:11:43.511752",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Banerjee",
+        "email": "wbanerjee@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Rafael,\n\nStatus on my matters this week:\n\n- Security incident: forensics report pending; consumer notification letters in draft.\n- California DOJ CID: collection 80% complete; first rolling production targeted for October 4.\n- Series A: financing docs in negotiation with Corvid's counsel; cap table reconciliation in progress.\n\nBest,\nWhitney Banerjee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m00",
+        "matter_ids": [
+          "i041-m00",
+          "i041-m02",
+          "i041-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m00",
+            "i041-m02",
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [
+            "i041-m00",
+            "i041-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e047",
+      "thread_id": "i041-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T14:30:16.380292",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Grace Laurent",
+          "email": "glaurent@trellisheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Grace,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest regards,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [
+            "i041-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e048",
+      "thread_id": "i041-t028",
+      "in_reply_to": "i041-e047",
+      "references": [
+        "i041-e047"
+      ],
+      "timestamp": "2026-09-21T10:37:46.215668",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Laurent",
+        "email": "glaurent@trellisheal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Rafael,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nGrace Laurent\nChief Executive Officer\nTrellis Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e049",
+      "thread_id": "i041-t028",
+      "in_reply_to": "i041-e048",
+      "references": [
+        "i041-e047",
+        "i041-e048"
+      ],
+      "timestamp": "2026-09-22T08:40:10.263422",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Grace Laurent",
+          "email": "glaurent@trellisheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hi Grace,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nRafael Delgado\nPartner\nReyes & Dubois LLP\n\nOn Mon, Sep 21, 2026 at 10:37 AM, Grace Laurent <glaurent@trellisheal.com> wrote:\n> Dear Rafael,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e050",
+      "thread_id": "i041-t028",
+      "in_reply_to": "i041-e049",
+      "references": [
+        "i041-e047",
+        "i041-e048",
+        "i041-e049"
+      ],
+      "timestamp": "2026-09-22T16:37:30.072488",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Laurent",
+        "email": "glaurent@trellisheal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Banerjee",
+          "email": "wbanerjee@reyesdubois.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Rafael,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nGrace Laurent\nChief Executive Officer\nTrellis Health\n\nOn Tue, Sep 22, 2026 at 08:40 AM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Hi Grace,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e051",
+      "thread_id": "i041-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T20:39:54.465379",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Goldberg",
+        "email": "gabriel.goldberg@copperleafener.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Rafael,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nGabriel Goldberg\nGeneral Counsel\nCopperleaf Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e052",
+      "thread_id": "i041-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T08:28:18.190759",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Jensen",
+        "email": "arjunj@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hello Rafael,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nArjun Jensen\nSenior Associate\nReyes & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01",
+            "i041-m03",
+            "i041-m04",
+            "i041-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e053",
+      "thread_id": "i041-t029",
+      "in_reply_to": "i041-e051",
+      "references": [
+        "i041-e051"
+      ],
+      "timestamp": "2026-09-28T10:39:07.178940",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Goldberg",
+          "email": "gabriel.goldberg@copperleafener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Gabriel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": [
+            "i041-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e054",
+      "thread_id": "i041-t029",
+      "in_reply_to": "i041-e053",
+      "references": [
+        "i041-e051",
+        "i041-e053"
+      ],
+      "timestamp": "2026-09-29T07:20:33.119827",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Goldberg",
+        "email": "gabriel.goldberg@copperleafener.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hi Rafael,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest,\nGabriel Goldberg\nGeneral Counsel\nCopperleaf Energy\n\nOn Mon, Sep 28, 2026 at 10:39 AM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Hello Gabriel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": [
+            "i041-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e055",
+      "thread_id": "i041-t029",
+      "in_reply_to": "i041-e054",
+      "references": [
+        "i041-e051",
+        "i041-e053",
+        "i041-e054"
+      ],
+      "timestamp": "2026-09-29T10:35:34.951672",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Goldberg",
+          "email": "gabriel.goldberg@copperleafener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Gabriel,\n\nAdding Arjun, who will handle the day-to-day on this.\n\nThanks,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Tue, Sep 29, 2026 at 07:20 AM, Gabriel Goldberg <gabriel.goldberg@copperleafener.com> wrote:\n> Hi Rafael,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": [
+            "i041-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e056",
+      "thread_id": "i041-t030",
+      "in_reply_to": "i041-e052",
+      "references": [
+        "i041-e052"
+      ],
+      "timestamp": "2026-09-29T15:01:47.012792",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Arjun,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Mon, Sep 28, 2026 at 08:28 AM, Arjun Jensen <arjunj@reyesdubois.com> wrote:\n> Hello Rafael,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01",
+            "i041-m03",
+            "i041-m04",
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e057",
+      "thread_id": "i041-t030",
+      "in_reply_to": "i041-e056",
+      "references": [
+        "i041-e052",
+        "i041-e056"
+      ],
+      "timestamp": "2026-09-30T09:53:59.807376",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Jensen",
+        "email": "arjunj@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Dear Rafael,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nArjun Jensen\nSenior Associate\nReyes & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 29, 2026 at 03:01 PM, Rafael Delgado <rafael.delgado@reyesdubois.com> wrote:\n> Arjun,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01",
+            "i041-m03",
+            "i041-m04",
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e058",
+      "thread_id": "i041-t030",
+      "in_reply_to": "i041-e057",
+      "references": [
+        "i041-e052",
+        "i041-e056",
+        "i041-e057"
+      ],
+      "timestamp": "2026-10-01T08:03:37.711242",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Jensen",
+          "email": "arjunj@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Dear Arjun,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nRafael\nPartner\nReyes & Dubois LLP\n\nOn Wed, Sep 30, 2026 at 09:53 AM, Arjun Jensen <arjunj@reyesdubois.com> wrote:\n> Dear Rafael,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m05",
+        "matter_ids": [
+          "i041-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i041-m01",
+            "i041-m03",
+            "i041-m04",
+            "i041-m05"
+          ],
+          "thread_candidates": [
+            "i041-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e059",
+      "thread_id": "i041-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-01T16:13:39.045360",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Vasquez",
+        "email": "kvasquez@copperleafener.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2674 Page Mill Road",
+      "body": "Rafael,\n\nWe've agreed on a non-binding LOI with Tidewater Properties LLC for about 42,000 RSF at 2674 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nKenji Vasquez\nDirector of Real Estate\nCopperleaf Energy",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m04",
+        "matter_ids": [
+          "i041-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m04"
+          ],
+          "keyword_candidates": [
+            "i041-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e060",
+      "thread_id": "i041-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-06T08:10:29.167133",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Laurent",
+        "email": "glaurent@trellisheal.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Delgado",
+          "email": "rafael.delgado@reyesdubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Novak",
+          "email": "carla.novak@trellisheal.com"
+        }
+      ],
+      "subject": "Series A term sheet from Corvid Ventures",
+      "body": "Rafael,\n\nWe received the attached term sheet from Corvid Ventures last night: $60 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Thursday?\n\nBest regards,\nGrace Laurent\nChief Executive Officer\nTrellis Health",
+      "attachments": [
+        "Corvid Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [
+            "i041-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i041-e061",
+      "thread_id": "i041-t032",
+      "in_reply_to": "i041-e060",
+      "references": [
+        "i041-e060"
+      ],
+      "timestamp": "2026-10-06T19:30:56.451159",
+      "folder": "sent",
+      "from": {
+        "name": "Rafael Delgado",
+        "email": "rafael.delgado@reyesdubois.com"
+      },
+      "to": [
+        {
+          "name": "Grace Laurent",
+          "email": "glaurent@trellisheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Novak",
+          "email": "carla.novak@trellisheal.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Corvid Ventures",
+      "body": "Hi Grace,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nRafael Delgado\nPartner\nReyes & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i041-m03",
+        "matter_ids": [
+          "i041-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i041-m03"
+          ],
+          "thread_candidates": [
+            "i041-m03"
+          ],
+          "identifier_candidates": [
+            "i041-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700041
+}

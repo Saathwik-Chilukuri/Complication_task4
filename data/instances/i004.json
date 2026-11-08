@@ -1,0 +1,3883 @@
+{
+  "instance_id": "i004",
+  "firm": {
+    "name": "Kowalski & Okafor LLP",
+    "domain": "kowalskiokafor.com"
+  },
+  "user_contact_id": "i004-c000",
+  "matters": [
+    {
+      "matter_id": "i004-m00",
+      "matter_number": "29413-001",
+      "name": "Copperleaf - Series C Financing",
+      "client": "Copperleaf Foods",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Copperleaf Foods, led by Silverpine Ventures. Raising ~$40 million.",
+      "counterparty": "Silverpine Ventures",
+      "opposing_counsel_firm": "Ziegler & Chowdhury LLP",
+      "status": "open",
+      "opened_on": "2026-06-20",
+      "key_terms": [
+        "29413-001",
+        "Series C",
+        "Silverpine Ventures",
+        "Silverpine"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i004-c012",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i004-c013",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i004-m01",
+      "matter_number": "24113-001",
+      "name": "Parallax - Data Security Incident",
+      "client": "Parallax Foods",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Parallax Foods's customer database. Forensics by Tidewater Cyber.",
+      "counterparty": "Tidewater Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "24113-001",
+        "Tidewater Cyber",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c015",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i004-c016",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i004-m02",
+      "matter_number": "69397-001",
+      "name": "Redwood - Headquarters Lease (1129 Embarcadero Center)",
+      "client": "Redwood Labs",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Redwood Labs's new headquarters at 1129 Embarcadero Center, landlord Northwind Properties LLC.",
+      "counterparty": "Northwind Properties LLC",
+      "opposing_counsel_firm": "Ferreira & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-07-08",
+      "key_terms": [
+        "69397-001",
+        "1129 Embarcadero Center",
+        "Northwind Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i004-c019",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i004-m03",
+      "matter_number": "24354-001",
+      "name": "Stratus v. Lattice ('850 Patent)",
+      "client": "Stratus Labs",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Stratus Labs against Lattice Systems asserting U.S. Patent No. 10,850,914.",
+      "counterparty": "Lattice Systems",
+      "opposing_counsel_firm": "Chowdhury & Novak LLP",
+      "status": "open",
+      "opened_on": "2026-06-04",
+      "key_terms": [
+        "24354-001",
+        "10,850,914",
+        "'850",
+        "Lattice Systems",
+        "Lattice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i004-c022",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i004-m04",
+      "matter_number": "30011-001",
+      "name": "Solace - Acquisition of Sterling Systems (Project Juniper)",
+      "client": "Solace Robotics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Sterling Systems by Solace Robotics. Stock purchase, ~$410 million.",
+      "counterparty": "Sterling Systems",
+      "opposing_counsel_firm": "Ziegler & Chowdhury LLP",
+      "status": "open",
+      "opened_on": "2026-06-06",
+      "key_terms": [
+        "30011-001",
+        "Project Juniper",
+        "Juniper",
+        "Sterling Systems",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c023",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i004-c024",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i004-m05",
+      "matter_number": "84075-001",
+      "name": "Pinnacle - Series A Financing",
+      "client": "Pinnacle Therapeutics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Pinnacle Therapeutics, led by Riverstone Ventures. Raising ~$25 million.",
+      "counterparty": "Riverstone Ventures",
+      "opposing_counsel_firm": "Osei & Abbott LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "84075-001",
+        "Series A",
+        "Riverstone Ventures",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i004-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i004-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i004-c025",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i004-c026",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i004-c027",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i004-c028",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i004-c000",
+      "name": "Gabriel Sato",
+      "first": "Gabriel",
+      "email": "gabriels@kowalskiokafor.com",
+      "organization": "Kowalski & Okafor LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i004-c001",
+      "name": "Valerie Novak",
+      "first": "Valerie",
+      "email": "valerie.novak@kowalskiokafor.com",
+      "organization": "Kowalski & Okafor LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i004-c002",
+      "name": "Quinn Banerjee",
+      "first": "Quinn",
+      "email": "quinn.banerjee@kowalskiokafor.com",
+      "organization": "Kowalski & Okafor LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i004-c003",
+      "name": "Femi Zhang",
+      "first": "Femi",
+      "email": "femiz@kowalskiokafor.com",
+      "organization": "Kowalski & Okafor LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i004-c004",
+      "name": "Isabel Park",
+      "first": "Isabel",
+      "email": "isabelp@copperleaffood.com",
+      "organization": "Copperleaf Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c005",
+      "name": "Thomas Lindqvist",
+      "first": "Thomas",
+      "email": "tlindqvist@parallaxfood.com",
+      "organization": "Parallax Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c006",
+      "name": "Yara Abbott",
+      "first": "Yara",
+      "email": "yaraa@redwoodlabs.com",
+      "organization": "Redwood Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c007",
+      "name": "Elena Eriksen",
+      "first": "Elena",
+      "email": "eeriksen@stratuslabs.com",
+      "organization": "Stratus Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c008",
+      "name": "Arjun Park",
+      "first": "Arjun",
+      "email": "arjunp@solacerobo.com",
+      "organization": "Solace Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c009",
+      "name": "Liam Castillo",
+      "first": "Liam",
+      "email": "lcastillo@pinnaclether.com",
+      "organization": "Pinnacle Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c010",
+      "name": "Quinn Castillo",
+      "first": "Quinn",
+      "email": "qcastillo@copperleaffood.com",
+      "organization": "Copperleaf Foods",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c011",
+      "name": "Pedro Reyes",
+      "first": "Pedro",
+      "email": "pedror@zieglerchowdhury.com",
+      "organization": "Ziegler & Chowdhury LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c012",
+      "name": "Yara Yamamoto",
+      "first": "Yara",
+      "email": "yaray@silverpinevc.com",
+      "organization": "Silverpine Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c013",
+      "name": "Femi Chowdhury",
+      "first": "Femi",
+      "email": "femi.chowdhury@bluefinvc.com",
+      "organization": "Bluefin Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c014",
+      "name": "Quinn Grant",
+      "first": "Quinn",
+      "email": "qgrant@parallaxfood.com",
+      "organization": "Parallax Foods",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c015",
+      "name": "Femi Tanaka",
+      "first": "Femi",
+      "email": "femi.tanaka@tidewatercyber.com",
+      "organization": "Tidewater Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c016",
+      "name": "Yusuf Young",
+      "first": "Yusuf",
+      "email": "yusufy@ironbridgemutual.com",
+      "organization": "Ironbridge Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c017",
+      "name": "Maya Eriksen",
+      "first": "Maya",
+      "email": "maya.eriksen@redwoodlabs.com",
+      "organization": "Redwood Labs",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c018",
+      "name": "James Moreau",
+      "first": "James",
+      "email": "jamesm@ferreirashah.com",
+      "organization": "Ferreira & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c019",
+      "name": "Liam Kaplan",
+      "first": "Liam",
+      "email": "liamk@orchardrealty.com",
+      "organization": "Orchard Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c020",
+      "name": "Wei Morgan",
+      "first": "Wei",
+      "email": "wei.morgan@stratuslabs.com",
+      "organization": "Stratus Labs",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c021",
+      "name": "Bianca Delgado",
+      "first": "Bianca",
+      "email": "bianca.delgado@chowdhurynovak.com",
+      "organization": "Chowdhury & Novak LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c022",
+      "name": "Kavya Dubois",
+      "first": "Kavya",
+      "email": "kdubois@amberlytech.com",
+      "organization": "Amberly Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c023",
+      "name": "Valerie Ziegler",
+      "first": "Valerie",
+      "email": "valeriez@solacerobo.com",
+      "organization": "Solace Robotics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c024",
+      "name": "Kenji Novak",
+      "first": "Kenji",
+      "email": "kenjin@nimbustrust.com",
+      "organization": "Nimbus Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c025",
+      "name": "Kavya Grant",
+      "first": "Kavya",
+      "email": "kavya.grant@pinnaclether.com",
+      "organization": "Pinnacle Therapeutics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c026",
+      "name": "Elena Vasquez",
+      "first": "Elena",
+      "email": "evasquez@oseiabbott.com",
+      "organization": "Osei & Abbott LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c027",
+      "name": "Thomas Morgan",
+      "first": "Thomas",
+      "email": "thomasm@riverstonevc.com",
+      "organization": "Riverstone Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c028",
+      "name": "Ben Underwood",
+      "first": "Ben",
+      "email": "bunderwood@quarryvc.com",
+      "organization": "Quarry Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c029",
+      "name": "Daniel Young",
+      "first": "Daniel",
+      "email": "daniely@corvidbank.com",
+      "organization": "Corvid Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i004-c030",
+      "name": "Pedro Tanaka",
+      "first": "Pedro",
+      "email": "ptanaka@kowalskiokafor.com",
+      "organization": "Kowalski & Okafor LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i004-c031",
+      "name": "Carla Morgan",
+      "first": "Carla",
+      "email": "carlam@lumenanal.com",
+      "organization": "Lumen Analytics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i004-e000",
+      "thread_id": "i004-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T09:01:32.761755",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Dubois",
+        "email": "kdubois@amberlytech.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear Gabriel,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by June 22.\n\nBest,\nKavya Dubois\nPrincipal\nAmberly Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e001",
+      "thread_id": "i004-t000",
+      "in_reply_to": "i004-e000",
+      "references": [
+        "i004-e000"
+      ],
+      "timestamp": "2026-06-08T12:46:48.870986",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Dubois",
+          "email": "kdubois@amberlytech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Kavya,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nGabriel\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Jun 08, 2026 at 09:01 AM, Kavya Dubois <kdubois@amberlytech.com> wrote:\n> Dear Gabriel,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by June 22.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e002",
+      "thread_id": "i004-t000",
+      "in_reply_to": "i004-e001",
+      "references": [
+        "i004-e000",
+        "i004-e001"
+      ],
+      "timestamp": "2026-06-09T07:21:27.029783",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Dubois",
+        "email": "kdubois@amberlytech.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Gabriel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nKavya Dubois\nPrincipal\nAmberly Technical Consulting\n\nOn Mon, Jun 08, 2026 at 12:46 PM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Kavya,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e003",
+      "thread_id": "i004-t000",
+      "in_reply_to": "i004-e002",
+      "references": [
+        "i004-e000",
+        "i004-e001",
+        "i004-e002"
+      ],
+      "timestamp": "2026-06-10T09:11:52.932446",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Dubois",
+          "email": "kdubois@amberlytech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hi Kavya,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e004",
+      "thread_id": "i004-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T13:07:45.481809",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ziegler",
+        "email": "valeriez@solacerobo.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Project Juniper - LOI countersigned",
+      "body": "Hello Gabriel,\n\nGood news: Sterling Systems countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nBest,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m04"
+          ],
+          "keyword_candidates": [
+            "i004-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e005",
+      "thread_id": "i004-t001",
+      "in_reply_to": "i004-e004",
+      "references": [
+        "i004-e004"
+      ],
+      "timestamp": "2026-06-26T09:55:04.283976",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Ziegler",
+          "email": "valeriez@solacerobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Project Juniper - LOI countersigned",
+      "body": "Hi Valerie,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest regards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Wed, Jun 24, 2026 at 01:07 PM, Valerie Ziegler <valeriez@solacerobo.com> wrote:\n> Hello Gabriel,\n>\n> Good news: Sterling Systems countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": [
+            "i004-m04"
+          ],
+          "identifier_candidates": [
+            "i004-m04"
+          ],
+          "keyword_candidates": [
+            "i004-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e006",
+      "thread_id": "i004-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-26T12:01:43.181307",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Castillo",
+          "email": "qcastillo@copperleaffood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Quinn,\n\nAttached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nRegards,\nGabriel\nPartner\nKowalski & Okafor LLP",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m00"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e007",
+      "thread_id": "i004-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:54:02.834383",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Lindqvist",
+        "email": "tlindqvist@parallaxfood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Dear Gabriel,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nRegards,\nThomas Lindqvist",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e008",
+      "thread_id": "i004-t002",
+      "in_reply_to": "i004-e006",
+      "references": [
+        "i004-e006"
+      ],
+      "timestamp": "2026-06-29T09:20:45.289133",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Castillo",
+        "email": "qcastillo@copperleaffood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Gabriel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nQuinn Castillo\nChief Executive Officer\nCopperleaf Foods\n\nOn Fri, Jun 26, 2026 at 12:01 PM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Quinn,\n>\n> Attached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [
+            "i004-m00"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e009",
+      "thread_id": "i004-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:26:19.344906",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Novak",
+        "email": "valerie.novak@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Juniper - disclosure schedules open items",
+      "body": "Hi Gabriel,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Sterling's counsel directly?\n\nBest regards,\nValerie\nAssociate\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m04"
+          ],
+          "keyword_candidates": [
+            "i004-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e010",
+      "thread_id": "i004-t001",
+      "in_reply_to": "i004-e005",
+      "references": [
+        "i004-e004",
+        "i004-e005"
+      ],
+      "timestamp": "2026-06-29T10:18:23.781857",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ziegler",
+        "email": "valeriez@solacerobo.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Project Juniper - LOI countersigned",
+      "body": "Gabriel,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nThanks,\nValerie Ziegler\n\nOn Fri, Jun 26, 2026 at 09:55 AM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hi Valerie,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": [
+            "i004-m04"
+          ],
+          "identifier_candidates": [
+            "i004-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e011",
+      "thread_id": "i004-t004",
+      "in_reply_to": "i004-e009",
+      "references": [
+        "i004-e009"
+      ],
+      "timestamp": "2026-06-30T11:19:14.894631",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Juniper - disclosure schedules open items",
+      "body": "Dear Valerie,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nGabriel\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m04"
+          ],
+          "identifier_candidates": [
+            "i004-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e012",
+      "thread_id": "i004-t002",
+      "in_reply_to": "i004-e008",
+      "references": [
+        "i004-e006",
+        "i004-e008"
+      ],
+      "timestamp": "2026-06-30T19:26:37.428278",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Castillo",
+          "email": "qcastillo@copperleaffood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Quinn,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nGabriel\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Jun 29, 2026 at 09:20 AM, Quinn Castillo <qcastillo@copperleaffood.com> wrote:\n> Dear Gabriel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e013",
+      "thread_id": "i004-t002",
+      "in_reply_to": "i004-e012",
+      "references": [
+        "i004-e006",
+        "i004-e008",
+        "i004-e012"
+      ],
+      "timestamp": "2026-07-02T07:53:05.428882",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Castillo",
+        "email": "qcastillo@copperleaffood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Gabriel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nQuinn Castillo\nChief Executive Officer\nCopperleaf Foods\n\nOn Tue, Jun 30, 2026 at 07:26 PM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hello Quinn,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e014",
+      "thread_id": "i004-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T14:13:15.284692",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Morgan",
+        "email": "wei.morgan@stratuslabs.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Eriksen",
+          "email": "eeriksen@stratuslabs.com"
+        }
+      ],
+      "subject": "Lattice Systems product launch - possible infringement of '850 patent",
+      "body": "Hello Gabriel,\n\nOur engineers looked at the product Lattice Systems launched last month and believe it practices claims 1 and 7 of our '850 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest,\nWei Morgan\nChief Technology Officer\nStratus Labs",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m03"
+          ],
+          "keyword_candidates": [
+            "i004-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e015",
+      "thread_id": "i004-t005",
+      "in_reply_to": "i004-e014",
+      "references": [
+        "i004-e014"
+      ],
+      "timestamp": "2026-07-06T10:28:33.247266",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Wei Morgan",
+          "email": "wei.morgan@stratuslabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Eriksen",
+          "email": "eeriksen@stratuslabs.com"
+        }
+      ],
+      "subject": "Re: Lattice Systems product launch - possible infringement of '850 patent",
+      "body": "Hello Wei,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nBest,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Fri, Jul 03, 2026 at 02:13 PM, Wei Morgan <wei.morgan@stratuslabs.com> wrote:\n> Hello Gabriel,\n>\n> Our engineers looked at the product Lattice Systems launched last month and believe it practices claims 1 and 7 of our '850 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [
+            "i004-m03"
+          ],
+          "keyword_candidates": [
+            "i004-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e016",
+      "thread_id": "i004-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:36:03.986813",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Delgado",
+        "email": "bianca.delgado@chowdhurynovak.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Stratus v. Lattice - proposed protective order",
+      "body": "Gabriel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nThanks,\nBianca\nPartner\nChowdhury & Novak LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e017",
+      "thread_id": "i004-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T07:30:29.590914",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Eriksen",
+        "email": "eeriksen@stratuslabs.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Gabriel,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nThanks,\nElena Eriksen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e018",
+      "thread_id": "i004-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T08:48:29.294574",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Eriksen",
+        "email": "eeriksen@stratuslabs.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Gabriel,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nElena Eriksen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e019",
+      "thread_id": "i004-t007",
+      "in_reply_to": "i004-e017",
+      "references": [
+        "i004-e017"
+      ],
+      "timestamp": "2026-07-24T08:15:19.661128",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Elena Eriksen",
+          "email": "eeriksen@stratuslabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Elena,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Wed, Jul 22, 2026 at 07:30 AM, Elena Eriksen <eeriksen@stratuslabs.com> wrote:\n> Gabriel,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e020",
+      "thread_id": "i004-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:04:51.034271",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Young",
+        "email": "yusufy@ironbridgemutual.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Gabriel,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Tidewater.\n\nBest regards,\nYusuf Young",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e021",
+      "thread_id": "i004-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:06:04.921824",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Reyes",
+          "email": "pedror@zieglerchowdhury.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Valerie and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nThanks,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e022",
+      "thread_id": "i004-t007",
+      "in_reply_to": "i004-e019",
+      "references": [
+        "i004-e017",
+        "i004-e019"
+      ],
+      "timestamp": "2026-07-27T08:50:51.916405",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Eriksen",
+        "email": "eeriksen@stratuslabs.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Gabriel,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nElena Eriksen\n\nOn Fri, Jul 24, 2026 at 08:15 AM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Dear Elena,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e023",
+      "thread_id": "i004-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:56:27.056705",
+      "folder": "inbox",
+      "from": {
+        "name": "James Moreau",
+        "email": "jamesm@ferreirashah.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1129 Embarcadero Center - lease draft",
+      "body": "Dear Gabriel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nBest,\nJames Moreau\nPartner\nFerreira & Shah LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m02"
+          ],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e024",
+      "thread_id": "i004-t007",
+      "in_reply_to": "i004-e022",
+      "references": [
+        "i004-e017",
+        "i004-e019",
+        "i004-e022"
+      ],
+      "timestamp": "2026-07-27T17:56:43.772335",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Elena Eriksen",
+          "email": "eeriksen@stratuslabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Elena,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Jul 27, 2026 at 08:50 AM, Elena Eriksen <eeriksen@stratuslabs.com> wrote:\n> Dear Gabriel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m03"
+          ],
+          "thread_candidates": [
+            "i004-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e025",
+      "thread_id": "i004-t009",
+      "in_reply_to": "i004-e020",
+      "references": [
+        "i004-e020"
+      ],
+      "timestamp": "2026-07-28T07:56:50.686757",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Young",
+          "email": "yusufy@ironbridgemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Yusuf,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": [
+            "i004-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e026",
+      "thread_id": "i004-t011",
+      "in_reply_to": "i004-e023",
+      "references": [
+        "i004-e023"
+      ],
+      "timestamp": "2026-07-28T18:22:16.334268",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "James Moreau",
+          "email": "jamesm@ferreirashah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1129 Embarcadero Center - lease draft",
+      "body": "Hello James,\n\nQuick follow-up on the below. Any update?\n\nBest,\nGabriel\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Jul 27, 2026 at 10:56 AM, James Moreau <jamesm@ferreirashah.com> wrote:\n> Dear Gabriel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [
+            "i004-m02"
+          ],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e027",
+      "thread_id": "i004-t009",
+      "in_reply_to": "i004-e025",
+      "references": [
+        "i004-e020",
+        "i004-e025"
+      ],
+      "timestamp": "2026-07-29T09:16:55.518872",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Young",
+        "email": "yusufy@ironbridgemutual.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Gabriel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nYusuf Young\n\nOn Tue, Jul 28, 2026 at 07:56 AM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hi Yusuf,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": [
+            "i004-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e028",
+      "thread_id": "i004-t011",
+      "in_reply_to": "i004-e026",
+      "references": [
+        "i004-e023",
+        "i004-e026"
+      ],
+      "timestamp": "2026-07-30T09:44:18.857336",
+      "folder": "inbox",
+      "from": {
+        "name": "James Moreau",
+        "email": "jamesm@ferreirashah.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1129 Embarcadero Center - lease draft",
+      "body": "Dear Gabriel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nJames\nPartner\nFerreira & Shah LLP\n\nOn Tue, Jul 28, 2026 at 06:22 PM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hello James,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [
+            "i004-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e029",
+      "thread_id": "i004-t011",
+      "in_reply_to": "i004-e028",
+      "references": [
+        "i004-e023",
+        "i004-e026",
+        "i004-e028"
+      ],
+      "timestamp": "2026-07-30T16:19:37.001688",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "James Moreau",
+          "email": "jamesm@ferreirashah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1129 Embarcadero Center - lease draft",
+      "body": "Dear James,\n\nWorks for me. Let's do Wednesday at 10:30 a.m..\n\nThanks,\nGabriel\nPartner\nKowalski & Okafor LLP\n\nOn Thu, Jul 30, 2026 at 09:44 AM, James Moreau <jamesm@ferreirashah.com> wrote:\n> Dear Gabriel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [
+            "i004-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e030",
+      "thread_id": "i004-t009",
+      "in_reply_to": "i004-e027",
+      "references": [
+        "i004-e020",
+        "i004-e025",
+        "i004-e027"
+      ],
+      "timestamp": "2026-07-31T07:49:11.835645",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Young",
+          "email": "yusufy@ironbridgemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello Yusuf,\n\nWorks for me. Let's do Thursday at noon.\n\nRegards,\nGabriel\nPartner\nKowalski & Okafor LLP\n\nOn Wed, Jul 29, 2026 at 09:16 AM, Yusuf Young <yusufy@ironbridgemutual.com> wrote:\n> Gabriel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": [
+            "i004-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e031",
+      "thread_id": "i004-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T08:00:35.535968",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Banerjee",
+        "email": "quinn.banerjee@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hi Gabriel,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nQuinn Banerjee\nAssociate\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m01",
+            "i004-m02",
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e032",
+      "thread_id": "i004-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T11:14:19.359603",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Zhang",
+        "email": "femiz@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Pinnacle",
+      "body": "Gabriel,\n\nPre-bills for Pinnacle Therapeutics are ready for your review:\n\n- 84075-001  Pinnacle - Series A Financing\n\nPlease mark up and return by August 4.\n\nBest regards,\nFemi Zhang\nBilling Coordinator\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e033",
+      "thread_id": "i004-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T18:30:10.666060",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Novak",
+        "email": "valerie.novak@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Gabriel,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nThanks,\nValerie Novak\nAssociate\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e034",
+      "thread_id": "i004-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T08:59:12.883039",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kavya.grant@pinnaclether.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Liam Castillo",
+          "email": "lcastillo@pinnaclether.com"
+        }
+      ],
+      "subject": "Series A term sheet from Riverstone Ventures",
+      "body": "Gabriel,\n\nWe received the attached term sheet from Riverstone Ventures last night: $25 million at a $90 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Wednesday?\n\nRegards,\nKavya Grant\nChief Executive Officer\nPinnacle Therapeutics",
+      "attachments": [
+        "Riverstone Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m05"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e035",
+      "thread_id": "i004-t014",
+      "in_reply_to": "i004-e033",
+      "references": [
+        "i004-e033"
+      ],
+      "timestamp": "2026-08-06T20:25:24.309075",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hello Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nGabriel\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e036",
+      "thread_id": "i004-t014",
+      "in_reply_to": "i004-e035",
+      "references": [
+        "i004-e033",
+        "i004-e035"
+      ],
+      "timestamp": "2026-08-10T08:15:20.497686",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Novak",
+        "email": "valerie.novak@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Gabriel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nValerie Novak\nAssociate\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 06, 2026 at 08:25 PM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hello Valerie,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e037",
+      "thread_id": "i004-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:04:37.781756",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "James Moreau",
+          "email": "jamesm@ferreirashah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest,\nGabriel\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e038",
+      "thread_id": "i004-t016",
+      "in_reply_to": "i004-e037",
+      "references": [
+        "i004-e037"
+      ],
+      "timestamp": "2026-08-11T09:56:11.605904",
+      "folder": "inbox",
+      "from": {
+        "name": "James Moreau",
+        "email": "jamesm@ferreirashah.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Dear Gabriel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nJames Moreau\nPartner\nFerreira & Shah LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i004-e039",
+      "thread_id": "i004-t014",
+      "in_reply_to": "i004-e036",
+      "references": [
+        "i004-e033",
+        "i004-e035",
+        "i004-e036"
+      ],
+      "timestamp": "2026-08-11T15:54:04.048058",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hello Valerie,\n\nAdding Quinn, who will handle the day-to-day on this.\n\nBest regards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Aug 10, 2026 at 08:15 AM, Valerie Novak <valerie.novak@kowalskiokafor.com> wrote:\n> Gabriel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e040",
+      "thread_id": "i004-t016",
+      "in_reply_to": "i004-e038",
+      "references": [
+        "i004-e037",
+        "i004-e038"
+      ],
+      "timestamp": "2026-08-12T08:46:14.534269",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "James Moreau",
+          "email": "jamesm@ferreirashah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Banerjee",
+          "email": "quinn.banerjee@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Dear James,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Tue, Aug 11, 2026 at 09:56 AM, James Moreau <jamesm@ferreirashah.com> wrote:\n> Dear Gabriel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e041",
+      "thread_id": "i004-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T16:02:20.301102",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Young",
+        "email": "daniely@corvidbank.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "SNDA request",
+      "body": "Gabriel,\n\nWe received a request for an SNDA in favor of Redwood Labs. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nThanks,\nDaniel Young",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e042",
+      "thread_id": "i004-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:59:46.454331",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Park",
+        "email": "arjunp@solacerobo.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Gabriel,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nArjun Park",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e043",
+      "thread_id": "i004-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:24:34.002745",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Grant",
+          "email": "qgrant@parallaxfood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Lindqvist",
+          "email": "tlindqvist@parallaxfood.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Quinn,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Tidewater.\n\nThanks,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e044",
+      "thread_id": "i004-t018",
+      "in_reply_to": "i004-e042",
+      "references": [
+        "i004-e042"
+      ],
+      "timestamp": "2026-08-18T09:27:19.499653",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Park",
+          "email": "arjunp@solacerobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Dear Arjun,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Aug 17, 2026 at 09:59 AM, Arjun Park <arjunp@solacerobo.com> wrote:\n> Hello Gabriel,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": [
+            "i004-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e045",
+      "thread_id": "i004-t018",
+      "in_reply_to": "i004-e044",
+      "references": [
+        "i004-e042",
+        "i004-e044"
+      ],
+      "timestamp": "2026-08-19T07:11:31.190327",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Park",
+        "email": "arjunp@solacerobo.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Gabriel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nArjun",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m04",
+        "matter_ids": [
+          "i004-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m04"
+          ],
+          "thread_candidates": [
+            "i004-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e046",
+      "thread_id": "i004-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T20:04:29.733648",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Castillo",
+        "email": "qcastillo@copperleaffood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Isabel Park",
+          "email": "isabelp@copperleaffood.com"
+        }
+      ],
+      "subject": "Series C term sheet from Silverpine Ventures",
+      "body": "Gabriel,\n\nWe received the attached term sheet from Silverpine Ventures last night: $40 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Wednesday?\n\nThanks,\nQuinn Castillo\nChief Executive Officer\nCopperleaf Foods",
+      "attachments": [
+        "Silverpine Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m00"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e047",
+      "thread_id": "i004-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T20:59:04.339946",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Tanaka",
+        "email": "femi.tanaka@tidewatercyber.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Grant",
+          "email": "qgrant@parallaxfood.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Gabriel,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nThanks,\nFemi Tanaka\nIncident Response Lead\nTidewater Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m01"
+          ],
+          "keyword_candidates": [
+            "i004-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e048",
+      "thread_id": "i004-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:58:32.701468",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Park",
+        "email": "isabelp@copperleaffood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Gabriel,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nRegards,\nIsabel Park\nGeneral Counsel\nCopperleaf Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e049",
+      "thread_id": "i004-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T10:58:13.169537",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Park",
+        "email": "isabelp@copperleaffood.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Gabriel,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nIsabel\nGeneral Counsel\nCopperleaf Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e050",
+      "thread_id": "i004-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:23:44.076153",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Novak",
+        "email": "valerie.novak@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Gabriel,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nRegards,\nValerie Novak\nAssociate\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e051",
+      "thread_id": "i004-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:11:41.781162",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Banerjee",
+        "email": "quinn.banerjee@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Dear Gabriel,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest,\nQuinn Banerjee\nAssociate\nKowalski & Okafor LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m01",
+        "matter_ids": [
+          "i004-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m01",
+            "i004-m02",
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i004-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e052",
+      "thread_id": "i004-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:24:50.892496",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Abbott",
+        "email": "yaraa@redwoodlabs.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Gabriel,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nRegards,\nYara\nGeneral Counsel\nRedwood Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e053",
+      "thread_id": "i004-t024",
+      "in_reply_to": "i004-e050",
+      "references": [
+        "i004-e050"
+      ],
+      "timestamp": "2026-08-24T10:54:53.010423",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Dear Valerie,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nGabriel\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03",
+            "i004-m04",
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e054",
+      "thread_id": "i004-t026",
+      "in_reply_to": "i004-e052",
+      "references": [
+        "i004-e052"
+      ],
+      "timestamp": "2026-08-26T08:48:39.563012",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Yara Abbott",
+          "email": "yaraa@redwoodlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello Yara,\n\nWorks for me. Let's do Thursday at 3:30 p.m..\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Aug 24, 2026 at 09:24 AM, Yara Abbott <yaraa@redwoodlabs.com> wrote:\n> Dear Gabriel,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m02",
+        "matter_ids": [
+          "i004-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m02"
+          ],
+          "thread_candidates": [
+            "i004-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e055",
+      "thread_id": "i004-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:38:49.337655",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Grant",
+          "email": "kavya.grant@pinnaclether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Kavya,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m05"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e056",
+      "thread_id": "i004-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T16:26:54.019525",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Zhang",
+        "email": "femiz@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Stratus",
+      "body": "Hello Gabriel,\n\nPre-bills for Stratus Labs are ready for your review:\n\n- 24354-001  Stratus v. Lattice ('850 Patent)\n\nPlease mark up and return by September 4.\n\nBest regards,\nFemi\nBilling Coordinator\nKowalski & Okafor LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m03",
+        "matter_ids": [
+          "i004-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e057",
+      "thread_id": "i004-t027",
+      "in_reply_to": "i004-e055",
+      "references": [
+        "i004-e055"
+      ],
+      "timestamp": "2026-09-01T14:48:24.374827",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kavya.grant@pinnaclether.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Gabriel,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nKavya Grant\nChief Executive Officer\nPinnacle Therapeutics\n\nOn Mon, Aug 31, 2026 at 10:38 AM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Kavya,\n>\n> Attached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m05"
+          ],
+          "identifier_candidates": [
+            "i004-m05"
+          ],
+          "keyword_candidates": [
+            "i004-m00",
+            "i004-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e058",
+      "thread_id": "i004-t027",
+      "in_reply_to": "i004-e057",
+      "references": [
+        "i004-e055",
+        "i004-e057"
+      ],
+      "timestamp": "2026-09-02T08:54:29.776251",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Grant",
+          "email": "kavya.grant@pinnaclether.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Novak",
+          "email": "valerie.novak@kowalskiokafor.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Kavya,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e059",
+      "thread_id": "i004-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T19:50:27.683209",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Morgan",
+        "email": "carlam@lumenanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Gabriel,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nThanks,\nCarla Morgan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e060",
+      "thread_id": "i004-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T20:15:24.898564",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Tanaka",
+        "email": "ptanaka@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Gabriel,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nPedro",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e061",
+      "thread_id": "i004-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T07:37:30.281153",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Banerjee",
+        "email": "quinn.banerjee@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Gabriel,\n\nStatus on my matters this week:\n\n- Series C: financing docs in negotiation with Silverpine's counsel; cap table reconciliation in progress.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- 1129 Embarcadero Center: second turn of landlord's lease draft; SNDA requested from lender.\n- '850 patent: protective order negotiated; infringement contentions due September 21.\n\nBest,\nQuinn Banerjee\nAssociate\nKowalski & Okafor LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m00",
+        "matter_ids": [
+          "i004-m00",
+          "i004-m01",
+          "i004-m02",
+          "i004-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m00",
+            "i004-m01",
+            "i004-m02",
+            "i004-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i004-m00",
+            "i004-m02",
+            "i004-m03"
+          ],
+          "keyword_candidates": [
+            "i004-m01",
+            "i004-m02",
+            "i004-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e062",
+      "thread_id": "i004-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:56:13.507672",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Castillo",
+        "email": "lcastillo@pinnaclether.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hi Gabriel,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nLiam Castillo\nGeneral Counsel\nPinnacle Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e063",
+      "thread_id": "i004-t032",
+      "in_reply_to": "i004-e062",
+      "references": [
+        "i004-e062"
+      ],
+      "timestamp": "2026-09-14T10:31:21.932180",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Sato",
+        "email": "gabriels@kowalskiokafor.com"
+      },
+      "to": [
+        {
+          "name": "Liam Castillo",
+          "email": "lcastillo@pinnaclether.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hello Liam,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nRegards,\nGabriel Sato\nPartner\nKowalski & Okafor LLP\n\nOn Mon, Sep 14, 2026 at 08:56 AM, Liam Castillo <lcastillo@pinnaclether.com> wrote:\n> Hi Gabriel,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i004-e064",
+      "thread_id": "i004-t032",
+      "in_reply_to": "i004-e063",
+      "references": [
+        "i004-e062",
+        "i004-e063"
+      ],
+      "timestamp": "2026-09-15T08:36:17.555117",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Castillo",
+        "email": "lcastillo@pinnaclether.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Sato",
+          "email": "gabriels@kowalskiokafor.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hi Gabriel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nLiam Castillo\nGeneral Counsel\nPinnacle Therapeutics\n\nOn Mon, Sep 14, 2026 at 10:31 AM, Gabriel Sato <gabriels@kowalskiokafor.com> wrote:\n> Hello Liam,\n>\n> Adding Valerie, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i004-m05",
+        "matter_ids": [
+          "i004-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i004-m05"
+          ],
+          "thread_candidates": [
+            "i004-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700004
+}

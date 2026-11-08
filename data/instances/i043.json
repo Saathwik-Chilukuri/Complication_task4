@@ -1,0 +1,2058 @@
+{
+  "instance_id": "i043",
+  "firm": {
+    "name": "Okafor & Ellis LLP",
+    "domain": "okaforellis.com"
+  },
+  "user_contact_id": "i043-c000",
+  "matters": [
+    {
+      "matter_id": "i043-m00",
+      "matter_number": "62492-001",
+      "name": "Riverstone v. Mariner (MSA Dispute)",
+      "client": "Riverstone Biosciences",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Riverstone Biosciences against vendor Mariner Energy.",
+      "counterparty": "Mariner Energy",
+      "opposing_counsel_firm": "Grant & Ito LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "62492-001",
+        "Mariner Energy",
+        "Mariner"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i043-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i043-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i043-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i043-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i043-c009",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i043-m01",
+      "matter_number": "24153-001",
+      "name": "Tidewater - Acquisition of Northwind Analytics (Project Orion)",
+      "client": "Tidewater Health",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Northwind Analytics by Tidewater Health. Stock purchase, ~$650 million.",
+      "counterparty": "Northwind Analytics",
+      "opposing_counsel_firm": "Brennan & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "24153-001",
+        "Project Orion",
+        "Orion",
+        "Northwind Analytics",
+        "Northwind"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i043-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i043-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i043-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i043-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i043-c012",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i043-m02",
+      "matter_number": "62492-002",
+      "name": "Riverstone - Headquarters Lease (2078 Page Mill Road)",
+      "client": "Riverstone Biosciences",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Riverstone Biosciences's new headquarters at 2078 Page Mill Road, landlord Lattice Properties LLC.",
+      "counterparty": "Lattice Properties LLC",
+      "opposing_counsel_firm": "Haddad & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "62492-002",
+        "2078 Page Mill Road",
+        "Lattice Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i043-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i043-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i043-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i043-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i043-c015",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i043-c000",
+      "name": "Sofia Quintero",
+      "first": "Sofia",
+      "email": "sofia.quintero@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c001",
+      "name": "Uma Iyer",
+      "first": "Uma",
+      "email": "uma.iyer@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c002",
+      "name": "Pedro Okafor",
+      "first": "Pedro",
+      "email": "pedro.okafor@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c003",
+      "name": "Zoe Ellis",
+      "first": "Zoe",
+      "email": "zoe.ellis@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c004",
+      "name": "Aisha Xu",
+      "first": "Aisha",
+      "email": "aisha.xu@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c005",
+      "name": "Arjun Thompson",
+      "first": "Arjun",
+      "email": "athompson@riverstonebios.com",
+      "organization": "Riverstone Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c006",
+      "name": "Liam Novak",
+      "first": "Liam",
+      "email": "lnovak@tidewaterheal.com",
+      "organization": "Tidewater Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c007",
+      "name": "Kenji Dubois",
+      "first": "Kenji",
+      "email": "kenjid@riverstonebios.com",
+      "organization": "Riverstone Biosciences",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c008",
+      "name": "Kenji Chowdhury",
+      "first": "Kenji",
+      "email": "kenji.chowdhury@grantito.com",
+      "organization": "Grant & Ito LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c009",
+      "name": "Umar Kaplan",
+      "first": "Umar",
+      "email": "umark@pinnacleadr.com",
+      "organization": "Pinnacle Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c010",
+      "name": "Xavier Thompson",
+      "first": "Xavier",
+      "email": "xthompson@tidewaterheal.com",
+      "organization": "Tidewater Health",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c011",
+      "name": "Isabel Fischer",
+      "first": "Isabel",
+      "email": "isabelf@brennanunderwood.com",
+      "organization": "Brennan & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c012",
+      "name": "Arjun Yamamoto",
+      "first": "Arjun",
+      "email": "ayamamoto@orchardtrust.com",
+      "organization": "Orchard Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c013",
+      "name": "Daniel Xu",
+      "first": "Daniel",
+      "email": "danielx@riverstonebios.com",
+      "organization": "Riverstone Biosciences",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c014",
+      "name": "James Osei",
+      "first": "James",
+      "email": "jameso@haddadokafor.com",
+      "organization": "Haddad & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c015",
+      "name": "Yara Ferreira",
+      "first": "Yara",
+      "email": "yferreira@vantagerealty.com",
+      "organization": "Vantage Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c016",
+      "name": "Kavya Quintero",
+      "first": "Kavya",
+      "email": "kquintero@brennanunderwood.com",
+      "organization": "Brennan & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c017",
+      "name": "Ivan Varga",
+      "first": "Ivan",
+      "email": "ivarga@ironbridgebank.com",
+      "organization": "Ironbridge Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i043-c018",
+      "name": "Nadia Ito",
+      "first": "Nadia",
+      "email": "nito@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i043-c019",
+      "name": "Maya Ito",
+      "first": "Maya",
+      "email": "maya.ito@okaforellis.com",
+      "organization": "Okafor & Ellis LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i043-e000",
+      "thread_id": "i043-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T16:02:34.768640",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Sofia,\n\nTwo quick things.\n\n1. On the Mariner dispute, their account team reached out to our COO again.\n2. On the 2078 Page Mill Road lease, the broker says the landlord moved on TI. Did you see that?\n\nRegards,\nArjun",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00",
+          "i043-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e001",
+      "thread_id": "i043-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T19:11:04.192788",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello Sofia,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nThanks,\nArjun Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e002",
+      "thread_id": "i043-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:19:00.830876",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Okafor",
+        "email": "pedro.okafor@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Sofia,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nPedro Okafor\nAssociate\nOkafor & Ellis LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e003",
+      "thread_id": "i043-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T09:41:41.428168",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Thompson",
+        "email": "xthompson@tidewaterheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Project Orion - LOI countersigned",
+      "body": "Hello Sofia,\n\nGood news: Northwind Analytics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nXavier Thompson\nVP, Corporate Development\nTidewater Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e004",
+      "thread_id": "i043-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:20:31.335932",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Sofia,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nArjun",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e005",
+      "thread_id": "i043-t003",
+      "in_reply_to": "i043-e003",
+      "references": [
+        "i043-e003"
+      ],
+      "timestamp": "2026-07-27T08:25:26.619611",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Thompson",
+          "email": "xthompson@tidewaterheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Re: Project Orion - LOI countersigned",
+      "body": "Hi Xavier,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nSofia Quintero\n\nOn Thu, Jul 23, 2026 at 09:41 AM, Xavier Thompson <xthompson@tidewaterheal.com> wrote:\n> Hello Sofia,\n>\n> Good news: Northwind Analytics countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e006",
+      "thread_id": "i043-t004",
+      "in_reply_to": "i043-e004",
+      "references": [
+        "i043-e004"
+      ],
+      "timestamp": "2026-07-29T08:56:04.115506",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Thompson",
+          "email": "athompson@riverstonebios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hi Arjun,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nSofia Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": [
+            "i043-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e007",
+      "thread_id": "i043-t004",
+      "in_reply_to": "i043-e006",
+      "references": [
+        "i043-e004",
+        "i043-e006"
+      ],
+      "timestamp": "2026-07-30T09:26:23.028028",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hi Sofia,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nArjun\n\nOn Wed, Jul 29, 2026 at 08:56 AM, Sofia Quintero <sofia.quintero@okaforellis.com> wrote:\n> Hi Arjun,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": [
+            "i043-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e008",
+      "thread_id": "i043-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:48:15.758808",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Ito",
+        "email": "nito@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Sofia,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nNadia\nMarketing Coordinator\nOkafor & Ellis LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e009",
+      "thread_id": "i043-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T08:02:52.275537",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "ayamamoto@orchardtrust.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hello Sofia,\n\nTo open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nBest regards,\nArjun Yamamoto",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e010",
+      "thread_id": "i043-t006",
+      "in_reply_to": "i043-e009",
+      "references": [
+        "i043-e009"
+      ],
+      "timestamp": "2026-08-04T20:45:49.255421",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "ayamamoto@orchardtrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Arjun,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nSofia Quintero\n\nOn Tue, Aug 04, 2026 at 08:02 AM, Arjun Yamamoto <ayamamoto@orchardtrust.com> wrote:\n> Hello Sofia,\n>\n> To open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e011",
+      "thread_id": "i043-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T08:09:18.130879",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Iyer",
+        "email": "uma.iyer@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Sofia,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest regards,\nUma Iyer\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e012",
+      "thread_id": "i043-t006",
+      "in_reply_to": "i043-e010",
+      "references": [
+        "i043-e009",
+        "i043-e010"
+      ],
+      "timestamp": "2026-08-05T08:38:45.758375",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Yamamoto",
+        "email": "ayamamoto@orchardtrust.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Sofia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nArjun Yamamoto\n\nOn Tue, Aug 04, 2026 at 08:45 PM, Sofia Quintero <sofia.quintero@okaforellis.com> wrote:\n> Dear Arjun,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e013",
+      "thread_id": "i043-t006",
+      "in_reply_to": "i043-e012",
+      "references": [
+        "i043-e009",
+        "i043-e010",
+        "i043-e012"
+      ],
+      "timestamp": "2026-08-06T08:33:33.801384",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Yamamoto",
+          "email": "ayamamoto@orchardtrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Arjun,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nSofia\n\nOn Wed, Aug 05, 2026 at 08:38 AM, Arjun Yamamoto <ayamamoto@orchardtrust.com> wrote:\n> Sofia,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e014",
+      "thread_id": "i043-t007",
+      "in_reply_to": "i043-e011",
+      "references": [
+        "i043-e011"
+      ],
+      "timestamp": "2026-08-06T19:01:46.434819",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Uma Iyer",
+          "email": "uma.iyer@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Uma,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nSofia Quintero\n\nOn Wed, Aug 05, 2026 at 08:09 AM, Uma Iyer <uma.iyer@okaforellis.com> wrote:\n> Sofia,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e015",
+      "thread_id": "i043-t007",
+      "in_reply_to": "i043-e014",
+      "references": [
+        "i043-e011",
+        "i043-e014"
+      ],
+      "timestamp": "2026-08-10T10:41:43.601951",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Iyer",
+        "email": "uma.iyer@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Sofia,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nUma\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e016",
+      "thread_id": "i043-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T10:45:00.225227",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Varga",
+        "email": "ivarga@ironbridgebank.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Hi Sofia,\n\nWe received a request for an SNDA in favor of Riverstone Biosciences. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nBest regards,\nIvan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e017",
+      "thread_id": "i043-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:22:17.244125",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hello Sofia,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest regards,\nArjun Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e018",
+      "thread_id": "i043-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T13:15:33.825729",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Ferreira",
+        "email": "yferreira@vantagerealty.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Xu",
+          "email": "danielx@riverstonebios.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hello Sofia,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest,\nYara",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e019",
+      "thread_id": "i043-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T16:54:53.624232",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Xu",
+        "email": "danielx@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2078 Page Mill Road",
+      "body": "Hi Sofia,\n\nWe've agreed on a non-binding LOI with Lattice Properties LLC for about 42,000 RSF at 2078 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest,\nDaniel\nDirector of Real Estate\nRiverstone Biosciences",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m02"
+          ],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e020",
+      "thread_id": "i043-t009",
+      "in_reply_to": "i043-e017",
+      "references": [
+        "i043-e017"
+      ],
+      "timestamp": "2026-08-17T20:38:59.848551",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Thompson",
+          "email": "athompson@riverstonebios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Arjun,\n\nWorks for me. Let's do Wednesday at 9:00 a.m..\n\nBest,\nSofia Quintero\n\nOn Mon, Aug 17, 2026 at 08:22 AM, Arjun Thompson <athompson@riverstonebios.com> wrote:\n> Hello Sofia,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i043-e021",
+      "thread_id": "i043-t009",
+      "in_reply_to": "i043-e020",
+      "references": [
+        "i043-e017",
+        "i043-e020"
+      ],
+      "timestamp": "2026-08-18T13:15:27.634399",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Thompson",
+        "email": "athompson@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Sofia,\n\nThanks. Separately, on the 2078 Page Mill Road lease, the broker says the landlord moved on TI. Did you see that?\n\nBest,\nArjun Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02",
+          "i043-m00"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00",
+            "i043-m02"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [
+            "i043-m02"
+          ],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e022",
+      "thread_id": "i043-t011",
+      "in_reply_to": "i043-e019",
+      "references": [
+        "i043-e019"
+      ],
+      "timestamp": "2026-08-18T17:20:55.050080",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Xu",
+          "email": "danielx@riverstonebios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 2078 Page Mill Road",
+      "body": "Hi Daniel,\n\nAdding Pedro, who will handle the day-to-day on this.\n\nThanks,\nSofia\n\nOn Mon, Aug 17, 2026 at 04:54 PM, Daniel Xu <danielx@riverstonebios.com> wrote:\n> Hi Sofia,\n>\n> We've agreed on a non-binding LOI with Lattice Properties LLC for about 42,000 RSF at 2078 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m02"
+          ],
+          "thread_candidates": [
+            "i043-m02"
+          ],
+          "identifier_candidates": [
+            "i043-m02"
+          ],
+          "keyword_candidates": [
+            "i043-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e023",
+      "thread_id": "i043-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T13:33:41.095161",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Quintero",
+        "email": "kquintero@brennanunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Northwind deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest regards,\nKavya\nAssociate\nBrennan & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e024",
+      "thread_id": "i043-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T17:24:12.202035",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Ito",
+        "email": "maya.ito@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Sofia,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest,\nMaya\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e025",
+      "thread_id": "i043-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:24:28.671433",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Okafor",
+        "email": "pedro.okafor@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Dear Sofia,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nRegards,\nPedro Okafor\nAssociate\nOkafor & Ellis LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m02",
+        "matter_ids": [
+          "i043-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i043-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e026",
+      "thread_id": "i043-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T09:49:36.147995",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Thompson",
+        "email": "xthompson@tidewaterheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hi Sofia,\n\nThe board asked whether we could structure part of the $650 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nThanks,\nXavier Thompson\nVP, Corporate Development\nTidewater Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e027",
+      "thread_id": "i043-t015",
+      "in_reply_to": "i043-e026",
+      "references": [
+        "i043-e026"
+      ],
+      "timestamp": "2026-09-17T07:38:55.002299",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Thompson",
+          "email": "xthompson@tidewaterheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hello Xavier,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nSofia\n\nOn Tue, Sep 15, 2026 at 09:49 AM, Xavier Thompson <xthompson@tidewaterheal.com> wrote:\n> Hi Sofia,\n>\n> The board asked whether we could structure part of the $650 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e028",
+      "thread_id": "i043-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T08:21:03.416099",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Dubois",
+        "email": "kenjid@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Thompson",
+          "email": "athompson@riverstonebios.com"
+        }
+      ],
+      "subject": "Mariner Energy - repeated SLA failures",
+      "body": "Hi Sofia,\n\nMariner Energy has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nKenji Dubois\nChief Operating Officer\nRiverstone Biosciences",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m00"
+          ],
+          "keyword_candidates": [
+            "i043-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e029",
+      "thread_id": "i043-t016",
+      "in_reply_to": "i043-e028",
+      "references": [
+        "i043-e028"
+      ],
+      "timestamp": "2026-09-22T13:42:30.184941",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Dubois",
+          "email": "kenjid@riverstonebios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Thompson",
+          "email": "athompson@riverstonebios.com"
+        }
+      ],
+      "subject": "Re: Mariner Energy - repeated SLA failures",
+      "body": "Kenji,\n\nQuick follow-up on the below. Any update?\n\nBest,\nSofia Quintero\n\nOn Mon, Sep 21, 2026 at 08:21 AM, Kenji Dubois <kenjid@riverstonebios.com> wrote:\n> Hi Sofia,\n>\n> Mariner Energy has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [
+            "i043-m00"
+          ],
+          "keyword_candidates": [
+            "i043-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e030",
+      "thread_id": "i043-t016",
+      "in_reply_to": "i043-e029",
+      "references": [
+        "i043-e028",
+        "i043-e029"
+      ],
+      "timestamp": "2026-09-22T14:59:21.988780",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Dubois",
+        "email": "kenjid@riverstonebios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Thompson",
+          "email": "athompson@riverstonebios.com"
+        }
+      ],
+      "subject": "Re: Mariner Energy - repeated SLA failures",
+      "body": "Sofia,\n\nAdding Uma, who will handle the day-to-day on this.\n\nBest,\nKenji Dubois\nChief Operating Officer\nRiverstone Biosciences\n\nOn Tue, Sep 22, 2026 at 01:42 PM, Sofia Quintero <sofia.quintero@okaforellis.com> wrote:\n> Kenji,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m00",
+        "matter_ids": [
+          "i043-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m00"
+          ],
+          "thread_candidates": [
+            "i043-m00"
+          ],
+          "identifier_candidates": [
+            "i043-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e031",
+      "thread_id": "i043-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T11:38:11.327344",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Fischer",
+        "email": "isabelf@brennanunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Northwind / Tidewater - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Northwind customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nIsabel Fischer\nPartner\nBrennan & Underwood LLP",
+      "attachments": [
+        "Northwind SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e032",
+      "thread_id": "i043-t017",
+      "in_reply_to": "i043-e031",
+      "references": [
+        "i043-e031"
+      ],
+      "timestamp": "2026-09-28T13:09:12.180981",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Quintero",
+        "email": "sofia.quintero@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Fischer",
+          "email": "isabelf@brennanunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Re: Northwind / Tidewater - SPA comments",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nSofia Quintero\n\nOn Mon, Sep 28, 2026 at 11:38 AM, Isabel Fischer <isabelf@brennanunderwood.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Northwind customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [
+            "i043-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e033",
+      "thread_id": "i043-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T10:30:02.477235",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Xu",
+        "email": "aisha.xu@okaforellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Dear Sofia,\n\nPre-bills for Tidewater Health are ready for your review:\n\n- 24153-001  Tidewater - Acquisition of Northwind Analytics (Project Orion)\n\nPlease mark up and return by October 4.\n\nBest regards,\nAisha\nBilling Coordinator\nOkafor & Ellis LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i043-e034",
+      "thread_id": "i043-t017",
+      "in_reply_to": "i043-e032",
+      "references": [
+        "i043-e031",
+        "i043-e032"
+      ],
+      "timestamp": "2026-09-30T15:02:06.853633",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Fischer",
+        "email": "isabelf@brennanunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Quintero",
+          "email": "sofia.quintero@okaforellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Ellis",
+          "email": "zoe.ellis@okaforellis.com"
+        }
+      ],
+      "subject": "Re: Northwind / Tidewater - SPA comments",
+      "body": "Hi Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nIsabel Fischer\nPartner\nBrennan & Underwood LLP\n\nOn Mon, Sep 28, 2026 at 01:09 PM, Sofia Quintero <sofia.quintero@okaforellis.com> wrote:\n> Counsel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i043-m01",
+        "matter_ids": [
+          "i043-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i043-m01"
+          ],
+          "thread_candidates": [
+            "i043-m01"
+          ],
+          "identifier_candidates": [
+            "i043-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700043
+}

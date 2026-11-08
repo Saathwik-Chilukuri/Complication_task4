@@ -1,0 +1,2096 @@
+{
+  "instance_id": "i022",
+  "firm": {
+    "name": "Young & Lindqvist LLP",
+    "domain": "younglindqvist.com"
+  },
+  "user_contact_id": "i022-c000",
+  "matters": [
+    {
+      "matter_id": "i022-m00",
+      "matter_number": "85701-001",
+      "name": "Halcyon v. Evergreen (MSA Dispute)",
+      "client": "Halcyon Energy",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Halcyon Energy against vendor Evergreen Foods.",
+      "counterparty": "Evergreen Foods",
+      "opposing_counsel_firm": "Shah & Novak LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "85701-001",
+        "Evergreen Foods",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i022-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i022-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i022-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i022-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i022-c009",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i022-m01",
+      "matter_number": "74157-001",
+      "name": "Wavecrest - Data Security Incident",
+      "client": "Wavecrest Energy",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Wavecrest Energy's customer database. Forensics by Nimbus Cyber.",
+      "counterparty": "Nimbus Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-15",
+      "key_terms": [
+        "74157-001",
+        "Nimbus Cyber",
+        "Nimbus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i022-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i022-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i022-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i022-c011",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i022-c012",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i022-m02",
+      "matter_number": "70736-001",
+      "name": "Pinnacle v. Riverstone (MSA Dispute)",
+      "client": "Pinnacle Health",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Pinnacle Health against vendor Riverstone Materials.",
+      "counterparty": "Riverstone Materials",
+      "opposing_counsel_firm": "Grant & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-07-19",
+      "key_terms": [
+        "70736-001",
+        "Riverstone Materials",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i022-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i022-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i022-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i022-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i022-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i022-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i022-c000",
+      "name": "Rachel Jensen",
+      "first": "Rachel",
+      "email": "rachelj@younglindqvist.com",
+      "organization": "Young & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i022-c001",
+      "name": "Hannah Underwood",
+      "first": "Hannah",
+      "email": "hannah.underwood@younglindqvist.com",
+      "organization": "Young & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i022-c002",
+      "name": "Elena Reyes",
+      "first": "Elena",
+      "email": "elenar@younglindqvist.com",
+      "organization": "Young & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i022-c003",
+      "name": "Isabel Zhang",
+      "first": "Isabel",
+      "email": "isabelz@younglindqvist.com",
+      "organization": "Young & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i022-c004",
+      "name": "Zoe Tanaka",
+      "first": "Zoe",
+      "email": "ztanaka@halcyonener.com",
+      "organization": "Halcyon Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c005",
+      "name": "Daniel Lee",
+      "first": "Daniel",
+      "email": "daniel.lee@wavecrestener.com",
+      "organization": "Wavecrest Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c006",
+      "name": "Quinn Yamamoto",
+      "first": "Quinn",
+      "email": "quinny@pinnacleheal.com",
+      "organization": "Pinnacle Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c007",
+      "name": "Rafael Vasquez",
+      "first": "Rafael",
+      "email": "rafaelv@halcyonener.com",
+      "organization": "Halcyon Energy",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c008",
+      "name": "Priya Young",
+      "first": "Priya",
+      "email": "priya.young@shahnovak.com",
+      "organization": "Shah & Novak LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c009",
+      "name": "Lucia Grant",
+      "first": "Lucia",
+      "email": "luciag@redwoodadr.com",
+      "organization": "Redwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c010",
+      "name": "Bianca Quintero",
+      "first": "Bianca",
+      "email": "bianca.quintero@wavecrestener.com",
+      "organization": "Wavecrest Energy",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c011",
+      "name": "Aisha Brennan",
+      "first": "Aisha",
+      "email": "aishab@nimbuscyber.com",
+      "organization": "Nimbus Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c012",
+      "name": "Ben Dubois",
+      "first": "Ben",
+      "email": "bdubois@bluefinmutual.com",
+      "organization": "Bluefin Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c013",
+      "name": "Rafael Dubois",
+      "first": "Rafael",
+      "email": "rdubois@pinnacleheal.com",
+      "organization": "Pinnacle Health",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c014",
+      "name": "Thomas Huang",
+      "first": "Thomas",
+      "email": "thomas.huang@grantshah.com",
+      "organization": "Grant & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c015",
+      "name": "Uma Tanaka",
+      "first": "Uma",
+      "email": "uma.tanaka@keystoneadr.com",
+      "organization": "Keystone Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c016",
+      "name": "Umar Brennan",
+      "first": "Umar",
+      "email": "umar.brennan@tidewaterheal.com",
+      "organization": "Tidewater Health",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c017",
+      "name": "Victor Kaplan",
+      "first": "Victor",
+      "email": "victork@silverpinefood.com",
+      "organization": "Silverpine Foods",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c018",
+      "name": "Ximena Fischer",
+      "first": "Ximena",
+      "email": "ximena.fischer@copperleafanal.com",
+      "organization": "Copperleaf Analytics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c019",
+      "name": "Daniel Tanaka",
+      "first": "Daniel",
+      "email": "danielt@orchardcomms.com",
+      "organization": "Orchard Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i022-c020",
+      "name": "Samuel Xu",
+      "first": "Samuel",
+      "email": "sxu@younglindqvist.com",
+      "organization": "Young & Lindqvist LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i022-e000",
+      "thread_id": "i022-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-08T10:30:04.051506",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Fischer",
+        "email": "ximena.fischer@copperleafanal.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Rachel,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nXimena Fischer\nRecruiter\nCopperleaf Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e001",
+      "thread_id": "i022-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T16:23:35.067697",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Young",
+        "email": "priya.young@shahnovak.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Dear Rachel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest regards,\nPriya",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e002",
+      "thread_id": "i022-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T17:42:29.254424",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Kaplan",
+        "email": "victork@silverpinefood.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Transition planning",
+      "body": "Dear Rachel,\n\nWe've been engaged by Halcyon to replace Evergreen Foods as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Evergreen under the MSA.\n\nRegards,\nVictor Kaplan\nImplementation Manager\nSilverpine Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e003",
+      "thread_id": "i022-t001",
+      "in_reply_to": "i022-e001",
+      "references": [
+        "i022-e001"
+      ],
+      "timestamp": "2026-07-02T09:43:40.700134",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Priya Young",
+          "email": "priya.young@shahnovak.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": [
+            "i022-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e004",
+      "thread_id": "i022-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T09:06:22.589305",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Vasquez",
+        "email": "rafaelv@halcyonener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Zoe Tanaka",
+          "email": "ztanaka@halcyonener.com"
+        }
+      ],
+      "subject": "Evergreen Foods - repeated SLA failures",
+      "body": "Hi Rachel,\n\nEvergreen Foods has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nRegards,\nRafael Vasquez\nChief Operating Officer\nHalcyon Energy",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m00"
+          ],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e005",
+      "thread_id": "i022-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T07:39:36.652653",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Grant",
+        "email": "luciag@redwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priya.young@shahnovak.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello Rachel,\n\nThis confirms receipt of the demand for arbitration in Halcyon Energy v. Evergreen Foods. The administrative conference is scheduled for July 30. Please confirm your availability.\n\nRegards,\nLucia\nCase Administrator\nRedwood Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e006",
+      "thread_id": "i022-t004",
+      "in_reply_to": "i022-e005",
+      "references": [
+        "i022-e005"
+      ],
+      "timestamp": "2026-07-16T20:00:34.956502",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Grant",
+          "email": "luciag@redwoodadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priya.young@shahnovak.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Lucia,\n\nWorks for me. Let's do Wednesday at 9:00 a.m..\n\nThanks,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 16, 2026 at 07:39 AM, Lucia Grant <luciag@redwoodadr.com> wrote:\n> Hello Rachel,\n>\n> This confirms receipt of the demand for arbitration in Halcyon Energy v. Evergreen Foods. The administrative conference is scheduled for July 30. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": [
+            "i022-m00"
+          ],
+          "identifier_candidates": [
+            "i022-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e007",
+      "thread_id": "i022-t004",
+      "in_reply_to": "i022-e006",
+      "references": [
+        "i022-e005",
+        "i022-e006"
+      ],
+      "timestamp": "2026-07-17T09:27:49.103712",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Grant",
+        "email": "luciag@redwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priya.young@shahnovak.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Rachel,\n\nWorks for me. Let's do Tuesday at 9:00 a.m..\n\nBest regards,\nLucia Grant\nCase Administrator\nRedwood Dispute Resolution\n\nOn Thu, Jul 16, 2026 at 08:00 PM, Rachel Jensen <rachelj@younglindqvist.com> wrote:\n> Lucia,\n>\n> Works for me. Let's do Wednesday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": [
+            "i022-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e008",
+      "thread_id": "i022-t004",
+      "in_reply_to": "i022-e007",
+      "references": [
+        "i022-e005",
+        "i022-e006",
+        "i022-e007"
+      ],
+      "timestamp": "2026-07-20T09:36:54.140068",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Grant",
+          "email": "luciag@redwoodadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Young",
+          "email": "priya.young@shahnovak.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Lucia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 17, 2026 at 09:27 AM, Lucia Grant <luciag@redwoodadr.com> wrote:\n> Hello Rachel,\n>\n> Works for me. Let's do Tuesday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": [
+            "i022-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e009",
+      "thread_id": "i022-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:40:58.225286",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Xu",
+        "email": "sxu@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Dear Rachel,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nSamuel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e010",
+      "thread_id": "i022-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T15:00:02.035896",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Quintero",
+          "email": "bianca.quintero@wavecrestener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Lee",
+          "email": "daniel.lee@wavecrestener.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Bianca,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Nimbus.\n\nThanks,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e011",
+      "thread_id": "i022-t006",
+      "in_reply_to": "i022-e010",
+      "references": [
+        "i022-e010"
+      ],
+      "timestamp": "2026-07-29T07:25:47.021243",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Quintero",
+        "email": "bianca.quintero@wavecrestener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Lee",
+          "email": "daniel.lee@wavecrestener.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Rachel,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nBianca Quintero\n\nOn Mon, Jul 27, 2026 at 03:00 PM, Rachel Jensen <rachelj@younglindqvist.com> wrote:\n> Bianca,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Nimbus.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": [
+            "i022-m01"
+          ],
+          "identifier_candidates": [
+            "i022-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e012",
+      "thread_id": "i022-t006",
+      "in_reply_to": "i022-e011",
+      "references": [
+        "i022-e010",
+        "i022-e011"
+      ],
+      "timestamp": "2026-07-31T09:13:25.004013",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Quintero",
+          "email": "bianca.quintero@wavecrestener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Lee",
+          "email": "daniel.lee@wavecrestener.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Bianca,\n\nAdding Hannah, who will handle the day-to-day on this.\n\nBest,\nRachel\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 29, 2026 at 07:25 AM, Bianca Quintero <bianca.quintero@wavecrestener.com> wrote:\n> Dear Rachel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": [
+            "i022-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e013",
+      "thread_id": "i022-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T07:53:53.467061",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Lee",
+        "email": "daniel.lee@wavecrestener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Dear Rachel,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest,\nDaniel Lee\nGeneral Counsel\nWavecrest Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e014",
+      "thread_id": "i022-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T20:59:41.084663",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Quintero",
+        "email": "bianca.quintero@wavecrestener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Lee",
+          "email": "daniel.lee@wavecrestener.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hi Rachel,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Nimbus Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 3:30 p.m.?\n\nBest,\nBianca Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m01"
+          ],
+          "keyword_candidates": [
+            "i022-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e015",
+      "thread_id": "i022-t007",
+      "in_reply_to": "i022-e013",
+      "references": [
+        "i022-e013"
+      ],
+      "timestamp": "2026-08-06T09:35:04.032151",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Lee",
+          "email": "daniel.lee@wavecrestener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Daniel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 04, 2026 at 07:53 AM, Daniel Lee <daniel.lee@wavecrestener.com> wrote:\n> Dear Rachel,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": [
+            "i022-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e016",
+      "thread_id": "i022-t007",
+      "in_reply_to": "i022-e015",
+      "references": [
+        "i022-e013",
+        "i022-e015"
+      ],
+      "timestamp": "2026-08-06T20:16:24.952310",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Lee",
+        "email": "daniel.lee@wavecrestener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hello Rachel,\n\nQuick follow-up on the below. Any update?\n\nBest,\nDaniel\nGeneral Counsel\nWavecrest Energy\n\nOn Thu, Aug 06, 2026 at 09:35 AM, Rachel Jensen <rachelj@younglindqvist.com> wrote:\n> Hi Daniel,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01"
+          ],
+          "thread_candidates": [
+            "i022-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e017",
+      "thread_id": "i022-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T07:36:52.900869",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Tanaka",
+        "email": "ztanaka@halcyonener.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Rachel,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e018",
+      "thread_id": "i022-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T08:14:43.623478",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Underwood",
+        "email": "hannah.underwood@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Rachel,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nHannah Underwood\nAssociate\nYoung & Lindqvist LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e019",
+      "thread_id": "i022-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T11:43:25.039078",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Underwood",
+        "email": "hannah.underwood@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hello Rachel,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nHannah Underwood\nAssociate\nYoung & Lindqvist LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e020",
+      "thread_id": "i022-t011",
+      "in_reply_to": "i022-e019",
+      "references": [
+        "i022-e019"
+      ],
+      "timestamp": "2026-08-26T15:53:27.399119",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Underwood",
+          "email": "hannah.underwood@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hannah,\n\nWorks for me. Let's do Friday at 2:00 p.m..\n\nRegards,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i022-e021",
+      "thread_id": "i022-t010",
+      "in_reply_to": "i022-e018",
+      "references": [
+        "i022-e018"
+      ],
+      "timestamp": "2026-08-27T08:09:36.517144",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Underwood",
+          "email": "hannah.underwood@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hannah,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 08:14 AM, Hannah Underwood <hannah.underwood@younglindqvist.com> wrote:\n> Rachel,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e022",
+      "thread_id": "i022-t010",
+      "in_reply_to": "i022-e021",
+      "references": [
+        "i022-e018",
+        "i022-e021"
+      ],
+      "timestamp": "2026-08-28T09:48:46.117721",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Underwood",
+        "email": "hannah.underwood@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Rachel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nHannah Underwood\nAssociate\nYoung & Lindqvist LLP\n\nOn Thu, Aug 27, 2026 at 08:09 AM, Rachel Jensen <rachelj@younglindqvist.com> wrote:\n> Hannah,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e023",
+      "thread_id": "i022-t010",
+      "in_reply_to": "i022-e022",
+      "references": [
+        "i022-e018",
+        "i022-e021",
+        "i022-e022"
+      ],
+      "timestamp": "2026-08-31T09:10:06.793105",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Underwood",
+          "email": "hannah.underwood@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Hannah,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nRachel\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 28, 2026 at 09:48 AM, Hannah Underwood <hannah.underwood@younglindqvist.com> wrote:\n> Hi Rachel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e024",
+      "thread_id": "i022-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T18:56:46.374132",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Huang",
+        "email": "thomas.huang@grantshah.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nRegards,\nThomas",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e025",
+      "thread_id": "i022-t012",
+      "in_reply_to": "i022-e024",
+      "references": [
+        "i022-e024"
+      ],
+      "timestamp": "2026-09-07T09:17:17.608279",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Huang",
+          "email": "thomas.huang@grantshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 03, 2026 at 06:56 PM, Thomas Huang <thomas.huang@grantshah.com> wrote:\n> Counsel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e026",
+      "thread_id": "i022-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T10:28:47.329958",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Reyes",
+        "email": "elenar@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Rachel,\n\nStatus on my matters this week:\n\n- Evergreen MSA: notice of breach sent, cure period running; damages model in draft.\n- Riverstone MSA: notice of breach sent, cure period running; damages model in draft.\n\nRegards,\nElena Reyes",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m00",
+        "matter_ids": [
+          "i022-m00",
+          "i022-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e027",
+      "thread_id": "i022-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:19:47.141888",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Dubois",
+        "email": "rdubois@pinnacleheal.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hello Rachel,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nThanks,\nRafael",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e028",
+      "thread_id": "i022-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:37:22.665529",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Huang",
+          "email": "thomas.huang@grantshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Reyes",
+          "email": "elenar@younglindqvist.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nBest regards,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e029",
+      "thread_id": "i022-t015",
+      "in_reply_to": "i022-e028",
+      "references": [
+        "i022-e028"
+      ],
+      "timestamp": "2026-09-16T08:50:23.665132",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Huang",
+        "email": "thomas.huang@grantshah.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Reyes",
+          "email": "elenar@younglindqvist.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Dear Rachel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nThomas Huang",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e030",
+      "thread_id": "i022-t015",
+      "in_reply_to": "i022-e029",
+      "references": [
+        "i022-e028",
+        "i022-e029"
+      ],
+      "timestamp": "2026-09-16T17:48:18.649875",
+      "folder": "sent",
+      "from": {
+        "name": "Rachel Jensen",
+        "email": "rachelj@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Huang",
+          "email": "thomas.huang@grantshah.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Reyes",
+          "email": "elenar@younglindqvist.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Hello Thomas,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nRachel Jensen\nPartner\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 16, 2026 at 08:50 AM, Thomas Huang <thomas.huang@grantshah.com> wrote:\n> Dear Rachel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e031",
+      "thread_id": "i022-t015",
+      "in_reply_to": "i022-e030",
+      "references": [
+        "i022-e028",
+        "i022-e029",
+        "i022-e030"
+      ],
+      "timestamp": "2026-09-18T13:52:08.461551",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Huang",
+        "email": "thomas.huang@grantshah.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Reyes",
+          "email": "elenar@younglindqvist.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nThomas Huang\n\nOn Wed, Sep 16, 2026 at 05:48 PM, Rachel Jensen <rachelj@younglindqvist.com> wrote:\n> Hello Thomas,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m02"
+          ],
+          "thread_candidates": [
+            "i022-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i022-m00",
+            "i022-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e032",
+      "thread_id": "i022-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-22T14:27:08.016795",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Brennan",
+        "email": "umar.brennan@tidewaterheal.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Underwood",
+          "email": "hannah.underwood@younglindqvist.com"
+        }
+      ],
+      "subject": "Transition planning",
+      "body": "Hello Rachel,\n\nWe've been engaged by Pinnacle to replace Riverstone Materials as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Riverstone under the MSA.\n\nThanks,\nUmar Brennan\nImplementation Manager\nTidewater Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m02",
+        "matter_ids": [
+          "i022-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i022-m01",
+            "i022-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e033",
+      "thread_id": "i022-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T12:25:16.458819",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Zhang",
+        "email": "isabelz@younglindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Wavecrest",
+      "body": "Hi Rachel,\n\nPre-bills for Wavecrest Energy are ready for your review:\n\n- 74157-001  Wavecrest - Data Security Incident\n\nPlease mark up and return by October 4.\n\nBest,\nIsabel\nBilling Coordinator\nYoung & Lindqvist LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i022-m01",
+        "matter_ids": [
+          "i022-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i022-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i022-e034",
+      "thread_id": "i022-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-19T08:40:49.147372",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Tanaka",
+        "email": "danielt@orchardcomms.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Jensen",
+          "email": "rachelj@younglindqvist.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Rachel,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nDaniel Tanaka\nEditor\nOrchard Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700022
+}

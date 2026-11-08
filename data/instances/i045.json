@@ -1,0 +1,2646 @@
+{
+  "instance_id": "i045",
+  "firm": {
+    "name": "Goldberg & Yamamoto LLP",
+    "domain": "goldbergyamamoto.com"
+  },
+  "user_contact_id": "i045-c000",
+  "matters": [
+    {
+      "matter_id": "i045-m00",
+      "matter_number": "92311-001",
+      "name": "Keystone v. Trellis ('666 Patent)",
+      "client": "Keystone Energy",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Keystone Energy against Trellis Software asserting U.S. Patent No. 10,666,905.",
+      "counterparty": "Trellis Software",
+      "opposing_counsel_firm": "Castillo & Novak LLP",
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "92311-001",
+        "10,666,905",
+        "'666",
+        "Trellis Software",
+        "Trellis"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i045-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i045-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i045-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i045-c012",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i045-m01",
+      "matter_number": "71108-001",
+      "name": "Parallax - Headquarters Lease (2101 California Street)",
+      "client": "Parallax Foods",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Parallax Foods's new headquarters at 2101 California Street, landlord Driftwood Properties LLC.",
+      "counterparty": "Driftwood Properties LLC",
+      "opposing_counsel_firm": "Xu & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-06-03",
+      "key_terms": [
+        "71108-001",
+        "2101 California Street",
+        "Driftwood Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i045-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i045-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i045-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i045-c015",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i045-m02",
+      "matter_number": "85362-001",
+      "name": "Ironbridge - Acquisition of Stratus Software (Project Atlas)",
+      "client": "Ironbridge Software",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Stratus Software by Ironbridge Software. Stock purchase, ~$85 million.",
+      "counterparty": "Stratus Software",
+      "opposing_counsel_firm": "Dubois & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-06-01",
+      "key_terms": [
+        "85362-001",
+        "Project Atlas",
+        "Atlas",
+        "Stratus Software",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i045-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i045-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i045-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i045-c018",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i045-m03",
+      "matter_number": "22829-001",
+      "name": "Tidewater v. Evergreen (MSA Dispute)",
+      "client": "Tidewater Robotics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Tidewater Robotics against vendor Evergreen Labs.",
+      "counterparty": "Evergreen Labs",
+      "opposing_counsel_firm": "Xu & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-06-04",
+      "key_terms": [
+        "22829-001",
+        "Evergreen Labs",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i045-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i045-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i045-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i045-c021",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i045-m04",
+      "matter_number": "31260-001",
+      "name": "Northwind - Data Security Incident",
+      "client": "Northwind Biosciences",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Northwind Biosciences's customer database. Forensics by Wavecrest Cyber.",
+      "counterparty": "Wavecrest Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "31260-001",
+        "Wavecrest Cyber",
+        "Wavecrest"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i045-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i045-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i045-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i045-c023",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i045-c024",
+          "role": "insurer"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i045-c000",
+      "name": "Sofia Huang",
+      "first": "Sofia",
+      "email": "sofia.huang@goldbergyamamoto.com",
+      "organization": "Goldberg & Yamamoto LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i045-c001",
+      "name": "Lucia Grant",
+      "first": "Lucia",
+      "email": "lucia.grant@goldbergyamamoto.com",
+      "organization": "Goldberg & Yamamoto LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i045-c002",
+      "name": "Grace Yamamoto",
+      "first": "Grace",
+      "email": "gyamamoto@goldbergyamamoto.com",
+      "organization": "Goldberg & Yamamoto LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i045-c003",
+      "name": "Ivan Park",
+      "first": "Ivan",
+      "email": "ipark@goldbergyamamoto.com",
+      "organization": "Goldberg & Yamamoto LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i045-c004",
+      "name": "Ivan Kaplan",
+      "first": "Ivan",
+      "email": "ivan.kaplan@goldbergyamamoto.com",
+      "organization": "Goldberg & Yamamoto LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i045-c005",
+      "name": "Samuel Shah",
+      "first": "Samuel",
+      "email": "samuels@keystoneener.com",
+      "organization": "Keystone Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c006",
+      "name": "Pedro Vasquez",
+      "first": "Pedro",
+      "email": "pvasquez@parallaxfood.com",
+      "organization": "Parallax Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c007",
+      "name": "Emma Kowalski",
+      "first": "Emma",
+      "email": "emmak@ironbridgesoft.com",
+      "organization": "Ironbridge Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c008",
+      "name": "Nadia Park",
+      "first": "Nadia",
+      "email": "npark@tidewaterrobo.com",
+      "organization": "Tidewater Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c009",
+      "name": "Umar Okafor",
+      "first": "Umar",
+      "email": "umaro@northwindbios.com",
+      "organization": "Northwind Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c010",
+      "name": "Gabriel Weiss",
+      "first": "Gabriel",
+      "email": "gweiss@keystoneener.com",
+      "organization": "Keystone Energy",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c011",
+      "name": "Yara Whitaker",
+      "first": "Yara",
+      "email": "yara.whitaker@castillonovak.com",
+      "organization": "Castillo & Novak LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c012",
+      "name": "Carla Reyes",
+      "first": "Carla",
+      "email": "carlar@halcyontech.com",
+      "organization": "Halcyon Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c013",
+      "name": "Pedro Laurent",
+      "first": "Pedro",
+      "email": "pedrol@parallaxfood.com",
+      "organization": "Parallax Foods",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c014",
+      "name": "Wei Haddad",
+      "first": "Wei",
+      "email": "whaddad@xueriksen.com",
+      "organization": "Xu & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c015",
+      "name": "Marcus Osei",
+      "first": "Marcus",
+      "email": "mosei@riverstonerealty.com",
+      "organization": "Riverstone Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c016",
+      "name": "Quinn Xu",
+      "first": "Quinn",
+      "email": "qxu@ironbridgesoft.com",
+      "organization": "Ironbridge Software",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c017",
+      "name": "Rachel Mendoza",
+      "first": "Rachel",
+      "email": "rachelm@duboisellis.com",
+      "organization": "Dubois & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c018",
+      "name": "Daniel Sato",
+      "first": "Daniel",
+      "email": "dsato@marinertrust.com",
+      "organization": "Mariner Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c019",
+      "name": "Hannah Sato",
+      "first": "Hannah",
+      "email": "hannahs@tidewaterrobo.com",
+      "organization": "Tidewater Robotics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c020",
+      "name": "Hannah Morgan",
+      "first": "Hannah",
+      "email": "hmorgan@xueriksen.com",
+      "organization": "Xu & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c021",
+      "name": "Emma Underwood",
+      "first": "Emma",
+      "email": "emma.underwood@bluefinadr.com",
+      "organization": "Bluefin Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c022",
+      "name": "Maya Grant",
+      "first": "Maya",
+      "email": "mayag@northwindbios.com",
+      "organization": "Northwind Biosciences",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c023",
+      "name": "Sofia Xu",
+      "first": "Sofia",
+      "email": "sofia.xu@wavecrestcyber.com",
+      "organization": "Wavecrest Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c024",
+      "name": "Kenji Thompson",
+      "first": "Kenji",
+      "email": "kenjit@pinnaclemutual.com",
+      "organization": "Pinnacle Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c025",
+      "name": "Farid Yamamoto",
+      "first": "Farid",
+      "email": "faridy@duboisellis.com",
+      "organization": "Dubois & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c026",
+      "name": "Pedro Kowalski",
+      "first": "Pedro",
+      "email": "pedrok@vantagecomms.com",
+      "organization": "Vantage Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i045-c027",
+      "name": "Thomas Nakamura",
+      "first": "Thomas",
+      "email": "tnakamura@copperleafsyst.com",
+      "organization": "Copperleaf Systems",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i045-e000",
+      "thread_id": "i045-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:30:19.311479",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Nakamura",
+        "email": "tnakamura@copperleafsyst.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hello Sofia,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nThomas Nakamura\nRecruiter\nCopperleaf Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e001",
+      "thread_id": "i045-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-16T10:08:06.505035",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Morgan",
+          "email": "hmorgan@xueriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Dear Hannah,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nBest,\nSofia Huang",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e002",
+      "thread_id": "i045-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T13:38:31.812954",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Yamamoto",
+        "email": "faridy@duboisellis.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Stratus deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest,\nFarid Yamamoto",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m02"
+          ],
+          "keyword_candidates": [
+            "i045-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e003",
+      "thread_id": "i045-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:05:16.503145",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Park",
+        "email": "ipark@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hi Sofia,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest,\nIvan Park\nSenior Associate\nGoldberg & Yamamoto LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01",
+            "i045-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e004",
+      "thread_id": "i045-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T10:40:32.099892",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Sato",
+        "email": "dsato@marinertrust.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Dear Sofia,\n\nTo open the escrow account for the Atlas transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?\n\nThanks,\nDaniel\nVice President, Escrow Services\nMariner Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e005",
+      "thread_id": "i045-t003",
+      "in_reply_to": "i045-e003",
+      "references": [
+        "i045-e003"
+      ],
+      "timestamp": "2026-06-29T14:21:54.600492",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Ivan,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nSofia\n\nOn Mon, Jun 29, 2026 at 08:05 AM, Ivan Park <ipark@goldbergyamamoto.com> wrote:\n> Hi Sofia,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01",
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e006",
+      "thread_id": "i045-t003",
+      "in_reply_to": "i045-e005",
+      "references": [
+        "i045-e003",
+        "i045-e005"
+      ],
+      "timestamp": "2026-06-29T17:38:26.216584",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Park",
+        "email": "ipark@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nIvan Park\nSenior Associate\nGoldberg & Yamamoto LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01",
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e007",
+      "thread_id": "i045-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T08:55:58.334939",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Xu",
+        "email": "qxu@ironbridgesoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Sofia,\n\nGood news: Stratus Software countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Thursday.\n\nCan we do a kickoff call tomorrow?\n\nRegards,\nQuinn Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m02"
+          ],
+          "keyword_candidates": [
+            "i045-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e008",
+      "thread_id": "i045-t003",
+      "in_reply_to": "i045-e006",
+      "references": [
+        "i045-e003",
+        "i045-e005",
+        "i045-e006"
+      ],
+      "timestamp": "2026-07-01T16:11:37.308507",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hello Ivan,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nSofia Huang\n\nOn Mon, Jun 29, 2026 at 05:38 PM, Ivan Park <ipark@goldbergyamamoto.com> wrote:\n> Hi Sofia,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01",
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e009",
+      "thread_id": "i045-t005",
+      "in_reply_to": "i045-e007",
+      "references": [
+        "i045-e007"
+      ],
+      "timestamp": "2026-07-02T09:40:10.299676",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Xu",
+          "email": "qxu@ironbridgesoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: Project Atlas - LOI countersigned",
+      "body": "Dear Quinn,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nSofia\n\nOn Wed, Jul 01, 2026 at 08:55 AM, Quinn Xu <qxu@ironbridgesoft.com> wrote:\n> Sofia,\n>\n> Good news: Stratus Software countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Thursday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": [
+            "i045-m02"
+          ],
+          "identifier_candidates": [
+            "i045-m02"
+          ],
+          "keyword_candidates": [
+            "i045-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e010",
+      "thread_id": "i045-t005",
+      "in_reply_to": "i045-e009",
+      "references": [
+        "i045-e007",
+        "i045-e009"
+      ],
+      "timestamp": "2026-07-03T09:11:45.843509",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Xu",
+        "email": "qxu@ironbridgesoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: Project Atlas - LOI countersigned",
+      "body": "Hello Sofia,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest,\nQuinn Xu\n\nOn Thu, Jul 02, 2026 at 09:40 AM, Sofia Huang <sofia.huang@goldbergyamamoto.com> wrote:\n> Dear Quinn,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": [
+            "i045-m02"
+          ],
+          "identifier_candidates": [
+            "i045-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e011",
+      "thread_id": "i045-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T07:56:20.423949",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Xu",
+        "email": "qxu@ironbridgesoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Sofia,\n\nThe board asked whether we could structure part of the $85 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nBest regards,\nQuinn Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e012",
+      "thread_id": "i045-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T17:16:29.577175",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Osei",
+        "email": "mosei@riverstonerealty.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Laurent",
+          "email": "pedrol@parallaxfood.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hello Sofia,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest regards,\nMarcus\nSenior Vice President\nRiverstone Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e013",
+      "thread_id": "i045-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T12:22:33.649795",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Laurent",
+        "email": "pedrol@parallaxfood.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2101 California Street",
+      "body": "Hello Sofia,\n\nWe've agreed on a non-binding LOI with Driftwood Properties LLC for about 42,000 RSF at 2101 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nPedro Laurent\nDirector of Real Estate\nParallax Foods",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m01"
+          ],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e014",
+      "thread_id": "i045-t008",
+      "in_reply_to": "i045-e013",
+      "references": [
+        "i045-e013"
+      ],
+      "timestamp": "2026-07-20T10:18:33.351748",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Laurent",
+          "email": "pedrol@parallaxfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 2101 California Street",
+      "body": "Pedro,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nSofia\n\nOn Thu, Jul 16, 2026 at 12:22 PM, Pedro Laurent <pedrol@parallaxfood.com> wrote:\n> Hello Sofia,\n>\n> We've agreed on a non-binding LOI with Driftwood Properties LLC for about 42,000 RSF at 2101 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": [
+            "i045-m01"
+          ],
+          "identifier_candidates": [
+            "i045-m01"
+          ],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e015",
+      "thread_id": "i045-t008",
+      "in_reply_to": "i045-e014",
+      "references": [
+        "i045-e013",
+        "i045-e014"
+      ],
+      "timestamp": "2026-07-22T08:47:40.945480",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Laurent",
+        "email": "pedrol@parallaxfood.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 2101 California Street",
+      "body": "Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nPedro Laurent\nDirector of Real Estate\nParallax Foods\n\nOn Mon, Jul 20, 2026 at 10:18 AM, Sofia Huang <sofia.huang@goldbergyamamoto.com> wrote:\n> Pedro,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": [
+            "i045-m01"
+          ],
+          "identifier_candidates": [
+            "i045-m01"
+          ],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e016",
+      "thread_id": "i045-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T08:15:37.977342",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Xu",
+        "email": "sofia.xu@wavecrestcyber.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Grant",
+          "email": "mayag@northwindbios.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Hello Sofia,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest,\nSofia\nIncident Response Lead\nWavecrest Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m04",
+        "matter_ids": [
+          "i045-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m04"
+          ],
+          "keyword_candidates": [
+            "i045-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e017",
+      "thread_id": "i045-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T09:32:13.427170",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Park",
+        "email": "npark@tidewaterrobo.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Sofia,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nRegards,\nNadia\nGeneral Counsel\nTidewater Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e018",
+      "thread_id": "i045-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T14:06:22.447070",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Sato",
+        "email": "hannahs@tidewaterrobo.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hello Sofia,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nThanks,\nHannah Sato\nChief Operating Officer\nTidewater Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e019",
+      "thread_id": "i045-t010",
+      "in_reply_to": "i045-e017",
+      "references": [
+        "i045-e017"
+      ],
+      "timestamp": "2026-08-12T08:09:38.488047",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Park",
+          "email": "npark@tidewaterrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hello Nadia,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nSofia Huang\n\nOn Tue, Aug 11, 2026 at 09:32 AM, Nadia Park <npark@tidewaterrobo.com> wrote:\n> Sofia,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e020",
+      "thread_id": "i045-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:56:33.229604",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Wei Haddad",
+          "email": "whaddad@xueriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hello Wei,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nSofia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e021",
+      "thread_id": "i045-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T08:21:24.535605",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Kowalski",
+        "email": "emmak@ironbridgesoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Dear Sofia,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nEmma\nGeneral Counsel\nIronbridge Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e022",
+      "thread_id": "i045-t012",
+      "in_reply_to": "i045-e020",
+      "references": [
+        "i045-e020"
+      ],
+      "timestamp": "2026-08-19T08:22:16.839187",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Haddad",
+        "email": "whaddad@xueriksen.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nWei Haddad\nPartner\nXu & Eriksen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": [
+            "i045-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e023",
+      "thread_id": "i045-t012",
+      "in_reply_to": "i045-e022",
+      "references": [
+        "i045-e020",
+        "i045-e022"
+      ],
+      "timestamp": "2026-08-20T15:34:49.115642",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Wei Haddad",
+          "email": "whaddad@xueriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Park",
+          "email": "ipark@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Wei,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nSofia Huang\n\nOn Wed, Aug 19, 2026 at 08:22 AM, Wei Haddad <whaddad@xueriksen.com> wrote:\n> Counsel,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m01",
+        "matter_ids": [
+          "i045-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m01"
+          ],
+          "thread_candidates": [
+            "i045-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e024",
+      "thread_id": "i045-t013",
+      "in_reply_to": "i045-e021",
+      "references": [
+        "i045-e021"
+      ],
+      "timestamp": "2026-08-21T08:01:15.660235",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Emma Kowalski",
+          "email": "emmak@ironbridgesoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hello Emma,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nSofia Huang",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": [
+            "i045-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i045-e025",
+      "thread_id": "i045-t013",
+      "in_reply_to": "i045-e024",
+      "references": [
+        "i045-e021",
+        "i045-e024"
+      ],
+      "timestamp": "2026-08-21T16:20:18.358990",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Kowalski",
+        "email": "emmak@ironbridgesoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hello Sofia,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest,\nEmma Kowalski\nGeneral Counsel\nIronbridge Software\n\nOn Fri, Aug 21, 2026 at 08:01 AM, Sofia Huang <sofia.huang@goldbergyamamoto.com> wrote:\n> Hello Emma,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m02",
+        "matter_ids": [
+          "i045-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m02"
+          ],
+          "thread_candidates": [
+            "i045-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e026",
+      "thread_id": "i045-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:17:31.367455",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Underwood",
+        "email": "emma.underwood@bluefinadr.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Morgan",
+          "email": "hmorgan@xueriksen.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Sofia,\n\nThis confirms receipt of the demand for arbitration in Tidewater Robotics v. Evergreen Labs. The administrative conference is scheduled for September 13. Please confirm your availability.\n\nBest,\nEmma Underwood\nCase Administrator\nBluefin Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e027",
+      "thread_id": "i045-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:25:10.583457",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Whitaker",
+        "email": "yara.whitaker@castillonovak.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Grace Yamamoto",
+          "email": "gyamamoto@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Keystone v. Trellis - proposed protective order",
+      "body": "Sofia,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nRegards,\nYara Whitaker\nPartner\nCastillo & Novak LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e028",
+      "thread_id": "i045-t014",
+      "in_reply_to": "i045-e026",
+      "references": [
+        "i045-e026"
+      ],
+      "timestamp": "2026-08-25T12:24:15.813662",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Emma Underwood",
+          "email": "emma.underwood@bluefinadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Morgan",
+          "email": "hmorgan@xueriksen.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Emma,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nSofia\n\nOn Mon, Aug 24, 2026 at 08:17 AM, Emma Underwood <emma.underwood@bluefinadr.com> wrote:\n> Sofia,\n>\n> This confirms receipt of the demand for arbitration in Tidewater Robotics v. Evergreen Labs. The administrative conference is scheduled for September 13. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [
+            "i045-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e029",
+      "thread_id": "i045-t014",
+      "in_reply_to": "i045-e028",
+      "references": [
+        "i045-e026",
+        "i045-e028"
+      ],
+      "timestamp": "2026-08-25T14:54:29.001325",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Underwood",
+        "email": "emma.underwood@bluefinadr.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Morgan",
+          "email": "hmorgan@xueriksen.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hi Sofia,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nEmma Underwood\nCase Administrator\nBluefin Dispute Resolution\n\nOn Tue, Aug 25, 2026 at 12:24 PM, Sofia Huang <sofia.huang@goldbergyamamoto.com> wrote:\n> Hello Emma,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m03"
+          ],
+          "thread_candidates": [
+            "i045-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e030",
+      "thread_id": "i045-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:43:35.667479",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Kaplan",
+        "email": "ivan.kaplan@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Hello Sofia,\n\nPre-bills for Tidewater Robotics are ready for your review:\n\n- 22829-001  Tidewater v. Evergreen (MSA Dispute)\n\nPlease mark up and return by September 4.\n\nBest,\nIvan\nBilling Coordinator\nGoldberg & Yamamoto LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m03",
+        "matter_ids": [
+          "i045-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e031",
+      "thread_id": "i045-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T08:15:07.487828",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Grant",
+        "email": "lucia.grant@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Sofia,\n\nStatus on my matters this week:\n\n- '666 patent: protective order negotiated; infringement contentions due September 24.\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for September 14.\n- Security incident: forensics report pending; consumer notification letters in draft.\n\nRegards,\nLucia Grant\nSenior Associate\nGoldberg & Yamamoto LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00",
+          "i045-m02",
+          "i045-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00",
+            "i045-m02",
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m00",
+            "i045-m02"
+          ],
+          "keyword_candidates": [
+            "i045-m00",
+            "i045-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e032",
+      "thread_id": "i045-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:49:19.605702",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Weiss",
+          "email": "gweiss@keystoneener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Infringement contentions due October 1",
+      "body": "Hi Gabriel,\n\nReminder that our infringement contentions are due October 1. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nRegards,\nSofia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e033",
+      "thread_id": "i045-t018",
+      "in_reply_to": "i045-e032",
+      "references": [
+        "i045-e032"
+      ],
+      "timestamp": "2026-09-07T17:40:22.718513",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Weiss",
+        "email": "gweiss@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 1",
+      "body": "Hi Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nGabriel Weiss\nChief Technology Officer\nKeystone Energy\n\nOn Mon, Sep 07, 2026 at 09:49 AM, Sofia Huang <sofia.huang@goldbergyamamoto.com> wrote:\n> Hi Gabriel,\n>\n> Reminder that our infringement contentions are due October 1. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": [
+            "i045-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e034",
+      "thread_id": "i045-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T07:33:50.003101",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Okafor",
+        "email": "umaro@northwindbios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Dear Sofia,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nThanks,\nUmar\nGeneral Counsel\nNorthwind Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m04",
+        "matter_ids": [
+          "i045-m04"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e035",
+      "thread_id": "i045-t018",
+      "in_reply_to": "i045-e033",
+      "references": [
+        "i045-e032",
+        "i045-e033"
+      ],
+      "timestamp": "2026-09-09T16:43:49.481319",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Weiss",
+          "email": "gweiss@keystoneener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 1",
+      "body": "Hello Gabriel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nSofia Huang\n\nOn Mon, Sep 07, 2026 at 05:40 PM, Gabriel Weiss <gweiss@keystoneener.com> wrote:\n> Hi Sofia,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": [
+            "i045-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e036",
+      "thread_id": "i045-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T18:50:45.846579",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Grant",
+        "email": "mayag@northwindbios.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Okafor",
+          "email": "umaro@northwindbios.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Dear Sofia,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Wavecrest Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 10:30 a.m.?\n\nBest,\nMaya Grant\nChief Information Security Officer\nNorthwind Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m04",
+        "matter_ids": [
+          "i045-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m04"
+          ],
+          "keyword_candidates": [
+            "i045-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e037",
+      "thread_id": "i045-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:46:56.481662",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Maya Grant",
+          "email": "mayag@northwindbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Okafor",
+          "email": "umaro@northwindbios.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Maya,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Wavecrest.\n\nThanks,\nSofia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m04",
+        "matter_ids": [
+          "i045-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e038",
+      "thread_id": "i045-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T08:05:32.611537",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Grant",
+        "email": "lucia.grant@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Sofia,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest,\nLucia Grant\nSenior Associate\nGoldberg & Yamamoto LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00",
+            "i045-m02",
+            "i045-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e039",
+      "thread_id": "i045-t022",
+      "in_reply_to": "i045-e038",
+      "references": [
+        "i045-e038"
+      ],
+      "timestamp": "2026-09-16T12:15:26.989686",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Grant",
+          "email": "lucia.grant@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Dear Lucia,\n\nAdding Grace, who will handle the day-to-day on this.\n\nThanks,\nSofia Huang",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00",
+            "i045-m02",
+            "i045-m04"
+          ],
+          "thread_candidates": [
+            "i045-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e040",
+      "thread_id": "i045-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T08:20:02.872251",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Kowalski",
+        "email": "pedrok@vantagecomms.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear Sofia,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest regards,\nPedro Kowalski\nEditor\nVantage Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i045-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e041",
+      "thread_id": "i045-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-08T13:55:28.560023",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Weiss",
+        "email": "gweiss@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Huang",
+          "email": "sofia.huang@goldbergyamamoto.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Shah",
+          "email": "samuels@keystoneener.com"
+        }
+      ],
+      "subject": "Trellis Software product launch - possible infringement of '666 patent",
+      "body": "Hello Sofia,\n\nOur engineers looked at the product Trellis Software launched last month and believe it practices claims 1 and 7 of our '666 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nGabriel Weiss\nChief Technology Officer\nKeystone Energy",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i045-m00"
+          ],
+          "keyword_candidates": [
+            "i045-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i045-e042",
+      "thread_id": "i045-t024",
+      "in_reply_to": "i045-e041",
+      "references": [
+        "i045-e041"
+      ],
+      "timestamp": "2026-10-12T08:50:00.456738",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Huang",
+        "email": "sofia.huang@goldbergyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Weiss",
+          "email": "gweiss@keystoneener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Shah",
+          "email": "samuels@keystoneener.com"
+        }
+      ],
+      "subject": "Re: Trellis Software product launch - possible infringement of '666 patent",
+      "body": "Hello Gabriel,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nSofia Huang\n\nOn Thu, Oct 08, 2026 at 01:55 PM, Gabriel Weiss <gweiss@keystoneener.com> wrote:\n> Hello Sofia,\n>\n> Our engineers looked at the product Trellis Software launched last month and believe it practices claims 1 and 7 of our '666 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i045-m00",
+        "matter_ids": [
+          "i045-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i045-m00"
+          ],
+          "thread_candidates": [
+            "i045-m00"
+          ],
+          "identifier_candidates": [
+            "i045-m00"
+          ],
+          "keyword_candidates": [
+            "i045-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700045
+}

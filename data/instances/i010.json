@@ -1,0 +1,3785 @@
+{
+  "instance_id": "i010",
+  "firm": {
+    "name": "Eriksen & Mendoza LLP",
+    "domain": "eriksenmendoza.com"
+  },
+  "user_contact_id": "i010-c000",
+  "matters": [
+    {
+      "matter_id": "i010-m00",
+      "matter_number": "17011-001",
+      "name": "Northwind - Headquarters Lease (1315 Mission Street)",
+      "client": "Northwind Systems",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Northwind Systems's new headquarters at 1315 Mission Street, landlord Stratus Properties LLC.",
+      "counterparty": "Stratus Properties LLC",
+      "opposing_counsel_firm": "Fischer & Whitaker LLP",
+      "status": "open",
+      "opened_on": "2026-06-18",
+      "key_terms": [
+        "17011-001",
+        "1315 Mission Street",
+        "Stratus Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i010-c013",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i010-m01",
+      "matter_number": "72893-001",
+      "name": "Ben Underwood v. Amberly",
+      "client": "Amberly Biosciences",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Ben Underwood against Amberly Biosciences. Case No. 4:26-cv-06612.",
+      "counterparty": "Ben Underwood",
+      "opposing_counsel_firm": "Patel & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-07-31",
+      "key_terms": [
+        "72893-001",
+        "Ben Underwood",
+        "Underwood",
+        "4:26-cv-06612"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i010-c016",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i010-m02",
+      "matter_number": "64074-001",
+      "name": "Evergreen - Series C Financing",
+      "client": "Evergreen Therapeutics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Evergreen Therapeutics, led by Quarry Ventures. Raising ~$18 million.",
+      "counterparty": "Quarry Ventures",
+      "opposing_counsel_firm": "Delgado & Alvarez LLP",
+      "status": "open",
+      "opened_on": "2026-06-04",
+      "key_terms": [
+        "64074-001",
+        "Series C",
+        "Quarry Ventures",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i010-c019",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i010-c020",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i010-m03",
+      "matter_number": "27136-001",
+      "name": "Lattice - Acquisition of Redwood Logistics (Project Orion)",
+      "client": "Lattice Logistics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Redwood Logistics by Lattice Logistics. Stock purchase, ~$85 million.",
+      "counterparty": "Redwood Logistics",
+      "opposing_counsel_firm": "Chowdhury & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-07-24",
+      "key_terms": [
+        "27136-001",
+        "Project Orion",
+        "Orion",
+        "Redwood Logistics",
+        "Redwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c021",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c022",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i010-c023",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i010-m04",
+      "matter_number": "38399-001",
+      "name": "Keystone - Data Security Incident",
+      "client": "Keystone Analytics",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Keystone Analytics's customer database. Forensics by Parallax Cyber.",
+      "counterparty": "Parallax Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-17",
+      "key_terms": [
+        "38399-001",
+        "Parallax Cyber",
+        "Parallax"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c024",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c025",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i010-c026",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i010-m05",
+      "matter_number": "80184-001",
+      "name": "Corvid - Headquarters Lease (2247 Mission Street)",
+      "client": "Corvid Networks",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Corvid Networks's new headquarters at 2247 Mission Street, landlord Solace Properties LLC.",
+      "counterparty": "Solace Properties LLC",
+      "opposing_counsel_firm": "Delgado & Alvarez LLP",
+      "status": "open",
+      "opened_on": "2026-07-02",
+      "key_terms": [
+        "80184-001",
+        "2247 Mission Street",
+        "Solace Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i010-c010",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i010-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i010-c027",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i010-c018",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i010-c028",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i010-c000",
+      "name": "Bianca Whitaker",
+      "first": "Bianca",
+      "email": "biancaw@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c001",
+      "name": "Marcus Rosen",
+      "first": "Marcus",
+      "email": "marcus.rosen@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c002",
+      "name": "Chen Kaplan",
+      "first": "Chen",
+      "email": "chen.kaplan@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c003",
+      "name": "Aisha Haddad",
+      "first": "Aisha",
+      "email": "aishah@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c004",
+      "name": "James Laurent",
+      "first": "James",
+      "email": "jlaurent@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c005",
+      "name": "Bianca Quintero",
+      "first": "Bianca",
+      "email": "bquintero@northwindsyst.com",
+      "organization": "Northwind Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c006",
+      "name": "Samuel Haddad",
+      "first": "Samuel",
+      "email": "samuelh@amberlybios.com",
+      "organization": "Amberly Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c007",
+      "name": "Isabel Thompson",
+      "first": "Isabel",
+      "email": "isabelt@evergreenther.com",
+      "organization": "Evergreen Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c008",
+      "name": "Victor Castillo",
+      "first": "Victor",
+      "email": "vcastillo@latticelogi.com",
+      "organization": "Lattice Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c009",
+      "name": "Jasmine Reyes",
+      "first": "Jasmine",
+      "email": "jreyes@keystoneanal.com",
+      "organization": "Keystone Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c010",
+      "name": "Nikhil Laurent",
+      "first": "Nikhil",
+      "email": "nlaurent@corvidnetw.com",
+      "organization": "Corvid Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c011",
+      "name": "Lucia Moreau",
+      "first": "Lucia",
+      "email": "lucia.moreau@northwindsyst.com",
+      "organization": "Northwind Systems",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c012",
+      "name": "Uma Nakamura",
+      "first": "Uma",
+      "email": "uman@fischerwhitaker.com",
+      "organization": "Fischer & Whitaker LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c013",
+      "name": "Thomas Laurent",
+      "first": "Thomas",
+      "email": "thomas.laurent@marinerrealty.com",
+      "organization": "Mariner Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c014",
+      "name": "Ivan Varga",
+      "first": "Ivan",
+      "email": "ivanv@amberlybios.com",
+      "organization": "Amberly Biosciences",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c015",
+      "name": "Victor Xu",
+      "first": "Victor",
+      "email": "victor.xu@patelshah.com",
+      "organization": "Patel & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c016",
+      "name": "Quinn Banerjee",
+      "first": "Quinn",
+      "email": "quinn.banerjee@orchardadr.com",
+      "organization": "Orchard Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c017",
+      "name": "Priya Castillo",
+      "first": "Priya",
+      "email": "priyac@evergreenther.com",
+      "organization": "Evergreen Therapeutics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c018",
+      "name": "Umar Grant",
+      "first": "Umar",
+      "email": "umarg@delgadoalvarez.com",
+      "organization": "Delgado & Alvarez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c019",
+      "name": "Marcus Xu",
+      "first": "Marcus",
+      "email": "mxu@quarryvc.com",
+      "organization": "Quarry Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c020",
+      "name": "Gabriel Lindqvist",
+      "first": "Gabriel",
+      "email": "gabriel.lindqvist@silverpinevc.com",
+      "organization": "Silverpine Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c021",
+      "name": "Farid Kaplan",
+      "first": "Farid",
+      "email": "fkaplan@latticelogi.com",
+      "organization": "Lattice Logistics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c022",
+      "name": "Ben Yamamoto",
+      "first": "Ben",
+      "email": "ben.yamamoto@chowdhuryellis.com",
+      "organization": "Chowdhury & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c023",
+      "name": "Tara Ito",
+      "first": "Tara",
+      "email": "tara.ito@driftwoodtrust.com",
+      "organization": "Driftwood Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c024",
+      "name": "Thomas Goldberg",
+      "first": "Thomas",
+      "email": "tgoldberg@keystoneanal.com",
+      "organization": "Keystone Analytics",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c025",
+      "name": "Wei Whitaker",
+      "first": "Wei",
+      "email": "weiw@parallaxcyber.com",
+      "organization": "Parallax Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c026",
+      "name": "Grace Chowdhury",
+      "first": "Grace",
+      "email": "gracec@cascademutual.com",
+      "organization": "Cascade Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c027",
+      "name": "Wei Banerjee",
+      "first": "Wei",
+      "email": "wei.banerjee@corvidnetw.com",
+      "organization": "Corvid Networks",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c028",
+      "name": "Rachel Kaplan",
+      "first": "Rachel",
+      "email": "rachelk@tidewaterrealty.com",
+      "organization": "Tidewater Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c029",
+      "name": "Pedro Banerjee",
+      "first": "Pedro",
+      "email": "pedro.banerjee@chowdhuryellis.com",
+      "organization": "Chowdhury & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i010-c030",
+      "name": "Ben Kaplan",
+      "first": "Ben",
+      "email": "benk@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c031",
+      "name": "Femi Chowdhury",
+      "first": "Femi",
+      "email": "femic@eriksenmendoza.com",
+      "organization": "Eriksen & Mendoza LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i010-c032",
+      "name": "Olivia Sato",
+      "first": "Olivia",
+      "email": "osato@bluefinadr.com",
+      "organization": "Bluefin Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i010-e000",
+      "thread_id": "i010-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-05T08:33:04.411866",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Chowdhury",
+        "email": "femic@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hello Bianca,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nRegards,\nFemi Chowdhury\nIT Service Desk\nEriksen & Mendoza LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e001",
+      "thread_id": "i010-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-12T07:37:33.046336",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Kaplan",
+        "email": "benk@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Bianca,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nBen Kaplan\nPartner\nEriksen & Mendoza LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e002",
+      "thread_id": "i010-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T07:09:18.192484",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Sato",
+        "email": "osato@bluefinadr.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Dear Bianca,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest,\nOlivia Sato\nSection Chair\nBluefin Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e003",
+      "thread_id": "i010-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:07:41.687055",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Nakamura",
+        "email": "uman@fischerwhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1315 Mission Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nBest,\nUma",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m00"
+          ],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e004",
+      "thread_id": "i010-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T12:50:16.577445",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Kaplan",
+        "email": "chen.kaplan@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Bianca,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nRegards,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e005",
+      "thread_id": "i010-t003",
+      "in_reply_to": "i010-e003",
+      "references": [
+        "i010-e003"
+      ],
+      "timestamp": "2026-07-08T10:10:48.939156",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Uma Nakamura",
+          "email": "uman@fischerwhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1315 Mission Street - lease draft",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nBianca\nPartner\nEriksen & Mendoza LLP\n\nOn Mon, Jul 06, 2026 at 09:07 AM, Uma Nakamura <uman@fischerwhitaker.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": [
+            "i010-m00"
+          ],
+          "identifier_candidates": [
+            "i010-m00"
+          ],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e006",
+      "thread_id": "i010-t004",
+      "in_reply_to": "i010-e004",
+      "references": [
+        "i010-e004"
+      ],
+      "timestamp": "2026-07-08T12:50:40.629338",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Chen,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Mon, Jul 06, 2026 at 12:50 PM, Chen Kaplan <chen.kaplan@eriksenmendoza.com> wrote:\n> Hi Bianca,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e007",
+      "thread_id": "i010-t004",
+      "in_reply_to": "i010-e006",
+      "references": [
+        "i010-e004",
+        "i010-e006"
+      ],
+      "timestamp": "2026-07-10T10:20:47.436304",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Kaplan",
+        "email": "chen.kaplan@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hello Bianca,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 08, 2026 at 12:50 PM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Chen,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e008",
+      "thread_id": "i010-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:06:42.542521",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Umar Grant",
+          "email": "umarg@delgadoalvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Rosen",
+          "email": "marcus.rosen@eriksenmendoza.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hi Umar,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e009",
+      "thread_id": "i010-t005",
+      "in_reply_to": "i010-e008",
+      "references": [
+        "i010-e008"
+      ],
+      "timestamp": "2026-07-15T08:56:44.621180",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Grant",
+        "email": "umarg@delgadoalvarez.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Rosen",
+          "email": "marcus.rosen@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Bianca,\n\nConfirmed. I'll update the checklist.\n\nBest,\nUmar Grant\n\nOn Mon, Jul 13, 2026 at 09:06 AM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Hi Umar,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e010",
+      "thread_id": "i010-t005",
+      "in_reply_to": "i010-e009",
+      "references": [
+        "i010-e008",
+        "i010-e009"
+      ],
+      "timestamp": "2026-07-16T07:43:51.427386",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Umar Grant",
+          "email": "umarg@delgadoalvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Rosen",
+          "email": "marcus.rosen@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Hello Umar,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nBianca\nPartner\nEriksen & Mendoza LLP\n\nOn Wed, Jul 15, 2026 at 08:56 AM, Umar Grant <umarg@delgadoalvarez.com> wrote:\n> Bianca,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e011",
+      "thread_id": "i010-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:08:46.890000",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Goldberg",
+        "email": "tgoldberg@keystoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Reyes",
+          "email": "jreyes@keystoneanal.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Bianca,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Parallax Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nThanks,\nThomas Goldberg\nChief Information Security Officer\nKeystone Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e012",
+      "thread_id": "i010-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T09:44:35.328374",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Castillo",
+        "email": "priyac@evergreenther.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Isabel Thompson",
+          "email": "isabelt@evergreenther.com"
+        }
+      ],
+      "subject": "Series C term sheet from Quarry Ventures",
+      "body": "Hello Bianca,\n\nWe received the attached term sheet from Quarry Ventures last night: $18 million at a $90 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Tuesday?\n\nThanks,\nPriya Castillo\nChief Executive Officer\nEvergreen Therapeutics",
+      "attachments": [
+        "Quarry Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m02"
+          ],
+          "keyword_candidates": [
+            "i010-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e013",
+      "thread_id": "i010-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T16:09:21.070218",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Laurent",
+        "email": "nlaurent@corvidnetw.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Bianca,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nNikhil",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e014",
+      "thread_id": "i010-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:31:34.702069",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Laurent",
+        "email": "thomas.laurent@marinerrealty.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Lucia Moreau",
+          "email": "lucia.moreau@northwindsyst.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hi Bianca,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest,\nThomas\nSenior Vice President\nMariner Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e015",
+      "thread_id": "i010-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T08:55:35.846285",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Haddad",
+        "email": "samuelh@amberlybios.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Hello Bianca,\n\nBefore the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nBest,\nSamuel Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e016",
+      "thread_id": "i010-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T13:22:09.497857",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Banerjee",
+        "email": "wei.banerjee@corvidnetw.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2247 Mission Street",
+      "body": "Hi Bianca,\n\nWe've agreed on a non-binding LOI with Solace Properties LLC for about 42,000 RSF at 2247 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nWei Banerjee\nDirector of Real Estate\nCorvid Networks",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m05"
+          ],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e017",
+      "thread_id": "i010-t011",
+      "in_reply_to": "i010-e016",
+      "references": [
+        "i010-e016"
+      ],
+      "timestamp": "2026-08-06T09:52:09.248821",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Wei Banerjee",
+          "email": "wei.banerjee@corvidnetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 2247 Mission Street",
+      "body": "Wei,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nRegards,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Wed, Aug 05, 2026 at 01:22 PM, Wei Banerjee <wei.banerjee@corvidnetw.com> wrote:\n> Hi Bianca,\n>\n> We've agreed on a non-binding LOI with Solace Properties LLC for about 42,000 RSF at 2247 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m05",
+        "matter_ids": [
+          "i010-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m05"
+          ],
+          "identifier_candidates": [
+            "i010-m05"
+          ],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e018",
+      "thread_id": "i010-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:49:04.493238",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Moreau",
+        "email": "lucia.moreau@northwindsyst.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Bianca,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nBest regards,\nLucia Moreau\nDirector of Real Estate\nNorthwind Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e019",
+      "thread_id": "i010-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T17:54:23.024172",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Kaplan",
+        "email": "fkaplan@latticelogi.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Bianca,\n\nThe board asked whether we could structure part of the $85 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nFarid\nVP, Corporate Development\nLattice Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e020",
+      "thread_id": "i010-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T07:57:18.871949",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Thompson",
+        "email": "isabelt@evergreenther.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Bianca,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nIsabel Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e021",
+      "thread_id": "i010-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T20:26:40.374376",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Thompson",
+        "email": "isabelt@evergreenther.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Bianca,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nIsabel Thompson",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e022",
+      "thread_id": "i010-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:38:05.311712",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Xu",
+        "email": "victor.xu@patelshah.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Ben Underwood v. Amberly - Case No. 4:26-cv-06612",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Ben Underwood v. Amberly Biosciences, Case No. 4:26-cv-06612. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Amberly.\n\nRegards,\nVictor\nPartner\nPatel & Shah LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m01"
+          ],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e023",
+      "thread_id": "i010-t016",
+      "in_reply_to": "i010-e022",
+      "references": [
+        "i010-e022"
+      ],
+      "timestamp": "2026-08-18T11:58:56.937331",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Victor Xu",
+          "email": "victor.xu@patelshah.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Ben Underwood v. Amberly - Case No. 4:26-cv-06612",
+      "body": "Counsel,\n\nAdding Aisha, who will handle the day-to-day on this.\n\nThanks,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Mon, Aug 17, 2026 at 08:38 AM, Victor Xu <victor.xu@patelshah.com> wrote:\n> Counsel,\n>\n> Please see attached the complaint filed today in Ben Underwood v. Amberly Biosciences, Case No. 4:26-cv-06612. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Amberly.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": [
+            "i010-m01"
+          ],
+          "identifier_candidates": [
+            "i010-m01"
+          ],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e024",
+      "thread_id": "i010-t016",
+      "in_reply_to": "i010-e023",
+      "references": [
+        "i010-e022",
+        "i010-e023"
+      ],
+      "timestamp": "2026-08-18T13:41:32.711947",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Xu",
+        "email": "victor.xu@patelshah.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Ben Underwood v. Amberly - Case No. 4:26-cv-06612",
+      "body": "Counsel,\n\nWorks for me. Let's do Thursday at noon.\n\nRegards,\nVictor\nPartner\nPatel & Shah LLP\n\nOn Tue, Aug 18, 2026 at 11:58 AM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Counsel,\n>\n> Adding Aisha, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": [
+            "i010-m01"
+          ],
+          "identifier_candidates": [
+            "i010-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e025",
+      "thread_id": "i010-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T14:11:54.628136",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Uma Nakamura",
+          "email": "uman@fischerwhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e026",
+      "thread_id": "i010-t017",
+      "in_reply_to": "i010-e025",
+      "references": [
+        "i010-e025"
+      ],
+      "timestamp": "2026-08-20T09:19:57.585951",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Nakamura",
+        "email": "uman@fischerwhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nUma\n\nOn Tue, Aug 18, 2026 at 02:11 PM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Counsel,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": [
+            "i010-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e027",
+      "thread_id": "i010-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T11:00:10.540622",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Ivan Varga",
+          "email": "ivanv@amberlybios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Litigation hold notice",
+      "body": "Hi Ivan,\n\nAttached is a litigation hold notice for distribution to the custodians we discussed (the former manager, the HR business partner, and the regional director). Please have each of them acknowledge receipt. Nobody should delete emails, texts or Slack messages relating to the former employee.\n\nRegards,\nBianca\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [
+        "Litigation Hold Notice.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e028",
+      "thread_id": "i010-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T12:03:00.962492",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Grant",
+        "email": "umarg@delgadoalvarez.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Evergreen Series C - draft financing documents",
+      "body": "Dear Bianca,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series C. Our client would like to sign by September 6. Please send the updated cap table and disclosure schedule when ready.\n\nBest regards,\nUmar",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m02",
+        "matter_ids": [
+          "i010-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m02",
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m02"
+          ],
+          "keyword_candidates": [
+            "i010-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e029",
+      "thread_id": "i010-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T14:30:15.665025",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Kaplan",
+        "email": "chen.kaplan@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Bianca,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e030",
+      "thread_id": "i010-t020",
+      "in_reply_to": "i010-e029",
+      "references": [
+        "i010-e029"
+      ],
+      "timestamp": "2026-08-21T07:27:22.090353",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Chen,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Thu, Aug 20, 2026 at 02:30 PM, Chen Kaplan <chen.kaplan@eriksenmendoza.com> wrote:\n> Bianca,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": [
+            "i010-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e031",
+      "thread_id": "i010-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T08:15:28.814134",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Orion - disclosure schedules open items",
+      "body": "Hi Bianca,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Redwood's counsel directly?\n\nBest,\nAisha Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e032",
+      "thread_id": "i010-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T20:34:42.325656",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Quintero",
+        "email": "bquintero@northwindsyst.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Bianca,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nBianca Quintero\nGeneral Counsel\nNorthwind Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e033",
+      "thread_id": "i010-t021",
+      "in_reply_to": "i010-e031",
+      "references": [
+        "i010-e031"
+      ],
+      "timestamp": "2026-08-28T17:26:39.494085",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Orion - disclosure schedules open items",
+      "body": "Aisha,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Thu, Aug 27, 2026 at 08:15 AM, Aisha Haddad <aishah@eriksenmendoza.com> wrote:\n> Hi Bianca,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Redwood's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m03"
+          ],
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e034",
+      "thread_id": "i010-t022",
+      "in_reply_to": "i010-e032",
+      "references": [
+        "i010-e032"
+      ],
+      "timestamp": "2026-08-31T08:10:55.909734",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Quintero",
+          "email": "bquintero@northwindsyst.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Bianca,\n\nWorks for me. Let's do Friday at 3:30 p.m..\n\nBest regards,\nBianca\nPartner\nEriksen & Mendoza LLP\n\nOn Thu, Aug 27, 2026 at 08:34 PM, Bianca Quintero <bquintero@northwindsyst.com> wrote:\n> Hi Bianca,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": [
+            "i010-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e035",
+      "thread_id": "i010-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:46:52.406316",
+      "folder": "inbox",
+      "from": {
+        "name": "James Laurent",
+        "email": "jlaurent@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Lattice",
+      "body": "Hi Bianca,\n\nPre-bills for Lattice Logistics are ready for your review:\n\n- 27136-001  Lattice - Acquisition of Redwood Logistics (Project Orion)\n\nPlease mark up and return by September 4.\n\nBest regards,\nJames Laurent\nBilling Coordinator\nEriksen & Mendoza LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e036",
+      "thread_id": "i010-t021",
+      "in_reply_to": "i010-e033",
+      "references": [
+        "i010-e031",
+        "i010-e033"
+      ],
+      "timestamp": "2026-08-31T10:38:11.883216",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Orion - disclosure schedules open items",
+      "body": "Dear Bianca,\n\nAdding Chen, who will handle the day-to-day on this.\n\nBest regards,\nAisha Haddad\n\nOn Fri, Aug 28, 2026 at 05:26 PM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Aisha,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m03"
+          ],
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i010-e037",
+      "thread_id": "i010-t022",
+      "in_reply_to": "i010-e034",
+      "references": [
+        "i010-e032",
+        "i010-e034"
+      ],
+      "timestamp": "2026-08-31T16:58:28.607538",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Quintero",
+        "email": "bquintero@northwindsyst.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hi Bianca,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nBianca\nGeneral Counsel\nNorthwind Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00"
+          ],
+          "thread_candidates": [
+            "i010-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e038",
+      "thread_id": "i010-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T17:13:14.557209",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Whitaker",
+        "email": "weiw@parallaxcyber.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Goldberg",
+          "email": "tgoldberg@keystoneanal.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Dear Bianca,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nRegards,\nWei Whitaker\nIncident Response Lead\nParallax Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e039",
+      "thread_id": "i010-t024",
+      "in_reply_to": "i010-e038",
+      "references": [
+        "i010-e038"
+      ],
+      "timestamp": "2026-09-02T09:34:21.145495",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Wei Whitaker",
+          "email": "weiw@parallaxcyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Goldberg",
+          "email": "tgoldberg@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hello Wei,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Tue, Sep 01, 2026 at 05:13 PM, Wei Whitaker <weiw@parallaxcyber.com> wrote:\n> Dear Bianca,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e040",
+      "thread_id": "i010-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T13:06:39.148858",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Dear Bianca,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nRegards,\nAisha Haddad",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e041",
+      "thread_id": "i010-t024",
+      "in_reply_to": "i010-e039",
+      "references": [
+        "i010-e038",
+        "i010-e039"
+      ],
+      "timestamp": "2026-09-03T15:37:00.281421",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Whitaker",
+        "email": "weiw@parallaxcyber.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Goldberg",
+          "email": "tgoldberg@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Bianca,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nWei Whitaker\nIncident Response Lead\nParallax Cyber\n\nOn Wed, Sep 02, 2026 at 09:34 AM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Hello Wei,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e042",
+      "thread_id": "i010-t025",
+      "in_reply_to": "i010-e040",
+      "references": [
+        "i010-e040"
+      ],
+      "timestamp": "2026-09-04T12:06:26.670244",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Aisha,\n\nConfirmed. I'll update the checklist.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Thu, Sep 03, 2026 at 01:06 PM, Aisha Haddad <aishah@eriksenmendoza.com> wrote:\n> Dear Bianca,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e043",
+      "thread_id": "i010-t025",
+      "in_reply_to": "i010-e042",
+      "references": [
+        "i010-e040",
+        "i010-e042"
+      ],
+      "timestamp": "2026-09-04T16:24:21.708733",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hello Bianca,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nAisha Haddad\n\nOn Fri, Sep 04, 2026 at 12:06 PM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Aisha,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e044",
+      "thread_id": "i010-t025",
+      "in_reply_to": "i010-e043",
+      "references": [
+        "i010-e040",
+        "i010-e042",
+        "i010-e043"
+      ],
+      "timestamp": "2026-09-07T08:17:40.120609",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hello Aisha,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Fri, Sep 04, 2026 at 04:24 PM, Aisha Haddad <aishah@eriksenmendoza.com> wrote:\n> Hello Bianca,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e045",
+      "thread_id": "i010-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T14:58:40.365936",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Varga",
+        "email": "ivanv@amberlybios.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Haddad",
+          "email": "samuelh@amberlybios.com"
+        }
+      ],
+      "subject": "Demand letter - Ben Underwood",
+      "body": "Hello Bianca,\n\nWe received the attached demand letter from counsel for Ben Underwood, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?\n\nBest regards,\nIvan",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m01"
+          ],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e046",
+      "thread_id": "i010-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T09:43:11.229921",
+      "folder": "inbox",
+      "from": {
+        "name": "Ben Yamamoto",
+        "email": "ben.yamamoto@chowdhuryellis.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Redwood / Lattice - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest regards,\nBen Yamamoto\nPartner\nChowdhury & Ellis LLP",
+      "attachments": [
+        "Redwood SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e047",
+      "thread_id": "i010-t027",
+      "in_reply_to": "i010-e046",
+      "references": [
+        "i010-e046"
+      ],
+      "timestamp": "2026-09-11T17:39:10.842012",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Ben Yamamoto",
+          "email": "ben.yamamoto@chowdhuryellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Re: Redwood / Lattice - SPA comments",
+      "body": "Dear Ben,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Fri, Sep 11, 2026 at 09:43 AM, Ben Yamamoto <ben.yamamoto@chowdhuryellis.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": [
+            "i010-m03"
+          ],
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e048",
+      "thread_id": "i010-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:25:46.602252",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Chowdhury",
+        "email": "gracec@cascademutual.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hello Bianca,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Parallax.\n\nThanks,\nGrace Chowdhury",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e049",
+      "thread_id": "i010-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:19:23.456940",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Goldberg",
+          "email": "tgoldberg@keystoneanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Reyes",
+          "email": "jreyes@keystoneanal.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Thomas,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Parallax.\n\nRegards,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e050",
+      "thread_id": "i010-t028",
+      "in_reply_to": "i010-e048",
+      "references": [
+        "i010-e048"
+      ],
+      "timestamp": "2026-09-14T14:49:21.265953",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Grace Chowdhury",
+          "email": "gracec@cascademutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello Grace,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Mon, Sep 14, 2026 at 09:25 AM, Grace Chowdhury <gracec@cascademutual.com> wrote:\n> Hello Bianca,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Parallax.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e051",
+      "thread_id": "i010-t029",
+      "in_reply_to": "i010-e049",
+      "references": [
+        "i010-e049"
+      ],
+      "timestamp": "2026-09-15T09:04:20.308965",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Goldberg",
+        "email": "tgoldberg@keystoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Reyes",
+          "email": "jreyes@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hello Bianca,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nBest,\nThomas\nChief Information Security Officer\nKeystone Analytics\n\nOn Mon, Sep 14, 2026 at 10:19 AM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Dear Thomas,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Parallax.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [
+            "i010-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e052",
+      "thread_id": "i010-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T09:20:29.000480",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Ito",
+        "email": "tara.ito@driftwoodtrust.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Bianca,\n\nTo open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?\n\nBest,\nTara Ito\nVice President, Escrow Services\nDriftwood Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e053",
+      "thread_id": "i010-t028",
+      "in_reply_to": "i010-e050",
+      "references": [
+        "i010-e048",
+        "i010-e050"
+      ],
+      "timestamp": "2026-09-15T19:08:56.696650",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Chowdhury",
+        "email": "gracec@cascademutual.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hello Bianca,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nGrace Chowdhury",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e054",
+      "thread_id": "i010-t029",
+      "in_reply_to": "i010-e051",
+      "references": [
+        "i010-e049",
+        "i010-e051"
+      ],
+      "timestamp": "2026-09-17T07:04:39.397884",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Goldberg",
+          "email": "tgoldberg@keystoneanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Reyes",
+          "email": "jreyes@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Thomas,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Tue, Sep 15, 2026 at 09:04 AM, Thomas Goldberg <tgoldberg@keystoneanal.com> wrote:\n> Hello Bianca,\n>\n> Works for me. Let's do Tuesday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e055",
+      "thread_id": "i010-t029",
+      "in_reply_to": "i010-e054",
+      "references": [
+        "i010-e049",
+        "i010-e051",
+        "i010-e054"
+      ],
+      "timestamp": "2026-09-18T11:20:56.065474",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Goldberg",
+        "email": "tgoldberg@keystoneanal.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Jasmine Reyes",
+          "email": "jreyes@keystoneanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hello Bianca,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nThomas Goldberg\nChief Information Security Officer\nKeystone Analytics\n\nOn Thu, Sep 17, 2026 at 07:04 AM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Thomas,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m04",
+        "matter_ids": [
+          "i010-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e056",
+      "thread_id": "i010-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-23T09:42:40.990420",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Ben Yamamoto",
+          "email": "ben.yamamoto@chowdhuryellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Aisha and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest regards,\nBianca\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e057",
+      "thread_id": "i010-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-29T08:01:57.700883",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hi Bianca,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nRegards,\nAisha Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e058",
+      "thread_id": "i010-t032",
+      "in_reply_to": "i010-e057",
+      "references": [
+        "i010-e057"
+      ],
+      "timestamp": "2026-09-29T12:38:34.240394",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hello Aisha,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nBianca Whitaker\nPartner\nEriksen & Mendoza LLP\n\nOn Tue, Sep 29, 2026 at 08:01 AM, Aisha Haddad <aishah@eriksenmendoza.com> wrote:\n> Hi Bianca,\n>\n> The draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i010-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e059",
+      "thread_id": "i010-t032",
+      "in_reply_to": "i010-e058",
+      "references": [
+        "i010-e057",
+        "i010-e058"
+      ],
+      "timestamp": "2026-09-30T08:58:34.186688",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Haddad",
+        "email": "aishah@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Bianca,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nAisha\n\nOn Tue, Sep 29, 2026 at 12:38 PM, Bianca Whitaker <biancaw@eriksenmendoza.com> wrote:\n> Hello Aisha,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e060",
+      "thread_id": "i010-t032",
+      "in_reply_to": "i010-e059",
+      "references": [
+        "i010-e057",
+        "i010-e058",
+        "i010-e059"
+      ],
+      "timestamp": "2026-10-01T08:55:51.578905",
+      "folder": "sent",
+      "from": {
+        "name": "Bianca Whitaker",
+        "email": "biancaw@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Haddad",
+          "email": "aishah@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hello Aisha,\n\nAdding Aisha, who will handle the day-to-day on this.\n\nRegards,\nBianca\nPartner\nEriksen & Mendoza LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m01",
+        "matter_ids": [
+          "i010-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m01",
+            "i010-m03",
+            "i010-m04"
+          ],
+          "thread_candidates": [
+            "i010-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e061",
+      "thread_id": "i010-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-08T09:35:14.047124",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Banerjee",
+        "email": "pedro.banerjee@chowdhuryellis.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Kaplan",
+          "email": "chen.kaplan@eriksenmendoza.com"
+        }
+      ],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Dear Bianca,\n\nI've joined the Redwood deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nBest,\nPedro Banerjee\nAssociate\nChowdhury & Ellis LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m03",
+        "matter_ids": [
+          "i010-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i010-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m03"
+          ],
+          "keyword_candidates": [
+            "i010-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i010-e062",
+      "thread_id": "i010-t034",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T13:29:02.192938",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Kaplan",
+        "email": "chen.kaplan@eriksenmendoza.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Whitaker",
+          "email": "biancaw@eriksenmendoza.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Bianca,\n\nStatus on my matters this week:\n\n- 1315 Mission Street: second turn of landlord's lease draft; SNDA requested from lender.\n- Series C: financing docs in negotiation with Quarry's counsel; cap table reconciliation in progress.\n- Project Orion: seller comments on the SPA in; issues list circulated, signing targeted for October 29.\n- 2247 Mission Street: second turn of landlord's lease draft; SNDA requested from lender.\n\nThanks,\nChen Kaplan\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i010-m00",
+        "matter_ids": [
+          "i010-m00",
+          "i010-m02",
+          "i010-m03",
+          "i010-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i010-m00",
+            "i010-m02",
+            "i010-m03",
+            "i010-m05"
+          ],
+          "keyword_candidates": [
+            "i010-m00",
+            "i010-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700010
+}

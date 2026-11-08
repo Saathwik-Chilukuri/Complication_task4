@@ -1,0 +1,2590 @@
+{
+  "instance_id": "i049",
+  "firm": {
+    "name": "Mendoza & Quintero LLP",
+    "domain": "mendozaquintero.com"
+  },
+  "user_contact_id": "i049-c000",
+  "matters": [
+    {
+      "matter_id": "i049-m00",
+      "matter_number": "58978-001",
+      "name": "Brightline - Acquisition of Riverstone Networks (Project Kestrel)",
+      "client": "Brightline Labs",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Riverstone Networks by Brightline Labs. Stock purchase, ~$410 million.",
+      "counterparty": "Riverstone Networks",
+      "opposing_counsel_firm": "Delgado & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-06-06",
+      "key_terms": [
+        "58978-001",
+        "Project Kestrel",
+        "Kestrel",
+        "Riverstone Networks",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i049-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i049-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i049-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i049-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i049-c011",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i049-m01",
+      "matter_number": "20195-001",
+      "name": "Daniel Ziegler v. Silverpine",
+      "client": "Silverpine Energy",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Daniel Ziegler against Silverpine Energy. Case No. 5:26-cv-07938.",
+      "counterparty": "Daniel Ziegler",
+      "opposing_counsel_firm": "Moreau & Tanaka LLP",
+      "status": "open",
+      "opened_on": "2026-07-02",
+      "key_terms": [
+        "20195-001",
+        "Daniel Ziegler",
+        "Ziegler",
+        "5:26-cv-07938"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i049-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i049-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i049-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i049-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i049-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i049-c014",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i049-m02",
+      "matter_number": "58865-001",
+      "name": "Trellis v. Tidewater ('980 Patent)",
+      "client": "Trellis Systems",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Trellis Systems against Tidewater Biosciences asserting U.S. Patent No. 10,980,298.",
+      "counterparty": "Tidewater Biosciences",
+      "opposing_counsel_firm": "Novak & Huang LLP",
+      "status": "open",
+      "opened_on": "2026-06-09",
+      "key_terms": [
+        "58865-001",
+        "10,980,298",
+        "'980",
+        "Tidewater Biosciences",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i049-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i049-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i049-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i049-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i049-c017",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i049-m03",
+      "matter_number": "75940-001",
+      "name": "Mariner - Acquisition of Lattice Payments (Project Atlas)",
+      "client": "Mariner Payments",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Lattice Payments by Mariner Payments. Stock purchase, ~$240 million.",
+      "counterparty": "Lattice Payments",
+      "opposing_counsel_firm": "Xu & Zhang LLP",
+      "status": "open",
+      "opened_on": "2026-06-11",
+      "key_terms": [
+        "75940-001",
+        "Project Atlas",
+        "Atlas",
+        "Lattice Payments",
+        "Lattice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i049-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i049-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i049-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i049-c019",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i049-c020",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i049-c000",
+      "name": "Emma Castillo",
+      "first": "Emma",
+      "email": "ecastillo@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c001",
+      "name": "Femi Jensen",
+      "first": "Femi",
+      "email": "femi.jensen@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c002",
+      "name": "Nadia Abbott",
+      "first": "Nadia",
+      "email": "nadiaa@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c003",
+      "name": "Femi Grant",
+      "first": "Femi",
+      "email": "femig@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c004",
+      "name": "Elena Reyes",
+      "first": "Elena",
+      "email": "elenar@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c005",
+      "name": "Samuel Park",
+      "first": "Samuel",
+      "email": "spark@brightlinelabs.com",
+      "organization": "Brightline Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c006",
+      "name": "Nadia Grant",
+      "first": "Nadia",
+      "email": "ngrant@silverpineener.com",
+      "organization": "Silverpine Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c007",
+      "name": "Rafael Dubois",
+      "first": "Rafael",
+      "email": "rdubois@trellissyst.com",
+      "organization": "Trellis Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c008",
+      "name": "Jasmine Patel",
+      "first": "Jasmine",
+      "email": "jpatel@marinerpaym.com",
+      "organization": "Mariner Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c009",
+      "name": "Daniel Tanaka",
+      "first": "Daniel",
+      "email": "daniel.tanaka@brightlinelabs.com",
+      "organization": "Brightline Labs",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c010",
+      "name": "Kavya Quintero",
+      "first": "Kavya",
+      "email": "kquintero@delgadounderwood.com",
+      "organization": "Delgado & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c011",
+      "name": "Liam Reyes",
+      "first": "Liam",
+      "email": "lreyes@copperleaftrust.com",
+      "organization": "Copperleaf Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c012",
+      "name": "Grace Varga",
+      "first": "Grace",
+      "email": "gracev@silverpineener.com",
+      "organization": "Silverpine Energy",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c013",
+      "name": "Kenji Haddad",
+      "first": "Kenji",
+      "email": "kenjih@moreautanaka.com",
+      "organization": "Moreau & Tanaka LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c014",
+      "name": "Chen Castillo",
+      "first": "Chen",
+      "email": "chen.castillo@northwindadr.com",
+      "organization": "Northwind Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c015",
+      "name": "Ben Dubois",
+      "first": "Ben",
+      "email": "ben.dubois@trellissyst.com",
+      "organization": "Trellis Systems",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c016",
+      "name": "Arjun Dubois",
+      "first": "Arjun",
+      "email": "arjun.dubois@novakhuang.com",
+      "organization": "Novak & Huang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c017",
+      "name": "Zoe Lee",
+      "first": "Zoe",
+      "email": "zoe.lee@amberlytech.com",
+      "organization": "Amberly Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c018",
+      "name": "Priya Dubois",
+      "first": "Priya",
+      "email": "priyad@marinerpaym.com",
+      "organization": "Mariner Payments",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c019",
+      "name": "Quinn Patel",
+      "first": "Quinn",
+      "email": "quinnp@xuzhang.com",
+      "organization": "Xu & Zhang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c020",
+      "name": "Samuel Ito",
+      "first": "Samuel",
+      "email": "sito@halcyontrust.com",
+      "organization": "Halcyon Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c021",
+      "name": "Priya Novak",
+      "first": "Priya",
+      "email": "pnovak@xuzhang.com",
+      "organization": "Xu & Zhang LLP",
+      "org_type": "law_firm",
+      "title": "Associate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c022",
+      "name": "Elena Delgado",
+      "first": "Elena",
+      "email": "edelgado@bluefinreporting.com",
+      "organization": "Bluefin Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c023",
+      "name": "Bianca Moreau",
+      "first": "Bianca",
+      "email": "biancam@redwoodcomms.com",
+      "organization": "Redwood Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i049-c024",
+      "name": "Liam Varga",
+      "first": "Liam",
+      "email": "liam.varga@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i049-c025",
+      "name": "Quinn Zhang",
+      "first": "Quinn",
+      "email": "quinn.zhang@mendozaquintero.com",
+      "organization": "Mendoza & Quintero LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i049-e000",
+      "thread_id": "i049-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:18:48.615736",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Patel",
+          "email": "quinnp@xuzhang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Nadia and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nEmma Castillo\nPartner\nMendoza & Quintero LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e001",
+      "thread_id": "i049-t000",
+      "in_reply_to": "i049-e000",
+      "references": [
+        "i049-e000"
+      ],
+      "timestamp": "2026-06-17T10:40:00.787615",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Patel",
+        "email": "quinnp@xuzhang.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Hello Emma,\n\nWorks for me. Let's do Thursday at 2:00 p.m..\n\nThanks,\nQuinn\nPartner\nXu & Zhang LLP\n\nOn Mon, Jun 15, 2026 at 09:18 AM, Emma Castillo <ecastillo@mendozaquintero.com> wrote:\n> Counsel,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Nadia and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e002",
+      "thread_id": "i049-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T16:42:45.324504",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Dubois",
+        "email": "priyad@marinerpaym.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Emma,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nThanks,\nPriya Dubois\nVP, Corporate Development\nMariner Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e003",
+      "thread_id": "i049-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T08:45:18.521743",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "biancam@redwoodcomms.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Emma,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nRegards,\nBianca Moreau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e004",
+      "thread_id": "i049-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T07:32:47.180605",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Quintero",
+          "email": "kquintero@delgadounderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Hello Kavya,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Femi and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nEmma Castillo\nPartner\nMendoza & Quintero LLP",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e005",
+      "thread_id": "i049-t003",
+      "in_reply_to": "i049-e004",
+      "references": [
+        "i049-e004"
+      ],
+      "timestamp": "2026-06-25T08:28:37.183950",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Quintero",
+        "email": "kquintero@delgadounderwood.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Emma,\n\nAdding Femi, who will handle the day-to-day on this.\n\nBest,\nKavya",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e006",
+      "thread_id": "i049-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-25T16:37:15.711637",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Dubois",
+        "email": "arjun.dubois@novakhuang.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Trellis v. Tidewater - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nThanks,\nArjun\nPartner\nNovak & Huang LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e007",
+      "thread_id": "i049-t004",
+      "in_reply_to": "i049-e006",
+      "references": [
+        "i049-e006"
+      ],
+      "timestamp": "2026-06-26T07:18:02.844185",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Dubois",
+          "email": "arjun.dubois@novakhuang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Trellis v. Tidewater - proposed protective order",
+      "body": "Dear Arjun,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nEmma\nPartner\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m02"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [
+            "i049-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e008",
+      "thread_id": "i049-t004",
+      "in_reply_to": "i049-e007",
+      "references": [
+        "i049-e006",
+        "i049-e007"
+      ],
+      "timestamp": "2026-06-26T14:43:24.282850",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Dubois",
+        "email": "arjun.dubois@novakhuang.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Trellis v. Tidewater - proposed protective order",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nArjun\nPartner\nNovak & Huang LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m02"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [
+            "i049-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e009",
+      "thread_id": "i049-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T07:16:35.886738",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Dubois",
+        "email": "priyad@marinerpaym.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Emma,\n\nGood news: Lattice Payments countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nBest regards,\nPriya\nVP, Corporate Development\nMariner Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e010",
+      "thread_id": "i049-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T07:20:16.742069",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Novak",
+        "email": "pnovak@xuzhang.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Introduction - disclosure schedules",
+      "body": "Counsel,\n\nI've joined the Lattice deal team and will be coordinating the disclosure schedules going forward. Please copy me on drafts of the SPA as well.\n\nRegards,\nPriya Novak\nAssociate\nXu & Zhang LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e011",
+      "thread_id": "i049-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T20:46:06.221584",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Varga",
+        "email": "liam.varga@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Emma,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nLiam Varga\nPartner\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e012",
+      "thread_id": "i049-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:33:25.066623",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Emma,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nThanks,\nNadia Abbott\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e013",
+      "thread_id": "i049-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T08:47:03.324102",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Emma,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nNadia Abbott\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e014",
+      "thread_id": "i049-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:22:46.409292",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Quintero",
+        "email": "kquintero@delgadounderwood.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "subject": "Riverstone / Brightline - SPA comments",
+      "body": "Emma,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Riverstone customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nKavya Quintero",
+      "attachments": [
+        "Riverstone SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e015",
+      "thread_id": "i049-t009",
+      "in_reply_to": "i049-e013",
+      "references": [
+        "i049-e013"
+      ],
+      "timestamp": "2026-07-27T09:59:44.208659",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Nadia,\n\nAdding Nadia, who will handle the day-to-day on this.\n\nThanks,\nEmma\nPartner\nMendoza & Quintero LLP\n\nOn Fri, Jul 24, 2026 at 08:47 AM, Nadia Abbott <nadiaa@mendozaquintero.com> wrote:\n> Emma,\n>\n> The prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e016",
+      "thread_id": "i049-t010",
+      "in_reply_to": "i049-e014",
+      "references": [
+        "i049-e014"
+      ],
+      "timestamp": "2026-07-28T07:40:17.193518",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Quintero",
+          "email": "kquintero@delgadounderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Riverstone / Brightline - SPA comments",
+      "body": "Counsel,\n\nWorks for me. Let's do Tuesday at 9:00 a.m..\n\nRegards,\nEmma\nPartner\nMendoza & Quintero LLP\n\nOn Mon, Jul 27, 2026 at 08:22 AM, Kavya Quintero <kquintero@delgadounderwood.com> wrote:\n> Emma,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Riverstone customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e017",
+      "thread_id": "i049-t009",
+      "in_reply_to": "i049-e015",
+      "references": [
+        "i049-e013",
+        "i049-e015"
+      ],
+      "timestamp": "2026-07-28T07:59:47.589492",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hi Emma,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nNadia Abbott\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e018",
+      "thread_id": "i049-t009",
+      "in_reply_to": "i049-e017",
+      "references": [
+        "i049-e013",
+        "i049-e015",
+        "i049-e017"
+      ],
+      "timestamp": "2026-07-30T09:14:50.806203",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Hello Nadia,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nEmma\nPartner\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e019",
+      "thread_id": "i049-t010",
+      "in_reply_to": "i049-e016",
+      "references": [
+        "i049-e014",
+        "i049-e016"
+      ],
+      "timestamp": "2026-07-30T09:52:47.876046",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Quintero",
+        "email": "kquintero@delgadounderwood.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Riverstone / Brightline - SPA comments",
+      "body": "Counsel,\n\nAdding Femi, who will handle the day-to-day on this.\n\nBest,\nKavya Quintero\n\nOn Tue, Jul 28, 2026 at 07:40 AM, Emma Castillo <ecastillo@mendozaquintero.com> wrote:\n> Counsel,\n>\n> Works for me. Let's do Tuesday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e020",
+      "thread_id": "i049-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T18:34:51.374552",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Lee",
+        "email": "zoe.lee@amberlytech.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Emma,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 15.\n\nBest regards,\nZoe\nPrincipal\nAmberly Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e021",
+      "thread_id": "i049-t011",
+      "in_reply_to": "i049-e020",
+      "references": [
+        "i049-e020"
+      ],
+      "timestamp": "2026-08-07T08:54:01.286027",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Lee",
+          "email": "zoe.lee@amberlytech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hi Zoe,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nEmma\nPartner\nMendoza & Quintero LLP\n\nOn Thu, Aug 06, 2026 at 06:34 PM, Zoe Lee <zoe.lee@amberlytech.com> wrote:\n> Emma,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 15.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m02",
+        "matter_ids": [
+          "i049-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m02"
+          ],
+          "thread_candidates": [
+            "i049-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e022",
+      "thread_id": "i049-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:30:55.962214",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Park",
+        "email": "spark@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Emma,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nSamuel Park\nGeneral Counsel\nBrightline Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e023",
+      "thread_id": "i049-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T12:37:37.942825",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Delgado",
+        "email": "edelgado@bluefinreporting.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Hi Emma,\n\nThis confirms the deposition of Daniel Ziegler on August 22 at 9:30 a.m. in Case No. 5:26-cv-07938. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nRegards,\nElena Delgado\nScheduling Coordinator\nBluefin Court Reporting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m01",
+        "matter_ids": [
+          "i049-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e024",
+      "thread_id": "i049-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:51:59.213384",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Reyes",
+        "email": "lreyes@copperleaftrust.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hello Emma,\n\nTo open the escrow account for the Kestrel transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nBest regards,\nLiam\nVice President, Escrow Services\nCopperleaf Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i049-e025",
+      "thread_id": "i049-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:18:17.266018",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Grant",
+        "email": "femig@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Kestrel - disclosure schedules open items",
+      "body": "Hello Emma,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Riverstone's counsel directly?\n\nThanks,\nFemi\nAssociate\nMendoza & Quintero LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e026",
+      "thread_id": "i049-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:25:18.085021",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Tanaka",
+        "email": "daniel.tanaka@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Emma,\n\nThe board asked whether we could structure part of the $410 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nDaniel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e027",
+      "thread_id": "i049-t015",
+      "in_reply_to": "i049-e025",
+      "references": [
+        "i049-e025"
+      ],
+      "timestamp": "2026-08-18T09:32:29.157716",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Femi Grant",
+          "email": "femig@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Kestrel - disclosure schedules open items",
+      "body": "Femi,\n\nQuick follow-up on the below. Any update?\n\nBest,\nEmma Castillo\nPartner\nMendoza & Quintero LLP\n\nOn Mon, Aug 17, 2026 at 09:18 AM, Femi Grant <femig@mendozaquintero.com> wrote:\n> Hello Emma,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Riverstone's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [
+            "i049-m00"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e028",
+      "thread_id": "i049-t016",
+      "in_reply_to": "i049-e026",
+      "references": [
+        "i049-e026"
+      ],
+      "timestamp": "2026-08-18T18:19:14.058675",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Tanaka",
+          "email": "daniel.tanaka@brightlinelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Daniel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nEmma\nPartner\nMendoza & Quintero LLP\n\nOn Mon, Aug 17, 2026 at 09:25 AM, Daniel Tanaka <daniel.tanaka@brightlinelabs.com> wrote:\n> Emma,\n>\n> The board asked whether we could structure part of the $410 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e029",
+      "thread_id": "i049-t014",
+      "in_reply_to": "i049-e024",
+      "references": [
+        "i049-e024"
+      ],
+      "timestamp": "2026-08-19T09:05:32.379609",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Liam Reyes",
+          "email": "lreyes@copperleaftrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Liam,\n\nQuick follow-up on the below. Any update?\n\nBest,\nEmma\nPartner\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e030",
+      "thread_id": "i049-t016",
+      "in_reply_to": "i049-e028",
+      "references": [
+        "i049-e026",
+        "i049-e028"
+      ],
+      "timestamp": "2026-08-20T08:10:10.578621",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Tanaka",
+        "email": "daniel.tanaka@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Emma,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nDaniel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e031",
+      "thread_id": "i049-t014",
+      "in_reply_to": "i049-e029",
+      "references": [
+        "i049-e024",
+        "i049-e029"
+      ],
+      "timestamp": "2026-08-20T10:46:30.694357",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Reyes",
+        "email": "lreyes@copperleaftrust.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Emma,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nLiam Reyes\nVice President, Escrow Services\nCopperleaf Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e032",
+      "thread_id": "i049-t016",
+      "in_reply_to": "i049-e030",
+      "references": [
+        "i049-e026",
+        "i049-e028",
+        "i049-e030"
+      ],
+      "timestamp": "2026-08-24T09:34:03.726792",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Tanaka",
+          "email": "daniel.tanaka@brightlinelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hello Daniel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nEmma Castillo\nPartner\nMendoza & Quintero LLP\n\nOn Thu, Aug 20, 2026 at 08:10 AM, Daniel Tanaka <daniel.tanaka@brightlinelabs.com> wrote:\n> Emma,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m00",
+        "matter_ids": [
+          "i049-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m00"
+          ],
+          "thread_candidates": [
+            "i049-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e033",
+      "thread_id": "i049-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T09:08:34.002764",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Dubois",
+        "email": "priyad@marinerpaym.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Emma,\n\nThe board asked whether we could structure part of the $240 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nRegards,\nPriya\nVP, Corporate Development\nMariner Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e034",
+      "thread_id": "i049-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T13:37:14.260862",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Grant",
+        "email": "ngrant@silverpineener.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Emma,\n\nBefore the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nRegards,\nNadia\nGeneral Counsel\nSilverpine Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m01",
+        "matter_ids": [
+          "i049-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e035",
+      "thread_id": "i049-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:16:32.670868",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Reyes",
+        "email": "elenar@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Mariner",
+      "body": "Hello Emma,\n\nPre-bills for Mariner Payments are ready for your review:\n\n- 75940-001  Mariner - Acquisition of Lattice Payments (Project Atlas)\n\nPlease mark up and return by September 4.\n\nBest regards,\nElena Reyes\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e036",
+      "thread_id": "i049-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:31:31.081809",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Atlas - disclosure schedules open items",
+      "body": "Dear Emma,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Lattice's counsel directly?\n\nBest regards,\nNadia\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [
+            "i049-m00",
+            "i049-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e037",
+      "thread_id": "i049-t020",
+      "in_reply_to": "i049-e036",
+      "references": [
+        "i049-e036"
+      ],
+      "timestamp": "2026-09-01T09:34:46.047579",
+      "folder": "sent",
+      "from": {
+        "name": "Emma Castillo",
+        "email": "ecastillo@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Abbott",
+          "email": "nadiaa@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Nadia,\n\nAdding Nadia, who will handle the day-to-day on this.\n\nBest,\nEmma Castillo\nPartner\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m03"
+          ],
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e038",
+      "thread_id": "i049-t020",
+      "in_reply_to": "i049-e037",
+      "references": [
+        "i049-e036",
+        "i049-e037"
+      ],
+      "timestamp": "2026-09-02T09:04:32.244468",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Atlas - disclosure schedules open items",
+      "body": "Dear Emma,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nNadia Abbott\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m03",
+        "matter_ids": [
+          "i049-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": [
+            "i049-m03"
+          ],
+          "identifier_candidates": [
+            "i049-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e039",
+      "thread_id": "i049-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:17:36.302267",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Emma,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nThanks,\nNadia\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m01",
+        "matter_ids": [
+          "i049-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i049-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e040",
+      "thread_id": "i049-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T18:36:41.736479",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Castillo",
+        "email": "chen.castillo@northwindadr.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Haddad",
+          "email": "kenjih@moreautanaka.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Dear Emma,\n\nI have the following dates available for a full-day mediation: September 22 and September 28. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nBest,\nChen Castillo\nMediator\nNorthwind Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i049-m01",
+        "matter_ids": [
+          "i049-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e041",
+      "thread_id": "i049-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:19:31.554608",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Abbott",
+        "email": "nadiaa@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Emma,\n\nStatus on my matters this week:\n\n- Ziegler: complaint served; mediation being scheduled, deposition outline in draft.\n- '980 patent: protective order negotiated; infringement contentions due October 13.\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for October 6.\n\nRegards,\nNadia\nSenior Associate\nMendoza & Quintero LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i049-m01",
+        "matter_ids": [
+          "i049-m01",
+          "i049-m02",
+          "i049-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i049-m01",
+            "i049-m02",
+            "i049-m03"
+          ],
+          "keyword_candidates": [
+            "i049-m01",
+            "i049-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i049-e042",
+      "thread_id": "i049-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-19T09:17:53.391421",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Zhang",
+        "email": "quinn.zhang@mendozaquintero.com"
+      },
+      "to": [
+        {
+          "name": "Emma Castillo",
+          "email": "ecastillo@mendozaquintero.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hello Emma,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nQuinn\nProfessional Development Manager\nMendoza & Quintero LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700049
+}

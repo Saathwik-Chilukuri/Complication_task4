@@ -1,0 +1,3462 @@
+{
+  "instance_id": "i040",
+  "firm": {
+    "name": "Underwood & Grant LLP",
+    "domain": "underwoodgrant.com"
+  },
+  "user_contact_id": "i040-c000",
+  "matters": [
+    {
+      "matter_id": "i040-m00",
+      "matter_number": "85304-001",
+      "name": "Sterling - California DOJ Investigation (CID No. 2026-669)",
+      "client": "Sterling Robotics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Sterling Robotics's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-07-05",
+      "key_terms": [
+        "85304-001",
+        "2026-669",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i040-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i040-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i040-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i040-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i040-c009",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i040-m01",
+      "matter_number": "53493-001",
+      "name": "Farid Zhang v. Cascade",
+      "client": "Cascade Robotics",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Farid Zhang against Cascade Robotics. Case No. 5:26-cv-02488.",
+      "counterparty": "Farid Zhang",
+      "opposing_counsel_firm": "Underwood & Weiss LLP",
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "53493-001",
+        "Farid Zhang",
+        "Zhang",
+        "5:26-cv-02488"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i040-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i040-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i040-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i040-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i040-c012",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i040-m02",
+      "matter_number": "62787-001",
+      "name": "Stratus - Acquisition of Silverpine Materials (Project Orion)",
+      "client": "Stratus Payments",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Silverpine Materials by Stratus Payments. Stock purchase, ~$120 million.",
+      "counterparty": "Silverpine Materials",
+      "opposing_counsel_firm": "Underwood & Weiss LLP",
+      "status": "open",
+      "opened_on": "2026-07-08",
+      "key_terms": [
+        "62787-001",
+        "Project Orion",
+        "Orion",
+        "Silverpine Materials",
+        "Silverpine"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i040-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i040-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i040-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i040-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i040-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i040-c014",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i040-m03",
+      "matter_number": "62787-002",
+      "name": "Stratus - CFPB Investigation (CID No. 2025-686)",
+      "client": "Stratus Payments",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Stratus Payments's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "62787-002",
+        "2025-686",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i040-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i040-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i040-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i040-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i040-c017",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i040-c000",
+      "name": "Femi Young",
+      "first": "Femi",
+      "email": "femi.young@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c001",
+      "name": "Uma Iyer",
+      "first": "Uma",
+      "email": "uiyer@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c002",
+      "name": "Aisha Kaplan",
+      "first": "Aisha",
+      "email": "akaplan@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c003",
+      "name": "Ximena Nakamura",
+      "first": "Ximena",
+      "email": "ximena.nakamura@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c004",
+      "name": "Kavya Quintero",
+      "first": "Kavya",
+      "email": "kavyaq@sterlingrobo.com",
+      "organization": "Sterling Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c005",
+      "name": "Yusuf Castillo",
+      "first": "Yusuf",
+      "email": "ycastillo@cascaderobo.com",
+      "organization": "Cascade Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c006",
+      "name": "Omar Yamamoto",
+      "first": "Omar",
+      "email": "omar.yamamoto@stratuspaym.com",
+      "organization": "Stratus Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c007",
+      "name": "Rachel Young",
+      "first": "Rachel",
+      "email": "rachel.young@sterlingrobo.com",
+      "organization": "Sterling Robotics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c008",
+      "name": "Sofia Jensen",
+      "first": "Sofia",
+      "email": "sjensen@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c009",
+      "name": "Bianca Grant",
+      "first": "Bianca",
+      "email": "bianca.grant@northwinddiscovery.com",
+      "organization": "Northwind Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c010",
+      "name": "Xavier Kowalski",
+      "first": "Xavier",
+      "email": "xkowalski@cascaderobo.com",
+      "organization": "Cascade Robotics",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c011",
+      "name": "Bianca Moreau",
+      "first": "Bianca",
+      "email": "bmoreau@underwoodweiss.com",
+      "organization": "Underwood & Weiss LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c012",
+      "name": "Sofia Goldberg",
+      "first": "Sofia",
+      "email": "sgoldberg@redwoodadr.com",
+      "organization": "Redwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c013",
+      "name": "Zoe Underwood",
+      "first": "Zoe",
+      "email": "zunderwood@stratuspaym.com",
+      "organization": "Stratus Payments",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c014",
+      "name": "Grace Whitaker",
+      "first": "Grace",
+      "email": "gwhitaker@evergreentrust.com",
+      "organization": "Evergreen Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c015",
+      "name": "Gabriel Varga",
+      "first": "Gabriel",
+      "email": "gabrielv@stratuspaym.com",
+      "organization": "Stratus Payments",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c016",
+      "name": "Aisha Ito",
+      "first": "Aisha",
+      "email": "aito@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c017",
+      "name": "Sofia Novak",
+      "first": "Sofia",
+      "email": "sofian@trellisdiscovery.com",
+      "organization": "Trellis Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c018",
+      "name": "Gabriel Abbott",
+      "first": "Gabriel",
+      "email": "gabbott@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c019",
+      "name": "Hiro Eriksen",
+      "first": "Hiro",
+      "email": "hiroe@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c020",
+      "name": "Quinn Kowalski",
+      "first": "Quinn",
+      "email": "qkowalski@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c021",
+      "name": "Priya Jensen",
+      "first": "Priya",
+      "email": "priyaj@underwoodgrant.com",
+      "organization": "Underwood & Grant LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i040-c022",
+      "name": "Isabel Delgado",
+      "first": "Isabel",
+      "email": "isabeld@pinnaclepaym.com",
+      "organization": "Pinnacle Payments",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i040-c023",
+      "name": "Marcus Nakamura",
+      "first": "Marcus",
+      "email": "mnakamura@brightlineadr.com",
+      "organization": "Brightline Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i040-e000",
+      "thread_id": "i040-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-05T08:58:01.012601",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Nakamura",
+        "email": "mnakamura@brightlineadr.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Femi,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nMarcus\nSection Chair\nBrightline Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e001",
+      "thread_id": "i040-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-17T12:41:51.435681",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Ito",
+        "email": "aito@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-686 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest,\nAisha Ito\nStaff Attorney\nConsumer Financial Protection Bureau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e002",
+      "thread_id": "i040-t001",
+      "in_reply_to": "i040-e001",
+      "references": [
+        "i040-e001"
+      ],
+      "timestamp": "2026-06-18T07:02:02.522410",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Ito",
+          "email": "aito@cfpb.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-686 - meet and confer",
+      "body": "Aisha,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jun 17, 2026 at 12:41 PM, Aisha Ito <aito@cfpb.gov> wrote:\n> Counsel,\n>\n> Following up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e003",
+      "thread_id": "i040-t001",
+      "in_reply_to": "i040-e002",
+      "references": [
+        "i040-e001",
+        "i040-e002"
+      ],
+      "timestamp": "2026-06-18T15:12:55.790405",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Ito",
+        "email": "aito@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-686 - meet and confer",
+      "body": "Dear Femi,\n\nAdding Uma, who will handle the day-to-day on this.\n\nThanks,\nAisha Ito\nStaff Attorney\nConsumer Financial Protection Bureau\n\nOn Thu, Jun 18, 2026 at 07:02 AM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Aisha,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e004",
+      "thread_id": "i040-t001",
+      "in_reply_to": "i040-e003",
+      "references": [
+        "i040-e001",
+        "i040-e002",
+        "i040-e003"
+      ],
+      "timestamp": "2026-06-22T08:44:37.533725",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Ito",
+          "email": "aito@cfpb.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-686 - meet and confer",
+      "body": "Dear Aisha,\n\nWorks for me. Let's do Friday at 5:00 p.m..\n\nBest regards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jun 18, 2026 at 03:12 PM, Aisha Ito <aito@cfpb.gov> wrote:\n> Dear Femi,\n>\n> Adding Uma, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e005",
+      "thread_id": "i040-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T08:09:14.168758",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Abbott",
+        "email": "gabbott@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Dear Femi,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nRegards,\nGabriel Abbott\nInvestigator\nConsumer Financial Protection Bureau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e006",
+      "thread_id": "i040-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-02T09:48:23.403570",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Yamamoto",
+        "email": "omar.yamamoto@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Civil investigative demand received",
+      "body": "Femi,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2025-686). It asks for documents about our customer data practices going back to 2021. The return date is July 18. Can you call me?\n\nBest,\nOmar\nGeneral Counsel\nStratus Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e007",
+      "thread_id": "i040-t003",
+      "in_reply_to": "i040-e006",
+      "references": [
+        "i040-e006"
+      ],
+      "timestamp": "2026-07-03T07:46:08.870059",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Omar Yamamoto",
+          "email": "omar.yamamoto@stratuspaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Omar,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 02, 2026 at 09:48 AM, Omar Yamamoto <omar.yamamoto@stratuspaym.com> wrote:\n> Femi,\n>\n> We received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2025-686). It asks for documents about our customer data practices going back to 2021. The return date is July 18. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e008",
+      "thread_id": "i040-t003",
+      "in_reply_to": "i040-e007",
+      "references": [
+        "i040-e006",
+        "i040-e007"
+      ],
+      "timestamp": "2026-07-06T08:08:18.020813",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Yamamoto",
+        "email": "omar.yamamoto@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hi Femi,\n\nThanks. Separately, on Project Orion, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nThanks,\nOmar\nGeneral Counsel\nStratus Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02",
+          "i040-m03"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e009",
+      "thread_id": "i040-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T07:01:31.322507",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Yamamoto",
+        "email": "omar.yamamoto@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Varga",
+          "email": "gabrielv@stratuspaym.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Dear Femi,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2025-686). It asks for documents about our customer data practices going back to 2021. The return date is July 20. Can you call me?\n\nThanks,\nOmar Yamamoto\nGeneral Counsel\nStratus Payments",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m03"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e010",
+      "thread_id": "i040-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T08:54:02.051969",
+      "folder": "inbox",
+      "from": {
+        "name": "Grace Whitaker",
+        "email": "gwhitaker@evergreentrust.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Dear Femi,\n\nTo open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $2.5 million. Who is our point of contact on the seller side?\n\nBest regards,\nGrace Whitaker\nVice President, Escrow Services\nEvergreen Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e011",
+      "thread_id": "i040-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T07:31:40.072986",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Delgado",
+        "email": "isabeld@pinnaclepaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Femi,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nIsabel Delgado",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e012",
+      "thread_id": "i040-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T08:11:41.979795",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Grant",
+        "email": "bianca.grant@northwinddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hi Femi,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest regards,\nBianca Grant",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e013",
+      "thread_id": "i040-t007",
+      "in_reply_to": "i040-e012",
+      "references": [
+        "i040-e012"
+      ],
+      "timestamp": "2026-07-27T08:31:30.472939",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Grant",
+          "email": "bianca.grant@northwinddiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Bianca,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 23, 2026 at 08:11 AM, Bianca Grant <bianca.grant@northwinddiscovery.com> wrote:\n> Hi Femi,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": [
+            "i040-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e014",
+      "thread_id": "i040-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:51:51.635194",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Young",
+          "email": "rachel.young@sterlingrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hello Rachel,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e015",
+      "thread_id": "i040-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:13:18.555104",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Varga",
+        "email": "gabrielv@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hi Femi,\n\nThe audit committee wants an update at its meeting on August 4. Could you prepare a short summary of status, exposure, and next steps?\n\nBest,\nGabriel\nChief Compliance Officer\nStratus Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e016",
+      "thread_id": "i040-t008",
+      "in_reply_to": "i040-e014",
+      "references": [
+        "i040-e014"
+      ],
+      "timestamp": "2026-07-28T12:27:26.561793",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Young",
+        "email": "rachel.young@sterlingrobo.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Femi,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nRachel Young\nChief Compliance Officer\nSterling Robotics\n\nOn Mon, Jul 27, 2026 at 08:51 AM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Hello Rachel,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": [
+            "i040-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e017",
+      "thread_id": "i040-t009",
+      "in_reply_to": "i040-e015",
+      "references": [
+        "i040-e015"
+      ],
+      "timestamp": "2026-07-29T10:10:39.164155",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Varga",
+          "email": "gabrielv@stratuspaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hi Gabriel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 10:13 AM, Gabriel Varga <gabrielv@stratuspaym.com> wrote:\n> Hi Femi,\n>\n> The audit committee wants an update at its meeting on August 4. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e018",
+      "thread_id": "i040-t009",
+      "in_reply_to": "i040-e017",
+      "references": [
+        "i040-e015",
+        "i040-e017"
+      ],
+      "timestamp": "2026-07-30T08:17:28.551062",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Varga",
+        "email": "gabrielv@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Femi,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nGabriel\nChief Compliance Officer\nStratus Payments\n\nOn Wed, Jul 29, 2026 at 10:10 AM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Hi Gabriel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e019",
+      "thread_id": "i040-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:49:57.804176",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Nakamura",
+        "email": "ximena.nakamura@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Cascade",
+      "body": "Hello Femi,\n\nPre-bills for Cascade Robotics are ready for your review:\n\n- 53493-001  Farid Zhang v. Cascade\n\nPlease mark up and return by August 4.\n\nThanks,\nXimena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e020",
+      "thread_id": "i040-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:07:54.298980",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Kaplan",
+        "email": "akaplan@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Dear Femi,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest,\nAisha Kaplan\nSenior Associate\nUnderwood & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00",
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e021",
+      "thread_id": "i040-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:11:53.798210",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Novak",
+        "email": "sofian@trellisdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Femi,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nThanks,\nSofia",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e022",
+      "thread_id": "i040-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:26:34.832200",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Kowalski",
+        "email": "xkowalski@cascaderobo.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Castillo",
+          "email": "ycastillo@cascaderobo.com"
+        }
+      ],
+      "subject": "Demand letter - Farid Zhang",
+      "body": "Hello Femi,\n\nWe received the attached demand letter from counsel for Farid Zhang, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $2.5 million. I've put a hold on the personnel file. How should we respond?\n\nBest regards,\nXavier Kowalski",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m01"
+          ],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e023",
+      "thread_id": "i040-t012",
+      "in_reply_to": "i040-e021",
+      "references": [
+        "i040-e021"
+      ],
+      "timestamp": "2026-08-10T20:27:08.590412",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Novak",
+          "email": "sofian@trellisdiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Sofia,\n\nWorks for me. Let's do Friday at 10:30 a.m..\n\nRegards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 09:11 AM, Sofia Novak <sofian@trellisdiscovery.com> wrote:\n> Dear Femi,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e024",
+      "thread_id": "i040-t012",
+      "in_reply_to": "i040-e023",
+      "references": [
+        "i040-e021",
+        "i040-e023"
+      ],
+      "timestamp": "2026-08-11T15:26:00.921427",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Novak",
+        "email": "sofian@trellisdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hi Femi,\n\nAdding Uma, who will handle the day-to-day on this.\n\nRegards,\nSofia\n\nOn Mon, Aug 10, 2026 at 08:27 PM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Sofia,\n>\n> Works for me. Let's do Friday at 10:30 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e025",
+      "thread_id": "i040-t012",
+      "in_reply_to": "i040-e024",
+      "references": [
+        "i040-e021",
+        "i040-e023",
+        "i040-e024"
+      ],
+      "timestamp": "2026-08-12T09:54:31.298806",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Novak",
+          "email": "sofian@trellisdiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nFemi\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e026",
+      "thread_id": "i040-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:11:29.530905",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Kaplan",
+        "email": "akaplan@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Femi,\n\nStatus on my matters this week:\n\n- California DOJ CID: collection 80% complete; first rolling production targeted for September 13.\n- Project Orion: seller comments on the SPA in; issues list circulated, signing targeted for September 7.\n\nBest,\nAisha Kaplan\nSenior Associate\nUnderwood & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00",
+          "i040-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00",
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e027",
+      "thread_id": "i040-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:50:33.749246",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Yamamoto",
+        "email": "omar.yamamoto@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hi Femi,\n\nTwo quick things.\n\n1. On the CFPB investigation, the audit committee wants to know whether we're on track for the first production.\n2. On Project Orion, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest regards,\nOmar Yamamoto\nGeneral Counsel\nStratus Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03",
+          "i040-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e028",
+      "thread_id": "i040-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T08:57:09.174763",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "bmoreau@underwoodweiss.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Silverpine / Stratus - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Silverpine customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nBianca\nPartner\nUnderwood & Weiss LLP",
+      "attachments": [
+        "Silverpine SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [
+            "i040-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e029",
+      "thread_id": "i040-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T09:50:10.110567",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Goldberg",
+        "email": "sgoldberg@redwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Femi,\n\nI have the following dates available for a full-day mediation: September 11 and September 16. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nThanks,\nSofia Goldberg",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e030",
+      "thread_id": "i040-t017",
+      "in_reply_to": "i040-e029",
+      "references": [
+        "i040-e029"
+      ],
+      "timestamp": "2026-08-25T15:33:39.408373",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Goldberg",
+          "email": "sgoldberg@redwoodadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Hello Sofia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nFemi\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 09:50 AM, Sofia Goldberg <sgoldberg@redwoodadr.com> wrote:\n> Femi,\n>\n> I have the following dates available for a full-day mediation: September 11 and September 16. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01"
+          ],
+          "thread_candidates": [
+            "i040-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e031",
+      "thread_id": "i040-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T08:57:56.223202",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Jensen",
+        "email": "priyaj@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Femi,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nPriya Jensen\nPartner\nUnderwood & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e032",
+      "thread_id": "i040-t016",
+      "in_reply_to": "i040-e028",
+      "references": [
+        "i040-e028"
+      ],
+      "timestamp": "2026-08-26T17:39:01.100444",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Stratus - SPA comments",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 08:57 AM, Bianca Moreau <bmoreau@underwoodweiss.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Silverpine customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [
+            "i040-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e033",
+      "thread_id": "i040-t016",
+      "in_reply_to": "i040-e032",
+      "references": [
+        "i040-e028",
+        "i040-e032"
+      ],
+      "timestamp": "2026-08-27T18:44:26.897193",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "bmoreau@underwoodweiss.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Stratus - SPA comments",
+      "body": "Hello Femi,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nBianca\nPartner\nUnderwood & Weiss LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e034",
+      "thread_id": "i040-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T19:00:45.137820",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Varga",
+          "email": "gabrielv@stratuspaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Dear Gabriel,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e035",
+      "thread_id": "i040-t016",
+      "in_reply_to": "i040-e033",
+      "references": [
+        "i040-e028",
+        "i040-e032",
+        "i040-e033"
+      ],
+      "timestamp": "2026-08-28T09:37:54.680172",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Stratus - SPA comments",
+      "body": "Hello Bianca,\n\nAdding Uma, who will handle the day-to-day on this.\n\nBest,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i040-e036",
+      "thread_id": "i040-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:10:33.402397",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Young",
+        "email": "rachel.young@sterlingrobo.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Dear Femi,\n\nThe audit committee wants an update at its meeting on September 24. Could you prepare a short summary of status, exposure, and next steps?\n\nRegards,\nRachel Young\nChief Compliance Officer\nSterling Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e037",
+      "thread_id": "i040-t019",
+      "in_reply_to": "i040-e034",
+      "references": [
+        "i040-e034"
+      ],
+      "timestamp": "2026-08-31T08:45:39.950015",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Varga",
+        "email": "gabrielv@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Femi,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nGabriel Varga\nChief Compliance Officer\nStratus Payments\n\nOn Thu, Aug 27, 2026 at 07:00 PM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Dear Gabriel,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m03",
+        "matter_ids": [
+          "i040-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e038",
+      "thread_id": "i040-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:54:54.699931",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Underwood",
+        "email": "zunderwood@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Dear Femi,\n\nThe board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nThanks,\nZoe Underwood",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e039",
+      "thread_id": "i040-t020",
+      "in_reply_to": "i040-e036",
+      "references": [
+        "i040-e036"
+      ],
+      "timestamp": "2026-09-01T09:19:17.971717",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Young",
+          "email": "rachel.young@sterlingrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Rachel,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nRegards,\nFemi\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 08:10 AM, Rachel Young <rachel.young@sterlingrobo.com> wrote:\n> Dear Femi,\n>\n> The audit committee wants an update at its meeting on September 24. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": [
+            "i040-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e040",
+      "thread_id": "i040-t020",
+      "in_reply_to": "i040-e039",
+      "references": [
+        "i040-e036",
+        "i040-e039"
+      ],
+      "timestamp": "2026-09-02T08:04:02.589512",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Young",
+        "email": "rachel.young@sterlingrobo.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello Femi,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nRachel Young\nChief Compliance Officer\nSterling Robotics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": [
+            "i040-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e041",
+      "thread_id": "i040-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T09:06:29.726588",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Kaplan",
+        "email": "akaplan@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hi Femi,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nThanks,\nAisha\nSenior Associate\nUnderwood & Grant LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00",
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e042",
+      "thread_id": "i040-t020",
+      "in_reply_to": "i040-e040",
+      "references": [
+        "i040-e036",
+        "i040-e039",
+        "i040-e040"
+      ],
+      "timestamp": "2026-09-02T13:42:20.717267",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Young",
+          "email": "rachel.young@sterlingrobo.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hi Rachel,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 02, 2026 at 08:04 AM, Rachel Young <rachel.young@sterlingrobo.com> wrote:\n> Hello Femi,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": [
+            "i040-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e043",
+      "thread_id": "i040-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T12:47:02.716924",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Underwood",
+        "email": "zunderwood@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Project Orion - LOI countersigned",
+      "body": "Femi,\n\nGood news: Silverpine Materials countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Wednesday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nZoe",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [
+            "i040-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e044",
+      "thread_id": "i040-t023",
+      "in_reply_to": "i040-e043",
+      "references": [
+        "i040-e043"
+      ],
+      "timestamp": "2026-09-09T11:47:09.606379",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Underwood",
+          "email": "zunderwood@stratuspaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Project Orion - LOI countersigned",
+      "body": "Hello Zoe,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e045",
+      "thread_id": "i040-t023",
+      "in_reply_to": "i040-e044",
+      "references": [
+        "i040-e043",
+        "i040-e044"
+      ],
+      "timestamp": "2026-09-11T08:34:16.848674",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Underwood",
+        "email": "zunderwood@stratuspaym.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Project Orion - LOI countersigned",
+      "body": "Hello Femi,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nZoe\n\nOn Wed, Sep 09, 2026 at 11:47 AM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Hello Zoe,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e046",
+      "thread_id": "i040-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:42:47.916903",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Quintero",
+        "email": "kavyaq@sterlingrobo.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rachel Young",
+          "email": "rachel.young@sterlingrobo.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Femi,\n\nWe received a Civil Investigative Demand from the California Department of Justice this morning (CID No. 2026-669). It asks for documents about our customer data practices going back to 2021. The return date is September 25. Can you call me?\n\nBest regards,\nKavya Quintero",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m00"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e047",
+      "thread_id": "i040-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:03:57.224383",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Counsel,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Uma and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nFemi\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e048",
+      "thread_id": "i040-t023",
+      "in_reply_to": "i040-e045",
+      "references": [
+        "i040-e043",
+        "i040-e044",
+        "i040-e045"
+      ],
+      "timestamp": "2026-09-14T10:06:48.508539",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Underwood",
+          "email": "zunderwood@stratuspaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Project Orion - LOI countersigned",
+      "body": "Hello Zoe,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 11, 2026 at 08:34 AM, Zoe Underwood <zunderwood@stratuspaym.com> wrote:\n> Hello Femi,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [
+            "i040-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e049",
+      "thread_id": "i040-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T08:41:58.263422",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Hello Femi,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nBest,\nHiro\nInvestigator\nCalifornia Department of Justice",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i040-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m00"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e050",
+      "thread_id": "i040-t025",
+      "in_reply_to": "i040-e047",
+      "references": [
+        "i040-e047"
+      ],
+      "timestamp": "2026-09-15T18:20:32.174393",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "bmoreau@underwoodweiss.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nBianca\nPartner\nUnderwood & Weiss LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e051",
+      "thread_id": "i040-t025",
+      "in_reply_to": "i040-e050",
+      "references": [
+        "i040-e047",
+        "i040-e050"
+      ],
+      "timestamp": "2026-09-17T17:45:26.818160",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 15, 2026 at 06:20 PM, Bianca Moreau <bmoreau@underwoodweiss.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e052",
+      "thread_id": "i040-t025",
+      "in_reply_to": "i040-e051",
+      "references": [
+        "i040-e047",
+        "i040-e050",
+        "i040-e051"
+      ],
+      "timestamp": "2026-09-18T11:23:09.544646",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "bmoreau@underwoodweiss.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Kaplan",
+          "email": "akaplan@underwoodgrant.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nBianca Moreau\nPartner\nUnderwood & Weiss LLP\n\nOn Thu, Sep 17, 2026 at 05:45 PM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m02",
+        "matter_ids": [
+          "i040-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e053",
+      "thread_id": "i040-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T12:56:48.725946",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Iyer",
+        "email": "uiyer@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear Femi,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nUma Iyer",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e054",
+      "thread_id": "i040-t027",
+      "in_reply_to": "i040-e053",
+      "references": [
+        "i040-e053"
+      ],
+      "timestamp": "2026-09-29T07:05:29.215735",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Uma Iyer",
+          "email": "uiyer@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Uma,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nFemi Young\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 28, 2026 at 12:56 PM, Uma Iyer <uiyer@underwoodgrant.com> wrote:\n> Dear Femi,\n>\n> The draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e055",
+      "thread_id": "i040-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:29:10.987262",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Nakamura",
+        "email": "ximena.nakamura@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Sterling",
+      "body": "Dear Femi,\n\nPre-bills for Sterling Robotics are ready for your review:\n\n- 85304-001  Sterling - California DOJ Investigation (CID No. 2026-669)\n\nPlease mark up and return by October 4.\n\nBest,\nXimena Nakamura",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m00",
+        "matter_ids": [
+          "i040-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m00"
+          ],
+          "keyword_candidates": [
+            "i040-m00",
+            "i040-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e056",
+      "thread_id": "i040-t027",
+      "in_reply_to": "i040-e054",
+      "references": [
+        "i040-e053",
+        "i040-e054"
+      ],
+      "timestamp": "2026-09-30T20:27:25.690937",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Iyer",
+        "email": "uiyer@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hello Femi,\n\nAdding Uma, who will handle the day-to-day on this.\n\nBest regards,\nUma Iyer\n\nOn Tue, Sep 29, 2026 at 07:05 AM, Femi Young <femi.young@underwoodgrant.com> wrote:\n> Hi Uma,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02",
+            "i040-m03"
+          ],
+          "thread_candidates": [
+            "i040-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e057",
+      "thread_id": "i040-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T17:28:26.440704",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Moreau",
+        "email": "bmoreau@underwoodweiss.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Farid Zhang v. Cascade - Case No. 5:26-cv-02488",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Farid Zhang v. Cascade Robotics, Case No. 5:26-cv-02488. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Cascade.\n\nBest,\nBianca Moreau\nPartner\nUnderwood & Weiss LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i040-m01"
+          ],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e058",
+      "thread_id": "i040-t029",
+      "in_reply_to": "i040-e057",
+      "references": [
+        "i040-e057"
+      ],
+      "timestamp": "2026-10-07T13:06:19.082367",
+      "folder": "sent",
+      "from": {
+        "name": "Femi Young",
+        "email": "femi.young@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Moreau",
+          "email": "bmoreau@underwoodweiss.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Farid Zhang v. Cascade - Case No. 5:26-cv-02488",
+      "body": "Counsel,\n\nAdding Uma, who will handle the day-to-day on this.\n\nThanks,\nFemi\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Oct 05, 2026 at 05:28 PM, Bianca Moreau <bmoreau@underwoodweiss.com> wrote:\n> Counsel,\n>\n> Please see attached the complaint filed today in Farid Zhang v. Cascade Robotics, Case No. 5:26-cv-02488. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Cascade.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i040-m01",
+        "matter_ids": [
+          "i040-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i040-m01",
+            "i040-m02"
+          ],
+          "thread_candidates": [
+            "i040-m01"
+          ],
+          "identifier_candidates": [
+            "i040-m01"
+          ],
+          "keyword_candidates": [
+            "i040-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i040-e059",
+      "thread_id": "i040-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T15:03:39.751447",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kowalski",
+        "email": "qkowalski@underwoodgrant.com"
+      },
+      "to": [
+        {
+          "name": "Femi Young",
+          "email": "femi.young@underwoodgrant.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hello Femi,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest,\nQuinn Kowalski\nMarketing Coordinator\nUnderwood & Grant LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700040
+}

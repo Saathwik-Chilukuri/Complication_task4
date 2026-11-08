@@ -1,0 +1,4214 @@
+{
+  "instance_id": "i014",
+  "firm": {
+    "name": "Novak & Patel LLP",
+    "domain": "novakpatel.com"
+  },
+  "user_contact_id": "i014-c000",
+  "matters": [
+    {
+      "matter_id": "i014-m00",
+      "matter_number": "16454-001",
+      "name": "Evergreen - Data Security Incident",
+      "client": "Evergreen Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Evergreen Software's customer database. Forensics by Sterling Cyber.",
+      "counterparty": "Sterling Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-18",
+      "key_terms": [
+        "16454-001",
+        "Sterling Cyber",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c011",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i014-c012",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i014-m01",
+      "matter_number": "66833-001",
+      "name": "Trellis v. Copperleaf (MSA Dispute)",
+      "client": "Trellis Materials",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Trellis Materials against vendor Copperleaf Logistics.",
+      "counterparty": "Copperleaf Logistics",
+      "opposing_counsel_firm": "Shah & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-06-07",
+      "key_terms": [
+        "66833-001",
+        "Copperleaf Logistics",
+        "Copperleaf"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i014-c015",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i014-m02",
+      "matter_number": "97352-001",
+      "name": "Nimbus - Series A Financing",
+      "client": "Nimbus Energy",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Nimbus Energy, led by Vantage Ventures. Raising ~$60 million.",
+      "counterparty": "Vantage Ventures",
+      "opposing_counsel_firm": "Mendoza & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "97352-001",
+        "Series A",
+        "Vantage Ventures",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i014-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i014-c019",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i014-m03",
+      "matter_number": "41821-001",
+      "name": "Mariner - CFPB Investigation (CID No. 2026-391)",
+      "client": "Mariner Health",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Mariner Health's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-07-22",
+      "key_terms": [
+        "41821-001",
+        "2026-391",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i014-c022",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i014-m04",
+      "matter_number": "38166-001",
+      "name": "Wavecrest v. Quarry ('677 Patent)",
+      "client": "Wavecrest Robotics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Wavecrest Robotics against Quarry Robotics asserting U.S. Patent No. 10,677,451.",
+      "counterparty": "Quarry Robotics",
+      "opposing_counsel_firm": "Castillo & Laurent LLP",
+      "status": "open",
+      "opened_on": "2026-07-06",
+      "key_terms": [
+        "38166-001",
+        "10,677,451",
+        "'677",
+        "Quarry Robotics",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c023",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c024",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i014-c025",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i014-m05",
+      "matter_number": "96933-001",
+      "name": "Grace Park v. Orchard",
+      "client": "Orchard Materials",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Grace Park against Orchard Materials. Case No. 4:26-cv-07949.",
+      "counterparty": "Grace Park",
+      "opposing_counsel_firm": "Weiss & Vasquez LLP",
+      "status": "open",
+      "opened_on": "2026-07-26",
+      "key_terms": [
+        "96933-001",
+        "Grace Park",
+        "Park",
+        "4:26-cv-07949"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i014-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i014-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i014-c026",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i014-c027",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i014-c028",
+          "role": "mediator"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i014-c000",
+      "name": "Sofia Castillo",
+      "first": "Sofia",
+      "email": "sofiac@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i014-c001",
+      "name": "Valerie Osei",
+      "first": "Valerie",
+      "email": "valerieo@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i014-c002",
+      "name": "Nikhil Young",
+      "first": "Nikhil",
+      "email": "nikhily@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i014-c003",
+      "name": "Quinn Kaplan",
+      "first": "Quinn",
+      "email": "quinnk@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i014-c004",
+      "name": "Daniel Brennan",
+      "first": "Daniel",
+      "email": "daniel.brennan@evergreensoft.com",
+      "organization": "Evergreen Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c005",
+      "name": "Carla Ito",
+      "first": "Carla",
+      "email": "carla.ito@trellismate.com",
+      "organization": "Trellis Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c006",
+      "name": "Kenji Lee",
+      "first": "Kenji",
+      "email": "klee@nimbusener.com",
+      "organization": "Nimbus Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c007",
+      "name": "Yusuf Delgado",
+      "first": "Yusuf",
+      "email": "yusuf.delgado@marinerheal.com",
+      "organization": "Mariner Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c008",
+      "name": "Aisha Jensen",
+      "first": "Aisha",
+      "email": "aisha.jensen@wavecrestrobo.com",
+      "organization": "Wavecrest Robotics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c009",
+      "name": "Aisha Xu",
+      "first": "Aisha",
+      "email": "aishax@orchardmate.com",
+      "organization": "Orchard Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c010",
+      "name": "Umar Alvarez",
+      "first": "Umar",
+      "email": "umara@evergreensoft.com",
+      "organization": "Evergreen Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c011",
+      "name": "Whitney Reyes",
+      "first": "Whitney",
+      "email": "whitney.reyes@sterlingcyber.com",
+      "organization": "Sterling Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c012",
+      "name": "Ximena Xu",
+      "first": "Ximena",
+      "email": "ximena.xu@tidewatermutual.com",
+      "organization": "Tidewater Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c013",
+      "name": "Olivia Eriksen",
+      "first": "Olivia",
+      "email": "olivia.eriksen@trellismate.com",
+      "organization": "Trellis Materials",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c014",
+      "name": "Kavya Sato",
+      "first": "Kavya",
+      "email": "ksato@shahsato.com",
+      "organization": "Shah & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c015",
+      "name": "Maya Grant",
+      "first": "Maya",
+      "email": "mgrant@ironbridgeadr.com",
+      "organization": "Ironbridge Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c016",
+      "name": "Kenji Haddad",
+      "first": "Kenji",
+      "email": "khaddad@nimbusener.com",
+      "organization": "Nimbus Energy",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c017",
+      "name": "Yara Shah",
+      "first": "Yara",
+      "email": "yara.shah@mendozaokafor.com",
+      "organization": "Mendoza & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c018",
+      "name": "Xavier Morgan",
+      "first": "Xavier",
+      "email": "xavier.morgan@vantagevc.com",
+      "organization": "Vantage Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c019",
+      "name": "Isabel Patel",
+      "first": "Isabel",
+      "email": "isabelp@cascadevc.com",
+      "organization": "Cascade Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c020",
+      "name": "James Brennan",
+      "first": "James",
+      "email": "james.brennan@marinerheal.com",
+      "organization": "Mariner Health",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c021",
+      "name": "Jasmine Osei",
+      "first": "Jasmine",
+      "email": "jasmineo@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c022",
+      "name": "Victor Lindqvist",
+      "first": "Victor",
+      "email": "vlindqvist@solacediscovery.com",
+      "organization": "Solace Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c023",
+      "name": "Ximena Laurent",
+      "first": "Ximena",
+      "email": "xlaurent@wavecrestrobo.com",
+      "organization": "Wavecrest Robotics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c024",
+      "name": "Rafael Kaplan",
+      "first": "Rafael",
+      "email": "rafaelk@castillolaurent.com",
+      "organization": "Castillo & Laurent LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c025",
+      "name": "Gabriel Rosen",
+      "first": "Gabriel",
+      "email": "gabriel.rosen@riverstonetech.com",
+      "organization": "Riverstone Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c026",
+      "name": "Diego Haddad",
+      "first": "Diego",
+      "email": "diego.haddad@orchardmate.com",
+      "organization": "Orchard Materials",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c027",
+      "name": "Pedro Banerjee",
+      "first": "Pedro",
+      "email": "pbanerjee@weissvasquez.com",
+      "organization": "Weiss & Vasquez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c028",
+      "name": "Valerie Grant",
+      "first": "Valerie",
+      "email": "vgrant@redwoodadr.com",
+      "organization": "Redwood Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c029",
+      "name": "Jasmine Nakamura",
+      "first": "Jasmine",
+      "email": "jnakamura@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c030",
+      "name": "James Novak",
+      "first": "James",
+      "email": "jnovak@brightlinetech.com",
+      "organization": "Brightline Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c031",
+      "name": "Hiro Underwood",
+      "first": "Hiro",
+      "email": "hiro.underwood@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i014-c032",
+      "name": "Omar Ito",
+      "first": "Omar",
+      "email": "omari@parallaxcomms.com",
+      "organization": "Parallax Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i014-c033",
+      "name": "Priya Chowdhury",
+      "first": "Priya",
+      "email": "priya.chowdhury@novakpatel.com",
+      "organization": "Novak & Patel LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i014-e000",
+      "thread_id": "i014-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T07:56:33.892092",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Brennan",
+        "email": "daniel.brennan@evergreensoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Dear Sofia,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nDaniel Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e001",
+      "thread_id": "i014-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T14:05:09.884502",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hi Sofia,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nNikhil Young\nSenior Associate\nNovak & Patel LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e002",
+      "thread_id": "i014-t000",
+      "in_reply_to": "i014-e000",
+      "references": [
+        "i014-e000"
+      ],
+      "timestamp": "2026-06-23T20:44:33.652552",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Brennan",
+          "email": "daniel.brennan@evergreensoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Daniel,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": [
+            "i014-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e003",
+      "thread_id": "i014-t001",
+      "in_reply_to": "i014-e001",
+      "references": [
+        "i014-e001"
+      ],
+      "timestamp": "2026-06-24T14:41:38.267088",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Nikhil,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 22, 2026 at 02:05 PM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Hi Sofia,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $1.2 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e004",
+      "thread_id": "i014-t001",
+      "in_reply_to": "i014-e003",
+      "references": [
+        "i014-e001",
+        "i014-e003"
+      ],
+      "timestamp": "2026-06-25T07:17:24.821574",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Sofia,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nNikhil Young\nSenior Associate\nNovak & Patel LLP\n\nOn Wed, Jun 24, 2026 at 02:41 PM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Nikhil,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e005",
+      "thread_id": "i014-t001",
+      "in_reply_to": "i014-e004",
+      "references": [
+        "i014-e001",
+        "i014-e003",
+        "i014-e004"
+      ],
+      "timestamp": "2026-06-25T12:40:21.402277",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Dear Nikhil,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jun 25, 2026 at 07:17 AM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Dear Sofia,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e006",
+      "thread_id": "i014-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:17:46.143246",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Rosen",
+        "email": "gabriel.rosen@riverstonetech.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hi Sofia,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 2.\n\nRegards,\nGabriel Rosen\nPrincipal\nRiverstone Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e007",
+      "thread_id": "i014-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:22:45.397530",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Kaplan",
+        "email": "rafaelk@castillolaurent.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Wavecrest v. Quarry - proposed protective order",
+      "body": "Hi Sofia,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nThanks,\nRafael\nPartner\nCastillo & Laurent LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e008",
+      "thread_id": "i014-t002",
+      "in_reply_to": "i014-e006",
+      "references": [
+        "i014-e006"
+      ],
+      "timestamp": "2026-07-14T13:11:01.491756",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Rosen",
+          "email": "gabriel.rosen@riverstonetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Dear Gabriel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 08:17 AM, Gabriel Rosen <gabriel.rosen@riverstonetech.com> wrote:\n> Hi Sofia,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by August 2.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": [
+            "i014-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e009",
+      "thread_id": "i014-t002",
+      "in_reply_to": "i014-e008",
+      "references": [
+        "i014-e006",
+        "i014-e008"
+      ],
+      "timestamp": "2026-07-14T17:28:16.573175",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Rosen",
+        "email": "gabriel.rosen@riverstonetech.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Sofia,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nRegards,\nGabriel\nPrincipal\nRiverstone Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": [
+            "i014-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e010",
+      "thread_id": "i014-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T20:44:37.423678",
+      "folder": "inbox",
+      "from": {
+        "name": "James Novak",
+        "email": "jnovak@brightlinetech.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Engagement - source code review",
+      "body": "Hello Sofia,\n\nFollowing up on the call with Valerie: we can start the source code review for the '677 patent matter on August 2. Our conflicts check against Quarry Robotics came back clear. Engagement letter attached.\n\nThanks,\nJames Novak\nSenior Engineer\nBrightline Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02",
+            "i014-m04",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e011",
+      "thread_id": "i014-t003",
+      "in_reply_to": "i014-e007",
+      "references": [
+        "i014-e007"
+      ],
+      "timestamp": "2026-07-15T09:58:25.287824",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Kaplan",
+          "email": "rafaelk@castillolaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Wavecrest v. Quarry - proposed protective order",
+      "body": "Counsel,\n\nWorks for me. Let's do Monday at 3:30 p.m..\n\nBest,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 08:22 AM, Rafael Kaplan <rafaelk@castillolaurent.com> wrote:\n> Hi Sofia,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": [
+            "i014-m04"
+          ],
+          "identifier_candidates": [
+            "i014-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e012",
+      "thread_id": "i014-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T17:13:16.756127",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Umar Alvarez",
+          "email": "umara@evergreensoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Brennan",
+          "email": "daniel.brennan@evergreensoft.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Dear Umar,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Sterling.\n\nRegards,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e013",
+      "thread_id": "i014-t005",
+      "in_reply_to": "i014-e012",
+      "references": [
+        "i014-e012"
+      ],
+      "timestamp": "2026-07-21T08:57:55.318260",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Alvarez",
+        "email": "umara@evergreensoft.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Brennan",
+          "email": "daniel.brennan@evergreensoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Sofia,\n\nAdding Nikhil, who will handle the day-to-day on this.\n\nBest regards,\nUmar\nChief Information Security Officer\nEvergreen Software\n\nOn Mon, Jul 20, 2026 at 05:13 PM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Dear Umar,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Sterling.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": [
+            "i014-m00"
+          ],
+          "identifier_candidates": [
+            "i014-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e014",
+      "thread_id": "i014-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T08:25:34.704953",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Underwood",
+        "email": "hiro.underwood@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Hi Sofia,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest regards,\nHiro Underwood",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e015",
+      "thread_id": "i014-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T12:18:04.698187",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Laurent",
+        "email": "xlaurent@wavecrestrobo.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Jensen",
+          "email": "aisha.jensen@wavecrestrobo.com"
+        }
+      ],
+      "subject": "Quarry Robotics product launch - possible infringement of '677 patent",
+      "body": "Sofia,\n\nOur engineers looked at the product Quarry Robotics launched last month and believe it practices claims 1 and 7 of our '677 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest regards,\nXimena Laurent\nChief Technology Officer\nWavecrest Robotics",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m04"
+          ],
+          "keyword_candidates": [
+            "i014-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e016",
+      "thread_id": "i014-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:04:53.990214",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Grant",
+        "email": "mgrant@ironbridgeadr.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Sato",
+          "email": "ksato@shahsato.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Sofia,\n\nThis confirms receipt of the demand for arbitration in Trellis Materials v. Copperleaf Logistics. The administrative conference is scheduled for August 10. Please confirm your availability.\n\nRegards,\nMaya\nCase Administrator\nIronbridge Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e017",
+      "thread_id": "i014-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T07:34:15.245969",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Sato",
+          "email": "ksato@shahsato.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hello Kavya,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e018",
+      "thread_id": "i014-t008",
+      "in_reply_to": "i014-e016",
+      "references": [
+        "i014-e016"
+      ],
+      "timestamp": "2026-07-28T09:17:15.914825",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Maya Grant",
+          "email": "mgrant@ironbridgeadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Sato",
+          "email": "ksato@shahsato.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Maya,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 08:04 AM, Maya Grant <mgrant@ironbridgeadr.com> wrote:\n> Sofia,\n>\n> This confirms receipt of the demand for arbitration in Trellis Materials v. Copperleaf Logistics. The administrative conference is scheduled for August 10. Please confirm your availability.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [
+            "i014-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e019",
+      "thread_id": "i014-t008",
+      "in_reply_to": "i014-e018",
+      "references": [
+        "i014-e016",
+        "i014-e018"
+      ],
+      "timestamp": "2026-07-28T11:43:14.560667",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Grant",
+        "email": "mgrant@ironbridgeadr.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kavya Sato",
+          "email": "ksato@shahsato.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Sofia,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nMaya\nCase Administrator\nIronbridge Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e020",
+      "thread_id": "i014-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T08:46:59.679994",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Laurent",
+          "email": "xlaurent@wavecrestrobo.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Infringement contentions due August 24",
+      "body": "Hello Ximena,\n\nReminder that our infringement contentions are due August 24. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e021",
+      "thread_id": "i014-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:39:27.964771",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kaplan",
+        "email": "quinnk@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Wavecrest",
+      "body": "Dear Sofia,\n\nPre-bills for Wavecrest Robotics are ready for your review:\n\n- 38166-001  Wavecrest v. Quarry ('677 Patent)\n\nPlease mark up and return by August 4.\n\nThanks,\nQuinn Kaplan\nBilling Coordinator\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e022",
+      "thread_id": "i014-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T15:40:59.032824",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kaplan",
+        "email": "quinnk@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Evergreen",
+      "body": "Hello Sofia,\n\nPre-bills for Evergreen Software are ready for your review:\n\n- 16454-001  Evergreen - Data Security Incident\n\nPlease mark up and return by August 4.\n\nRegards,\nQuinn\nBilling Coordinator\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e023",
+      "thread_id": "i014-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:51:36.531778",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Grant",
+        "email": "vgrant@redwoodadr.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Banerjee",
+          "email": "pbanerjee@weissvasquez.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Sofia,\n\nI have the following dates available for a full-day mediation: August 21 and August 26. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nRegards,\nValerie Grant",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e024",
+      "thread_id": "i014-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T13:04:23.653157",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Eriksen",
+        "email": "olivia.eriksen@trellismate.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Carla Ito",
+          "email": "carla.ito@trellismate.com"
+        }
+      ],
+      "subject": "Copperleaf Logistics - repeated SLA failures",
+      "body": "Dear Sofia,\n\nCopperleaf Logistics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nThanks,\nOlivia\nChief Operating Officer\nTrellis Materials",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m01"
+          ],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e025",
+      "thread_id": "i014-t013",
+      "in_reply_to": "i014-e023",
+      "references": [
+        "i014-e023"
+      ],
+      "timestamp": "2026-08-04T09:18:53.986987",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Grant",
+          "email": "vgrant@redwoodadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Banerjee",
+          "email": "pbanerjee@weissvasquez.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Hello Valerie,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 10:51 AM, Valerie Grant <vgrant@redwoodadr.com> wrote:\n> Sofia,\n>\n> I have the following dates available for a full-day mediation: August 21 and August 26. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e026",
+      "thread_id": "i014-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T08:13:23.624524",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Nakamura",
+        "email": "jnakamura@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Production format",
+      "body": "Counsel,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nBest,\nJasmine Nakamura\nInvestigator\nConsumer Financial Protection Bureau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m03"
+          ],
+          "keyword_candidates": [
+            "i014-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e027",
+      "thread_id": "i014-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T08:40:19.253419",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Haddad",
+          "email": "khaddad@nimbusener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Kenji,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m02"
+          ],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e028",
+      "thread_id": "i014-t016",
+      "in_reply_to": "i014-e027",
+      "references": [
+        "i014-e027"
+      ],
+      "timestamp": "2026-08-10T09:13:18.846313",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Haddad",
+        "email": "khaddad@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Sofia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nKenji\nChief Executive Officer\nNimbus Energy\n\nOn Fri, Aug 07, 2026 at 08:40 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Kenji,\n>\n> Attached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": [
+            "i014-m02"
+          ],
+          "identifier_candidates": [
+            "i014-m02"
+          ],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e029",
+      "thread_id": "i014-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:46:02.120245",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Delgado",
+        "email": "yusuf.delgado@marinerheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Brennan",
+          "email": "james.brennan@marinerheal.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Dear Sofia,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2026-391). It asks for documents about our customer data practices going back to 2021. The return date is September 2. Can you call me?\n\nThanks,\nYusuf Delgado\nGeneral Counsel\nMariner Health",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m03"
+          ],
+          "keyword_candidates": [
+            "i014-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e030",
+      "thread_id": "i014-t016",
+      "in_reply_to": "i014-e028",
+      "references": [
+        "i014-e027",
+        "i014-e028"
+      ],
+      "timestamp": "2026-08-11T08:32:20.721016",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Haddad",
+          "email": "khaddad@nimbusener.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Kenji,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": [
+            "i014-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e031",
+      "thread_id": "i014-t016",
+      "in_reply_to": "i014-e030",
+      "references": [
+        "i014-e027",
+        "i014-e028",
+        "i014-e030"
+      ],
+      "timestamp": "2026-08-12T07:10:12.609812",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Haddad",
+        "email": "khaddad@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Osei",
+          "email": "valerieo@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Sofia,\n\nWorks for me. Let's do Monday at noon.\n\nRegards,\nKenji\nChief Executive Officer\nNimbus Energy\n\nOn Tue, Aug 11, 2026 at 08:32 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Dear Kenji,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": [
+            "i014-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e032",
+      "thread_id": "i014-t017",
+      "in_reply_to": "i014-e029",
+      "references": [
+        "i014-e029"
+      ],
+      "timestamp": "2026-08-12T08:55:43.093143",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Delgado",
+          "email": "yusuf.delgado@marinerheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Brennan",
+          "email": "james.brennan@marinerheal.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Hello Yusuf,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": [
+            "i014-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e033",
+      "thread_id": "i014-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T07:42:36.562596",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Hello Sofia,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest regards,\nNikhil\nSenior Associate\nNovak & Patel LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e034",
+      "thread_id": "i014-t017",
+      "in_reply_to": "i014-e032",
+      "references": [
+        "i014-e029",
+        "i014-e032"
+      ],
+      "timestamp": "2026-08-14T08:02:30.529107",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Delgado",
+        "email": "yusuf.delgado@marinerheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Brennan",
+          "email": "james.brennan@marinerheal.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Sofia,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nYusuf Delgado\nGeneral Counsel\nMariner Health\n\nOn Wed, Aug 12, 2026 at 08:55 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Hello Yusuf,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": [
+            "i014-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e035",
+      "thread_id": "i014-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T09:13:26.258586",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "James Brennan",
+          "email": "james.brennan@marinerheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hi James,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e036",
+      "thread_id": "i014-t018",
+      "in_reply_to": "i014-e033",
+      "references": [
+        "i014-e033"
+      ],
+      "timestamp": "2026-08-14T20:05:14.079178",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Nikhil,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 13, 2026 at 07:42 AM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Hello Sofia,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e037",
+      "thread_id": "i014-t019",
+      "in_reply_to": "i014-e035",
+      "references": [
+        "i014-e035"
+      ],
+      "timestamp": "2026-08-17T09:57:29.208249",
+      "folder": "inbox",
+      "from": {
+        "name": "James Brennan",
+        "email": "james.brennan@marinerheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Sofia,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nJames Brennan\nChief Compliance Officer\nMariner Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": [
+            "i014-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e038",
+      "thread_id": "i014-t018",
+      "in_reply_to": "i014-e036",
+      "references": [
+        "i014-e033",
+        "i014-e036"
+      ],
+      "timestamp": "2026-08-17T10:38:38.284179",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Sofia,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nNikhil Young\nSenior Associate\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e039",
+      "thread_id": "i014-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T09:55:36.644317",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Osei",
+        "email": "valerieo@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Sofia,\n\nStatus on my matters this week:\n\n- Series A: financing docs in negotiation with Vantage's counsel; cap table reconciliation in progress.\n- '677 patent: protective order negotiated; infringement contentions due August 29.\n- Park: complaint served; mediation being scheduled, deposition outline in draft.\n\nThanks,\nValerie Osei\nAssociate\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02",
+          "i014-m04",
+          "i014-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02",
+            "i014-m04",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m02",
+            "i014-m04",
+            "i014-m05"
+          ],
+          "keyword_candidates": [
+            "i014-m04",
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e040",
+      "thread_id": "i014-t019",
+      "in_reply_to": "i014-e037",
+      "references": [
+        "i014-e035",
+        "i014-e037"
+      ],
+      "timestamp": "2026-08-18T15:21:55.709817",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "James Brennan",
+          "email": "james.brennan@marinerheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hello James,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:57 AM, James Brennan <james.brennan@marinerheal.com> wrote:\n> Hi Sofia,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": [
+            "i014-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e041",
+      "thread_id": "i014-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T17:22:52.379309",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Haddad",
+        "email": "khaddad@nimbusener.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Lee",
+          "email": "klee@nimbusener.com"
+        }
+      ],
+      "subject": "Series A term sheet from Vantage Ventures",
+      "body": "Sofia,\n\nWe received the attached term sheet from Vantage Ventures last night: $60 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?\n\nRegards,\nKenji Haddad\nChief Executive Officer\nNimbus Energy",
+      "attachments": [
+        "Vantage Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m02"
+          ],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i014-e042",
+      "thread_id": "i014-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T08:06:05.279495",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Xu",
+        "email": "aishax@orchardmate.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Sofia,\n\nBefore the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nAisha Xu\nGeneral Counsel\nOrchard Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e043",
+      "thread_id": "i014-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T14:52:13.571581",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Chowdhury",
+        "email": "priya.chowdhury@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hi Sofia,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nPriya\nProfessional Development Manager\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e044",
+      "thread_id": "i014-t022",
+      "in_reply_to": "i014-e042",
+      "references": [
+        "i014-e042"
+      ],
+      "timestamp": "2026-08-24T10:43:51.268094",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Xu",
+          "email": "aishax@orchardmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Aisha,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 21, 2026 at 08:06 AM, Aisha Xu <aishax@orchardmate.com> wrote:\n> Sofia,\n>\n> Before the call on Thursday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e045",
+      "thread_id": "i014-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T13:49:49.956345",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Sato",
+        "email": "ksato@shahsato.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Hello Sofia,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nKavya\nPartner\nShah & Sato LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e046",
+      "thread_id": "i014-t022",
+      "in_reply_to": "i014-e044",
+      "references": [
+        "i014-e042",
+        "i014-e044"
+      ],
+      "timestamp": "2026-08-25T08:10:59.674360",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Xu",
+        "email": "aishax@orchardmate.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Sofia,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nAisha Xu\nGeneral Counsel\nOrchard Materials\n\nOn Mon, Aug 24, 2026 at 10:43 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Aisha,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e047",
+      "thread_id": "i014-t024",
+      "in_reply_to": "i014-e045",
+      "references": [
+        "i014-e045"
+      ],
+      "timestamp": "2026-08-25T11:51:50.879696",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Sato",
+          "email": "ksato@shahsato.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 24, 2026 at 01:49 PM, Kavya Sato <ksato@shahsato.com> wrote:\n> Hello Sofia,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m01"
+          ],
+          "thread_candidates": [
+            "i014-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e048",
+      "thread_id": "i014-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:47:05.622914",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Haddad",
+        "email": "diego.haddad@orchardmate.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Xu",
+          "email": "aishax@orchardmate.com"
+        }
+      ],
+      "subject": "Demand letter - Grace Park",
+      "body": "Hi Sofia,\n\nWe received the attached demand letter from counsel for Grace Park, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $450,000. I've put a hold on the personnel file. How should we respond?\n\nRegards,\nDiego Haddad\nHead of People\nOrchard Materials",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m05"
+          ],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e049",
+      "thread_id": "i014-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T12:40:43.292349",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kaplan",
+        "email": "quinnk@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Mariner",
+      "body": "Dear Sofia,\n\nPre-bills for Mariner Health are ready for your review:\n\n- 41821-001  Mariner - CFPB Investigation (CID No. 2026-391)\n\nPlease mark up and return by September 4.\n\nRegards,\nQuinn Kaplan\nBilling Coordinator\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m03"
+          ],
+          "keyword_candidates": [
+            "i014-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e050",
+      "thread_id": "i014-t025",
+      "in_reply_to": "i014-e048",
+      "references": [
+        "i014-e048"
+      ],
+      "timestamp": "2026-08-31T18:55:49.720735",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Diego Haddad",
+          "email": "diego.haddad@orchardmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Xu",
+          "email": "aishax@orchardmate.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Grace Park",
+      "body": "Dear Diego,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 09:47 AM, Diego Haddad <diego.haddad@orchardmate.com> wrote:\n> Hi Sofia,\n>\n> We received the attached demand letter from counsel for Grace Park, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $450,000. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [
+            "i014-m05"
+          ],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e051",
+      "thread_id": "i014-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:53:24.073728",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Xu",
+        "email": "ximena.xu@tidewatermutual.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Sofia,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Sterling.\n\nThanks,\nXimena\nClaims Specialist\nTidewater Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e052",
+      "thread_id": "i014-t027",
+      "in_reply_to": "i014-e051",
+      "references": [
+        "i014-e051"
+      ],
+      "timestamp": "2026-09-09T08:13:11.101647",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Xu",
+          "email": "ximena.xu@tidewatermutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Ximena,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m00",
+        "matter_ids": [
+          "i014-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00"
+          ],
+          "thread_candidates": [
+            "i014-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e053",
+      "thread_id": "i014-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T08:19:14.265573",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Banerjee",
+        "email": "pbanerjee@weissvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Grace Park v. Orchard - Case No. 4:26-cv-07949",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Grace Park v. Orchard Materials, Case No. 4:26-cv-07949. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Orchard.\n\nBest,\nPedro Banerjee\nPartner\nWeiss & Vasquez LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m05"
+          ],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e054",
+      "thread_id": "i014-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T07:02:20.853309",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Lindqvist",
+        "email": "vlindqvist@solacediscovery.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hello Sofia,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nVictor\nProject Manager\nSolace Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e055",
+      "thread_id": "i014-t028",
+      "in_reply_to": "i014-e053",
+      "references": [
+        "i014-e053"
+      ],
+      "timestamp": "2026-09-14T09:05:33.628089",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Banerjee",
+          "email": "pbanerjee@weissvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Grace Park v. Orchard - Case No. 4:26-cv-07949",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 10, 2026 at 08:19 AM, Pedro Banerjee <pbanerjee@weissvasquez.com> wrote:\n> Counsel,\n>\n> Please see attached the complaint filed today in Grace Park v. Orchard Materials, Case No. 4:26-cv-07949. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Orchard.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [
+            "i014-m05"
+          ],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e056",
+      "thread_id": "i014-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:47:54.091261",
+      "folder": "inbox",
+      "from": {
+        "name": "James Brennan",
+        "email": "james.brennan@marinerheal.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hello Sofia,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nJames Brennan\nChief Compliance Officer\nMariner Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e057",
+      "thread_id": "i014-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:53:35.249220",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Morgan",
+        "email": "xavier.morgan@vantagevc.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Haddad",
+          "email": "khaddad@nimbusener.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Hi Sofia,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 30 still realistic?\n\nBest regards,\nXavier",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e058",
+      "thread_id": "i014-t029",
+      "in_reply_to": "i014-e054",
+      "references": [
+        "i014-e054"
+      ],
+      "timestamp": "2026-09-14T13:45:03.300380",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Victor Lindqvist",
+          "email": "vlindqvist@solacediscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Victor,\n\nAdding Nikhil, who will handle the day-to-day on this.\n\nRegards,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 07:02 AM, Victor Lindqvist <vlindqvist@solacediscovery.com> wrote:\n> Hello Sofia,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m03",
+        "matter_ids": [
+          "i014-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m03"
+          ],
+          "thread_candidates": [
+            "i014-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e059",
+      "thread_id": "i014-t031",
+      "in_reply_to": "i014-e057",
+      "references": [
+        "i014-e057"
+      ],
+      "timestamp": "2026-09-15T20:28:02.215274",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Morgan",
+          "email": "xavier.morgan@vantagevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Haddad",
+          "email": "khaddad@nimbusener.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Xavier,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": [
+            "i014-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e060",
+      "thread_id": "i014-t028",
+      "in_reply_to": "i014-e055",
+      "references": [
+        "i014-e053",
+        "i014-e055"
+      ],
+      "timestamp": "2026-09-16T08:10:24.946444",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Banerjee",
+        "email": "pbanerjee@weissvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Grace Park v. Orchard - Case No. 4:26-cv-07949",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nPedro Banerjee\nPartner\nWeiss & Vasquez LLP\n\nOn Mon, Sep 14, 2026 at 09:05 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Counsel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [
+            "i014-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e061",
+      "thread_id": "i014-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T09:05:17.155763",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Jensen",
+        "email": "aisha.jensen@wavecrestrobo.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hello Sofia,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest,\nAisha Jensen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m04",
+        "matter_ids": [
+          "i014-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e062",
+      "thread_id": "i014-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T09:19:44.602266",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Ito",
+        "email": "omari@parallaxcomms.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Sofia,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest regards,\nOmar Ito",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e063",
+      "thread_id": "i014-t034",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T12:36:31.322328",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Sofia,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nNikhil Young\nSenior Associate\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e064",
+      "thread_id": "i014-t034",
+      "in_reply_to": "i014-e063",
+      "references": [
+        "i014-e063"
+      ],
+      "timestamp": "2026-09-28T09:14:39.060832",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Nikhil,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nSofia Castillo\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 25, 2026 at 12:36 PM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Hi Sofia,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e065",
+      "thread_id": "i014-t035",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:12:42.623210",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Kaplan",
+        "email": "quinnk@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Trellis",
+      "body": "Hi Sofia,\n\nPre-bills for Trellis Materials are ready for your review:\n\n- 66833-001  Trellis v. Copperleaf (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nRegards,\nQuinn Kaplan\nBilling Coordinator\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m01",
+        "matter_ids": [
+          "i014-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e066",
+      "thread_id": "i014-t036",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T08:20:53.408455",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Hi Sofia,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nNikhil Young\nSenior Associate\nNovak & Patel LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e067",
+      "thread_id": "i014-t036",
+      "in_reply_to": "i014-e066",
+      "references": [
+        "i014-e066"
+      ],
+      "timestamp": "2026-10-05T08:03:52.120505",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Nikhil,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Oct 02, 2026 at 08:20 AM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Hi Sofia,\n>\n> The draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i014-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e068",
+      "thread_id": "i014-t037",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T09:32:28.189135",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Shah",
+        "email": "yara.shah@mendozaokafor.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "subject": "Nimbus Series A - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by October 28. Please send the updated cap table and disclosure schedule when ready.\n\nBest regards,\nYara",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i014-m02",
+        "matter_ids": [
+          "i014-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i014-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i014-m02"
+          ],
+          "keyword_candidates": [
+            "i014-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e069",
+      "thread_id": "i014-t036",
+      "in_reply_to": "i014-e067",
+      "references": [
+        "i014-e066",
+        "i014-e067"
+      ],
+      "timestamp": "2026-10-05T17:13:02.673063",
+      "folder": "inbox",
+      "from": {
+        "name": "Nikhil Young",
+        "email": "nikhily@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Castillo",
+          "email": "sofiac@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Sofia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nNikhil Young\nSenior Associate\nNovak & Patel LLP\n\nOn Mon, Oct 05, 2026 at 08:03 AM, Sofia Castillo <sofiac@novakpatel.com> wrote:\n> Nikhil,\n>\n> Thanks. Received; we'll review and come back to you by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i014-e070",
+      "thread_id": "i014-t036",
+      "in_reply_to": "i014-e069",
+      "references": [
+        "i014-e066",
+        "i014-e067",
+        "i014-e069"
+      ],
+      "timestamp": "2026-10-07T14:42:51.997142",
+      "folder": "sent",
+      "from": {
+        "name": "Sofia Castillo",
+        "email": "sofiac@novakpatel.com"
+      },
+      "to": [
+        {
+          "name": "Nikhil Young",
+          "email": "nikhily@novakpatel.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Deposition outline",
+      "body": "Hi Nikhil,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nSofia\nPartner\nNovak & Patel LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Oct 05, 2026 at 05:13 PM, Nikhil Young <nikhily@novakpatel.com> wrote:\n> Hi Sofia,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i014-m05",
+        "matter_ids": [
+          "i014-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i014-m00",
+            "i014-m01",
+            "i014-m02",
+            "i014-m03",
+            "i014-m05"
+          ],
+          "thread_candidates": [
+            "i014-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700014
+}

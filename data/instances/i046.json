@@ -1,0 +1,2155 @@
+{
+  "instance_id": "i046",
+  "firm": {
+    "name": "Sato & Osei LLP",
+    "domain": "satoosei.com"
+  },
+  "user_contact_id": "i046-c000",
+  "matters": [
+    {
+      "matter_id": "i046-m00",
+      "matter_number": "43706-001",
+      "name": "Bluefin v. Brightline (MSA Dispute)",
+      "client": "Bluefin Foods",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Bluefin Foods against vendor Brightline Materials.",
+      "counterparty": "Brightline Materials",
+      "opposing_counsel_firm": "Zhang & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-07-17",
+      "key_terms": [
+        "43706-001",
+        "Brightline Materials",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i046-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i046-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i046-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i046-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i046-c009",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i046-m01",
+      "matter_number": "32353-001",
+      "name": "Silverpine - California DOJ Investigation (CID No. 2025-124)",
+      "client": "Silverpine Logistics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Silverpine Logistics's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-06-15",
+      "key_terms": [
+        "32353-001",
+        "2025-124",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i046-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i046-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i046-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i046-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i046-c012",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i046-m02",
+      "matter_number": "75090-001",
+      "name": "Redwood - Headquarters Lease (2225 Page Mill Road)",
+      "client": "Redwood Biosciences",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Redwood Biosciences's new headquarters at 2225 Page Mill Road, landlord Riverstone Properties LLC.",
+      "counterparty": "Riverstone Properties LLC",
+      "opposing_counsel_firm": "Osei & Reyes LLP",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "75090-001",
+        "2225 Page Mill Road",
+        "Riverstone Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i046-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i046-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i046-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i046-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i046-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i046-c015",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i046-c000",
+      "name": "Omar Shah",
+      "first": "Omar",
+      "email": "omars@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c001",
+      "name": "Chen Abbott",
+      "first": "Chen",
+      "email": "chena@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c002",
+      "name": "Daniel Castillo",
+      "first": "Daniel",
+      "email": "daniel.castillo@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c003",
+      "name": "Lucia Vasquez",
+      "first": "Lucia",
+      "email": "lucia.vasquez@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c004",
+      "name": "Yara Underwood",
+      "first": "Yara",
+      "email": "yarau@bluefinfood.com",
+      "organization": "Bluefin Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c005",
+      "name": "Yusuf Thompson",
+      "first": "Yusuf",
+      "email": "yusuft@silverpinelogi.com",
+      "organization": "Silverpine Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c006",
+      "name": "Carla Abbott",
+      "first": "Carla",
+      "email": "carla.abbott@redwoodbios.com",
+      "organization": "Redwood Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c007",
+      "name": "Samuel Whitaker",
+      "first": "Samuel",
+      "email": "samuelw@bluefinfood.com",
+      "organization": "Bluefin Foods",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c008",
+      "name": "Whitney Thompson",
+      "first": "Whitney",
+      "email": "wthompson@zhangunderwood.com",
+      "organization": "Zhang & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c009",
+      "name": "Diego Dubois",
+      "first": "Diego",
+      "email": "ddubois@stratusadr.com",
+      "organization": "Stratus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c010",
+      "name": "Farid Brennan",
+      "first": "Farid",
+      "email": "farid.brennan@silverpinelogi.com",
+      "organization": "Silverpine Logistics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c011",
+      "name": "Tara Banerjee",
+      "first": "Tara",
+      "email": "tbanerjee@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c012",
+      "name": "Thomas Kowalski",
+      "first": "Thomas",
+      "email": "thomas.kowalski@amberlydiscovery.com",
+      "organization": "Amberly Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c013",
+      "name": "Uma Brennan",
+      "first": "Uma",
+      "email": "uma.brennan@redwoodbios.com",
+      "organization": "Redwood Biosciences",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c014",
+      "name": "Wei Chowdhury",
+      "first": "Wei",
+      "email": "wei.chowdhury@oseireyes.com",
+      "organization": "Osei & Reyes LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c015",
+      "name": "Femi Nakamura",
+      "first": "Femi",
+      "email": "fnakamura@ironbridgerealty.com",
+      "organization": "Ironbridge Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c016",
+      "name": "Kenji Goldberg",
+      "first": "Kenji",
+      "email": "kenjig@evergreensyst.com",
+      "organization": "Evergreen Systems",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i046-c017",
+      "name": "Femi Quintero",
+      "first": "Femi",
+      "email": "femi.quintero@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c018",
+      "name": "Wei Dubois",
+      "first": "Wei",
+      "email": "wdubois@satoosei.com",
+      "organization": "Sato & Osei LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i046-c019",
+      "name": "Maya Fischer",
+      "first": "Maya",
+      "email": "maya.fischer@quarrylogi.com",
+      "organization": "Quarry Logistics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i046-e000",
+      "thread_id": "i046-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:31:41.268516",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Brennan",
+        "email": "farid.brennan@silverpinelogi.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello Omar,\n\nThe audit committee wants an update at its meeting on July 15. Could you prepare a short summary of status, exposure, and next steps?\n\nBest,\nFarid Brennan\nChief Compliance Officer\nSilverpine Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e001",
+      "thread_id": "i046-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T08:56:06.694817",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Chowdhury",
+        "email": "wei.chowdhury@oseireyes.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2225 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nWei",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m02"
+          ],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e002",
+      "thread_id": "i046-t001",
+      "in_reply_to": "i046-e001",
+      "references": [
+        "i046-e001"
+      ],
+      "timestamp": "2026-07-02T18:43:16.471537",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Wei Chowdhury",
+          "email": "wei.chowdhury@oseireyes.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2225 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nOmar Shah\nPartner\nSato & Osei LLP\n\nOn Wed, Jul 01, 2026 at 08:56 AM, Wei Chowdhury <wei.chowdhury@oseireyes.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": [
+            "i046-m02"
+          ],
+          "identifier_candidates": [
+            "i046-m02"
+          ],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e003",
+      "thread_id": "i046-t001",
+      "in_reply_to": "i046-e002",
+      "references": [
+        "i046-e001",
+        "i046-e002"
+      ],
+      "timestamp": "2026-07-06T10:54:57.484155",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Chowdhury",
+        "email": "wei.chowdhury@oseireyes.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2225 Page Mill Road - lease draft",
+      "body": "Omar,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nWei Chowdhury\n\nOn Thu, Jul 02, 2026 at 06:43 PM, Omar Shah <omars@satoosei.com> wrote:\n> Counsel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": [
+            "i046-m02"
+          ],
+          "identifier_candidates": [
+            "i046-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e004",
+      "thread_id": "i046-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T09:56:28.132396",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Kowalski",
+        "email": "thomas.kowalski@amberlydiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Abbott",
+          "email": "chena@satoosei.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Omar,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nThanks,\nThomas",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e005",
+      "thread_id": "i046-t002",
+      "in_reply_to": "i046-e004",
+      "references": [
+        "i046-e004"
+      ],
+      "timestamp": "2026-07-10T09:21:46.961170",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Kowalski",
+          "email": "thomas.kowalski@amberlydiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Abbott",
+          "email": "chena@satoosei.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Thomas,\n\nWorks for me. Let's do Tuesday at 5:00 p.m..\n\nBest regards,\nOmar Shah\nPartner\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": [
+            "i046-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e006",
+      "thread_id": "i046-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:41:17.319351",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Castillo",
+        "email": "daniel.castillo@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Dear Omar,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nDaniel Castillo\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00",
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e007",
+      "thread_id": "i046-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T12:22:33.472060",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Underwood",
+        "email": "yarau@bluefinfood.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Omar,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest regards,\nYara Underwood\nGeneral Counsel\nBluefin Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e008",
+      "thread_id": "i046-t003",
+      "in_reply_to": "i046-e006",
+      "references": [
+        "i046-e006"
+      ],
+      "timestamp": "2026-07-22T09:27:29.572020",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Castillo",
+          "email": "daniel.castillo@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Damages model",
+      "body": "Hi Daniel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nOmar\nPartner\nSato & Osei LLP\n\nOn Mon, Jul 20, 2026 at 09:41 AM, Daniel Castillo <daniel.castillo@satoosei.com> wrote:\n> Dear Omar,\n>\n> First cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00",
+            "i046-m02"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e009",
+      "thread_id": "i046-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T12:57:15.309437",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Abbott",
+        "email": "carla.abbott@redwoodbios.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Omar,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nCarla Abbott\nGeneral Counsel\nRedwood Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e010",
+      "thread_id": "i046-t004",
+      "in_reply_to": "i046-e007",
+      "references": [
+        "i046-e007"
+      ],
+      "timestamp": "2026-07-23T12:39:47.923936",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Underwood",
+          "email": "yarau@bluefinfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hello Yara,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nOmar\nPartner\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e011",
+      "thread_id": "i046-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T07:07:00.984896",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Banerjee",
+        "email": "tbanerjee@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-124 - meet and confer",
+      "body": "Omar,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nTara Banerjee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m01"
+          ],
+          "keyword_candidates": [
+            "i046-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e012",
+      "thread_id": "i046-t004",
+      "in_reply_to": "i046-e010",
+      "references": [
+        "i046-e007",
+        "i046-e010"
+      ],
+      "timestamp": "2026-07-27T10:23:51.374316",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Underwood",
+        "email": "yarau@bluefinfood.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Omar,\n\nAdding Daniel, who will handle the day-to-day on this.\n\nRegards,\nYara\nGeneral Counsel\nBluefin Foods\n\nOn Thu, Jul 23, 2026 at 12:39 PM, Omar Shah <omars@satoosei.com> wrote:\n> Hello Yara,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e013",
+      "thread_id": "i046-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:59:45.519454",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Wei Chowdhury",
+          "email": "wei.chowdhury@oseireyes.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Castillo",
+          "email": "daniel.castillo@satoosei.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nOmar\nPartner\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e014",
+      "thread_id": "i046-t007",
+      "in_reply_to": "i046-e013",
+      "references": [
+        "i046-e013"
+      ],
+      "timestamp": "2026-07-27T16:33:56.910489",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Chowdhury",
+        "email": "wei.chowdhury@oseireyes.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Castillo",
+          "email": "daniel.castillo@satoosei.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Omar,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nWei Chowdhury\n\nOn Mon, Jul 27, 2026 at 10:59 AM, Omar Shah <omars@satoosei.com> wrote:\n> Counsel,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": [
+            "i046-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e015",
+      "thread_id": "i046-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T13:18:22.408932",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Quintero",
+        "email": "femi.quintero@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Dear Omar,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest,\nFemi Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e016",
+      "thread_id": "i046-t007",
+      "in_reply_to": "i046-e014",
+      "references": [
+        "i046-e013",
+        "i046-e014"
+      ],
+      "timestamp": "2026-07-28T17:10:55.121950",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Wei Chowdhury",
+          "email": "wei.chowdhury@oseireyes.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Castillo",
+          "email": "daniel.castillo@satoosei.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Hello Wei,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nOmar\nPartner\nSato & Osei LLP\n\nOn Mon, Jul 27, 2026 at 04:33 PM, Wei Chowdhury <wei.chowdhury@oseireyes.com> wrote:\n> Omar,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": [
+            "i046-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e017",
+      "thread_id": "i046-t004",
+      "in_reply_to": "i046-e012",
+      "references": [
+        "i046-e007",
+        "i046-e010",
+        "i046-e012"
+      ],
+      "timestamp": "2026-07-29T07:42:26.979556",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Yara Underwood",
+          "email": "yarau@bluefinfood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Dear Yara,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nOmar Shah\nPartner\nSato & Osei LLP\n\nOn Mon, Jul 27, 2026 at 10:23 AM, Yara Underwood <yarau@bluefinfood.com> wrote:\n> Omar,\n>\n> Adding Daniel, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e018",
+      "thread_id": "i046-t006",
+      "in_reply_to": "i046-e011",
+      "references": [
+        "i046-e011"
+      ],
+      "timestamp": "2026-07-29T09:35:39.750962",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Tara Banerjee",
+          "email": "tbanerjee@doj.ca.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-124 - meet and confer",
+      "body": "Hi Tara,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nOmar Shah\nPartner\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": [
+            "i046-m01"
+          ],
+          "identifier_candidates": [
+            "i046-m01"
+          ],
+          "keyword_candidates": [
+            "i046-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e019",
+      "thread_id": "i046-t006",
+      "in_reply_to": "i046-e018",
+      "references": [
+        "i046-e011",
+        "i046-e018"
+      ],
+      "timestamp": "2026-07-30T16:04:35.987619",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Banerjee",
+        "email": "tbanerjee@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-124 - meet and confer",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nTara\n\nOn Wed, Jul 29, 2026 at 09:35 AM, Omar Shah <omars@satoosei.com> wrote:\n> Hi Tara,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": [
+            "i046-m01"
+          ],
+          "identifier_candidates": [
+            "i046-m01"
+          ],
+          "keyword_candidates": [
+            "i046-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e020",
+      "thread_id": "i046-t006",
+      "in_reply_to": "i046-e019",
+      "references": [
+        "i046-e011",
+        "i046-e018",
+        "i046-e019"
+      ],
+      "timestamp": "2026-07-31T19:51:56.740922",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Tara Banerjee",
+          "email": "tbanerjee@doj.ca.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-124 - meet and confer",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nOmar Shah\nPartner\nSato & Osei LLP\n\nOn Thu, Jul 30, 2026 at 04:04 PM, Tara Banerjee <tbanerjee@doj.ca.gov> wrote:\n> Counsel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01"
+          ],
+          "thread_candidates": [
+            "i046-m01"
+          ],
+          "identifier_candidates": [
+            "i046-m01"
+          ],
+          "keyword_candidates": [
+            "i046-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e021",
+      "thread_id": "i046-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T12:10:28.510270",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Whitaker",
+        "email": "samuelw@bluefinfood.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Underwood",
+          "email": "yarau@bluefinfood.com"
+        }
+      ],
+      "subject": "Brightline Materials - repeated SLA failures",
+      "body": "Hi Omar,\n\nBrightline Materials has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nRegards,\nSamuel\nChief Operating Officer\nBluefin Foods",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m00"
+          ],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i046-e022",
+      "thread_id": "i046-t009",
+      "in_reply_to": "i046-e021",
+      "references": [
+        "i046-e021"
+      ],
+      "timestamp": "2026-08-10T09:41:54.487299",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Whitaker",
+          "email": "samuelw@bluefinfood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yara Underwood",
+          "email": "yarau@bluefinfood.com"
+        }
+      ],
+      "subject": "Re: Brightline Materials - repeated SLA failures",
+      "body": "Hello Samuel,\n\nAdding Daniel, who will handle the day-to-day on this.\n\nThanks,\nOmar\nPartner\nSato & Osei LLP\n\nOn Fri, Aug 07, 2026 at 12:10 PM, Samuel Whitaker <samuelw@bluefinfood.com> wrote:\n> Hi Omar,\n>\n> Brightline Materials has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [
+            "i046-m00"
+          ],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e023",
+      "thread_id": "i046-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T08:16:24.716634",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Brennan",
+        "email": "uma.brennan@redwoodbios.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 2225 Page Mill Road",
+      "body": "Hi Omar,\n\nWe've agreed on a non-binding LOI with Riverstone Properties LLC for about 42,000 RSF at 2225 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nUma Brennan\nDirector of Real Estate\nRedwood Biosciences",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m02"
+          ],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e024",
+      "thread_id": "i046-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:51:02.446308",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Thompson",
+        "email": "wthompson@zhangunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Counsel,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nThanks,\nWhitney Thompson\nPartner\nZhang & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e025",
+      "thread_id": "i046-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:54:49.539761",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Nakamura",
+        "email": "fnakamura@ironbridgerealty.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Brennan",
+          "email": "uma.brennan@redwoodbios.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hello Omar,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest regards,\nFemi\nSenior Vice President\nIronbridge Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m02",
+        "matter_ids": [
+          "i046-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e026",
+      "thread_id": "i046-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T15:33:19.425114",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Vasquez",
+        "email": "lucia.vasquez@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Silverpine",
+      "body": "Hello Omar,\n\nPre-bills for Silverpine Logistics are ready for your review:\n\n- 32353-001  Silverpine - California DOJ Investigation (CID No. 2025-124)\n\nPlease mark up and return by September 4.\n\nRegards,\nLucia Vasquez\nBilling Coordinator\nSato & Osei LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m01"
+          ],
+          "keyword_candidates": [
+            "i046-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e027",
+      "thread_id": "i046-t011",
+      "in_reply_to": "i046-e024",
+      "references": [
+        "i046-e024"
+      ],
+      "timestamp": "2026-09-01T08:29:07.992325",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Thompson",
+          "email": "wthompson@zhangunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOmar Shah\nPartner\nSato & Osei LLP\n\nOn Mon, Aug 31, 2026 at 09:51 AM, Whitney Thompson <wthompson@zhangunderwood.com> wrote:\n> Counsel,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i046-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e028",
+      "thread_id": "i046-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T08:43:25.321475",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Abbott",
+        "email": "chena@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Omar,\n\nStatus on my matters this week:\n\n- California DOJ CID: collection 80% complete; first rolling production targeted for September 15.\n- 2225 Page Mill Road: second turn of landlord's lease draft; SNDA requested from lender.\n\nThanks,\nChen",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m01",
+        "matter_ids": [
+          "i046-m01",
+          "i046-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m01",
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m02"
+          ],
+          "keyword_candidates": [
+            "i046-m01",
+            "i046-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e029",
+      "thread_id": "i046-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T09:32:49.511202",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Goldberg",
+        "email": "kenjig@evergreensyst.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Castillo",
+          "email": "daniel.castillo@satoosei.com"
+        }
+      ],
+      "subject": "Transition planning",
+      "body": "Hi Omar,\n\nWe've been engaged by Bluefin to replace Brightline Materials as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Brightline under the MSA.\n\nBest regards,\nKenji Goldberg",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00",
+            "i046-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e030",
+      "thread_id": "i046-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T12:03:58.322020",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Vasquez",
+        "email": "lucia.vasquez@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Bluefin",
+      "body": "Omar,\n\nPre-bills for Bluefin Foods are ready for your review:\n\n- 43706-001  Bluefin v. Brightline (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nBest regards,\nLucia\nBilling Coordinator\nSato & Osei LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e031",
+      "thread_id": "i046-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T09:15:02.273357",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Dubois",
+        "email": "wdubois@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Dear Omar,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nWei Dubois\nIT Service Desk\nSato & Osei LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e032",
+      "thread_id": "i046-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T10:34:24.560042",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Dubois",
+        "email": "ddubois@stratusadr.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Thompson",
+          "email": "wthompson@zhangunderwood.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Dear Omar,\n\nThis confirms receipt of the demand for arbitration in Bluefin Foods v. Brightline Materials. The administrative conference is scheduled for October 17. Please confirm your availability.\n\nBest,\nDiego\nCase Administrator\nStratus Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i046-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e033",
+      "thread_id": "i046-t018",
+      "in_reply_to": "i046-e032",
+      "references": [
+        "i046-e032"
+      ],
+      "timestamp": "2026-10-05T11:08:20.905655",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Diego Dubois",
+          "email": "ddubois@stratusadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Thompson",
+          "email": "wthompson@zhangunderwood.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hi Diego,\n\nQuick follow-up on the below. Any update?\n\nBest,\nOmar Shah\nPartner\nSato & Osei LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e034",
+      "thread_id": "i046-t018",
+      "in_reply_to": "i046-e033",
+      "references": [
+        "i046-e032",
+        "i046-e033"
+      ],
+      "timestamp": "2026-10-07T07:00:42.900980",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Dubois",
+        "email": "ddubois@stratusadr.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Thompson",
+          "email": "wthompson@zhangunderwood.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Omar,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nDiego\nCase Administrator\nStratus Dispute Resolution\n\nOn Mon, Oct 05, 2026 at 11:08 AM, Omar Shah <omars@satoosei.com> wrote:\n> Hi Diego,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e035",
+      "thread_id": "i046-t018",
+      "in_reply_to": "i046-e034",
+      "references": [
+        "i046-e032",
+        "i046-e033",
+        "i046-e034"
+      ],
+      "timestamp": "2026-10-07T08:12:24.348479",
+      "folder": "sent",
+      "from": {
+        "name": "Omar Shah",
+        "email": "omars@satoosei.com"
+      },
+      "to": [
+        {
+          "name": "Diego Dubois",
+          "email": "ddubois@stratusadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Whitney Thompson",
+          "email": "wthompson@zhangunderwood.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hi Diego,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nOmar\nPartner\nSato & Osei LLP\n\nOn Wed, Oct 07, 2026 at 07:00 AM, Diego Dubois <ddubois@stratusadr.com> wrote:\n> Omar,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i046-m00",
+        "matter_ids": [
+          "i046-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i046-m00"
+          ],
+          "thread_candidates": [
+            "i046-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i046-e036",
+      "thread_id": "i046-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-16T18:54:16.174705",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Fischer",
+        "email": "maya.fischer@quarrylogi.com"
+      },
+      "to": [
+        {
+          "name": "Omar Shah",
+          "email": "omars@satoosei.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hello Omar,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nMaya\nRecruiter\nQuarry Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700046
+}

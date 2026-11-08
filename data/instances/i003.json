@@ -1,0 +1,2711 @@
+{
+  "instance_id": "i003",
+  "firm": {
+    "name": "Abbott & Thompson LLP",
+    "domain": "abbottthompson.com"
+  },
+  "user_contact_id": "i003-c000",
+  "matters": [
+    {
+      "matter_id": "i003-m00",
+      "matter_number": "14798-001",
+      "name": "Quarry - Data Security Incident",
+      "client": "Quarry Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Quarry Software's customer database. Forensics by Halcyon Cyber.",
+      "counterparty": "Halcyon Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-16",
+      "key_terms": [
+        "14798-001",
+        "Halcyon Cyber",
+        "Halcyon"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i003-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i003-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i003-c006",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i003-c007",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i003-c008",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i003-m01",
+      "matter_number": "80069-001",
+      "name": "Vantage v. Stratus ('516 Patent)",
+      "client": "Vantage Analytics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Vantage Analytics against Stratus Energy asserting U.S. Patent No. 10,516,765.",
+      "counterparty": "Stratus Energy",
+      "opposing_counsel_firm": "Lee & Ferreira LLP",
+      "status": "open",
+      "opened_on": "2026-07-02",
+      "key_terms": [
+        "80069-001",
+        "10,516,765",
+        "'516",
+        "Stratus Energy",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i003-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i003-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i003-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i003-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i003-c011",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i003-m02",
+      "matter_number": "14798-002",
+      "name": "Quarry - CFPB Investigation (CID No. 2025-296)",
+      "client": "Quarry Software",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Quarry Software's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "14798-002",
+        "2025-296",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i003-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i003-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i003-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i003-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i003-c014",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i003-c000",
+      "name": "Arjun Patel",
+      "first": "Arjun",
+      "email": "arjunp@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c001",
+      "name": "Nadia Whitaker",
+      "first": "Nadia",
+      "email": "nwhitaker@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c002",
+      "name": "Kenji Okafor",
+      "first": "Kenji",
+      "email": "kenjio@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c003",
+      "name": "Umar Haddad",
+      "first": "Umar",
+      "email": "uhaddad@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c004",
+      "name": "Samuel Yamamoto",
+      "first": "Samuel",
+      "email": "samuely@vantageanal.com",
+      "organization": "Vantage Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c005",
+      "name": "Tara Chowdhury",
+      "first": "Tara",
+      "email": "tarac@quarrysoft.com",
+      "organization": "Quarry Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c006",
+      "name": "Farid Delgado",
+      "first": "Farid",
+      "email": "farid.delgado@quarrysoft.com",
+      "organization": "Quarry Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c007",
+      "name": "Maya Grant",
+      "first": "Maya",
+      "email": "mayag@halcyoncyber.com",
+      "organization": "Halcyon Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c008",
+      "name": "Sofia Underwood",
+      "first": "Sofia",
+      "email": "sofia.underwood@driftwoodmutual.com",
+      "organization": "Driftwood Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c009",
+      "name": "Uma Okafor",
+      "first": "Uma",
+      "email": "umao@vantageanal.com",
+      "organization": "Vantage Analytics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c010",
+      "name": "Uma Tanaka",
+      "first": "Uma",
+      "email": "uma.tanaka@leeferreira.com",
+      "organization": "Lee & Ferreira LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c011",
+      "name": "Uma Weiss",
+      "first": "Uma",
+      "email": "uma.weiss@ironbridgetech.com",
+      "organization": "Ironbridge Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c012",
+      "name": "Tara Weiss",
+      "first": "Tara",
+      "email": "tweiss@quarrysoft.com",
+      "organization": "Quarry Software",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c013",
+      "name": "Kavya Shah",
+      "first": "Kavya",
+      "email": "kavya.shah@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c014",
+      "name": "Aisha Varga",
+      "first": "Aisha",
+      "email": "avarga@lumendiscovery.com",
+      "organization": "Lumen Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c015",
+      "name": "Arjun Abbott",
+      "first": "Arjun",
+      "email": "arjuna@tidewatercomms.com",
+      "organization": "Tidewater Communications",
+      "org_type": "pr",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c016",
+      "name": "Maya Patel",
+      "first": "Maya",
+      "email": "mpatel@brightlinetech.com",
+      "organization": "Brightline Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c017",
+      "name": "Aisha Underwood",
+      "first": "Aisha",
+      "email": "aishau@copperleafadr.com",
+      "organization": "Copperleaf Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i003-c018",
+      "name": "Rafael Dubois",
+      "first": "Rafael",
+      "email": "rafaeld@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c019",
+      "name": "Elena Eriksen",
+      "first": "Elena",
+      "email": "elena.eriksen@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i003-c020",
+      "name": "Umar Underwood",
+      "first": "Umar",
+      "email": "umaru@abbottthompson.com",
+      "organization": "Abbott & Thompson LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i003-e000",
+      "thread_id": "i003-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T07:25:07.030497",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Underwood",
+        "email": "sofia.underwood@driftwoodmutual.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hi Arjun,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Halcyon.\n\nRegards,\nSofia Underwood\nClaims Specialist\nDriftwood Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e001",
+      "thread_id": "i003-t000",
+      "in_reply_to": "i003-e000",
+      "references": [
+        "i003-e000"
+      ],
+      "timestamp": "2026-07-01T10:11:11.098143",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Underwood",
+          "email": "sofia.underwood@driftwoodmutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Dear Sofia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e002",
+      "thread_id": "i003-t000",
+      "in_reply_to": "i003-e001",
+      "references": [
+        "i003-e000",
+        "i003-e001"
+      ],
+      "timestamp": "2026-07-02T16:11:48.208965",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Underwood",
+        "email": "sofia.underwood@driftwoodmutual.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Arjun,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nSofia Underwood\nClaims Specialist\nDriftwood Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e003",
+      "thread_id": "i003-t000",
+      "in_reply_to": "i003-e002",
+      "references": [
+        "i003-e000",
+        "i003-e001",
+        "i003-e002"
+      ],
+      "timestamp": "2026-07-02T20:30:28.987329",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Underwood",
+          "email": "sofia.underwood@driftwoodmutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Sofia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e004",
+      "thread_id": "i003-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T07:31:22.475957",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Okafor",
+        "email": "kenjio@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Dear Arjun,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest,\nKenji\nAssociate\nAbbott & Thompson LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e005",
+      "thread_id": "i003-t001",
+      "in_reply_to": "i003-e004",
+      "references": [
+        "i003-e004"
+      ],
+      "timestamp": "2026-07-07T09:44:51.839793",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Kenji,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nArjun\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Jul 06, 2026 at 07:31 AM, Kenji Okafor <kenjio@abbottthompson.com> wrote:\n> Dear Arjun,\n>\n> The draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e006",
+      "thread_id": "i003-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T13:41:25.247052",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Underwood",
+        "email": "aishau@copperleafadr.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hi Arjun,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nThanks,\nAisha Underwood\nSection Chair\nCopperleaf Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e007",
+      "thread_id": "i003-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T14:54:43.101411",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Tara Weiss",
+          "email": "tweiss@quarrysoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hi Tara,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e008",
+      "thread_id": "i003-t003",
+      "in_reply_to": "i003-e007",
+      "references": [
+        "i003-e007"
+      ],
+      "timestamp": "2026-07-13T08:01:42.017425",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Weiss",
+        "email": "tweiss@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hello Arjun,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nTara\nChief Compliance Officer\nQuarry Software\n\nOn Thu, Jul 09, 2026 at 02:54 PM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Hi Tara,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e009",
+      "thread_id": "i003-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:58:53.200253",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Chowdhury",
+        "email": "tarac@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Hi Arjun,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nTara Chowdhury\nGeneral Counsel\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e010",
+      "thread_id": "i003-t003",
+      "in_reply_to": "i003-e008",
+      "references": [
+        "i003-e007",
+        "i003-e008"
+      ],
+      "timestamp": "2026-07-14T17:21:11.700382",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Tara Weiss",
+          "email": "tweiss@quarrysoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Dear Tara,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nArjun\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Jul 13, 2026 at 08:01 AM, Tara Weiss <tweiss@quarrysoft.com> wrote:\n> Hello Arjun,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e011",
+      "thread_id": "i003-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:03:22.566859",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Tanaka",
+        "email": "uma.tanaka@leeferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Vantage v. Stratus - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nRegards,\nUma Tanaka\nPartner\nLee & Ferreira LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e012",
+      "thread_id": "i003-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T08:36:26.638177",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Chowdhury",
+        "email": "tarac@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Dear Arjun,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest regards,\nTara\nGeneral Counsel\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e013",
+      "thread_id": "i003-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-21T11:35:14.778761",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Chowdhury",
+        "email": "tarac@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Dear Arjun,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nTara\nGeneral Counsel\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e014",
+      "thread_id": "i003-t006",
+      "in_reply_to": "i003-e012",
+      "references": [
+        "i003-e012"
+      ],
+      "timestamp": "2026-07-22T08:48:13.755161",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Dear Tara,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nArjun Patel\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Jul 20, 2026 at 08:36 AM, Tara Chowdhury <tarac@quarrysoft.com> wrote:\n> Dear Arjun,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e015",
+      "thread_id": "i003-t005",
+      "in_reply_to": "i003-e011",
+      "references": [
+        "i003-e011"
+      ],
+      "timestamp": "2026-07-22T09:05:11.614155",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Uma Tanaka",
+          "email": "uma.tanaka@leeferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Vantage v. Stratus - proposed protective order",
+      "body": "Uma,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nArjun Patel\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": [
+            "i003-m01"
+          ],
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e016",
+      "thread_id": "i003-t006",
+      "in_reply_to": "i003-e014",
+      "references": [
+        "i003-e012",
+        "i003-e014"
+      ],
+      "timestamp": "2026-07-23T08:24:52.280863",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Chowdhury",
+        "email": "tarac@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Arjun,\n\nThanks. Separately, on the CFPB investigation, the audit committee wants to know whether we're on track for the first production.\n\nBest,\nTara Chowdhury\nGeneral Counsel\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02",
+          "i003-m00"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e017",
+      "thread_id": "i003-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-23T08:50:37.720995",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Farid Delgado",
+          "email": "farid.delgado@quarrysoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hello Farid,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Halcyon.\n\nRegards,\nArjun Patel\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e018",
+      "thread_id": "i003-t008",
+      "in_reply_to": "i003-e017",
+      "references": [
+        "i003-e017"
+      ],
+      "timestamp": "2026-07-24T08:37:13.387648",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "farid.delgado@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hello Arjun,\n\nWorks for me. Let's do Monday at 9:00 a.m..\n\nThanks,\nFarid Delgado\nChief Information Security Officer\nQuarry Software\n\nOn Thu, Jul 23, 2026 at 08:50 AM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Hello Farid,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Halcyon.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [
+            "i003-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e019",
+      "thread_id": "i003-t005",
+      "in_reply_to": "i003-e015",
+      "references": [
+        "i003-e011",
+        "i003-e015"
+      ],
+      "timestamp": "2026-07-24T08:37:24.780702",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Tanaka",
+        "email": "uma.tanaka@leeferreira.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Vantage v. Stratus - proposed protective order",
+      "body": "Hello Arjun,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nUma Tanaka\nPartner\nLee & Ferreira LLP\n\nOn Wed, Jul 22, 2026 at 09:05 AM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Uma,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": [
+            "i003-m01"
+          ],
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e020",
+      "thread_id": "i003-t005",
+      "in_reply_to": "i003-e019",
+      "references": [
+        "i003-e011",
+        "i003-e015",
+        "i003-e019"
+      ],
+      "timestamp": "2026-07-24T18:34:06.831574",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Uma Tanaka",
+          "email": "uma.tanaka@leeferreira.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Vantage v. Stratus - proposed protective order",
+      "body": "Counsel,\n\nAdding Nadia, who will handle the day-to-day on this.\n\nBest regards,\nArjun Patel\nPartner\nAbbott & Thompson LLP\n\nOn Fri, Jul 24, 2026 at 08:37 AM, Uma Tanaka <uma.tanaka@leeferreira.com> wrote:\n> Hello Arjun,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": [
+            "i003-m01"
+          ],
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e021",
+      "thread_id": "i003-t008",
+      "in_reply_to": "i003-e018",
+      "references": [
+        "i003-e017",
+        "i003-e018"
+      ],
+      "timestamp": "2026-07-27T10:42:42.324689",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Farid Delgado",
+          "email": "farid.delgado@quarrysoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hello Farid,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nThanks,\nArjun\nPartner\nAbbott & Thompson LLP\n\nOn Fri, Jul 24, 2026 at 08:37 AM, Farid Delgado <farid.delgado@quarrysoft.com> wrote:\n> Hello Arjun,\n>\n> Works for me. Let's do Monday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e022",
+      "thread_id": "i003-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T09:58:15.005883",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Grant",
+        "email": "mayag@halcyoncyber.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Delgado",
+          "email": "farid.delgado@quarrysoft.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Arjun,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest regards,\nMaya\nIncident Response Lead\nHalcyon Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m00"
+          ],
+          "keyword_candidates": [
+            "i003-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e023",
+      "thread_id": "i003-t009",
+      "in_reply_to": "i003-e022",
+      "references": [
+        "i003-e022"
+      ],
+      "timestamp": "2026-07-28T10:58:46.679225",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Maya Grant",
+          "email": "mayag@halcyoncyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Delgado",
+          "email": "farid.delgado@quarrysoft.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Hi Maya,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nArjun Patel\nPartner\nAbbott & Thompson LLP\n\nOn Tue, Jul 28, 2026 at 09:58 AM, Maya Grant <mayag@halcyoncyber.com> wrote:\n> Arjun,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e024",
+      "thread_id": "i003-t008",
+      "in_reply_to": "i003-e021",
+      "references": [
+        "i003-e017",
+        "i003-e018",
+        "i003-e021"
+      ],
+      "timestamp": "2026-07-29T07:55:31.379354",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "farid.delgado@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Arjun,\n\nWorks for me. Let's do Monday at 5:00 p.m..\n\nBest regards,\nFarid\nChief Information Security Officer\nQuarry Software\n\nOn Mon, Jul 27, 2026 at 10:42 AM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Hello Farid,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e025",
+      "thread_id": "i003-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:25:59.795288",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Weiss",
+        "email": "tweiss@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Arjun,\n\nThe audit committee wants an update at its meeting on August 25. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nTara\nChief Compliance Officer\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e026",
+      "thread_id": "i003-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:24:39.766058",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Okafor",
+        "email": "kenjio@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Arjun,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest,\nKenji Okafor\nAssociate\nAbbott & Thompson LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e027",
+      "thread_id": "i003-t011",
+      "in_reply_to": "i003-e026",
+      "references": [
+        "i003-e026"
+      ],
+      "timestamp": "2026-08-05T07:50:33.640305",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: State notification deadlines",
+      "body": "Hi Kenji,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nArjun Patel\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Aug 03, 2026 at 10:24 AM, Kenji Okafor <kenjio@abbottthompson.com> wrote:\n> Arjun,\n>\n> I mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i003-e028",
+      "thread_id": "i003-t010",
+      "in_reply_to": "i003-e025",
+      "references": [
+        "i003-e025"
+      ],
+      "timestamp": "2026-08-05T09:28:49.515877",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Tara Weiss",
+          "email": "tweiss@quarrysoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Tara,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nArjun\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Aug 03, 2026 at 08:25 AM, Tara Weiss <tweiss@quarrysoft.com> wrote:\n> Arjun,\n>\n> The audit committee wants an update at its meeting on August 25. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e029",
+      "thread_id": "i003-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T11:31:13.507427",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Underwood",
+        "email": "umaru@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Arjun,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nUmar Underwood\nPartner\nAbbott & Thompson LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e030",
+      "thread_id": "i003-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T15:51:23.145598",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Delgado",
+        "email": "farid.delgado@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Arjun,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Halcyon Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 2:00 p.m.?\n\nBest regards,\nFarid\nChief Information Security Officer\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m00"
+          ],
+          "keyword_candidates": [
+            "i003-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e031",
+      "thread_id": "i003-t010",
+      "in_reply_to": "i003-e028",
+      "references": [
+        "i003-e025",
+        "i003-e028"
+      ],
+      "timestamp": "2026-08-07T07:59:04.368892",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Weiss",
+        "email": "tweiss@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello Arjun,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nTara Weiss\nChief Compliance Officer\nQuarry Software\n\nOn Wed, Aug 05, 2026 at 09:28 AM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Tara,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e032",
+      "thread_id": "i003-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T07:05:22.456565",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Chowdhury",
+        "email": "tarac@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Arjun,\n\nTwo quick things.\n\n1. On the security incident, our insurer is asking for an updated budget.\n2. On the CFPB investigation, the audit committee wants to know whether we're on track for the first production.\n\nThanks,\nTara\nGeneral Counsel\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00",
+          "i003-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e033",
+      "thread_id": "i003-t010",
+      "in_reply_to": "i003-e031",
+      "references": [
+        "i003-e025",
+        "i003-e028",
+        "i003-e031"
+      ],
+      "timestamp": "2026-08-10T08:07:09.836317",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Tara Weiss",
+          "email": "tweiss@quarrysoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Tara,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e034",
+      "thread_id": "i003-t013",
+      "in_reply_to": "i003-e030",
+      "references": [
+        "i003-e030"
+      ],
+      "timestamp": "2026-08-10T08:11:00.542174",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Farid Delgado",
+          "email": "farid.delgado@quarrysoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Tara Chowdhury",
+          "email": "tarac@quarrysoft.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Farid,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00"
+          ],
+          "thread_candidates": [
+            "i003-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e035",
+      "thread_id": "i003-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T07:38:08.959245",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Patel",
+        "email": "mpatel@brightlinetech.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Engagement - source code review",
+      "body": "Arjun,\n\nFollowing up on the call with Nadia: we can start the source code review for the '516 patent matter on August 24. Our conflicts check against Stratus Energy came back clear. Engagement letter attached.\n\nRegards,\nMaya Patel\nSenior Engineer\nBrightline Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e036",
+      "thread_id": "i003-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:02:40.505989",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Abbott",
+        "email": "arjuna@tidewatercomms.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Okafor",
+          "email": "kenjio@abbottthompson.com"
+        }
+      ],
+      "subject": "Communications support",
+      "body": "Arjun,\n\nQuarry's CEO asked us to help with external communications around the incident. Could we get 30 minutes with you to align on what can be said publicly?\n\nRegards,\nArjun Abbott\nManaging Director\nTidewater Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e037",
+      "thread_id": "i003-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:06:22.942761",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Weiss",
+        "email": "tweiss@quarrysoft.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Arjun,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nThanks,\nTara Weiss\nChief Compliance Officer\nQuarry Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e038",
+      "thread_id": "i003-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T07:17:29.058035",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Shah",
+        "email": "kavya.shah@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-296 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nKavya\nStaff Attorney\nConsumer Financial Protection Bureau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m02"
+          ],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e039",
+      "thread_id": "i003-t018",
+      "in_reply_to": "i003-e038",
+      "references": [
+        "i003-e038"
+      ],
+      "timestamp": "2026-09-11T08:27:06.908354",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Shah",
+          "email": "kavya.shah@cfpb.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-296 - meet and confer",
+      "body": "Kavya,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nArjun Patel\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m02",
+        "matter_ids": [
+          "i003-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m02"
+          ],
+          "thread_candidates": [
+            "i003-m02"
+          ],
+          "identifier_candidates": [
+            "i003-m02"
+          ],
+          "keyword_candidates": [
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e040",
+      "thread_id": "i003-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T09:10:09.003403",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Uma Okafor",
+          "email": "umao@vantageanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 22",
+      "body": "Hello Uma,\n\nReminder that our infringement contentions are due September 22. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest,\nArjun\nPartner\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e041",
+      "thread_id": "i003-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T07:09:39.322181",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Yamamoto",
+        "email": "samuely@vantageanal.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hi Arjun,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nRegards,\nSamuel Yamamoto\nGeneral Counsel\nVantage Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e042",
+      "thread_id": "i003-t019",
+      "in_reply_to": "i003-e040",
+      "references": [
+        "i003-e040"
+      ],
+      "timestamp": "2026-09-14T08:05:14.894467",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Okafor",
+        "email": "umao@vantageanal.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 22",
+      "body": "Hi Arjun,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nUma Okafor\nChief Technology Officer\nVantage Analytics\n\nOn Fri, Sep 11, 2026 at 09:10 AM, Arjun Patel <arjunp@abbottthompson.com> wrote:\n> Hello Uma,\n>\n> Reminder that our infringement contentions are due September 22. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": [
+            "i003-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e043",
+      "thread_id": "i003-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:44:29.618212",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Dubois",
+        "email": "rafaeld@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Arjun,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest,\nRafael\nProfessional Development Manager\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e044",
+      "thread_id": "i003-t019",
+      "in_reply_to": "i003-e042",
+      "references": [
+        "i003-e040",
+        "i003-e042"
+      ],
+      "timestamp": "2026-09-15T12:50:20.034037",
+      "folder": "sent",
+      "from": {
+        "name": "Arjun Patel",
+        "email": "arjunp@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Uma Okafor",
+          "email": "umao@vantageanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Whitaker",
+          "email": "nwhitaker@abbottthompson.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 22",
+      "body": "Uma,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nArjun Patel\nPartner\nAbbott & Thompson LLP\n\nOn Mon, Sep 14, 2026 at 08:05 AM, Uma Okafor <umao@vantageanal.com> wrote:\n> Hi Arjun,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i003-m01"
+          ],
+          "thread_candidates": [
+            "i003-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e045",
+      "thread_id": "i003-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T16:42:32.353302",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Eriksen",
+        "email": "elena.eriksen@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Arjun,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nThanks,\nElena\nIT Service Desk\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e046",
+      "thread_id": "i003-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:04:19.478160",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Haddad",
+        "email": "uhaddad@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Vantage",
+      "body": "Hello Arjun,\n\nPre-bills for Vantage Analytics are ready for your review:\n\n- 80069-001  Vantage v. Stratus ('516 Patent)\n\nPlease mark up and return by October 4.\n\nBest regards,\nUmar Haddad\nBilling Coordinator\nAbbott & Thompson LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m01",
+        "matter_ids": [
+          "i003-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i003-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i003-e047",
+      "thread_id": "i003-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T10:09:22.699642",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Okafor",
+        "email": "kenjio@abbottthompson.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Patel",
+          "email": "arjunp@abbottthompson.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Arjun,\n\nStatus on my matters this week:\n\n- Security incident: forensics report pending; consumer notification letters in draft.\n- CFPB CID: collection 80% complete; first rolling production targeted for October 26.\n\nRegards,\nKenji Okafor\nAssociate\nAbbott & Thompson LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i003-m00",
+        "matter_ids": [
+          "i003-m00",
+          "i003-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i003-m00",
+            "i003-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700003
+}

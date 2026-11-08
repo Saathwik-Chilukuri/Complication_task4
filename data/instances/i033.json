@@ -1,0 +1,2981 @@
+{
+  "instance_id": "i033",
+  "firm": {
+    "name": "Fischer & Laurent LLP",
+    "domain": "fischerlaurent.com"
+  },
+  "user_contact_id": "i033-c000",
+  "matters": [
+    {
+      "matter_id": "i033-m00",
+      "matter_number": "35386-001",
+      "name": "Copperleaf - Headquarters Lease (743 Page Mill Road)",
+      "client": "Copperleaf Labs",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Copperleaf Labs's new headquarters at 743 Page Mill Road, landlord Bluefin Properties LLC.",
+      "counterparty": "Bluefin Properties LLC",
+      "opposing_counsel_firm": "Vasquez & Mendoza LLP",
+      "status": "open",
+      "opened_on": "2026-07-13",
+      "key_terms": [
+        "35386-001",
+        "743 Page Mill Road",
+        "Bluefin Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i033-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i033-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i033-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i033-c011",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i033-m01",
+      "matter_number": "86772-001",
+      "name": "Nimbus - Data Security Incident",
+      "client": "Nimbus Software",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Nimbus Software's customer database. Forensics by Stratus Cyber.",
+      "counterparty": "Stratus Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-06-08",
+      "key_terms": [
+        "86772-001",
+        "Stratus Cyber",
+        "Stratus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i033-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i033-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i033-c013",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i033-c014",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i033-m02",
+      "matter_number": "10380-001",
+      "name": "Vantage - Series B Financing",
+      "client": "Vantage Analytics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Vantage Analytics, led by Solace Ventures. Raising ~$18 million.",
+      "counterparty": "Solace Ventures",
+      "opposing_counsel_firm": "Nakamura & Ziegler LLP",
+      "status": "open",
+      "opened_on": "2026-07-11",
+      "key_terms": [
+        "10380-001",
+        "Series B",
+        "Solace Ventures",
+        "Solace"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i033-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i033-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i033-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i033-c017",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i033-c018",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i033-m03",
+      "matter_number": "92546-001",
+      "name": "Parallax - FTC Investigation (CID No. 2026-580)",
+      "client": "Parallax Software",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Parallax Software's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-07-25",
+      "key_terms": [
+        "92546-001",
+        "2026-580",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i033-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i033-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i033-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i033-c021",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i033-m04",
+      "matter_number": "86772-002",
+      "name": "Nimbus - Headquarters Lease (855 Market Street)",
+      "client": "Nimbus Software",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Nimbus Software's new headquarters at 855 Market Street, landlord Wavecrest Properties LLC.",
+      "counterparty": "Wavecrest Properties LLC",
+      "opposing_counsel_firm": "Rosen & Dubois LLP",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "86772-002",
+        "855 Market Street",
+        "Wavecrest Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i033-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i033-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i033-c022",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i033-c023",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i033-c024",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i033-c000",
+      "name": "Chen Kowalski",
+      "first": "Chen",
+      "email": "chen.kowalski@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c001",
+      "name": "Valerie Ferreira",
+      "first": "Valerie",
+      "email": "valerie.ferreira@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c002",
+      "name": "Thomas Ferreira",
+      "first": "Thomas",
+      "email": "thomasf@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c003",
+      "name": "Maya Castillo",
+      "first": "Maya",
+      "email": "maya.castillo@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c004",
+      "name": "Whitney Alvarez",
+      "first": "Whitney",
+      "email": "whitneya@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c005",
+      "name": "Priya Yamamoto",
+      "first": "Priya",
+      "email": "priya.yamamoto@copperleaflabs.com",
+      "organization": "Copperleaf Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c006",
+      "name": "Farid Abbott",
+      "first": "Farid",
+      "email": "fabbott@nimbussoft.com",
+      "organization": "Nimbus Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c007",
+      "name": "Carla Sato",
+      "first": "Carla",
+      "email": "csato@vantageanal.com",
+      "organization": "Vantage Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c008",
+      "name": "Whitney Iyer",
+      "first": "Whitney",
+      "email": "wiyer@parallaxsoft.com",
+      "organization": "Parallax Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c009",
+      "name": "Omar Grant",
+      "first": "Omar",
+      "email": "ogrant@copperleaflabs.com",
+      "organization": "Copperleaf Labs",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c010",
+      "name": "Marcus Shah",
+      "first": "Marcus",
+      "email": "mshah@vasquezmendoza.com",
+      "organization": "Vasquez & Mendoza LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c011",
+      "name": "Ben Whitaker",
+      "first": "Ben",
+      "email": "bwhitaker@silverpinerealty.com",
+      "organization": "Silverpine Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c012",
+      "name": "Thomas Iyer",
+      "first": "Thomas",
+      "email": "thomasi@nimbussoft.com",
+      "organization": "Nimbus Software",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c013",
+      "name": "Arjun Fischer",
+      "first": "Arjun",
+      "email": "arjun.fischer@stratuscyber.com",
+      "organization": "Stratus Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c014",
+      "name": "Olivia Park",
+      "first": "Olivia",
+      "email": "opark@keystonemutual.com",
+      "organization": "Keystone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c015",
+      "name": "Victor Iyer",
+      "first": "Victor",
+      "email": "victori@vantageanal.com",
+      "organization": "Vantage Analytics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c016",
+      "name": "Emma Huang",
+      "first": "Emma",
+      "email": "emmah@nakamuraziegler.com",
+      "organization": "Nakamura & Ziegler LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c017",
+      "name": "Thomas Weiss",
+      "first": "Thomas",
+      "email": "thomasw@solacevc.com",
+      "organization": "Solace Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c018",
+      "name": "Farid Reyes",
+      "first": "Farid",
+      "email": "farid.reyes@amberlyvc.com",
+      "organization": "Amberly Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c019",
+      "name": "Arjun Haddad",
+      "first": "Arjun",
+      "email": "arjunh@parallaxsoft.com",
+      "organization": "Parallax Software",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c020",
+      "name": "Hiro Novak",
+      "first": "Hiro",
+      "email": "hiron@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c021",
+      "name": "Uma Young",
+      "first": "Uma",
+      "email": "uma.young@driftwooddiscovery.com",
+      "organization": "Driftwood Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c022",
+      "name": "Yusuf Castillo",
+      "first": "Yusuf",
+      "email": "yusufc@nimbussoft.com",
+      "organization": "Nimbus Software",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c023",
+      "name": "Victor Brennan",
+      "first": "Victor",
+      "email": "vbrennan@rosendubois.com",
+      "organization": "Rosen & Dubois LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c024",
+      "name": "James Tanaka",
+      "first": "James",
+      "email": "jamest@sterlingrealty.com",
+      "organization": "Sterling Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c025",
+      "name": "Kenji Fischer",
+      "first": "Kenji",
+      "email": "kenjif@brightlinevc.com",
+      "organization": "Brightline Ventures",
+      "org_type": "fund",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c026",
+      "name": "Samuel Reyes",
+      "first": "Samuel",
+      "email": "samuel.reyes@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i033-c027",
+      "name": "Maya Laurent",
+      "first": "Maya",
+      "email": "maya.laurent@halcyonadr.com",
+      "organization": "Halcyon Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c028",
+      "name": "Omar Eriksen",
+      "first": "Omar",
+      "email": "omare@northwindfood.com",
+      "organization": "Northwind Foods",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i033-c029",
+      "name": "Samuel Lindqvist",
+      "first": "Samuel",
+      "email": "slindqvist@fischerlaurent.com",
+      "organization": "Fischer & Laurent LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i033-e000",
+      "thread_id": "i033-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T09:39:23.655076",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Ferreira",
+        "email": "thomasf@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Chen,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nThanks,\nThomas\nSenior Associate\nFischer & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e001",
+      "thread_id": "i033-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-22T08:31:15.740692",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Park",
+        "email": "opark@keystonemutual.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Chen,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Stratus.\n\nThanks,\nOlivia Park\nClaims Specialist\nKeystone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m01",
+        "matter_ids": [
+          "i033-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e002",
+      "thread_id": "i033-t001",
+      "in_reply_to": "i033-e001",
+      "references": [
+        "i033-e001"
+      ],
+      "timestamp": "2026-06-24T07:50:30.077971",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Park",
+          "email": "opark@keystonemutual.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cyber claim - panel counsel approval",
+      "body": "Hi Olivia,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 22, 2026 at 08:31 AM, Olivia Park <opark@keystonemutual.com> wrote:\n> Chen,\n>\n> We've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Stratus.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m01",
+        "matter_ids": [
+          "i033-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01"
+          ],
+          "thread_candidates": [
+            "i033-m01"
+          ],
+          "identifier_candidates": [
+            "i033-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e003",
+      "thread_id": "i033-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:00:30.592997",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@rosendubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Ferreira",
+          "email": "thomasf@fischerlaurent.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Dear Victor,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e004",
+      "thread_id": "i033-t002",
+      "in_reply_to": "i033-e003",
+      "references": [
+        "i033-e003"
+      ],
+      "timestamp": "2026-07-01T08:31:20.320748",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Brennan",
+        "email": "vbrennan@rosendubois.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Ferreira",
+          "email": "thomasf@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nVictor Brennan\nPartner\nRosen & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e005",
+      "thread_id": "i033-t002",
+      "in_reply_to": "i033-e004",
+      "references": [
+        "i033-e003",
+        "i033-e004"
+      ],
+      "timestamp": "2026-07-01T11:32:38.140386",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Victor Brennan",
+          "email": "vbrennan@rosendubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Ferreira",
+          "email": "thomasf@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Hello Victor,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e006",
+      "thread_id": "i033-t002",
+      "in_reply_to": "i033-e005",
+      "references": [
+        "i033-e003",
+        "i033-e004",
+        "i033-e005"
+      ],
+      "timestamp": "2026-07-02T18:12:05.058796",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Brennan",
+        "email": "vbrennan@rosendubois.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Ferreira",
+          "email": "thomasf@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Dear Chen,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest,\nVictor Brennan\nPartner\nRosen & Dubois LLP\n\nOn Wed, Jul 01, 2026 at 11:32 AM, Chen Kowalski <chen.kowalski@fischerlaurent.com> wrote:\n> Hello Victor,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e007",
+      "thread_id": "i033-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:59:30.955426",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Iyer",
+        "email": "thomasi@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Abbott",
+          "email": "fabbott@nimbussoft.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Chen,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Stratus Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 3:30 p.m.?\n\nBest,\nThomas Iyer\nChief Information Security Officer\nNimbus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m01",
+        "matter_ids": [
+          "i033-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m01"
+          ],
+          "keyword_candidates": [
+            "i033-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e008",
+      "thread_id": "i033-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:13:36.710919",
+      "folder": "inbox",
+      "from": {
+        "name": "Carla Sato",
+        "email": "csato@vantageanal.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hi Chen,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest regards,\nCarla Sato\nGeneral Counsel\nVantage Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e009",
+      "thread_id": "i033-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T07:40:45.747410",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Huang",
+        "email": "emmah@nakamuraziegler.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Vantage Series B - draft financing documents",
+      "body": "Dear Chen,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by July 24. Please send the updated cap table and disclosure schedule when ready.\n\nRegards,\nEmma",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [
+            "i033-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e010",
+      "thread_id": "i033-t005",
+      "in_reply_to": "i033-e009",
+      "references": [
+        "i033-e009"
+      ],
+      "timestamp": "2026-07-17T09:03:16.551242",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Emma Huang",
+          "email": "emmah@nakamuraziegler.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Vantage Series B - draft financing documents",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e011",
+      "thread_id": "i033-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T10:47:46.926089",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ferreira",
+        "email": "valerie.ferreira@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hello Chen,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nValerie Ferreira\nSenior Associate\nFischer & Laurent LLP",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e012",
+      "thread_id": "i033-t005",
+      "in_reply_to": "i033-e010",
+      "references": [
+        "i033-e009",
+        "i033-e010"
+      ],
+      "timestamp": "2026-07-20T08:13:50.029828",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Huang",
+        "email": "emmah@nakamuraziegler.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Vantage Series B - draft financing documents",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nThanks,\nEmma\n\nOn Fri, Jul 17, 2026 at 09:03 AM, Chen Kowalski <chen.kowalski@fischerlaurent.com> wrote:\n> Counsel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e013",
+      "thread_id": "i033-t006",
+      "in_reply_to": "i033-e011",
+      "references": [
+        "i033-e011"
+      ],
+      "timestamp": "2026-07-20T08:23:51.742162",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e014",
+      "thread_id": "i033-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:25:11.522079",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ferreira",
+        "email": "valerie.ferreira@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Dear Chen,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest,\nValerie Ferreira\nSenior Associate\nFischer & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e015",
+      "thread_id": "i033-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T10:09:00.376578",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Laurent",
+        "email": "maya.laurent@halcyonadr.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Chen,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nMaya Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e016",
+      "thread_id": "i033-t005",
+      "in_reply_to": "i033-e012",
+      "references": [
+        "i033-e009",
+        "i033-e010",
+        "i033-e012"
+      ],
+      "timestamp": "2026-07-21T08:43:33.103435",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Emma Huang",
+          "email": "emmah@nakamuraziegler.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Vantage Series B - draft financing documents",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 20, 2026 at 08:13 AM, Emma Huang <emmah@nakamuraziegler.com> wrote:\n> Counsel,\n>\n> Thanks. Received; we'll review and come back to you by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e017",
+      "thread_id": "i033-t007",
+      "in_reply_to": "i033-e014",
+      "references": [
+        "i033-e014"
+      ],
+      "timestamp": "2026-07-21T19:04:21.705962",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e018",
+      "thread_id": "i033-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T09:19:45.707727",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Abbott",
+        "email": "fabbott@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Chen,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nFarid",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01",
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e019",
+      "thread_id": "i033-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T10:02:45.128387",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Castillo",
+        "email": "yusufc@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 855 Market Street",
+      "body": "Hello Chen,\n\nWe've agreed on a non-binding LOI with Wavecrest Properties LLC for about 42,000 RSF at 855 Market Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest,\nYusuf Castillo\nDirector of Real Estate\nNimbus Software",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m04"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e020",
+      "thread_id": "i033-t010",
+      "in_reply_to": "i033-e019",
+      "references": [
+        "i033-e019"
+      ],
+      "timestamp": "2026-08-05T08:42:58.308997",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Castillo",
+          "email": "yusufc@nimbussoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 855 Market Street",
+      "body": "Dear Yusuf,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 10:02 AM, Yusuf Castillo <yusufc@nimbussoft.com> wrote:\n> Hello Chen,\n>\n> We've agreed on a non-binding LOI with Wavecrest Properties LLC for about 42,000 RSF at 855 Market Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [
+            "i033-m04"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e021",
+      "thread_id": "i033-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T15:09:07.697583",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Victor Iyer",
+          "email": "victori@vantageanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hello Victor,\n\nAttached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nThanks,\nChen\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [
+            "i033-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e022",
+      "thread_id": "i033-t011",
+      "in_reply_to": "i033-e021",
+      "references": [
+        "i033-e021"
+      ],
+      "timestamp": "2026-08-07T07:51:35.981095",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Iyer",
+        "email": "victori@vantageanal.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Chen,\n\nWorks for me. Let's do Wednesday at 9:00 a.m..\n\nBest regards,\nVictor\n\nOn Thu, Aug 06, 2026 at 03:09 PM, Chen Kowalski <chen.kowalski@fischerlaurent.com> wrote:\n> Hello Victor,\n>\n> Attached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [
+            "i033-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e023",
+      "thread_id": "i033-t010",
+      "in_reply_to": "i033-e020",
+      "references": [
+        "i033-e019",
+        "i033-e020"
+      ],
+      "timestamp": "2026-08-07T09:15:08.596706",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Castillo",
+        "email": "yusufc@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 855 Market Street",
+      "body": "Hi Chen,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nYusuf Castillo\nDirector of Real Estate\nNimbus Software\n\nOn Wed, Aug 05, 2026 at 08:42 AM, Chen Kowalski <chen.kowalski@fischerlaurent.com> wrote:\n> Dear Yusuf,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [
+            "i033-m04"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e024",
+      "thread_id": "i033-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:04:36.018887",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Reyes",
+        "email": "samuel.reyes@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Chen,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nRegards,\nSamuel Reyes",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e025",
+      "thread_id": "i033-t011",
+      "in_reply_to": "i033-e022",
+      "references": [
+        "i033-e021",
+        "i033-e022"
+      ],
+      "timestamp": "2026-08-10T10:18:46.959964",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Victor Iyer",
+          "email": "victori@vantageanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Valerie Ferreira",
+          "email": "valerie.ferreira@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Victor,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 07, 2026 at 07:51 AM, Victor Iyer <victori@vantageanal.com> wrote:\n> Chen,\n>\n> Works for me. Let's do Wednesday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e026",
+      "thread_id": "i033-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:24:56.067779",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Weiss",
+        "email": "thomasw@solacevc.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Iyer",
+          "email": "victori@vantageanal.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Chen,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is August 24 still realistic?\n\nBest regards,\nThomas",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e027",
+      "thread_id": "i033-t010",
+      "in_reply_to": "i033-e023",
+      "references": [
+        "i033-e019",
+        "i033-e020",
+        "i033-e023"
+      ],
+      "timestamp": "2026-08-10T10:38:04.864827",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Castillo",
+          "email": "yusufc@nimbussoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 855 Market Street",
+      "body": "Hello Yusuf,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [
+            "i033-m04"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e028",
+      "thread_id": "i033-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T10:43:38.620149",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Abbott",
+        "email": "fabbott@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hi Chen,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nBest regards,\nFarid Abbott",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m01",
+        "matter_ids": [
+          "i033-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01",
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i033-e029",
+      "thread_id": "i033-t013",
+      "in_reply_to": "i033-e026",
+      "references": [
+        "i033-e026"
+      ],
+      "timestamp": "2026-08-10T11:19:46.926023",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Weiss",
+          "email": "thomasw@solacevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Iyer",
+          "email": "victori@vantageanal.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hi Thomas,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 10, 2026 at 10:24 AM, Thomas Weiss <thomasw@solacevc.com> wrote:\n> Chen,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is August 24 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e030",
+      "thread_id": "i033-t013",
+      "in_reply_to": "i033-e029",
+      "references": [
+        "i033-e026",
+        "i033-e029"
+      ],
+      "timestamp": "2026-08-10T14:17:31.583520",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Weiss",
+        "email": "thomasw@solacevc.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Victor Iyer",
+          "email": "victori@vantageanal.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Chen,\n\nAdding Valerie, who will handle the day-to-day on this.\n\nBest,\nThomas\n\nOn Mon, Aug 10, 2026 at 11:19 AM, Chen Kowalski <chen.kowalski@fischerlaurent.com> wrote:\n> Hi Thomas,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m02"
+          ],
+          "thread_candidates": [
+            "i033-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e031",
+      "thread_id": "i033-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:21:13.315691",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Abbott",
+        "email": "fabbott@nimbussoft.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Chen,\n\nTwo quick things.\n\n1. On the security incident, our insurer is asking for an updated budget.\n2. On the 855 Market Street lease, the broker says the landlord moved on TI. Did you see that?\n\nBest regards,\nFarid Abbott",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m01",
+        "matter_ids": [
+          "i033-m01",
+          "i033-m04"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01",
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m04"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e032",
+      "thread_id": "i033-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T14:28:50.097569",
+      "folder": "inbox",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jamest@sterlingrealty.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Castillo",
+          "email": "yusufc@nimbussoft.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Chen,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nRegards,\nJames Tanaka\nSenior Vice President\nSterling Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e033",
+      "thread_id": "i033-t016",
+      "in_reply_to": "i033-e032",
+      "references": [
+        "i033-e032"
+      ],
+      "timestamp": "2026-08-20T16:10:37.111822",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jamest@sterlingrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Castillo",
+          "email": "yusufc@nimbussoft.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hello James,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 02:28 PM, James Tanaka <jamest@sterlingrealty.com> wrote:\n> Chen,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m04",
+        "matter_ids": [
+          "i033-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m04"
+          ],
+          "thread_candidates": [
+            "i033-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e034",
+      "thread_id": "i033-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T19:38:19.054389",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ferreira",
+        "email": "valerie.ferreira@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Dear Chen,\n\nStatus on my matters this week:\n\n- 743 Page Mill Road: second turn of landlord's lease draft; SNDA requested from lender.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- Series B: financing docs in negotiation with Solace's counsel; cap table reconciliation in progress.\n\nThanks,\nValerie\nSenior Associate\nFischer & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00",
+          "i033-m01",
+          "i033-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m00",
+            "i033-m02"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m01",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e035",
+      "thread_id": "i033-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T16:25:18.301795",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Alvarez",
+        "email": "whitneya@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Parallax",
+      "body": "Dear Chen,\n\nPre-bills for Parallax Software are ready for your review:\n\n- 92546-001  Parallax - FTC Investigation (CID No. 2026-580)\n\nPlease mark up and return by September 4.\n\nThanks,\nWhitney\nBilling Coordinator\nFischer & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m03"
+          ],
+          "keyword_candidates": [
+            "i033-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e036",
+      "thread_id": "i033-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T12:18:55.724022",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Yamamoto",
+        "email": "priya.yamamoto@copperleaflabs.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hi Chen,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nRegards,\nPriya Yamamoto\nGeneral Counsel\nCopperleaf Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e037",
+      "thread_id": "i033-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:09:58.997341",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Young",
+        "email": "uma.young@driftwooddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Castillo",
+          "email": "maya.castillo@fischerlaurent.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Chen,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nThanks,\nUma Young\nProject Manager\nDriftwood Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e038",
+      "thread_id": "i033-t020",
+      "in_reply_to": "i033-e037",
+      "references": [
+        "i033-e037"
+      ],
+      "timestamp": "2026-09-08T10:34:28.795736",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Uma Young",
+          "email": "uma.young@driftwooddiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Maya Castillo",
+          "email": "maya.castillo@fischerlaurent.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Uma,\n\nAdding Maya, who will handle the day-to-day on this.\n\nBest regards,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m03"
+          ],
+          "thread_candidates": [
+            "i033-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e039",
+      "thread_id": "i033-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:20:45.603042",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Castillo",
+        "email": "maya.castillo@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hello Chen,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest,\nMaya Castillo\nSenior Associate\nFischer & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01",
+            "i033-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e040",
+      "thread_id": "i033-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T08:50:58.554617",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Lindqvist",
+        "email": "slindqvist@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Chen,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nThanks,\nSamuel Lindqvist\nMarketing Coordinator\nFischer & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e041",
+      "thread_id": "i033-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-22T09:03:54.877949",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Grant",
+        "email": "ogrant@copperleaflabs.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 743 Page Mill Road",
+      "body": "Dear Chen,\n\nWe've agreed on a non-binding LOI with Bluefin Properties LLC for about 42,000 RSF at 743 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nOmar Grant\nDirector of Real Estate\nCopperleaf Labs",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m00"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e042",
+      "thread_id": "i033-t023",
+      "in_reply_to": "i033-e041",
+      "references": [
+        "i033-e041"
+      ],
+      "timestamp": "2026-09-24T09:06:00.268144",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Omar Grant",
+          "email": "ogrant@copperleaflabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 743 Page Mill Road",
+      "body": "Omar,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 22, 2026 at 09:03 AM, Omar Grant <ogrant@copperleaflabs.com> wrote:\n> Dear Chen,\n>\n> We've agreed on a non-binding LOI with Bluefin Properties LLC for about 42,000 RSF at 743 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m00"
+          ],
+          "thread_candidates": [
+            "i033-m00"
+          ],
+          "identifier_candidates": [
+            "i033-m00"
+          ],
+          "keyword_candidates": [
+            "i033-m00",
+            "i033-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e043",
+      "thread_id": "i033-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T07:30:42.929129",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Castillo",
+        "email": "maya.castillo@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi Chen,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nRegards,\nMaya\nSenior Associate\nFischer & Laurent LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i033-m01",
+            "i033-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i033-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e044",
+      "thread_id": "i033-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T10:31:39.042145",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Fischer",
+        "email": "kenjif@brightlinevc.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Participation in the Vantage round",
+      "body": "Chen,\n\nWe were introduced to Vantage by Solace and would like to take up to $2 million of the Series B. Who should we speak with about the subscription documents?\n\nThanks,\nKenji\nPrincipal\nBrightline Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m02",
+        "matter_ids": [
+          "i033-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e045",
+      "thread_id": "i033-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:36:21.803190",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Alvarez",
+        "email": "whitneya@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Copperleaf",
+      "body": "Chen,\n\nPre-bills for Copperleaf Labs are ready for your review:\n\n- 35386-001  Copperleaf - Headquarters Lease (743 Page Mill Road)\n\nPlease mark up and return by October 4.\n\nBest regards,\nWhitney Alvarez\nBilling Coordinator\nFischer & Laurent LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m00",
+        "matter_ids": [
+          "i033-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e046",
+      "thread_id": "i033-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T11:25:08.327711",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Novak",
+        "email": "hiron@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-580 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nBest regards,\nHiro Novak",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i033-m03"
+          ],
+          "keyword_candidates": [
+            "i033-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e047",
+      "thread_id": "i033-t027",
+      "in_reply_to": "i033-e046",
+      "references": [
+        "i033-e046"
+      ],
+      "timestamp": "2026-10-02T09:52:37.560147",
+      "folder": "sent",
+      "from": {
+        "name": "Chen Kowalski",
+        "email": "chen.kowalski@fischerlaurent.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Novak",
+          "email": "hiron@ftc.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-580 - meet and confer",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nChen Kowalski\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i033-m03",
+        "matter_ids": [
+          "i033-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i033-m03"
+          ],
+          "thread_candidates": [
+            "i033-m03"
+          ],
+          "identifier_candidates": [
+            "i033-m03"
+          ],
+          "keyword_candidates": [
+            "i033-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i033-e048",
+      "thread_id": "i033-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T08:52:50.206753",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Eriksen",
+        "email": "omare@northwindfood.com"
+      },
+      "to": [
+        {
+          "name": "Chen Kowalski",
+          "email": "chen.kowalski@fischerlaurent.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hello Chen,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nOmar\nRecruiter\nNorthwind Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700033
+}

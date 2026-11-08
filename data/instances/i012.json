@@ -1,0 +1,2246 @@
+{
+  "instance_id": "i012",
+  "firm": {
+    "name": "Mendoza & Dubois LLP",
+    "domain": "mendozadubois.com"
+  },
+  "user_contact_id": "i012-c000",
+  "matters": [
+    {
+      "matter_id": "i012-m00",
+      "matter_number": "70402-001",
+      "name": "Copperleaf - SEC Investigation (CID No. 2025-250)",
+      "client": "Copperleaf Payments",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Copperleaf Payments's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-06-02",
+      "key_terms": [
+        "70402-001",
+        "2025-250",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i012-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i012-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i012-c006",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i012-c007",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i012-c008",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i012-m01",
+      "matter_number": "70402-002",
+      "name": "Copperleaf v. Parallax (MSA Dispute)",
+      "client": "Copperleaf Payments",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Copperleaf Payments against vendor Parallax Systems.",
+      "counterparty": "Parallax Systems",
+      "opposing_counsel_firm": "Mendoza & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-06-29",
+      "key_terms": [
+        "70402-002",
+        "Parallax Systems",
+        "Parallax"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i012-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i012-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i012-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i012-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i012-c011",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i012-m02",
+      "matter_number": "56843-001",
+      "name": "Riverstone - Headquarters Lease (1292 Howard Street)",
+      "client": "Riverstone Foods",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Riverstone Foods's new headquarters at 1292 Howard Street, landlord Tidewater Properties LLC.",
+      "counterparty": "Tidewater Properties LLC",
+      "opposing_counsel_firm": "Ellis & Huang LLP",
+      "status": "open",
+      "opened_on": "2026-06-23",
+      "key_terms": [
+        "56843-001",
+        "1292 Howard Street",
+        "Tidewater Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i012-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i012-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i012-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i012-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i012-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i012-c014",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i012-c000",
+      "name": "Xavier Ziegler",
+      "first": "Xavier",
+      "email": "xavierz@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c001",
+      "name": "Aisha Vasquez",
+      "first": "Aisha",
+      "email": "aishav@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c002",
+      "name": "Elena Jensen",
+      "first": "Elena",
+      "email": "ejensen@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c003",
+      "name": "Xavier Mendoza",
+      "first": "Xavier",
+      "email": "xavierm@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c004",
+      "name": "Emma Quintero",
+      "first": "Emma",
+      "email": "emmaq@copperleafpaym.com",
+      "organization": "Copperleaf Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c005",
+      "name": "Grace Laurent",
+      "first": "Grace",
+      "email": "glaurent@riverstonefood.com",
+      "organization": "Riverstone Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c006",
+      "name": "Valerie Zhang",
+      "first": "Valerie",
+      "email": "valerie.zhang@copperleafpaym.com",
+      "organization": "Copperleaf Payments",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c007",
+      "name": "Emma Yamamoto",
+      "first": "Emma",
+      "email": "emmay@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c008",
+      "name": "Jasmine Tanaka",
+      "first": "Jasmine",
+      "email": "jasmine.tanaka@ironbridgediscovery.com",
+      "organization": "Ironbridge Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c009",
+      "name": "Lucia Ellis",
+      "first": "Lucia",
+      "email": "luciae@copperleafpaym.com",
+      "organization": "Copperleaf Payments",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c010",
+      "name": "Thomas Quintero",
+      "first": "Thomas",
+      "email": "thomas.quintero@mendozaunderwood.com",
+      "organization": "Mendoza & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c011",
+      "name": "Marcus Zhang",
+      "first": "Marcus",
+      "email": "marcus.zhang@pinnacleadr.com",
+      "organization": "Pinnacle Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c012",
+      "name": "Umar Kaplan",
+      "first": "Umar",
+      "email": "umar.kaplan@riverstonefood.com",
+      "organization": "Riverstone Foods",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c013",
+      "name": "Elena Fischer",
+      "first": "Elena",
+      "email": "efischer@ellishuang.com",
+      "organization": "Ellis & Huang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c014",
+      "name": "Thomas Ellis",
+      "first": "Thomas",
+      "email": "thomas.ellis@corvidrealty.com",
+      "organization": "Corvid Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c015",
+      "name": "Kenji Park",
+      "first": "Kenji",
+      "email": "kenji.park@sterlingsyst.com",
+      "organization": "Sterling Systems",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i012-c016",
+      "name": "Kavya Tanaka",
+      "first": "Kavya",
+      "email": "kavyat@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c017",
+      "name": "Victor Reyes",
+      "first": "Victor",
+      "email": "victorr@mendozadubois.com",
+      "organization": "Mendoza & Dubois LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i012-c018",
+      "name": "Umar Okafor",
+      "first": "Umar",
+      "email": "umaro@nimbuslogi.com",
+      "organization": "Nimbus Logistics",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i012-e000",
+      "thread_id": "i012-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T09:11:49.031693",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Quintero",
+        "email": "emmaq@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hello Xavier,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest regards,\nEmma",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e001",
+      "thread_id": "i012-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-24T19:43:43.432841",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Jensen",
+        "email": "ejensen@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Xavier,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nThanks,\nElena Jensen\nAssociate\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01",
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e002",
+      "thread_id": "i012-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-30T07:12:00.414838",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Ellis",
+        "email": "luciae@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Emma Quintero",
+          "email": "emmaq@copperleafpaym.com"
+        }
+      ],
+      "subject": "Parallax Systems - repeated SLA failures",
+      "body": "Dear Xavier,\n\nParallax Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest,\nLucia Ellis\nChief Operating Officer\nCopperleaf Payments",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e003",
+      "thread_id": "i012-t002",
+      "in_reply_to": "i012-e002",
+      "references": [
+        "i012-e002"
+      ],
+      "timestamp": "2026-07-02T07:37:59.059760",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Ellis",
+          "email": "luciae@copperleafpaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Emma Quintero",
+          "email": "emmaq@copperleafpaym.com"
+        }
+      ],
+      "subject": "Re: Parallax Systems - repeated SLA failures",
+      "body": "Hello Lucia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jun 30, 2026 at 07:12 AM, Lucia Ellis <luciae@copperleafpaym.com> wrote:\n> Dear Xavier,\n>\n> Parallax Systems has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m01"
+          ],
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e004",
+      "thread_id": "i012-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-03T14:57:54.744202",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Kaplan",
+        "email": "umar.kaplan@riverstonefood.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1292 Howard Street",
+      "body": "Hi Xavier,\n\nWe've agreed on a non-binding LOI with Tidewater Properties LLC for about 42,000 RSF at 1292 Howard Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nUmar\nDirector of Real Estate\nRiverstone Foods",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e005",
+      "thread_id": "i012-t003",
+      "in_reply_to": "i012-e004",
+      "references": [
+        "i012-e004"
+      ],
+      "timestamp": "2026-07-06T10:28:48.692029",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Umar Kaplan",
+          "email": "umar.kaplan@riverstonefood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 1292 Howard Street",
+      "body": "Hi Umar,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nRegards,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 03, 2026 at 02:57 PM, Umar Kaplan <umar.kaplan@riverstonefood.com> wrote:\n> Hi Xavier,\n>\n> We've agreed on a non-binding LOI with Tidewater Properties LLC for about 42,000 RSF at 1292 Howard Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": [
+            "i012-m02"
+          ],
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e006",
+      "thread_id": "i012-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T09:59:14.083797",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Quintero",
+        "email": "emmaq@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Xavier,\n\nTwo quick things.\n\n1. On the SEC investigation, the audit committee wants to know whether we're on track for the first production.\n2. On the Parallax dispute, their account team reached out to our COO again.\n\nBest regards,\nEmma Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00",
+          "i012-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e007",
+      "thread_id": "i012-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T13:07:37.180374",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Okafor",
+        "email": "umaro@nimbuslogi.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Xavier,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nUmar Okafor\nRecruiter\nNimbus Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e008",
+      "thread_id": "i012-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T08:18:16.716514",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Zhang",
+        "email": "marcus.zhang@pinnacleadr.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Quintero",
+          "email": "thomas.quintero@mendozaunderwood.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello Xavier,\n\nThis confirms receipt of the demand for arbitration in Copperleaf Payments v. Parallax Systems. The administrative conference is scheduled for July 27. Please confirm your availability.\n\nBest,\nMarcus\nCase Administrator\nPinnacle Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e009",
+      "thread_id": "i012-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T10:58:36.498018",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Quintero",
+        "email": "thomas.quintero@mendozaunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Response to notice of breach",
+      "body": "Hi Xavier,\n\nWe disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.\n\nBest,\nThomas Quintero\nPartner\nMendoza & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e010",
+      "thread_id": "i012-t007",
+      "in_reply_to": "i012-e009",
+      "references": [
+        "i012-e009"
+      ],
+      "timestamp": "2026-07-20T09:51:01.734401",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Quintero",
+          "email": "thomas.quintero@mendozaunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Hi Thomas,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 17, 2026 at 10:58 AM, Thomas Quintero <thomas.quintero@mendozaunderwood.com> wrote:\n> Hi Xavier,\n>\n> We disagree that the outages constitute a material breach. Most of the downtime was caused by your client's own configuration changes. Our client is nevertheless willing to discuss service credits without prejudice.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e011",
+      "thread_id": "i012-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T17:01:18.765461",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Tanaka",
+        "email": "jasmine.tanaka@ironbridgediscovery.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Xavier,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nRegards,\nJasmine Tanaka\nProject Manager\nIronbridge Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e012",
+      "thread_id": "i012-t007",
+      "in_reply_to": "i012-e010",
+      "references": [
+        "i012-e009",
+        "i012-e010"
+      ],
+      "timestamp": "2026-07-21T13:06:59.764190",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Quintero",
+        "email": "thomas.quintero@mendozaunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nWorks for me. Let's do Thursday at 9:00 a.m..\n\nBest regards,\nThomas\nPartner\nMendoza & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e013",
+      "thread_id": "i012-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T14:40:20.234314",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Zhang",
+        "email": "valerie.zhang@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello Xavier,\n\nThe audit committee wants an update at its meeting on August 8. Could you prepare a short summary of status, exposure, and next steps?\n\nBest,\nValerie Zhang\nChief Compliance Officer\nCopperleaf Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e014",
+      "thread_id": "i012-t008",
+      "in_reply_to": "i012-e011",
+      "references": [
+        "i012-e011"
+      ],
+      "timestamp": "2026-07-22T14:42:45.246957",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Jasmine Tanaka",
+          "email": "jasmine.tanaka@ironbridgediscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Hello Jasmine,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 20, 2026 at 05:01 PM, Jasmine Tanaka <jasmine.tanaka@ironbridgediscovery.com> wrote:\n> Dear Xavier,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e015",
+      "thread_id": "i012-t007",
+      "in_reply_to": "i012-e012",
+      "references": [
+        "i012-e009",
+        "i012-e010",
+        "i012-e012"
+      ],
+      "timestamp": "2026-07-23T08:27:44.194233",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Quintero",
+          "email": "thomas.quintero@mendozaunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Response to notice of breach",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 21, 2026 at 01:06 PM, Thomas Quintero <thomas.quintero@mendozaunderwood.com> wrote:\n> Counsel,\n>\n> Works for me. Let's do Thursday at 9:00 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e016",
+      "thread_id": "i012-t009",
+      "in_reply_to": "i012-e013",
+      "references": [
+        "i012-e013"
+      ],
+      "timestamp": "2026-07-24T10:20:46.049908",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Zhang",
+          "email": "valerie.zhang@copperleafpaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hi Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 22, 2026 at 02:40 PM, Valerie Zhang <valerie.zhang@copperleafpaym.com> wrote:\n> Hello Xavier,\n>\n> The audit committee wants an update at its meeting on August 8. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e017",
+      "thread_id": "i012-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:01:55.821700",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Quintero",
+          "email": "thomas.quintero@mendozaunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hi Thomas,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nRegards,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e018",
+      "thread_id": "i012-t009",
+      "in_reply_to": "i012-e016",
+      "references": [
+        "i012-e013",
+        "i012-e016"
+      ],
+      "timestamp": "2026-07-27T10:11:28.031240",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Zhang",
+        "email": "valerie.zhang@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Xavier,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nValerie Zhang\nChief Compliance Officer\nCopperleaf Payments\n\nOn Fri, Jul 24, 2026 at 10:20 AM, Xavier Ziegler <xavierz@mendozadubois.com> wrote:\n> Hi Valerie,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e019",
+      "thread_id": "i012-t009",
+      "in_reply_to": "i012-e018",
+      "references": [
+        "i012-e013",
+        "i012-e016",
+        "i012-e018"
+      ],
+      "timestamp": "2026-07-28T07:46:58.283110",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Zhang",
+          "email": "valerie.zhang@copperleafpaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Valerie,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 10:11 AM, Valerie Zhang <valerie.zhang@copperleafpaym.com> wrote:\n> Xavier,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e020",
+      "thread_id": "i012-t010",
+      "in_reply_to": "i012-e017",
+      "references": [
+        "i012-e017"
+      ],
+      "timestamp": "2026-07-28T11:06:50.262558",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Quintero",
+        "email": "thomas.quintero@mendozaunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nThomas\nPartner\nMendoza & Underwood LLP\n\nOn Mon, Jul 27, 2026 at 09:01 AM, Xavier Ziegler <xavierz@mendozadubois.com> wrote:\n> Hi Thomas,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e021",
+      "thread_id": "i012-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T07:22:57.043440",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Jensen",
+        "email": "ejensen@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hello Xavier,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $2.5 million, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nBest regards,\nElena Jensen\nAssociate\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01",
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e022",
+      "thread_id": "i012-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:57:41.526636",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Quintero",
+        "email": "thomas.quintero@mendozaunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Hello Xavier,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nRegards,\nThomas Quintero\nPartner\nMendoza & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i012-e023",
+      "thread_id": "i012-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T11:21:11.147720",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Zhang",
+          "email": "valerie.zhang@copperleafpaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Valerie,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nXavier Ziegler\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e024",
+      "thread_id": "i012-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T07:48:47.421567",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Ellis",
+        "email": "thomas.ellis@corvidrealty.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Umar Kaplan",
+          "email": "umar.kaplan@riverstonefood.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Dear Xavier,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nRegards,\nThomas Ellis\nSenior Vice President\nCorvid Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e025",
+      "thread_id": "i012-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:06:29.493548",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Fischer",
+        "email": "efischer@ellishuang.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1292 Howard Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nRegards,\nElena",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e026",
+      "thread_id": "i012-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:10:19.395855",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Yamamoto",
+        "email": "emmay@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-250 - meet and confer",
+      "body": "Xavier,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nRegards,\nEmma Yamamoto\nStaff Attorney\nSecurities and Exchange Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m00"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e027",
+      "thread_id": "i012-t015",
+      "in_reply_to": "i012-e025",
+      "references": [
+        "i012-e025"
+      ],
+      "timestamp": "2026-08-17T17:47:54.354290",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Elena Fischer",
+          "email": "efischer@ellishuang.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1292 Howard Street - lease draft",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:06 AM, Elena Fischer <efischer@ellishuang.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": [
+            "i012-m02"
+          ],
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e028",
+      "thread_id": "i012-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T08:16:29.416504",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Quintero",
+        "email": "emmaq@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Civil investigative demand received",
+      "body": "Dear Xavier,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2025-250). It asks for documents about our customer data practices going back to 2021. The return date is August 28. Can you call me?\n\nRegards,\nEmma",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m00"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e029",
+      "thread_id": "i012-t015",
+      "in_reply_to": "i012-e027",
+      "references": [
+        "i012-e025",
+        "i012-e027"
+      ],
+      "timestamp": "2026-08-18T08:26:33.615362",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Fischer",
+        "email": "efischer@ellishuang.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1292 Howard Street - lease draft",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nElena Fischer\n\nOn Mon, Aug 17, 2026 at 05:47 PM, Xavier Ziegler <xavierz@mendozadubois.com> wrote:\n> Counsel,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m02"
+          ],
+          "thread_candidates": [
+            "i012-m02"
+          ],
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e030",
+      "thread_id": "i012-t017",
+      "in_reply_to": "i012-e028",
+      "references": [
+        "i012-e028"
+      ],
+      "timestamp": "2026-08-18T14:14:15.610324",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Emma Quintero",
+          "email": "emmaq@copperleafpaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Emma,\n\nAdding Elena, who will handle the day-to-day on this.\n\nBest regards,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 08:16 AM, Emma Quintero <emmaq@copperleafpaym.com> wrote:\n> Dear Xavier,\n>\n> We received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2025-250). It asks for documents about our customer data practices going back to 2021. The return date is August 28. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [
+            "i012-m00"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e031",
+      "thread_id": "i012-t016",
+      "in_reply_to": "i012-e026",
+      "references": [
+        "i012-e026"
+      ],
+      "timestamp": "2026-08-19T11:08:45.706963",
+      "folder": "sent",
+      "from": {
+        "name": "Xavier Ziegler",
+        "email": "xavierz@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Emma Yamamoto",
+          "email": "emmay@sec.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-250 - meet and confer",
+      "body": "Emma,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nThanks,\nXavier\nPartner\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [
+            "i012-m00"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e032",
+      "thread_id": "i012-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T19:14:11.949735",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Park",
+        "email": "kenji.park@sterlingsyst.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Jensen",
+          "email": "ejensen@mendozadubois.com"
+        }
+      ],
+      "subject": "Transition planning",
+      "body": "Xavier,\n\nWe've been engaged by Copperleaf to replace Parallax Systems as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Parallax under the MSA.\n\nBest regards,\nKenji Park\nImplementation Manager\nSterling Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01",
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e033",
+      "thread_id": "i012-t017",
+      "in_reply_to": "i012-e030",
+      "references": [
+        "i012-e028",
+        "i012-e030"
+      ],
+      "timestamp": "2026-08-19T19:25:34.712067",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Quintero",
+        "email": "emmaq@copperleafpaym.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Xavier,\n\nThanks. Separately, on the Parallax dispute, their account team reached out to our COO again.\n\nBest,\nEmma Quintero",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m01",
+        "matter_ids": [
+          "i012-m01",
+          "i012-m00"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [
+            "i012-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e034",
+      "thread_id": "i012-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T17:51:30.777914",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Tanaka",
+        "email": "kavyat@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Hello Xavier,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nRegards,\nKavya Tanaka\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e035",
+      "thread_id": "i012-t016",
+      "in_reply_to": "i012-e031",
+      "references": [
+        "i012-e026",
+        "i012-e031"
+      ],
+      "timestamp": "2026-08-21T09:25:34.268747",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Yamamoto",
+        "email": "emmay@sec.gov"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2025-250 - meet and confer",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nEmma Yamamoto\nStaff Attorney\nSecurities and Exchange Commission\n\nOn Wed, Aug 19, 2026 at 11:08 AM, Xavier Ziegler <xavierz@mendozadubois.com> wrote:\n> Emma,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00"
+          ],
+          "thread_candidates": [
+            "i012-m00"
+          ],
+          "identifier_candidates": [
+            "i012-m00"
+          ],
+          "keyword_candidates": [
+            "i012-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e036",
+      "thread_id": "i012-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T12:57:31.599998",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Mendoza",
+        "email": "xavierm@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Riverstone",
+      "body": "Hi Xavier,\n\nPre-bills for Riverstone Foods are ready for your review:\n\n- 56843-001  Riverstone - Headquarters Lease (1292 Howard Street)\n\nPlease mark up and return by September 4.\n\nBest regards,\nXavier Mendoza\nBilling Coordinator\nMendoza & Dubois LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m02",
+        "matter_ids": [
+          "i012-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e037",
+      "thread_id": "i012-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T19:20:36.215313",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Reyes",
+        "email": "victorr@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Xavier,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nVictor Reyes\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i012-e038",
+      "thread_id": "i012-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:08:14.814635",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Jensen",
+        "email": "ejensen@mendozadubois.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Ziegler",
+          "email": "xavierz@mendozadubois.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello Xavier,\n\nStatus on my matters this week:\n\n- SEC CID: collection 80% complete; first rolling production targeted for September 29.\n- Parallax MSA: notice of breach sent, cure period running; damages model in draft.\n- 1292 Howard Street: second turn of landlord's lease draft; SNDA requested from lender.\n\nRegards,\nElena Jensen\nAssociate\nMendoza & Dubois LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i012-m00",
+        "matter_ids": [
+          "i012-m00",
+          "i012-m01",
+          "i012-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i012-m00",
+            "i012-m01",
+            "i012-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i012-m01",
+            "i012-m02"
+          ],
+          "keyword_candidates": [
+            "i012-m00",
+            "i012-m01",
+            "i012-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700012
+}

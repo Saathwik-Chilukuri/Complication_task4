@@ -1,0 +1,3862 @@
+{
+  "instance_id": "i013",
+  "firm": {
+    "name": "Ito & Tanaka LLP",
+    "domain": "itotanaka.com"
+  },
+  "user_contact_id": "i013-c000",
+  "matters": [
+    {
+      "matter_id": "i013-m00",
+      "matter_number": "75937-001",
+      "name": "Tidewater - Data Security Incident",
+      "client": "Tidewater Networks",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Tidewater Networks's customer database. Forensics by Ironbridge Cyber.",
+      "counterparty": "Ironbridge Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-29",
+      "key_terms": [
+        "75937-001",
+        "Ironbridge Cyber",
+        "Ironbridge"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i013-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i013-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i013-c009",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i013-c010",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i013-m01",
+      "matter_number": "35978-001",
+      "name": "Driftwood - Series A Financing",
+      "client": "Driftwood Health",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Driftwood Health, led by Vantage Ventures. Raising ~$18 million.",
+      "counterparty": "Vantage Ventures",
+      "opposing_counsel_firm": "Ito & Laurent LLP",
+      "status": "open",
+      "opened_on": "2026-06-01",
+      "key_terms": [
+        "35978-001",
+        "Series A",
+        "Vantage Ventures",
+        "Vantage"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i013-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i013-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i013-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i013-c013",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i013-c014",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i013-m02",
+      "matter_number": "95386-001",
+      "name": "Orchard v. Lattice ('766 Patent)",
+      "client": "Orchard Labs",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Orchard Labs against Lattice Payments asserting U.S. Patent No. 10,766,768.",
+      "counterparty": "Lattice Payments",
+      "opposing_counsel_firm": "Weiss & Delgado LLP",
+      "status": "open",
+      "opened_on": "2026-07-13",
+      "key_terms": [
+        "95386-001",
+        "10,766,768",
+        "'766",
+        "Lattice Payments",
+        "Lattice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i013-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i013-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i013-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i013-c017",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i013-m03",
+      "matter_number": "95386-002",
+      "name": "Orchard - Acquisition of Silverpine Health (Project Tundra)",
+      "client": "Orchard Labs",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Silverpine Health by Orchard Labs. Stock purchase, ~$85 million.",
+      "counterparty": "Silverpine Health",
+      "opposing_counsel_firm": "Eriksen & Huang LLP",
+      "status": "open",
+      "opened_on": "2026-07-23",
+      "key_terms": [
+        "95386-002",
+        "Project Tundra",
+        "Tundra",
+        "Silverpine Health",
+        "Silverpine"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i013-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i013-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i013-c019",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i013-c020",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i013-m04",
+      "matter_number": "53919-001",
+      "name": "Amberly - California DOJ Investigation (CID No. 2025-199)",
+      "client": "Amberly Therapeutics",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to California Department of Justice civil investigative demand regarding Amberly Therapeutics's customer data practices.",
+      "counterparty": "California Department of Justice",
+      "opposing_counsel_firm": "California Department of Justice",
+      "status": "open",
+      "opened_on": "2026-06-12",
+      "key_terms": [
+        "53919-001",
+        "2025-199",
+        "California Department of Justice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i013-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i013-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i013-c021",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i013-c022",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i013-c023",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i013-c000",
+      "name": "Nadia Moreau",
+      "first": "Nadia",
+      "email": "nadia.moreau@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c001",
+      "name": "Ivan Huang",
+      "first": "Ivan",
+      "email": "ivan.huang@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c002",
+      "name": "Marcus Mendoza",
+      "first": "Marcus",
+      "email": "marcusm@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c003",
+      "name": "Whitney Sato",
+      "first": "Whitney",
+      "email": "whitneys@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c004",
+      "name": "Hiro Goldberg",
+      "first": "Hiro",
+      "email": "hgoldberg@tidewaternetw.com",
+      "organization": "Tidewater Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c005",
+      "name": "James Eriksen",
+      "first": "James",
+      "email": "james.eriksen@driftwoodheal.com",
+      "organization": "Driftwood Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c006",
+      "name": "Ximena Yamamoto",
+      "first": "Ximena",
+      "email": "ximena.yamamoto@orchardlabs.com",
+      "organization": "Orchard Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c007",
+      "name": "Valerie Varga",
+      "first": "Valerie",
+      "email": "vvarga@amberlyther.com",
+      "organization": "Amberly Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c008",
+      "name": "Farid Sato",
+      "first": "Farid",
+      "email": "farids@tidewaternetw.com",
+      "organization": "Tidewater Networks",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c009",
+      "name": "Zoe Nakamura",
+      "first": "Zoe",
+      "email": "zoen@ironbridgecyber.com",
+      "organization": "Ironbridge Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c010",
+      "name": "Pedro Mendoza",
+      "first": "Pedro",
+      "email": "pedrom@halcyonmutual.com",
+      "organization": "Halcyon Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c011",
+      "name": "Kenji Rosen",
+      "first": "Kenji",
+      "email": "kenji.rosen@driftwoodheal.com",
+      "organization": "Driftwood Health",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c012",
+      "name": "Ximena Ito",
+      "first": "Ximena",
+      "email": "ximenai@itolaurent.com",
+      "organization": "Ito & Laurent LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c013",
+      "name": "Elena Iyer",
+      "first": "Elena",
+      "email": "elena.iyer@vantagevc.com",
+      "organization": "Vantage Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c014",
+      "name": "Umar Okafor",
+      "first": "Umar",
+      "email": "umaro@evergreenvc.com",
+      "organization": "Evergreen Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c015",
+      "name": "Marcus Reyes",
+      "first": "Marcus",
+      "email": "mreyes@orchardlabs.com",
+      "organization": "Orchard Labs",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c016",
+      "name": "Whitney Shah",
+      "first": "Whitney",
+      "email": "whitney.shah@weissdelgado.com",
+      "organization": "Weiss & Delgado LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c017",
+      "name": "James Laurent",
+      "first": "James",
+      "email": "jlaurent@solacetech.com",
+      "organization": "Solace Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c018",
+      "name": "Ximena Tanaka",
+      "first": "Ximena",
+      "email": "xtanaka@orchardlabs.com",
+      "organization": "Orchard Labs",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c019",
+      "name": "Quinn Abbott",
+      "first": "Quinn",
+      "email": "qabbott@eriksenhuang.com",
+      "organization": "Eriksen & Huang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c020",
+      "name": "Yusuf Lindqvist",
+      "first": "Yusuf",
+      "email": "yusufl@redwoodtrust.com",
+      "organization": "Redwood Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c021",
+      "name": "Thomas Banerjee",
+      "first": "Thomas",
+      "email": "tbanerjee@amberlyther.com",
+      "organization": "Amberly Therapeutics",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c022",
+      "name": "Tara Sato",
+      "first": "Tara",
+      "email": "tara.sato@doj.ca.gov",
+      "organization": "California Department of Justice",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c023",
+      "name": "Yusuf Chowdhury",
+      "first": "Yusuf",
+      "email": "ychowdhury@corviddiscovery.com",
+      "organization": "Corvid Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c024",
+      "name": "Emma Lee",
+      "first": "Emma",
+      "email": "elee@quarryvc.com",
+      "organization": "Quarry Ventures",
+      "org_type": "fund",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c025",
+      "name": "Marcus Xu",
+      "first": "Marcus",
+      "email": "marcus.xu@trellisadr.com",
+      "organization": "Trellis Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i013-c026",
+      "name": "Hiro Sato",
+      "first": "Hiro",
+      "email": "hsato@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c027",
+      "name": "Yara Huang",
+      "first": "Yara",
+      "email": "yarah@itotanaka.com",
+      "organization": "Ito & Tanaka LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i013-c028",
+      "name": "Valerie Nakamura",
+      "first": "Valerie",
+      "email": "valerien@nimbussyst.com",
+      "organization": "Nimbus Systems",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i013-e000",
+      "thread_id": "i013-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-23T11:35:44.928433",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Lee",
+        "email": "elee@quarryvc.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Participation in the Driftwood round",
+      "body": "Hi Nadia,\n\nWe were introduced to Driftwood by Vantage and would like to take up to $2 million of the Series A. Who should we speak with about the subscription documents?\n\nRegards,\nEmma Lee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01",
+            "i013-m02",
+            "i013-m03",
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e001",
+      "thread_id": "i013-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T07:52:51.118575",
+      "folder": "inbox",
+      "from": {
+        "name": "James Eriksen",
+        "email": "james.eriksen@driftwoodheal.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Dear Nadia,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nJames\nGeneral Counsel\nDriftwood Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e002",
+      "thread_id": "i013-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T08:57:00.245472",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Xu",
+        "email": "marcus.xu@trellisadr.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Nadia,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest,\nMarcus Xu\nSection Chair\nTrellis Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e003",
+      "thread_id": "i013-t001",
+      "in_reply_to": "i013-e001",
+      "references": [
+        "i013-e001"
+      ],
+      "timestamp": "2026-06-30T07:31:29.664598",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "James Eriksen",
+          "email": "james.eriksen@driftwoodheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hello James,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 29, 2026 at 07:52 AM, James Eriksen <james.eriksen@driftwoodheal.com> wrote:\n> Dear Nadia,\n>\n> One of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": [
+            "i013-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e004",
+      "thread_id": "i013-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:30:03.430150",
+      "folder": "inbox",
+      "from": {
+        "name": "James Eriksen",
+        "email": "james.eriksen@driftwoodheal.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Dear Nadia,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest regards,\nJames\nGeneral Counsel\nDriftwood Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e005",
+      "thread_id": "i013-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:08:06.944291",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Banerjee",
+          "email": "tbanerjee@amberlyther.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Hi Thomas,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e006",
+      "thread_id": "i013-t004",
+      "in_reply_to": "i013-e005",
+      "references": [
+        "i013-e005"
+      ],
+      "timestamp": "2026-07-14T07:25:19.419718",
+      "folder": "inbox",
+      "from": {
+        "name": "Thomas Banerjee",
+        "email": "tbanerjee@amberlyther.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Nadia,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nThomas Banerjee",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": [
+            "i013-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e007",
+      "thread_id": "i013-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T11:39:21.844843",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Mendoza",
+        "email": "marcusm@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Nadia,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nMarcus Mendoza",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01",
+            "i013-m02",
+            "i013-m03",
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e008",
+      "thread_id": "i013-t004",
+      "in_reply_to": "i013-e006",
+      "references": [
+        "i013-e005",
+        "i013-e006"
+      ],
+      "timestamp": "2026-07-15T12:46:08.584710",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Banerjee",
+          "email": "tbanerjee@amberlyther.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Thomas,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 14, 2026 at 07:25 AM, Thomas Banerjee <tbanerjee@amberlyther.com> wrote:\n> Hi Nadia,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": [
+            "i013-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e009",
+      "thread_id": "i013-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T19:11:11.360369",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Shah",
+        "email": "whitney.shah@weissdelgado.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Orchard v. Lattice - proposed protective order",
+      "body": "Hi Nadia,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Wednesday.\n\nThanks,\nWhitney\nPartner\nWeiss & Delgado LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e010",
+      "thread_id": "i013-t006",
+      "in_reply_to": "i013-e009",
+      "references": [
+        "i013-e009"
+      ],
+      "timestamp": "2026-07-23T08:54:18.935709",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Shah",
+          "email": "whitney.shah@weissdelgado.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Orchard v. Lattice - proposed protective order",
+      "body": "Counsel,\n\nAdding Marcus, who will handle the day-to-day on this.\n\nThanks,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 22, 2026 at 07:11 PM, Whitney Shah <whitney.shah@weissdelgado.com> wrote:\n> Hi Nadia,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [
+            "i013-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e011",
+      "thread_id": "i013-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T10:02:25.185741",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Tanaka",
+        "email": "xtanaka@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Project Tundra - LOI countersigned",
+      "body": "Hi Nadia,\n\nGood news: Silverpine Health countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Friday.\n\nCan we do a kickoff call tomorrow?\n\nBest,\nXimena\nVP, Corporate Development\nOrchard Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e012",
+      "thread_id": "i013-t007",
+      "in_reply_to": "i013-e011",
+      "references": [
+        "i013-e011"
+      ],
+      "timestamp": "2026-07-28T18:41:30.582684",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Tanaka",
+          "email": "xtanaka@orchardlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Project Tundra - LOI countersigned",
+      "body": "Hi Ximena,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 27, 2026 at 10:02 AM, Ximena Tanaka <xtanaka@orchardlabs.com> wrote:\n> Hi Nadia,\n>\n> Good news: Silverpine Health countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Friday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e013",
+      "thread_id": "i013-t007",
+      "in_reply_to": "i013-e012",
+      "references": [
+        "i013-e011",
+        "i013-e012"
+      ],
+      "timestamp": "2026-07-30T13:00:51.548628",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Tanaka",
+        "email": "xtanaka@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Project Tundra - LOI countersigned",
+      "body": "Hello Nadia,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nThanks,\nXimena Tanaka\nVP, Corporate Development\nOrchard Labs\n\nOn Tue, Jul 28, 2026 at 06:41 PM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hi Ximena,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e014",
+      "thread_id": "i013-t007",
+      "in_reply_to": "i013-e013",
+      "references": [
+        "i013-e011",
+        "i013-e012",
+        "i013-e013"
+      ],
+      "timestamp": "2026-07-30T16:42:02.164353",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Tanaka",
+          "email": "xtanaka@orchardlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Project Tundra - LOI countersigned",
+      "body": "Hi Ximena,\n\nAdding Ivan, who will handle the day-to-day on this.\n\nBest,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Jul 30, 2026 at 01:00 PM, Ximena Tanaka <xtanaka@orchardlabs.com> wrote:\n> Hello Nadia,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e015",
+      "thread_id": "i013-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T09:51:15.308110",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Sato",
+        "email": "farids@tidewaternetw.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Hello Nadia,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Ironbridge Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 9:00 a.m.?\n\nRegards,\nFarid Sato",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [
+            "i013-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e016",
+      "thread_id": "i013-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:20:17.844623",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Chowdhury",
+        "email": "ychowdhury@corviddiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Nadia,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nYusuf Chowdhury\nProject Manager\nCorvid Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e017",
+      "thread_id": "i013-t008",
+      "in_reply_to": "i013-e015",
+      "references": [
+        "i013-e015"
+      ],
+      "timestamp": "2026-08-03T10:45:54.471055",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Hello Farid,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 31, 2026 at 09:51 AM, Farid Sato <farids@tidewaternetw.com> wrote:\n> Hello Nadia,\n>\n> We detected unauthorized access to our customer database last night. It's contained, and we've engaged Ironbridge Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 9:00 a.m.?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [
+            "i013-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e018",
+      "thread_id": "i013-t009",
+      "in_reply_to": "i013-e016",
+      "references": [
+        "i013-e016"
+      ],
+      "timestamp": "2026-08-04T11:25:08.128487",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Chowdhury",
+          "email": "ychowdhury@corviddiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Yusuf,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": [
+            "i013-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e019",
+      "thread_id": "i013-t008",
+      "in_reply_to": "i013-e017",
+      "references": [
+        "i013-e015",
+        "i013-e017"
+      ],
+      "timestamp": "2026-08-05T08:57:27.584334",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Sato",
+        "email": "farids@tidewaternetw.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Hi Nadia,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nFarid\n\nOn Mon, Aug 03, 2026 at 10:45 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hello Farid,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e020",
+      "thread_id": "i013-t008",
+      "in_reply_to": "i013-e019",
+      "references": [
+        "i013-e015",
+        "i013-e017",
+        "i013-e019"
+      ],
+      "timestamp": "2026-08-06T14:19:00.601284",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: URGENT - security incident",
+      "body": "Farid,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 05, 2026 at 08:57 AM, Farid Sato <farids@tidewaternetw.com> wrote:\n> Hi Nadia,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e021",
+      "thread_id": "i013-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:41:36.042142",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hello Farid,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Ironbridge.\n\nBest,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e022",
+      "thread_id": "i013-t010",
+      "in_reply_to": "i013-e021",
+      "references": [
+        "i013-e021"
+      ],
+      "timestamp": "2026-08-11T19:24:27.055872",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Sato",
+        "email": "farids@tidewaternetw.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hi Nadia,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nFarid Sato\n\nOn Mon, Aug 10, 2026 at 09:41 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hello Farid,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Ironbridge.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e023",
+      "thread_id": "i013-t010",
+      "in_reply_to": "i013-e022",
+      "references": [
+        "i013-e021",
+        "i013-e022"
+      ],
+      "timestamp": "2026-08-12T08:59:18.189407",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Hi Farid,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e024",
+      "thread_id": "i013-t010",
+      "in_reply_to": "i013-e023",
+      "references": [
+        "i013-e021",
+        "i013-e022",
+        "i013-e023"
+      ],
+      "timestamp": "2026-08-12T18:22:41.203850",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Sato",
+        "email": "farids@tidewaternetw.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Goldberg",
+          "email": "hgoldberg@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Dear Nadia,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nFarid\n\nOn Wed, Aug 12, 2026 at 08:59 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hi Farid,\n>\n> Thanks. Received; we'll review and come back to you by Monday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e025",
+      "thread_id": "i013-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:27:42.372793",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Rosen",
+        "email": "kenji.rosen@driftwoodheal.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Eriksen",
+          "email": "james.eriksen@driftwoodheal.com"
+        }
+      ],
+      "subject": "Series A term sheet from Vantage Ventures",
+      "body": "Nadia,\n\nWe received the attached term sheet from Vantage Ventures last night: $18 million at a $310 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?\n\nRegards,\nKenji Rosen\nChief Executive Officer\nDriftwood Health",
+      "attachments": [
+        "Vantage Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m01"
+          ],
+          "keyword_candidates": [
+            "i013-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e026",
+      "thread_id": "i013-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:55:02.803878",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Rosen",
+          "email": "kenji.rosen@driftwoodheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hi Kenji,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m01"
+          ],
+          "keyword_candidates": [
+            "i013-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e027",
+      "thread_id": "i013-t011",
+      "in_reply_to": "i013-e025",
+      "references": [
+        "i013-e025"
+      ],
+      "timestamp": "2026-08-17T19:19:38.015845",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Rosen",
+          "email": "kenji.rosen@driftwoodheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "James Eriksen",
+          "email": "james.eriksen@driftwoodheal.com"
+        }
+      ],
+      "subject": "Re: Series A term sheet from Vantage Ventures",
+      "body": "Hello Kenji,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:27 AM, Kenji Rosen <kenji.rosen@driftwoodheal.com> wrote:\n> Nadia,\n>\n> We received the attached term sheet from Vantage Ventures last night: $18 million at a $310 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Monday?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": [
+            "i013-m01"
+          ],
+          "identifier_candidates": [
+            "i013-m01"
+          ],
+          "keyword_candidates": [
+            "i013-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e028",
+      "thread_id": "i013-t012",
+      "in_reply_to": "i013-e026",
+      "references": [
+        "i013-e026"
+      ],
+      "timestamp": "2026-08-18T10:48:15.881284",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Rosen",
+        "email": "kenji.rosen@driftwoodheal.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Nadia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nKenji Rosen\nChief Executive Officer\nDriftwood Health\n\nOn Mon, Aug 17, 2026 at 09:55 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hi Kenji,\n>\n> Attached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": [
+            "i013-m01"
+          ],
+          "identifier_candidates": [
+            "i013-m01"
+          ],
+          "keyword_candidates": [
+            "i013-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e029",
+      "thread_id": "i013-t012",
+      "in_reply_to": "i013-e028",
+      "references": [
+        "i013-e026",
+        "i013-e028"
+      ],
+      "timestamp": "2026-08-19T11:18:17.229576",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Kenji Rosen",
+          "email": "kenji.rosen@driftwoodheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Kenji,\n\nConfirmed. I'll update the checklist.\n\nBest,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 18, 2026 at 10:48 AM, Kenji Rosen <kenji.rosen@driftwoodheal.com> wrote:\n> Nadia,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01"
+          ],
+          "thread_candidates": [
+            "i013-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e030",
+      "thread_id": "i013-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:36:57.920343",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Sato",
+        "email": "tara.sato@doj.ca.gov"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-199 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nRegards,\nTara\nStaff Attorney\nCalifornia Department of Justice",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m04"
+          ],
+          "keyword_candidates": [
+            "i013-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e031",
+      "thread_id": "i013-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T07:27:59.923027",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Reyes",
+        "email": "mreyes@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Yamamoto",
+          "email": "ximena.yamamoto@orchardlabs.com"
+        }
+      ],
+      "subject": "Lattice Payments product launch - possible infringement of '766 patent",
+      "body": "Dear Nadia,\n\nOur engineers looked at the product Lattice Payments launched last month and believe it practices claims 1 and 7 of our '766 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nMarcus",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m02"
+          ],
+          "keyword_candidates": [
+            "i013-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e032",
+      "thread_id": "i013-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T08:03:34.574661",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Huang",
+        "email": "yarah@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Nadia,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nBest regards,\nYara\nMarketing Coordinator\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e033",
+      "thread_id": "i013-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T07:17:32.923168",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Reyes",
+          "email": "mreyes@orchardlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 9",
+      "body": "Hi Marcus,\n\nReminder that our infringement contentions are due September 9. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e034",
+      "thread_id": "i013-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:26:41.745099",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Varga",
+        "email": "vvarga@amberlyther.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Banerjee",
+          "email": "tbanerjee@amberlyther.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Nadia,\n\nWe received a Civil Investigative Demand from the California Department of Justice this morning (CID No. 2025-199). It asks for documents about our customer data practices going back to 2021. The return date is September 16. Can you call me?\n\nThanks,\nValerie Varga",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m04"
+          ],
+          "keyword_candidates": [
+            "i013-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e035",
+      "thread_id": "i013-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:23:31.481296",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Yamamoto",
+        "email": "ximena.yamamoto@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Hello Nadia,\n\nTwo quick things.\n\n1. On Project Tundra, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n2. On the '766 patent case, our CTO wants to know if we should expect a counterclaim.\n\nRegards,\nXimena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03",
+          "i013-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e036",
+      "thread_id": "i013-t016",
+      "in_reply_to": "i013-e033",
+      "references": [
+        "i013-e033"
+      ],
+      "timestamp": "2026-08-31T19:47:41.233197",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Reyes",
+        "email": "mreyes@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 9",
+      "body": "Nadia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nMarcus Reyes\n\nOn Mon, Aug 31, 2026 at 07:17 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hi Marcus,\n>\n> Reminder that our infringement contentions are due September 9. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e037",
+      "thread_id": "i013-t017",
+      "in_reply_to": "i013-e034",
+      "references": [
+        "i013-e034"
+      ],
+      "timestamp": "2026-09-01T17:08:03.826269",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Varga",
+          "email": "vvarga@amberlyther.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Banerjee",
+          "email": "tbanerjee@amberlyther.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Valerie,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 08:26 AM, Valerie Varga <vvarga@amberlyther.com> wrote:\n> Nadia,\n>\n> We received a Civil Investigative Demand from the California Department of Justice this morning (CID No. 2025-199). It asks for documents about our customer data practices going back to 2021. The return date is September 16. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": [
+            "i013-m04"
+          ],
+          "identifier_candidates": [
+            "i013-m04"
+          ],
+          "keyword_candidates": [
+            "i013-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e038",
+      "thread_id": "i013-t016",
+      "in_reply_to": "i013-e036",
+      "references": [
+        "i013-e033",
+        "i013-e036"
+      ],
+      "timestamp": "2026-09-02T12:02:04.263720",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Reyes",
+          "email": "mreyes@orchardlabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due September 9",
+      "body": "Marcus,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i013-e039",
+      "thread_id": "i013-t017",
+      "in_reply_to": "i013-e037",
+      "references": [
+        "i013-e034",
+        "i013-e037"
+      ],
+      "timestamp": "2026-09-03T09:08:48.358086",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Varga",
+        "email": "vvarga@amberlyther.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Thomas Banerjee",
+          "email": "tbanerjee@amberlyther.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Nadia,\n\nWorks for me. Let's do Friday at noon.\n\nThanks,\nValerie\n\nOn Tue, Sep 01, 2026 at 05:08 PM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Valerie,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m04",
+        "matter_ids": [
+          "i013-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m04"
+          ],
+          "thread_candidates": [
+            "i013-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e040",
+      "thread_id": "i013-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:00:44.573328",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Nakamura",
+        "email": "zoen@ironbridgecyber.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Nadia,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nThanks,\nZoe\nIncident Response Lead\nIronbridge Cyber",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [
+            "i013-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e041",
+      "thread_id": "i013-t019",
+      "in_reply_to": "i013-e040",
+      "references": [
+        "i013-e040"
+      ],
+      "timestamp": "2026-09-09T09:47:57.201393",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Nakamura",
+          "email": "zoen@ironbridgecyber.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Sato",
+          "email": "farids@tidewaternetw.com"
+        }
+      ],
+      "subject": "Re: Preliminary forensic findings",
+      "body": "Dear Zoe,\n\nAdding Ivan, who will handle the day-to-day on this.\n\nRegards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 07, 2026 at 08:00 AM, Zoe Nakamura <zoen@ironbridgecyber.com> wrote:\n> Nadia,\n>\n> Per your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00"
+          ],
+          "thread_candidates": [
+            "i013-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e042",
+      "thread_id": "i013-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T09:20:30.798343",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Nakamura",
+        "email": "valerien@nimbussyst.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear Nadia,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nValerie Nakamura\nRecruiter\nNimbus Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e043",
+      "thread_id": "i013-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-16T20:35:16.301429",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Yamamoto",
+        "email": "ximena.yamamoto@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hi Nadia,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nXimena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e044",
+      "thread_id": "i013-t021",
+      "in_reply_to": "i013-e043",
+      "references": [
+        "i013-e043"
+      ],
+      "timestamp": "2026-09-17T09:03:31.765717",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Yamamoto",
+          "email": "ximena.yamamoto@orchardlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Ximena,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 16, 2026 at 08:35 PM, Ximena Yamamoto <ximena.yamamoto@orchardlabs.com> wrote:\n> Hi Nadia,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e045",
+      "thread_id": "i013-t021",
+      "in_reply_to": "i013-e044",
+      "references": [
+        "i013-e043",
+        "i013-e044"
+      ],
+      "timestamp": "2026-09-18T09:08:43.747652",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Yamamoto",
+        "email": "ximena.yamamoto@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Nadia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nXimena Yamamoto\n\nOn Thu, Sep 17, 2026 at 09:03 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Dear Ximena,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e046",
+      "thread_id": "i013-t021",
+      "in_reply_to": "i013-e045",
+      "references": [
+        "i013-e043",
+        "i013-e044",
+        "i013-e045"
+      ],
+      "timestamp": "2026-09-21T08:03:59.600800",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Yamamoto",
+          "email": "ximena.yamamoto@orchardlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Ximena,\n\nAdding Marcus, who will handle the day-to-day on this.\n\nBest regards,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 18, 2026 at 09:08 AM, Ximena Yamamoto <ximena.yamamoto@orchardlabs.com> wrote:\n> Hello Nadia,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e047",
+      "thread_id": "i013-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-25T09:49:15.377690",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Abbott",
+        "email": "qabbott@eriksenhuang.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Silverpine / Orchard - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Silverpine customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nQuinn\nPartner\nEriksen & Huang LLP",
+      "attachments": [
+        "Silverpine SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e048",
+      "thread_id": "i013-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T09:03:16.978806",
+      "folder": "inbox",
+      "from": {
+        "name": "James Laurent",
+        "email": "jlaurent@solacetech.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear Nadia,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by October 20.\n\nBest regards,\nJames Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e049",
+      "thread_id": "i013-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T09:09:51.403916",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Mendoza",
+        "email": "marcusm@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Nadia,\n\nStatus on my matters this week:\n\n- Series A: financing docs in negotiation with Vantage's counsel; cap table reconciliation in progress.\n- '766 patent: protective order negotiated; infringement contentions due October 11.\n- Project Tundra: seller comments on the SPA in; issues list circulated, signing targeted for October 16.\n- California DOJ CID: collection 80% complete; first rolling production targeted for October 19.\n\nRegards,\nMarcus Mendoza",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m01",
+        "matter_ids": [
+          "i013-m01",
+          "i013-m02",
+          "i013-m03",
+          "i013-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m01",
+            "i013-m02",
+            "i013-m03",
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m01",
+            "i013-m02",
+            "i013-m03"
+          ],
+          "keyword_candidates": [
+            "i013-m02",
+            "i013-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e050",
+      "thread_id": "i013-t022",
+      "in_reply_to": "i013-e047",
+      "references": [
+        "i013-e047"
+      ],
+      "timestamp": "2026-09-28T09:25:52.792108",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Abbott",
+          "email": "qabbott@eriksenhuang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Orchard - SPA comments",
+      "body": "Quinn,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Sep 25, 2026 at 09:49 AM, Quinn Abbott <qabbott@eriksenhuang.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Silverpine customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e051",
+      "thread_id": "i013-t022",
+      "in_reply_to": "i013-e050",
+      "references": [
+        "i013-e047",
+        "i013-e050"
+      ],
+      "timestamp": "2026-09-29T08:07:07.652115",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Abbott",
+        "email": "qabbott@eriksenhuang.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Orchard - SPA comments",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nQuinn Abbott\nPartner\nEriksen & Huang LLP\n\nOn Mon, Sep 28, 2026 at 09:25 AM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Quinn,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e052",
+      "thread_id": "i013-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T08:55:51.945771",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Huang",
+        "email": "ivan.huang@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "State notification deadlines",
+      "body": "Nadia,\n\nI mapped affected individuals by state. The tightest deadlines are 30 days in Colorado and Washington. Draft consumer notification letter attached for your review.\n\nBest,\nIvan Huang\nAssociate\nIto & Tanaka LLP",
+      "attachments": [
+        "Notification Letter Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m00",
+            "i013-m03",
+            "i013-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e053",
+      "thread_id": "i013-t023",
+      "in_reply_to": "i013-e048",
+      "references": [
+        "i013-e048"
+      ],
+      "timestamp": "2026-09-30T10:19:14.033922",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "James Laurent",
+          "email": "jlaurent@solacetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Dear James,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 28, 2026 at 09:03 AM, James Laurent <jlaurent@solacetech.com> wrote:\n> Dear Nadia,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by October 20.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e054",
+      "thread_id": "i013-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T11:38:57.878889",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Sato",
+        "email": "whitneys@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Dear Nadia,\n\nPre-bills for Tidewater Networks are ready for your review:\n\n- 75937-001  Tidewater - Data Security Incident\n\nPlease mark up and return by October 4.\n\nRegards,\nWhitney Sato\nBilling Coordinator\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m00",
+        "matter_ids": [
+          "i013-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e055",
+      "thread_id": "i013-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T13:19:32.806721",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Sato",
+        "email": "whitneys@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Orchard",
+      "body": "Hi Nadia,\n\nPre-bills for Orchard Labs are ready for your review:\n\n- 95386-001  Orchard v. Lattice ('766 Patent)\n- 95386-002  Orchard - Acquisition of Silverpine Health (Project Tundra)\n\nPlease mark up and return by October 4.\n\nRegards,\nWhitney Sato\nBilling Coordinator\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02",
+          "i013-m03"
+        ],
+        "scenario": "billing_multi",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e056",
+      "thread_id": "i013-t022",
+      "in_reply_to": "i013-e051",
+      "references": [
+        "i013-e047",
+        "i013-e050",
+        "i013-e051"
+      ],
+      "timestamp": "2026-10-01T08:25:18.808657",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Abbott",
+          "email": "qabbott@eriksenhuang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Silverpine / Orchard - SPA comments",
+      "body": "Dear Quinn,\n\nWorks for me. Let's do Tuesday at 2:00 p.m..\n\nThanks,\nNadia\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e057",
+      "thread_id": "i013-t023",
+      "in_reply_to": "i013-e053",
+      "references": [
+        "i013-e048",
+        "i013-e053"
+      ],
+      "timestamp": "2026-10-02T09:11:19.429184",
+      "folder": "inbox",
+      "from": {
+        "name": "James Laurent",
+        "email": "jlaurent@solacetech.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Dear Nadia,\n\nAdding Marcus, who will handle the day-to-day on this.\n\nThanks,\nJames Laurent",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e058",
+      "thread_id": "i013-t023",
+      "in_reply_to": "i013-e057",
+      "references": [
+        "i013-e048",
+        "i013-e053",
+        "i013-e057"
+      ],
+      "timestamp": "2026-10-05T09:29:50.507281",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "James Laurent",
+          "email": "jlaurent@solacetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hi James,\n\nWorks for me. Let's do Wednesday at 5:00 p.m..\n\nThanks,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Oct 02, 2026 at 09:11 AM, James Laurent <jlaurent@solacetech.com> wrote:\n> Dear Nadia,\n>\n> Adding Marcus, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02"
+          ],
+          "thread_candidates": [
+            "i013-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e059",
+      "thread_id": "i013-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T10:31:05.777602",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Yamamoto",
+        "email": "ximena.yamamoto@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello Nadia,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nRegards,\nXimena Yamamoto",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e060",
+      "thread_id": "i013-t028",
+      "in_reply_to": "i013-e059",
+      "references": [
+        "i013-e059"
+      ],
+      "timestamp": "2026-10-06T07:59:21.049587",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Yamamoto",
+          "email": "ximena.yamamoto@orchardlabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hi Ximena,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Oct 05, 2026 at 10:31 AM, Ximena Yamamoto <ximena.yamamoto@orchardlabs.com> wrote:\n> Hello Nadia,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e061",
+      "thread_id": "i013-t028",
+      "in_reply_to": "i013-e060",
+      "references": [
+        "i013-e059",
+        "i013-e060"
+      ],
+      "timestamp": "2026-10-07T10:00:23.478857",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Yamamoto",
+        "email": "ximena.yamamoto@orchardlabs.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Nadia,\n\nThanks. Separately, on the '766 patent case, our CTO wants to know if we should expect a counterclaim.\n\nThanks,\nXimena",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m02",
+        "matter_ids": [
+          "i013-m02",
+          "i013-m03"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i013-m02",
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [
+            "i013-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e062",
+      "thread_id": "i013-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-08T14:22:12.510049",
+      "folder": "sent",
+      "from": {
+        "name": "Nadia Moreau",
+        "email": "nadia.moreau@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Abbott",
+          "email": "qabbott@eriksenhuang.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Due diligence request list",
+      "body": "Hello Quinn,\n\nPlease find attached our initial due diligence request list. We'd appreciate data room access for Marcus and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.\n\nBest,\nNadia Moreau\nPartner\nIto & Tanaka LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Initial DD Request List.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e063",
+      "thread_id": "i013-t029",
+      "in_reply_to": "i013-e062",
+      "references": [
+        "i013-e062"
+      ],
+      "timestamp": "2026-10-12T10:22:07.385738",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Abbott",
+        "email": "qabbott@eriksenhuang.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Mendoza",
+          "email": "marcusm@itotanaka.com"
+        }
+      ],
+      "subject": "Re: Due diligence request list",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nQuinn Abbott\nPartner\nEriksen & Huang LLP\n\nOn Thu, Oct 08, 2026 at 02:22 PM, Nadia Moreau <nadia.moreau@itotanaka.com> wrote:\n> Hello Quinn,\n>\n> Please find attached our initial due diligence request list. We'd appreciate data room access for Marcus and me as soon as it's set up. Priority items are the material contracts, IP assignments, and any pending litigation.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i013-m03",
+        "matter_ids": [
+          "i013-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i013-m03"
+          ],
+          "thread_candidates": [
+            "i013-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i013-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i013-e064",
+      "thread_id": "i013-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-19T08:36:12.670562",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Sato",
+        "email": "hsato@itotanaka.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Moreau",
+          "email": "nadia.moreau@itotanaka.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hi Nadia,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nHiro\nPartner\nIto & Tanaka LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700013
+}

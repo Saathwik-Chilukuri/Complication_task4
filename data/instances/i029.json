@@ -1,0 +1,1925 @@
+{
+  "instance_id": "i029",
+  "firm": {
+    "name": "Laurent & Underwood LLP",
+    "domain": "laurentunderwood.com"
+  },
+  "user_contact_id": "i029-c000",
+  "matters": [
+    {
+      "matter_id": "i029-m00",
+      "matter_number": "52530-001",
+      "name": "Whitney Banerjee v. Pinnacle",
+      "client": "Pinnacle Biosciences",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Whitney Banerjee against Pinnacle Biosciences. Case No. 3:26-cv-03277.",
+      "counterparty": "Whitney Banerjee",
+      "opposing_counsel_firm": "Eriksen & Abbott LLP",
+      "status": "open",
+      "opened_on": "2026-07-26",
+      "key_terms": [
+        "52530-001",
+        "Whitney Banerjee",
+        "Banerjee",
+        "3:26-cv-03277"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i029-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i029-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i029-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i029-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i029-c010",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i029-m01",
+      "matter_number": "79595-001",
+      "name": "Lumen - Series A Financing",
+      "client": "Lumen Software",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Lumen Software, led by Trellis Ventures. Raising ~$40 million.",
+      "counterparty": "Trellis Ventures",
+      "opposing_counsel_firm": "Varga & Underwood LLP",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "79595-001",
+        "Series A",
+        "Trellis Ventures",
+        "Trellis"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i029-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i029-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i029-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i029-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i029-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i029-c013",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i029-c014",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i029-m02",
+      "matter_number": "63622-001",
+      "name": "Solace - Headquarters Lease (2299 Market Street)",
+      "client": "Solace Payments",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Solace Payments's new headquarters at 2299 Market Street, landlord Mariner Properties LLC.",
+      "counterparty": "Mariner Properties LLC",
+      "opposing_counsel_firm": "Lindqvist & Yamamoto LLP",
+      "status": "open",
+      "opened_on": "2026-06-11",
+      "key_terms": [
+        "63622-001",
+        "2299 Market Street",
+        "Mariner Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i029-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i029-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i029-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i029-c016",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i029-c017",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i029-c000",
+      "name": "Maya Ziegler",
+      "first": "Maya",
+      "email": "mayaz@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c001",
+      "name": "Hiro Morgan",
+      "first": "Hiro",
+      "email": "hirom@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c002",
+      "name": "Farid Abbott",
+      "first": "Farid",
+      "email": "farida@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c003",
+      "name": "Ivan Brennan",
+      "first": "Ivan",
+      "email": "ivanb@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c004",
+      "name": "Yusuf Lindqvist",
+      "first": "Yusuf",
+      "email": "yusufl@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c005",
+      "name": "Wei Okafor",
+      "first": "Wei",
+      "email": "wei.okafor@pinnaclebios.com",
+      "organization": "Pinnacle Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c006",
+      "name": "Hiro Haddad",
+      "first": "Hiro",
+      "email": "hhaddad@lumensoft.com",
+      "organization": "Lumen Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c007",
+      "name": "Rafael Morgan",
+      "first": "Rafael",
+      "email": "rafael.morgan@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c008",
+      "name": "Marcus Young",
+      "first": "Marcus",
+      "email": "marcus.young@pinnaclebios.com",
+      "organization": "Pinnacle Biosciences",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c009",
+      "name": "Bianca Sato",
+      "first": "Bianca",
+      "email": "bianca.sato@eriksenabbott.com",
+      "organization": "Eriksen & Abbott LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c010",
+      "name": "Diego Ellis",
+      "first": "Diego",
+      "email": "diego.ellis@orchardadr.com",
+      "organization": "Orchard Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c011",
+      "name": "Yusuf Ferreira",
+      "first": "Yusuf",
+      "email": "yusuff@lumensoft.com",
+      "organization": "Lumen Software",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c012",
+      "name": "Valerie Ellis",
+      "first": "Valerie",
+      "email": "vellis@vargaunderwood.com",
+      "organization": "Varga & Underwood LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c013",
+      "name": "Rachel Delgado",
+      "first": "Rachel",
+      "email": "racheld@trellisvc.com",
+      "organization": "Trellis Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c014",
+      "name": "Elena Laurent",
+      "first": "Elena",
+      "email": "elenal@bluefinvc.com",
+      "organization": "Bluefin Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c015",
+      "name": "Aisha Ferreira",
+      "first": "Aisha",
+      "email": "aisha.ferreira@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c016",
+      "name": "Wei Dubois",
+      "first": "Wei",
+      "email": "wdubois@lindqvistyamamoto.com",
+      "organization": "Lindqvist & Yamamoto LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c017",
+      "name": "Pedro Huang",
+      "first": "Pedro",
+      "email": "phuang@keystonerealty.com",
+      "organization": "Keystone Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c018",
+      "name": "Ximena Castillo",
+      "first": "Ximena",
+      "email": "ximena.castillo@nimbusreporting.com",
+      "organization": "Nimbus Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c019",
+      "name": "Diego Huang",
+      "first": "Diego",
+      "email": "dhuang@vantagecomms.com",
+      "organization": "Vantage Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i029-c020",
+      "name": "Tara Moreau",
+      "first": "Tara",
+      "email": "taram@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "Marketing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i029-c021",
+      "name": "Gabriel Ito",
+      "first": "Gabriel",
+      "email": "gabriel.ito@laurentunderwood.com",
+      "organization": "Laurent & Underwood LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i029-e000",
+      "thread_id": "i029-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-15T08:24:43.087689",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Huang",
+        "email": "dhuang@vantagecomms.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Hi Maya,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nDiego",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e001",
+      "thread_id": "i029-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T10:42:26.913453",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Haddad",
+        "email": "hhaddad@lumensoft.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Hello Maya,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nHiro\nGeneral Counsel\nLumen Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e002",
+      "thread_id": "i029-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-02T15:24:59.296782",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Morgan",
+        "email": "rafael.morgan@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Maya,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nRafael\nGeneral Counsel\nSolace Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e003",
+      "thread_id": "i029-t001",
+      "in_reply_to": "i029-e001",
+      "references": [
+        "i029-e001"
+      ],
+      "timestamp": "2026-07-02T20:09:48.311282",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Haddad",
+          "email": "hhaddad@lumensoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Hiro,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nMaya",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e004",
+      "thread_id": "i029-t002",
+      "in_reply_to": "i029-e002",
+      "references": [
+        "i029-e002"
+      ],
+      "timestamp": "2026-07-06T09:41:22.699316",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Rafael Morgan",
+          "email": "rafael.morgan@solacepaym.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Dear Rafael,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nRegards,\nMaya\n\nOn Thu, Jul 02, 2026 at 03:24 PM, Rafael Morgan <rafael.morgan@solacepaym.com> wrote:\n> Dear Maya,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": [
+            "i029-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e005",
+      "thread_id": "i029-t001",
+      "in_reply_to": "i029-e003",
+      "references": [
+        "i029-e001",
+        "i029-e003"
+      ],
+      "timestamp": "2026-07-06T10:15:15.329172",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Haddad",
+        "email": "hhaddad@lumensoft.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Dear Maya,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nHiro Haddad\nGeneral Counsel\nLumen Software\n\nOn Thu, Jul 02, 2026 at 08:09 PM, Maya Ziegler <mayaz@laurentunderwood.com> wrote:\n> Hiro,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e006",
+      "thread_id": "i029-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T20:44:10.554892",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ito",
+        "email": "gabriel.ito@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hello Maya,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nRegards,\nGabriel Ito\nIT Service Desk\nLaurent & Underwood LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e007",
+      "thread_id": "i029-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:35:00.599264",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Huang",
+        "email": "phuang@keystonerealty.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Ferreira",
+          "email": "aisha.ferreira@solacepaym.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Maya,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nBest,\nPedro Huang\nSenior Vice President\nKeystone Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i029-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e008",
+      "thread_id": "i029-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T15:55:05.942827",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Lindqvist",
+        "email": "yusufl@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Pinnacle",
+      "body": "Dear Maya,\n\nPre-bills for Pinnacle Biosciences are ready for your review:\n\n- 52530-001  Whitney Banerjee v. Pinnacle\n\nPlease mark up and return by August 4.\n\nBest,\nYusuf\nBilling Coordinator\nLaurent & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e009",
+      "thread_id": "i029-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:21:30.886845",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Ellis",
+        "email": "diego.ellis@orchardadr.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Sato",
+          "email": "bianca.sato@eriksenabbott.com"
+        }
+      ],
+      "subject": "Mediation - available dates",
+      "body": "Maya,\n\nI have the following dates available for a full-day mediation: August 16 and August 21. Please send mediation briefs one week in advance. My fee schedule is attached.\n\nRegards,\nDiego\nMediator\nOrchard Dispute Resolution",
+      "attachments": [
+        "Fee Schedule.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e010",
+      "thread_id": "i029-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T08:23:36.267144",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Morgan",
+        "email": "rafael.morgan@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Hi Maya,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nThanks,\nRafael Morgan\nGeneral Counsel\nSolace Payments",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e011",
+      "thread_id": "i029-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T08:08:16.950485",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Ferreira",
+          "email": "yusuff@lumensoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Morgan",
+          "email": "hirom@laurentunderwood.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hi Yusuf,\n\nAttached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest,\nMaya Ziegler",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m01"
+          ],
+          "keyword_candidates": [
+            "i029-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e012",
+      "thread_id": "i029-t006",
+      "in_reply_to": "i029-e009",
+      "references": [
+        "i029-e009"
+      ],
+      "timestamp": "2026-08-05T07:04:12.589973",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Diego Ellis",
+          "email": "diego.ellis@orchardadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Sato",
+          "email": "bianca.sato@eriksenabbott.com"
+        }
+      ],
+      "subject": "Re: Mediation - available dates",
+      "body": "Dear Diego,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nMaya Ziegler\n\nOn Mon, Aug 03, 2026 at 08:21 AM, Diego Ellis <diego.ellis@orchardadr.com> wrote:\n> Maya,\n>\n> I have the following dates available for a full-day mediation: August 16 and August 21. Please send mediation briefs one week in advance. My fee schedule is attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": [
+            "i029-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e013",
+      "thread_id": "i029-t008",
+      "in_reply_to": "i029-e011",
+      "references": [
+        "i029-e011"
+      ],
+      "timestamp": "2026-08-06T09:19:40.677303",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Ferreira",
+        "email": "yusuff@lumensoft.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Morgan",
+          "email": "hirom@laurentunderwood.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Maya,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nYusuf\nChief Executive Officer\nLumen Software\n\nOn Tue, Aug 04, 2026 at 08:08 AM, Maya Ziegler <mayaz@laurentunderwood.com> wrote:\n> Hi Yusuf,\n>\n> Attached are the board and stockholder consents approving the Series A. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [
+            "i029-m01"
+          ],
+          "keyword_candidates": [
+            "i029-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e014",
+      "thread_id": "i029-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T07:19:03.592599",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Morgan",
+        "email": "hirom@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear Maya,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nBest,\nHiro Morgan\nAssociate\nLaurent & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00",
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i029-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e015",
+      "thread_id": "i029-t008",
+      "in_reply_to": "i029-e013",
+      "references": [
+        "i029-e011",
+        "i029-e013"
+      ],
+      "timestamp": "2026-08-07T08:09:45.223981",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Yusuf Ferreira",
+          "email": "yusuff@lumensoft.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hiro Morgan",
+          "email": "hirom@laurentunderwood.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Yusuf,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nMaya Ziegler\n\nOn Thu, Aug 06, 2026 at 09:19 AM, Yusuf Ferreira <yusuff@lumensoft.com> wrote:\n> Dear Maya,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e016",
+      "thread_id": "i029-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T11:56:04.739313",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Delgado",
+        "email": "racheld@trellisvc.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Ferreira",
+          "email": "yusuff@lumensoft.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Hello Maya,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 8 still realistic?\n\nBest,\nRachel Delgado\nPartner\nTrellis Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e017",
+      "thread_id": "i029-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T08:06:20.269972",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Young",
+        "email": "marcus.young@pinnaclebios.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Okafor",
+          "email": "wei.okafor@pinnaclebios.com"
+        }
+      ],
+      "subject": "Demand letter - Whitney Banerjee",
+      "body": "Dear Maya,\n\nWe received the attached demand letter from counsel for Whitney Banerjee, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $780,000. I've put a hold on the personnel file. How should we respond?\n\nThanks,\nMarcus\nHead of People\nPinnacle Biosciences",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m00"
+          ],
+          "keyword_candidates": [
+            "i029-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e018",
+      "thread_id": "i029-t010",
+      "in_reply_to": "i029-e016",
+      "references": [
+        "i029-e016"
+      ],
+      "timestamp": "2026-08-17T09:27:32.804921",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Rachel Delgado",
+          "email": "racheld@trellisvc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Ferreira",
+          "email": "yusuff@lumensoft.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hi Rachel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nMaya Ziegler\n\nOn Fri, Aug 14, 2026 at 11:56 AM, Rachel Delgado <racheld@trellisvc.com> wrote:\n> Hello Maya,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 8 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i029-e019",
+      "thread_id": "i029-t011",
+      "in_reply_to": "i029-e017",
+      "references": [
+        "i029-e017"
+      ],
+      "timestamp": "2026-08-18T11:58:25.860930",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Young",
+          "email": "marcus.young@pinnaclebios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Okafor",
+          "email": "wei.okafor@pinnaclebios.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Whitney Banerjee",
+      "body": "Hi Marcus,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nMaya\n\nOn Mon, Aug 17, 2026 at 08:06 AM, Marcus Young <marcus.young@pinnaclebios.com> wrote:\n> Dear Maya,\n>\n> We received the attached demand letter from counsel for Whitney Banerjee, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $780,000. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": [
+            "i029-m00"
+          ],
+          "identifier_candidates": [
+            "i029-m00"
+          ],
+          "keyword_candidates": [
+            "i029-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e020",
+      "thread_id": "i029-t010",
+      "in_reply_to": "i029-e018",
+      "references": [
+        "i029-e016",
+        "i029-e018"
+      ],
+      "timestamp": "2026-08-19T07:15:14.594216",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Delgado",
+        "email": "racheld@trellisvc.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Ferreira",
+          "email": "yusuff@lumensoft.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Dear Maya,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nRachel\nPartner\nTrellis Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": [
+            "i029-m01"
+          ],
+          "identifier_candidates": [
+            "i029-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e021",
+      "thread_id": "i029-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T09:35:35.141787",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Ellis",
+        "email": "vellis@vargaunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Brennan",
+          "email": "ivanb@laurentunderwood.com"
+        }
+      ],
+      "subject": "Lumen Series A - draft financing documents",
+      "body": "Hi Maya,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by September 5. Please send the updated cap table and disclosure schedule when ready.\n\nBest regards,\nValerie\nPartner\nVarga & Underwood LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m01"
+          ],
+          "keyword_candidates": [
+            "i029-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e022",
+      "thread_id": "i029-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T09:14:28.357150",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Dubois",
+        "email": "wdubois@lindqvistyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "2299 Market Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nRegards,\nWei Dubois\nPartner\nLindqvist & Yamamoto LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m02"
+          ],
+          "keyword_candidates": [
+            "i029-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e023",
+      "thread_id": "i029-t013",
+      "in_reply_to": "i029-e022",
+      "references": [
+        "i029-e022"
+      ],
+      "timestamp": "2026-08-20T16:08:28.192012",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Wei Dubois",
+          "email": "wdubois@lindqvistyamamoto.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2299 Market Street - lease draft",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nMaya\n\nOn Thu, Aug 20, 2026 at 09:14 AM, Wei Dubois <wdubois@lindqvistyamamoto.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": [
+            "i029-m02"
+          ],
+          "identifier_candidates": [
+            "i029-m02"
+          ],
+          "keyword_candidates": [
+            "i029-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e024",
+      "thread_id": "i029-t013",
+      "in_reply_to": "i029-e023",
+      "references": [
+        "i029-e022",
+        "i029-e023"
+      ],
+      "timestamp": "2026-08-21T17:48:29.192482",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Dubois",
+        "email": "wdubois@lindqvistyamamoto.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 2299 Market Street - lease draft",
+      "body": "Dear Maya,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nWei Dubois\nPartner\nLindqvist & Yamamoto LLP\n\nOn Thu, Aug 20, 2026 at 04:08 PM, Maya Ziegler <mayaz@laurentunderwood.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m02",
+        "matter_ids": [
+          "i029-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m02"
+          ],
+          "thread_candidates": [
+            "i029-m02"
+          ],
+          "identifier_candidates": [
+            "i029-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e025",
+      "thread_id": "i029-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T07:29:26.236121",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Sato",
+        "email": "bianca.sato@eriksenabbott.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Whitney Banerjee v. Pinnacle - Case No. 3:26-cv-03277",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Whitney Banerjee v. Pinnacle Biosciences, Case No. 3:26-cv-03277. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Pinnacle.\n\nRegards,\nBianca\nPartner\nEriksen & Abbott LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m00"
+          ],
+          "keyword_candidates": [
+            "i029-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e026",
+      "thread_id": "i029-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T08:22:40.786395",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Brennan",
+        "email": "ivanb@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Dear Maya,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nIvan Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m01",
+        "matter_ids": [
+          "i029-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i029-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e027",
+      "thread_id": "i029-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T08:57:21.386605",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Castillo",
+        "email": "ximena.castillo@nimbusreporting.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Hi Maya,\n\nThis confirms the deposition of Whitney Banerjee on September 28 at 9:30 a.m. in Case No. 3:26-cv-03277. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nThanks,\nXimena Castillo",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e028",
+      "thread_id": "i029-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T08:52:59.342131",
+      "folder": "inbox",
+      "from": {
+        "name": "Tara Moreau",
+        "email": "taram@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Firm Weekly: new partners and office updates",
+      "body": "Dear Maya,\n\nThis week: we welcome three new lateral partners, the 4th floor kitchen reopens Monday, and holiday party RSVPs are due Friday.\n\nRegards,\nTara Moreau\nMarketing Coordinator\nLaurent & Underwood LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e029",
+      "thread_id": "i029-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T08:14:00.712701",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Morgan",
+        "email": "hirom@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello Maya,\n\nStatus on my matters this week:\n\n- Banerjee: complaint served; mediation being scheduled, deposition outline in draft.\n- Series A: financing docs in negotiation with Trellis's counsel; cap table reconciliation in progress.\n\nBest regards,\nHiro Morgan\nAssociate\nLaurent & Underwood LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00",
+          "i029-m01"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00",
+            "i029-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i029-m00",
+            "i029-m01"
+          ],
+          "keyword_candidates": [
+            "i029-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e030",
+      "thread_id": "i029-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T09:02:18.892466",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Okafor",
+        "email": "wei.okafor@pinnaclebios.com"
+      },
+      "to": [
+        {
+          "name": "Maya Ziegler",
+          "email": "mayaz@laurentunderwood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Settlement authority",
+      "body": "Maya,\n\nBefore the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.\n\nThanks,\nWei\nGeneral Counsel\nPinnacle Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i029-e031",
+      "thread_id": "i029-t019",
+      "in_reply_to": "i029-e030",
+      "references": [
+        "i029-e030"
+      ],
+      "timestamp": "2026-10-05T11:45:06.715936",
+      "folder": "sent",
+      "from": {
+        "name": "Maya Ziegler",
+        "email": "mayaz@laurentunderwood.com"
+      },
+      "to": [
+        {
+          "name": "Wei Okafor",
+          "email": "wei.okafor@pinnaclebios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Settlement authority",
+      "body": "Dear Wei,\n\nQuick follow-up on the below. Any update?\n\nBest,\nMaya Ziegler\n\nOn Mon, Oct 05, 2026 at 09:02 AM, Wei Okafor <wei.okafor@pinnaclebios.com> wrote:\n> Maya,\n>\n> Before the call on Friday, can we talk about settlement authority? Leadership is open to resolving this but not at the number in the letter.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i029-m00",
+        "matter_ids": [
+          "i029-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i029-m00"
+          ],
+          "thread_candidates": [
+            "i029-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700029
+}

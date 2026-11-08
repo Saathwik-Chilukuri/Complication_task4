@@ -1,0 +1,2975 @@
+{
+  "instance_id": "i005",
+  "firm": {
+    "name": "Dubois & Vasquez LLP",
+    "domain": "duboisvasquez.com"
+  },
+  "user_contact_id": "i005-c000",
+  "matters": [
+    {
+      "matter_id": "i005-m00",
+      "matter_number": "48347-001",
+      "name": "Parallax - Headquarters Lease (1095 Page Mill Road)",
+      "client": "Parallax Logistics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Parallax Logistics's new headquarters at 1095 Page Mill Road, landlord Sterling Properties LLC.",
+      "counterparty": "Sterling Properties LLC",
+      "opposing_counsel_firm": "Shah & Haddad LLP",
+      "status": "open",
+      "opened_on": "2026-06-10",
+      "key_terms": [
+        "48347-001",
+        "1095 Page Mill Road",
+        "Sterling Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i005-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i005-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i005-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i005-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i005-c010",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i005-m01",
+      "matter_number": "32336-001",
+      "name": "Bluefin - SEC Investigation (CID No. 2025-947)",
+      "client": "Bluefin Materials",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Securities and Exchange Commission civil investigative demand regarding Bluefin Materials's customer data practices.",
+      "counterparty": "Securities and Exchange Commission",
+      "opposing_counsel_firm": "Securities and Exchange Commission",
+      "status": "open",
+      "opened_on": "2026-07-14",
+      "key_terms": [
+        "32336-001",
+        "2025-947",
+        "Securities and Exchange Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i005-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i005-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i005-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i005-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i005-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i005-c013",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i005-m02",
+      "matter_number": "35356-001",
+      "name": "Brightline v. Cascade ('838 Patent)",
+      "client": "Brightline Labs",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Brightline Labs against Cascade Health asserting U.S. Patent No. 10,838,753.",
+      "counterparty": "Cascade Health",
+      "opposing_counsel_firm": "Park & Okafor LLP",
+      "status": "open",
+      "opened_on": "2026-07-10",
+      "key_terms": [
+        "35356-001",
+        "10,838,753",
+        "'838",
+        "Cascade Health",
+        "Cascade"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i005-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i005-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i005-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i005-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i005-c016",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i005-m03",
+      "matter_number": "76860-001",
+      "name": "Ironbridge - Acquisition of Quarry Labs (Project Harbor)",
+      "client": "Ironbridge Health",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Quarry Labs by Ironbridge Health. Stock purchase, ~$120 million.",
+      "counterparty": "Quarry Labs",
+      "opposing_counsel_firm": "Shah & Haddad LLP",
+      "status": "open",
+      "opened_on": "2026-06-09",
+      "key_terms": [
+        "76860-001",
+        "Project Harbor",
+        "Harbor",
+        "Quarry Labs",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i005-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i005-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i005-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i005-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i005-c018",
+          "role": "escrow_agent"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i005-c000",
+      "name": "Hiro Eriksen",
+      "first": "Hiro",
+      "email": "hiroe@duboisvasquez.com",
+      "organization": "Dubois & Vasquez LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i005-c001",
+      "name": "Nadia Zhang",
+      "first": "Nadia",
+      "email": "nzhang@duboisvasquez.com",
+      "organization": "Dubois & Vasquez LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i005-c002",
+      "name": "Zoe Eriksen",
+      "first": "Zoe",
+      "email": "zoe.eriksen@duboisvasquez.com",
+      "organization": "Dubois & Vasquez LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i005-c003",
+      "name": "Emma Dubois",
+      "first": "Emma",
+      "email": "edubois@duboisvasquez.com",
+      "organization": "Dubois & Vasquez LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i005-c004",
+      "name": "Xavier Delgado",
+      "first": "Xavier",
+      "email": "xavier.delgado@parallaxlogi.com",
+      "organization": "Parallax Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c005",
+      "name": "Maya Patel",
+      "first": "Maya",
+      "email": "mayap@bluefinmate.com",
+      "organization": "Bluefin Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c006",
+      "name": "Bianca Delgado",
+      "first": "Bianca",
+      "email": "biancad@brightlinelabs.com",
+      "organization": "Brightline Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c007",
+      "name": "Samuel Underwood",
+      "first": "Samuel",
+      "email": "samuelu@ironbridgeheal.com",
+      "organization": "Ironbridge Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c008",
+      "name": "Elena Tanaka",
+      "first": "Elena",
+      "email": "elenat@parallaxlogi.com",
+      "organization": "Parallax Logistics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c009",
+      "name": "Lucia Banerjee",
+      "first": "Lucia",
+      "email": "luciab@shahhaddad.com",
+      "organization": "Shah & Haddad LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c010",
+      "name": "Diego Brennan",
+      "first": "Diego",
+      "email": "diego.brennan@tidewaterrealty.com",
+      "organization": "Tidewater Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c011",
+      "name": "Wei Kowalski",
+      "first": "Wei",
+      "email": "wei.kowalski@bluefinmate.com",
+      "organization": "Bluefin Materials",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c012",
+      "name": "Victor Osei",
+      "first": "Victor",
+      "email": "vosei@sec.gov",
+      "organization": "Securities and Exchange Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c013",
+      "name": "Rachel Goldberg",
+      "first": "Rachel",
+      "email": "rachelg@latticediscovery.com",
+      "organization": "Lattice Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c014",
+      "name": "Valerie Varga",
+      "first": "Valerie",
+      "email": "valerie.varga@brightlinelabs.com",
+      "organization": "Brightline Labs",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c015",
+      "name": "Emma Tanaka",
+      "first": "Emma",
+      "email": "emmat@parkokafor.com",
+      "organization": "Park & Okafor LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c016",
+      "name": "Uma Thompson",
+      "first": "Uma",
+      "email": "uma.thompson@orchardtech.com",
+      "organization": "Orchard Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c017",
+      "name": "Maya Eriksen",
+      "first": "Maya",
+      "email": "maya.eriksen@ironbridgeheal.com",
+      "organization": "Ironbridge Health",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c018",
+      "name": "Ben Ito",
+      "first": "Ben",
+      "email": "bito@evergreentrust.com",
+      "organization": "Evergreen Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c019",
+      "name": "Arjun Xu",
+      "first": "Arjun",
+      "email": "arjunx@solacetech.com",
+      "organization": "Solace Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c020",
+      "name": "Priya Thompson",
+      "first": "Priya",
+      "email": "priya.thompson@redwoodcomms.com",
+      "organization": "Redwood Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i005-c021",
+      "name": "Yusuf Banerjee",
+      "first": "Yusuf",
+      "email": "yusufb@duboisvasquez.com",
+      "organization": "Dubois & Vasquez LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i005-e000",
+      "thread_id": "i005-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-19T09:57:48.379637",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Hi Hiro,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nNadia Zhang\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e001",
+      "thread_id": "i005-t000",
+      "in_reply_to": "i005-e000",
+      "references": [
+        "i005-e000"
+      ],
+      "timestamp": "2026-06-22T10:22:49.930365",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Nadia,\n\nWorks for me. Let's do Friday at 5:00 p.m..\n\nBest,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jun 19, 2026 at 09:57 AM, Nadia Zhang <nzhang@duboisvasquez.com> wrote:\n> Hi Hiro,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e002",
+      "thread_id": "i005-t000",
+      "in_reply_to": "i005-e001",
+      "references": [
+        "i005-e000",
+        "i005-e001"
+      ],
+      "timestamp": "2026-06-23T07:54:01.030004",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Dear Hiro,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nNadia Zhang\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e003",
+      "thread_id": "i005-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-07T12:45:26.335181",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@shahhaddad.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nRegards,\nLucia Banerjee\nPartner\nShah & Haddad LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e004",
+      "thread_id": "i005-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T08:10:25.204314",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Banerjee",
+          "email": "luciab@shahhaddad.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest regards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e005",
+      "thread_id": "i005-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:06:49.415436",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Eriksen",
+        "email": "maya.eriksen@ironbridgeheal.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hi Hiro,\n\nThe board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nThanks,\nMaya",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e006",
+      "thread_id": "i005-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T17:35:04.016257",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Thompson",
+        "email": "uma.thompson@orchardtech.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hi Hiro,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by July 30.\n\nBest,\nUma Thompson\nPrincipal\nOrchard Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e007",
+      "thread_id": "i005-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T18:39:59.979757",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@shahhaddad.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Quarry / Ironbridge - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Quarry customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nLucia Banerjee\nPartner\nShah & Haddad LLP",
+      "attachments": [
+        "Quarry SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m03"
+          ],
+          "keyword_candidates": [
+            "i005-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e008",
+      "thread_id": "i005-t002",
+      "in_reply_to": "i005-e004",
+      "references": [
+        "i005-e004"
+      ],
+      "timestamp": "2026-07-13T19:01:00.752808",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@shahhaddad.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nLucia Banerjee\nPartner\nShah & Haddad LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e009",
+      "thread_id": "i005-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T09:22:14.521748",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Tanaka",
+        "email": "emmat@parkokafor.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Brightline v. Cascade - proposed protective order",
+      "body": "Hello Hiro,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nBest regards,\nEmma Tanaka\nPartner\nPark & Okafor LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e010",
+      "thread_id": "i005-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-14T09:58:20.300056",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hello Hiro,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nThanks,\nNadia\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e011",
+      "thread_id": "i005-t004",
+      "in_reply_to": "i005-e006",
+      "references": [
+        "i005-e006"
+      ],
+      "timestamp": "2026-07-15T07:41:39.472828",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Uma Thompson",
+          "email": "uma.thompson@orchardtech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hi Uma,\n\nQuick follow-up on the below. Any update?\n\nBest,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 05:35 PM, Uma Thompson <uma.thompson@orchardtech.com> wrote:\n> Hi Hiro,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by July 30.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e012",
+      "thread_id": "i005-t006",
+      "in_reply_to": "i005-e009",
+      "references": [
+        "i005-e009"
+      ],
+      "timestamp": "2026-07-15T08:19:41.527745",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Emma Tanaka",
+          "email": "emmat@parkokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Brightline v. Cascade - proposed protective order",
+      "body": "Hi Emma,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Jul 14, 2026 at 09:22 AM, Emma Tanaka <emmat@parkokafor.com> wrote:\n> Hello Hiro,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e013",
+      "thread_id": "i005-t003",
+      "in_reply_to": "i005-e005",
+      "references": [
+        "i005-e005"
+      ],
+      "timestamp": "2026-07-15T09:15:58.875709",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Maya Eriksen",
+          "email": "maya.eriksen@ironbridgeheal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Maya,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 13, 2026 at 10:06 AM, Maya Eriksen <maya.eriksen@ironbridgeheal.com> wrote:\n> Hi Hiro,\n>\n> The board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e014",
+      "thread_id": "i005-t006",
+      "in_reply_to": "i005-e012",
+      "references": [
+        "i005-e009",
+        "i005-e012"
+      ],
+      "timestamp": "2026-07-15T11:57:13.095532",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Tanaka",
+        "email": "emmat@parkokafor.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Brightline v. Cascade - proposed protective order",
+      "body": "Hi Hiro,\n\nWorks for me. Let's do Wednesday at 10:30 a.m..\n\nBest regards,\nEmma Tanaka\nPartner\nPark & Okafor LLP\n\nOn Wed, Jul 15, 2026 at 08:19 AM, Hiro Eriksen <hiroe@duboisvasquez.com> wrote:\n> Hi Emma,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e015",
+      "thread_id": "i005-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T19:08:16.025637",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "wei.kowalski@bluefinmate.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hiro,\n\nThe audit committee wants an update at its meeting on August 6. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nWei\nChief Compliance Officer\nBluefin Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e016",
+      "thread_id": "i005-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T07:05:26.892486",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Hiro,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nThanks,\nNadia Zhang\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e017",
+      "thread_id": "i005-t006",
+      "in_reply_to": "i005-e014",
+      "references": [
+        "i005-e009",
+        "i005-e012",
+        "i005-e014"
+      ],
+      "timestamp": "2026-07-16T07:08:08.060622",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Emma Tanaka",
+          "email": "emmat@parkokafor.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Brightline v. Cascade - proposed protective order",
+      "body": "Dear Emma,\n\nWorks for me. Let's do Tuesday at 9:00 a.m..\n\nBest,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 15, 2026 at 11:57 AM, Emma Tanaka <emmat@parkokafor.com> wrote:\n> Hi Hiro,\n>\n> Works for me. Let's do Wednesday at 10:30 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e018",
+      "thread_id": "i005-t004",
+      "in_reply_to": "i005-e011",
+      "references": [
+        "i005-e006",
+        "i005-e011"
+      ],
+      "timestamp": "2026-07-16T08:17:32.552503",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Thompson",
+        "email": "uma.thompson@orchardtech.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Hello Hiro,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nUma Thompson\nPrincipal\nOrchard Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e019",
+      "thread_id": "i005-t003",
+      "in_reply_to": "i005-e013",
+      "references": [
+        "i005-e005",
+        "i005-e013"
+      ],
+      "timestamp": "2026-07-17T10:37:30.086818",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Eriksen",
+        "email": "maya.eriksen@ironbridgeheal.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Earn-out question from the board",
+      "body": "Hiro,\n\nConfirmed. I'll update the checklist.\n\nBest,\nMaya\n\nOn Wed, Jul 15, 2026 at 09:15 AM, Hiro Eriksen <hiroe@duboisvasquez.com> wrote:\n> Maya,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e020",
+      "thread_id": "i005-t008",
+      "in_reply_to": "i005-e015",
+      "references": [
+        "i005-e015"
+      ],
+      "timestamp": "2026-07-17T11:18:30.677134",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Wei,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e021",
+      "thread_id": "i005-t009",
+      "in_reply_to": "i005-e016",
+      "references": [
+        "i005-e016"
+      ],
+      "timestamp": "2026-07-17T12:50:29.198783",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Prior art search results",
+      "body": "Nadia,\n\nThanks. Received; we'll review and come back to you by Friday.\n\nBest regards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e022",
+      "thread_id": "i005-t008",
+      "in_reply_to": "i005-e020",
+      "references": [
+        "i005-e015",
+        "i005-e020"
+      ],
+      "timestamp": "2026-07-20T08:43:28.153417",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "wei.kowalski@bluefinmate.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hi Hiro,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nWei\nChief Compliance Officer\nBluefin Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e023",
+      "thread_id": "i005-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:56:13.121347",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Tanaka",
+        "email": "elenat@parallaxlogi.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1095 Page Mill Road",
+      "body": "Hello Hiro,\n\nWe've agreed on a non-binding LOI with Sterling Properties LLC for about 42,000 RSF at 1095 Page Mill Road: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nBest,\nElena Tanaka\nDirector of Real Estate\nParallax Logistics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m00"
+          ],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e024",
+      "thread_id": "i005-t008",
+      "in_reply_to": "i005-e022",
+      "references": [
+        "i005-e015",
+        "i005-e020",
+        "i005-e022"
+      ],
+      "timestamp": "2026-07-21T08:23:08.397913",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Wei,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e025",
+      "thread_id": "i005-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-24T08:43:38.435911",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Dear Wei,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nBest regards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e026",
+      "thread_id": "i005-t011",
+      "in_reply_to": "i005-e025",
+      "references": [
+        "i005-e025"
+      ],
+      "timestamp": "2026-07-27T10:18:25.049149",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Kowalski",
+        "email": "wei.kowalski@bluefinmate.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Dear Hiro,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nThanks,\nWei\nChief Compliance Officer\nBluefin Materials\n\nOn Fri, Jul 24, 2026 at 08:43 AM, Hiro Eriksen <hiroe@duboisvasquez.com> wrote:\n> Dear Wei,\n>\n> We'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e027",
+      "thread_id": "i005-t011",
+      "in_reply_to": "i005-e026",
+      "references": [
+        "i005-e025",
+        "i005-e026"
+      ],
+      "timestamp": "2026-07-28T14:37:32.467058",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Dear Wei,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e028",
+      "thread_id": "i005-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-04T07:25:17.544901",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Banerjee",
+        "email": "yusufb@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Hiro,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nBest regards,\nYusuf Banerjee\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e029",
+      "thread_id": "i005-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-05T17:52:38.366130",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Brennan",
+        "email": "diego.brennan@tidewaterrealty.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Tanaka",
+          "email": "elenat@parallaxlogi.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hi Hiro,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nThanks,\nDiego Brennan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i005-e030",
+      "thread_id": "i005-t013",
+      "in_reply_to": "i005-e029",
+      "references": [
+        "i005-e029"
+      ],
+      "timestamp": "2026-08-07T17:58:33.992616",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Diego Brennan",
+          "email": "diego.brennan@tidewaterrealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Elena Tanaka",
+          "email": "elenat@parallaxlogi.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hi Diego,\n\nQuick follow-up on the below. Any update?\n\nRegards,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 05, 2026 at 05:52 PM, Diego Brennan <diego.brennan@tidewaterrealty.com> wrote:\n> Hi Hiro,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00"
+          ],
+          "thread_candidates": [
+            "i005-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e031",
+      "thread_id": "i005-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T14:17:20.843480",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Delgado",
+        "email": "biancad@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear Hiro,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nBianca\nGeneral Counsel\nBrightline Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e032",
+      "thread_id": "i005-t014",
+      "in_reply_to": "i005-e031",
+      "references": [
+        "i005-e031"
+      ],
+      "timestamp": "2026-08-13T07:00:14.552152",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Delgado",
+          "email": "biancad@brightlinelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Bianca,\n\nAdding Nadia, who will handle the day-to-day on this.\n\nBest regards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 02:17 PM, Bianca Delgado <biancad@brightlinelabs.com> wrote:\n> Dear Hiro,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e033",
+      "thread_id": "i005-t014",
+      "in_reply_to": "i005-e032",
+      "references": [
+        "i005-e031",
+        "i005-e032"
+      ],
+      "timestamp": "2026-08-14T19:02:40.802338",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Delgado",
+        "email": "biancad@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Hiro,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nBianca Delgado\nGeneral Counsel\nBrightline Labs\n\nOn Thu, Aug 13, 2026 at 07:00 AM, Hiro Eriksen <hiroe@duboisvasquez.com> wrote:\n> Dear Bianca,\n>\n> Adding Nadia, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e034",
+      "thread_id": "i005-t014",
+      "in_reply_to": "i005-e033",
+      "references": [
+        "i005-e031",
+        "i005-e032",
+        "i005-e033"
+      ],
+      "timestamp": "2026-08-17T08:19:34.706204",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Delgado",
+          "email": "biancad@brightlinelabs.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Dear Bianca,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e035",
+      "thread_id": "i005-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:06:17.770448",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@shahhaddad.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1095 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nLucia Banerjee\nPartner\nShah & Haddad LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m00"
+          ],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e036",
+      "thread_id": "i005-t015",
+      "in_reply_to": "i005-e035",
+      "references": [
+        "i005-e035"
+      ],
+      "timestamp": "2026-08-18T16:28:44.311517",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Banerjee",
+          "email": "luciab@shahhaddad.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1095 Page Mill Road - lease draft",
+      "body": "Counsel,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nRegards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:06 AM, Lucia Banerjee <luciab@shahhaddad.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m00"
+          ],
+          "identifier_candidates": [
+            "i005-m00"
+          ],
+          "keyword_candidates": [
+            "i005-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e037",
+      "thread_id": "i005-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T07:20:02.813190",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Banerjee",
+        "email": "luciab@shahhaddad.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Hi Hiro,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest,\nLucia\nPartner\nShah & Haddad LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e038",
+      "thread_id": "i005-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T20:30:48.905547",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Harbor - disclosure schedules open items",
+      "body": "Hi Hiro,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Quarry's counsel directly?\n\nRegards,\nNadia\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m03"
+          ],
+          "keyword_candidates": [
+            "i005-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e039",
+      "thread_id": "i005-t017",
+      "in_reply_to": "i005-e038",
+      "references": [
+        "i005-e038"
+      ],
+      "timestamp": "2026-08-21T17:22:02.471273",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Zhang",
+          "email": "nzhang@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Harbor - disclosure schedules open items",
+      "body": "Hi Nadia,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m03"
+          ],
+          "identifier_candidates": [
+            "i005-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e040",
+      "thread_id": "i005-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:33:55.328836",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Xu",
+        "email": "arjunx@solacetech.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Engagement - source code review",
+      "body": "Hiro,\n\nFollowing up on the call with Nadia: we can start the source code review for the '838 patent matter on September 13. Our conflicts check against Cascade Health came back clear. Engagement letter attached.\n\nRegards,\nArjun Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e041",
+      "thread_id": "i005-t017",
+      "in_reply_to": "i005-e039",
+      "references": [
+        "i005-e038",
+        "i005-e039"
+      ],
+      "timestamp": "2026-08-24T09:39:22.178656",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Harbor - disclosure schedules open items",
+      "body": "Dear Hiro,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nNadia\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 21, 2026 at 05:22 PM, Hiro Eriksen <hiroe@duboisvasquez.com> wrote:\n> Hi Nadia,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": [
+            "i005-m03"
+          ],
+          "identifier_candidates": [
+            "i005-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e042",
+      "thread_id": "i005-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:23:03.110177",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Thompson",
+        "email": "priya.thompson@redwoodcomms.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear Hiro,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest regards,\nPriya\nEditor\nRedwood Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e043",
+      "thread_id": "i005-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T07:04:43.254635",
+      "folder": "inbox",
+      "from": {
+        "name": "Maya Patel",
+        "email": "mayap@bluefinmate.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hiro,\n\nWe received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2025-947). It asks for documents about our customer data practices going back to 2021. The return date is September 15. Can you call me?\n\nRegards,\nMaya Patel\nGeneral Counsel\nBluefin Materials",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m01"
+          ],
+          "keyword_candidates": [
+            "i005-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e044",
+      "thread_id": "i005-t020",
+      "in_reply_to": "i005-e043",
+      "references": [
+        "i005-e043"
+      ],
+      "timestamp": "2026-09-04T18:48:20.104136",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "mayap@bluefinmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Kowalski",
+          "email": "wei.kowalski@bluefinmate.com"
+        }
+      ],
+      "subject": "Re: Civil investigative demand received",
+      "body": "Dear Maya,\n\nAdding Nadia, who will handle the day-to-day on this.\n\nRegards,\nHiro\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Sep 03, 2026 at 07:04 AM, Maya Patel <mayap@bluefinmate.com> wrote:\n> Hiro,\n>\n> We received a Civil Investigative Demand from the Securities and Exchange Commission this morning (CID No. 2025-947). It asks for documents about our customer data practices going back to 2021. The return date is September 15. Can you call me?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": [
+            "i005-m01"
+          ],
+          "identifier_candidates": [
+            "i005-m01"
+          ],
+          "keyword_candidates": [
+            "i005-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e045",
+      "thread_id": "i005-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T19:32:26.407297",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Eriksen",
+        "email": "zoe.eriksen@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi Hiro,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nThanks,\nZoe Eriksen",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m01",
+        "matter_ids": [
+          "i005-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i005-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e046",
+      "thread_id": "i005-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T10:52:15.914792",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Varga",
+        "email": "valerie.varga@brightlinelabs.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Delgado",
+          "email": "biancad@brightlinelabs.com"
+        }
+      ],
+      "subject": "Cascade Health product launch - possible infringement of '838 patent",
+      "body": "Hello Hiro,\n\nOur engineers looked at the product Cascade Health launched last month and believe it practices claims 1 and 7 of our '838 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest,\nValerie Varga\nChief Technology Officer\nBrightline Labs",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [
+            "i005-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e047",
+      "thread_id": "i005-t022",
+      "in_reply_to": "i005-e046",
+      "references": [
+        "i005-e046"
+      ],
+      "timestamp": "2026-09-22T10:42:12.967355",
+      "folder": "sent",
+      "from": {
+        "name": "Hiro Eriksen",
+        "email": "hiroe@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Varga",
+          "email": "valerie.varga@brightlinelabs.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Bianca Delgado",
+          "email": "biancad@brightlinelabs.com"
+        }
+      ],
+      "subject": "Re: Cascade Health product launch - possible infringement of '838 patent",
+      "body": "Hi Valerie,\n\nConfirmed. I'll update the checklist.\n\nBest,\nHiro Eriksen\nPartner\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 10:52 AM, Valerie Varga <valerie.varga@brightlinelabs.com> wrote:\n> Hello Hiro,\n>\n> Our engineers looked at the product Cascade Health launched last month and believe it practices claims 1 and 7 of our '838 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i005-m02"
+          ],
+          "thread_candidates": [
+            "i005-m02"
+          ],
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [
+            "i005-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e048",
+      "thread_id": "i005-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T10:48:31.725199",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Dubois",
+        "email": "edubois@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Brightline",
+      "body": "Hi Hiro,\n\nPre-bills for Brightline Labs are ready for your review:\n\n- 35356-001  Brightline v. Cascade ('838 Patent)\n\nPlease mark up and return by October 4.\n\nRegards,\nEmma Dubois\nBilling Coordinator\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m02",
+        "matter_ids": [
+          "i005-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e049",
+      "thread_id": "i005-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:26:27.353134",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Dubois",
+        "email": "edubois@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Ironbridge",
+      "body": "Hiro,\n\nPre-bills for Ironbridge Health are ready for your review:\n\n- 76860-001  Ironbridge - Acquisition of Quarry Labs (Project Harbor)\n\nPlease mark up and return by October 4.\n\nBest regards,\nEmma Dubois\nBilling Coordinator\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m03",
+        "matter_ids": [
+          "i005-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i005-e050",
+      "thread_id": "i005-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-05T10:48:17.928443",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Zhang",
+        "email": "nzhang@duboisvasquez.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Eriksen",
+          "email": "hiroe@duboisvasquez.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hi Hiro,\n\nStatus on my matters this week:\n\n- 1095 Page Mill Road: second turn of landlord's lease draft; SNDA requested from lender.\n- SEC CID: collection 80% complete; first rolling production targeted for October 30.\n- '838 patent: protective order negotiated; infringement contentions due October 19.\n- Project Harbor: seller comments on the SPA in; issues list circulated, signing targeted for October 26.\n\nRegards,\nNadia\nAssociate\nDubois & Vasquez LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i005-m00",
+        "matter_ids": [
+          "i005-m00",
+          "i005-m01",
+          "i005-m02",
+          "i005-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i005-m00",
+            "i005-m02",
+            "i005-m03"
+          ],
+          "keyword_candidates": [
+            "i005-m00",
+            "i005-m01",
+            "i005-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700005
+}

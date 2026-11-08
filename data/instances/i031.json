@@ -1,0 +1,2507 @@
+{
+  "instance_id": "i031",
+  "firm": {
+    "name": "Varga & Whitaker LLP",
+    "domain": "vargawhitaker.com"
+  },
+  "user_contact_id": "i031-c000",
+  "matters": [
+    {
+      "matter_id": "i031-m00",
+      "matter_number": "66474-001",
+      "name": "Lumen - Acquisition of Redwood Biosciences (Project Saffron)",
+      "client": "Lumen Materials",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Redwood Biosciences by Lumen Materials. Stock purchase, ~$650 million.",
+      "counterparty": "Redwood Biosciences",
+      "opposing_counsel_firm": "Vasquez & Patel LLP",
+      "status": "open",
+      "opened_on": "2026-07-17",
+      "key_terms": [
+        "66474-001",
+        "Project Saffron",
+        "Saffron",
+        "Redwood Biosciences",
+        "Redwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i031-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i031-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i031-c009",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i031-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i031-c011",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i031-m01",
+      "matter_number": "97896-001",
+      "name": "Cascade - CFPB Investigation (CID No. 2026-467)",
+      "client": "Cascade Networks",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Consumer Financial Protection Bureau civil investigative demand regarding Cascade Networks's customer data practices.",
+      "counterparty": "Consumer Financial Protection Bureau",
+      "opposing_counsel_firm": "Consumer Financial Protection Bureau",
+      "status": "open",
+      "opened_on": "2026-07-04",
+      "key_terms": [
+        "97896-001",
+        "2026-467",
+        "Consumer Financial Protection Bureau"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i031-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i031-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i031-c012",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i031-c013",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i031-c014",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i031-m02",
+      "matter_number": "89612-001",
+      "name": "Sterling - Series C Financing",
+      "client": "Sterling Software",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Sterling Software, led by Ironbridge Ventures. Raising ~$40 million.",
+      "counterparty": "Ironbridge Ventures",
+      "opposing_counsel_firm": "Vasquez & Patel LLP",
+      "status": "open",
+      "opened_on": "2026-06-08",
+      "key_terms": [
+        "89612-001",
+        "Series C",
+        "Ironbridge Ventures",
+        "Ironbridge"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i031-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i031-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i031-c015",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i031-c010",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i031-c016",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i031-c017",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i031-m03",
+      "matter_number": "23997-001",
+      "name": "Brightline - Headquarters Lease (527 Mission Street)",
+      "client": "Brightline Health",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Brightline Health's new headquarters at 527 Mission Street, landlord Solace Properties LLC.",
+      "counterparty": "Solace Properties LLC",
+      "opposing_counsel_firm": "Shah & Alvarez LLP",
+      "status": "open",
+      "opened_on": "2026-07-05",
+      "key_terms": [
+        "23997-001",
+        "527 Mission Street",
+        "Solace Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i031-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i031-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i031-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i031-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i031-c019",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i031-c020",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i031-c000",
+      "name": "Grace Xu",
+      "first": "Grace",
+      "email": "grace.xu@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c001",
+      "name": "Quinn Dubois",
+      "first": "Quinn",
+      "email": "quinnd@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c002",
+      "name": "Hannah Zhang",
+      "first": "Hannah",
+      "email": "hannahz@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c003",
+      "name": "Arjun Laurent",
+      "first": "Arjun",
+      "email": "arjunl@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c004",
+      "name": "Kavya Grant",
+      "first": "Kavya",
+      "email": "kgrant@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c005",
+      "name": "Omar Rosen",
+      "first": "Omar",
+      "email": "omar.rosen@lumenmate.com",
+      "organization": "Lumen Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c006",
+      "name": "Whitney Okafor",
+      "first": "Whitney",
+      "email": "whitneyo@cascadenetw.com",
+      "organization": "Cascade Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c007",
+      "name": "Gabriel Shah",
+      "first": "Gabriel",
+      "email": "gabriels@sterlingsoft.com",
+      "organization": "Sterling Software",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c008",
+      "name": "Zoe Tanaka",
+      "first": "Zoe",
+      "email": "zoet@brightlineheal.com",
+      "organization": "Brightline Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c009",
+      "name": "Marcus Novak",
+      "first": "Marcus",
+      "email": "mnovak@lumenmate.com",
+      "organization": "Lumen Materials",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c010",
+      "name": "Sofia Young",
+      "first": "Sofia",
+      "email": "sofia.young@vasquezpatel.com",
+      "organization": "Vasquez & Patel LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c011",
+      "name": "Hannah Shah",
+      "first": "Hannah",
+      "email": "hannahs@latticetrust.com",
+      "organization": "Lattice Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c012",
+      "name": "Nadia Eriksen",
+      "first": "Nadia",
+      "email": "nadiae@cascadenetw.com",
+      "organization": "Cascade Networks",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c013",
+      "name": "Isabel Patel",
+      "first": "Isabel",
+      "email": "isabel.patel@cfpb.gov",
+      "organization": "Consumer Financial Protection Bureau",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c014",
+      "name": "Ben Park",
+      "first": "Ben",
+      "email": "benp@nimbusdiscovery.com",
+      "organization": "Nimbus Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c015",
+      "name": "Xavier Iyer",
+      "first": "Xavier",
+      "email": "xavier.iyer@sterlingsoft.com",
+      "organization": "Sterling Software",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c016",
+      "name": "Marcus Moreau",
+      "first": "Marcus",
+      "email": "marcus.moreau@ironbridgevc.com",
+      "organization": "Ironbridge Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c017",
+      "name": "Rafael Kowalski",
+      "first": "Rafael",
+      "email": "rafaelk@pinnaclevc.com",
+      "organization": "Pinnacle Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c018",
+      "name": "Kenji Lee",
+      "first": "Kenji",
+      "email": "kenjil@brightlineheal.com",
+      "organization": "Brightline Health",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c019",
+      "name": "Hannah Iyer",
+      "first": "Hannah",
+      "email": "hannah.iyer@shahalvarez.com",
+      "organization": "Shah & Alvarez LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c020",
+      "name": "Marcus Vasquez",
+      "first": "Marcus",
+      "email": "marcus.vasquez@tidewaterrealty.com",
+      "organization": "Tidewater Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c021",
+      "name": "Kavya Underwood",
+      "first": "Kavya",
+      "email": "kavyau@bluefinvc.com",
+      "organization": "Bluefin Ventures",
+      "org_type": "fund",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c022",
+      "name": "Chen Novak",
+      "first": "Chen",
+      "email": "chen.novak@amberlyadr.com",
+      "organization": "Amberly Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c023",
+      "name": "Valerie Lee",
+      "first": "Valerie",
+      "email": "vlee@wavecrestcomms.com",
+      "organization": "Wavecrest Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i031-c024",
+      "name": "Yusuf Castillo",
+      "first": "Yusuf",
+      "email": "yusuf.castillo@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i031-c025",
+      "name": "Femi Osei",
+      "first": "Femi",
+      "email": "femio@vargawhitaker.com",
+      "organization": "Varga & Whitaker LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i031-e000",
+      "thread_id": "i031-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:35:19.126779",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Moreau",
+        "email": "marcus.moreau@ironbridgevc.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Iyer",
+          "email": "xavier.iyer@sterlingsoft.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Hello Grace,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is July 10 still realistic?\n\nBest regards,\nMarcus Moreau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e001",
+      "thread_id": "i031-t000",
+      "in_reply_to": "i031-e000",
+      "references": [
+        "i031-e000"
+      ],
+      "timestamp": "2026-06-30T19:02:15.015923",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Moreau",
+          "email": "marcus.moreau@ironbridgevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Xavier Iyer",
+          "email": "xavier.iyer@sterlingsoft.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hi Marcus,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nGrace Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": [
+            "i031-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e002",
+      "thread_id": "i031-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T15:11:13.764986",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Underwood",
+        "email": "kavyau@bluefinvc.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Participation in the Sterling round",
+      "body": "Grace,\n\nWe were introduced to Sterling by Ironbridge and would like to take up to $2 million of the Series C. Who should we speak with about the subscription documents?\n\nRegards,\nKavya\nPrincipal\nBluefin Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e003",
+      "thread_id": "i031-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T08:04:34.089262",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Iyer",
+          "email": "hannah.iyer@shahalvarez.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Laurent",
+          "email": "arjunl@vargawhitaker.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hannah,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nGrace",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e004",
+      "thread_id": "i031-t002",
+      "in_reply_to": "i031-e003",
+      "references": [
+        "i031-e003"
+      ],
+      "timestamp": "2026-07-16T11:35:16.566219",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Iyer",
+        "email": "hannah.iyer@shahalvarez.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Arjun Laurent",
+          "email": "arjunl@vargawhitaker.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Grace,\n\nWorks for me. Let's do Tuesday at 10:30 a.m..\n\nBest regards,\nHannah Iyer\n\nOn Wed, Jul 15, 2026 at 08:04 AM, Grace Xu <grace.xu@vargawhitaker.com> wrote:\n> Hannah,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": [
+            "i031-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e005",
+      "thread_id": "i031-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:09:27.590207",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Patel",
+        "email": "isabel.patel@cfpb.gov"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2026-467 - meet and confer",
+      "body": "Hello Grace,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nIsabel Patel\nStaff Attorney\nConsumer Financial Protection Bureau",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m01"
+          ],
+          "keyword_candidates": [
+            "i031-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e006",
+      "thread_id": "i031-t003",
+      "in_reply_to": "i031-e005",
+      "references": [
+        "i031-e005"
+      ],
+      "timestamp": "2026-07-29T08:02:03.942255",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Patel",
+          "email": "isabel.patel@cfpb.gov"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: CID No. 2026-467 - meet and confer",
+      "body": "Hi Isabel,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nBest regards,\nGrace Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": [
+            "i031-m01"
+          ],
+          "identifier_candidates": [
+            "i031-m01"
+          ],
+          "keyword_candidates": [
+            "i031-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e007",
+      "thread_id": "i031-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T07:15:30.492956",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Shah",
+        "email": "gabriels@sterlingsoft.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hello Grace,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nRegards,\nGabriel Shah\nGeneral Counsel\nSterling Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e008",
+      "thread_id": "i031-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T13:48:34.409950",
+      "folder": "inbox",
+      "from": {
+        "name": "Nadia Eriksen",
+        "email": "nadiae@cascadenetw.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Grace,\n\nThe audit committee wants an update at its meeting on August 20. Could you prepare a short summary of status, exposure, and next steps?\n\nBest regards,\nNadia Eriksen\nChief Compliance Officer\nCascade Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e009",
+      "thread_id": "i031-t005",
+      "in_reply_to": "i031-e008",
+      "references": [
+        "i031-e008"
+      ],
+      "timestamp": "2026-07-30T19:46:18.542844",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Nadia Eriksen",
+          "email": "nadiae@cascadenetw.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello Nadia,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nGrace Xu\n\nOn Thu, Jul 30, 2026 at 01:48 PM, Nadia Eriksen <nadiae@cascadenetw.com> wrote:\n> Grace,\n>\n> The audit committee wants an update at its meeting on August 20. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": [
+            "i031-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e010",
+      "thread_id": "i031-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T14:42:34.263907",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kgrant@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Sterling",
+      "body": "Hi Grace,\n\nPre-bills for Sterling Software are ready for your review:\n\n- 89612-001  Sterling - Series C Financing\n\nPlease mark up and return by August 4.\n\nThanks,\nKavya\nBilling Coordinator\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e011",
+      "thread_id": "i031-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T10:00:38.921358",
+      "folder": "inbox",
+      "from": {
+        "name": "Quinn Dubois",
+        "email": "quinnd@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Saffron - disclosure schedules open items",
+      "body": "Hi Grace,\n\nI went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Redwood's counsel directly?\n\nBest,\nQuinn Dubois\nAssociate\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e012",
+      "thread_id": "i031-t007",
+      "in_reply_to": "i031-e011",
+      "references": [
+        "i031-e011"
+      ],
+      "timestamp": "2026-08-10T08:47:28.747594",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Saffron - disclosure schedules open items",
+      "body": "Quinn,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nGrace Xu\n\nOn Fri, Aug 07, 2026 at 10:00 AM, Quinn Dubois <quinnd@vargawhitaker.com> wrote:\n> Hi Grace,\n>\n> I went through the latest disclosure schedules. Schedule 3.12 (material contracts) still omits two customer agreements we found in the data room, and Schedule 3.15 doesn't list the pending trademark opposition. Both are flagged in the issues list. Want me to raise these with Redwood's counsel directly?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e013",
+      "thread_id": "i031-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:16:23.180771",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Zhang",
+        "email": "hannahz@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Grace,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nRegards,\nHannah Zhang\nSenior Associate\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e014",
+      "thread_id": "i031-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T07:29:30.659676",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Laurent",
+        "email": "arjunl@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hello Grace,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest regards,\nArjun\nAssociate\nVarga & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01",
+            "i031-m02",
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e015",
+      "thread_id": "i031-t008",
+      "in_reply_to": "i031-e013",
+      "references": [
+        "i031-e013"
+      ],
+      "timestamp": "2026-08-11T17:37:57.325190",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Zhang",
+          "email": "hannahz@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Hannah,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nGrace Xu\n\nOn Mon, Aug 10, 2026 at 09:16 AM, Hannah Zhang <hannahz@vargawhitaker.com> wrote:\n> Grace,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": [
+            "i031-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e016",
+      "thread_id": "i031-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T20:15:55.070466",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Shah",
+        "email": "gabriels@sterlingsoft.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Dear Grace,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nRegards,\nGabriel Shah\nGeneral Counsel\nSterling Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e017",
+      "thread_id": "i031-t010",
+      "in_reply_to": "i031-e016",
+      "references": [
+        "i031-e016"
+      ],
+      "timestamp": "2026-08-12T08:47:04.586923",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Shah",
+          "email": "gabriels@sterlingsoft.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Gabriel,\n\nWorks for me. Let's do Thursday at noon.\n\nThanks,\nGrace Xu",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": [
+            "i031-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e018",
+      "thread_id": "i031-t010",
+      "in_reply_to": "i031-e017",
+      "references": [
+        "i031-e016",
+        "i031-e017"
+      ],
+      "timestamp": "2026-08-12T13:10:01.807325",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Shah",
+        "email": "gabriels@sterlingsoft.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Pro rata rights question",
+      "body": "Grace,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nGabriel Shah\nGeneral Counsel\nSterling Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m02",
+        "matter_ids": [
+          "i031-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m02"
+          ],
+          "thread_candidates": [
+            "i031-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e019",
+      "thread_id": "i031-t008",
+      "in_reply_to": "i031-e015",
+      "references": [
+        "i031-e013",
+        "i031-e015"
+      ],
+      "timestamp": "2026-08-13T12:30:05.225753",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Zhang",
+        "email": "hannahz@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Grace,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nHannah\nSenior Associate\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": [
+            "i031-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e020",
+      "thread_id": "i031-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T17:17:29.096047",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Osei",
+        "email": "femio@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hello Grace,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nFemi",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e021",
+      "thread_id": "i031-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T16:36:43.897633",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Tanaka",
+        "email": "zoet@brightlineheal.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Grace,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nZoe Tanaka",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e022",
+      "thread_id": "i031-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T07:01:55.994365",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Castillo",
+        "email": "yusuf.castillo@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Dear Grace,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nYusuf Castillo\nProfessional Development Manager\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e023",
+      "thread_id": "i031-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:00:13.549510",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Lee",
+        "email": "vlee@wavecrestcomms.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Grace,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nValerie",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e024",
+      "thread_id": "i031-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:05:26.180886",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Novak",
+        "email": "mnovak@lumenmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hi Grace,\n\nThe board asked whether we could structure part of the $650 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nBest,\nMarcus Novak\nVP, Corporate Development\nLumen Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i031-e025",
+      "thread_id": "i031-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T11:21:17.825210",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kgrant@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Brightline",
+      "body": "Hello Grace,\n\nPre-bills for Brightline Health are ready for your review:\n\n- 23997-001  Brightline - Headquarters Lease (527 Mission Street)\n\nPlease mark up and return by September 4.\n\nBest regards,\nKavya\nBilling Coordinator\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e026",
+      "thread_id": "i031-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:12:26.418582",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Novak",
+        "email": "chen.novak@amberlyadr.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hi Grace,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nThanks,\nChen Novak\nSection Chair\nAmberly Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e027",
+      "thread_id": "i031-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T10:56:33.939643",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Young",
+        "email": "sofia.young@vasquezpatel.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Redwood / Lumen - SPA comments",
+      "body": "Dear Grace,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nSofia Young\nPartner\nVasquez & Patel LLP",
+      "attachments": [
+        "Redwood SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e028",
+      "thread_id": "i031-t018",
+      "in_reply_to": "i031-e027",
+      "references": [
+        "i031-e027"
+      ],
+      "timestamp": "2026-09-08T08:36:14.851954",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Young",
+          "email": "sofia.young@vasquezpatel.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Re: Redwood / Lumen - SPA comments",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nBest,\nGrace Xu\n\nOn Mon, Sep 07, 2026 at 10:56 AM, Sofia Young <sofia.young@vasquezpatel.com> wrote:\n> Dear Grace,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e029",
+      "thread_id": "i031-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T11:54:48.135149",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Rosen",
+        "email": "omar.rosen@lumenmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hi Grace,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nThanks,\nOmar\nGeneral Counsel\nLumen Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e030",
+      "thread_id": "i031-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T09:30:18.969075",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Okafor",
+        "email": "whitneyo@cascadenetw.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Nadia Eriksen",
+          "email": "nadiae@cascadenetw.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Grace,\n\nWe received a Civil Investigative Demand from the Consumer Financial Protection Bureau this morning (CID No. 2026-467). It asks for documents about our customer data practices going back to 2021. The return date is September 24. Can you call me?\n\nBest regards,\nWhitney Okafor\nGeneral Counsel\nCascade Networks",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m01"
+          ],
+          "keyword_candidates": [
+            "i031-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e031",
+      "thread_id": "i031-t019",
+      "in_reply_to": "i031-e029",
+      "references": [
+        "i031-e029"
+      ],
+      "timestamp": "2026-09-10T08:01:24.731100",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Omar Rosen",
+          "email": "omar.rosen@lumenmate.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Omar,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nGrace\n\nOn Tue, Sep 08, 2026 at 11:54 AM, Omar Rosen <omar.rosen@lumenmate.com> wrote:\n> Hi Grace,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e032",
+      "thread_id": "i031-t019",
+      "in_reply_to": "i031-e031",
+      "references": [
+        "i031-e029",
+        "i031-e031"
+      ],
+      "timestamp": "2026-09-11T17:14:50.337856",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Rosen",
+        "email": "omar.rosen@lumenmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hi Grace,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nOmar\nGeneral Counsel\nLumen Materials\n\nOn Thu, Sep 10, 2026 at 08:01 AM, Grace Xu <grace.xu@vargawhitaker.com> wrote:\n> Omar,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e033",
+      "thread_id": "i031-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:51:20.909309",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Okafor",
+        "email": "whitneyo@cascadenetw.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Hello Grace,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nRegards,\nWhitney Okafor\nGeneral Counsel\nCascade Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e034",
+      "thread_id": "i031-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T07:55:23.833006",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Iyer",
+        "email": "hannah.iyer@shahalvarez.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Grace,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest regards,\nHannah Iyer",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e035",
+      "thread_id": "i031-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-22T16:10:06.890785",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Lee",
+        "email": "kenjil@brightlineheal.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 527 Mission Street",
+      "body": "Grace,\n\nWe've agreed on a non-binding LOI with Solace Properties LLC for about 42,000 RSF at 527 Mission Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nThanks,\nKenji Lee\nDirector of Real Estate\nBrightline Health",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i031-m03",
+        "matter_ids": [
+          "i031-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m03"
+          ],
+          "keyword_candidates": [
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e036",
+      "thread_id": "i031-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T08:13:50.638035",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Novak",
+        "email": "mnovak@lumenmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Project Saffron - LOI countersigned",
+      "body": "Grace,\n\nGood news: Redwood Biosciences countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Friday.\n\nCan we do a kickoff call tomorrow?\n\nBest,\nMarcus\nVP, Corporate Development\nLumen Materials",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e037",
+      "thread_id": "i031-t024",
+      "in_reply_to": "i031-e036",
+      "references": [
+        "i031-e036"
+      ],
+      "timestamp": "2026-09-30T07:41:02.311225",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Novak",
+          "email": "mnovak@lumenmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Re: Project Saffron - LOI countersigned",
+      "body": "Hello Marcus,\n\nAdding Quinn, who will handle the day-to-day on this.\n\nBest regards,\nGrace\n\nOn Mon, Sep 28, 2026 at 08:13 AM, Marcus Novak <mnovak@lumenmate.com> wrote:\n> Grace,\n>\n> Good news: Redwood Biosciences countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Friday.\n>\n> Can we do a kickoff call tomorrow?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [
+            "i031-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e038",
+      "thread_id": "i031-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T09:16:20.876536",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kgrant@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Lumen",
+      "body": "Hi Grace,\n\nPre-bills for Lumen Materials are ready for your review:\n\n- 66474-001  Lumen - Acquisition of Redwood Biosciences (Project Saffron)\n\nPlease mark up and return by October 4.\n\nBest,\nKavya\nBilling Coordinator\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e039",
+      "thread_id": "i031-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T14:06:11.765793",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kgrant@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Cascade",
+      "body": "Hi Grace,\n\nPre-bills for Cascade Networks are ready for your review:\n\n- 97896-001  Cascade - CFPB Investigation (CID No. 2026-467)\n\nPlease mark up and return by October 4.\n\nRegards,\nKavya Grant\nBilling Coordinator\nVarga & Whitaker LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m01"
+          ],
+          "keyword_candidates": [
+            "i031-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e040",
+      "thread_id": "i031-t024",
+      "in_reply_to": "i031-e037",
+      "references": [
+        "i031-e036",
+        "i031-e037"
+      ],
+      "timestamp": "2026-10-01T09:02:04.736750",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Novak",
+        "email": "mnovak@lumenmate.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Re: Project Saffron - LOI countersigned",
+      "body": "Hi Grace,\n\nWorks for me. Let's do Friday at 2:00 p.m..\n\nThanks,\nMarcus Novak\nVP, Corporate Development\nLumen Materials\n\nOn Wed, Sep 30, 2026 at 07:41 AM, Grace Xu <grace.xu@vargawhitaker.com> wrote:\n> Hello Marcus,\n>\n> Adding Quinn, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e041",
+      "thread_id": "i031-t024",
+      "in_reply_to": "i031-e040",
+      "references": [
+        "i031-e036",
+        "i031-e037",
+        "i031-e040"
+      ],
+      "timestamp": "2026-10-01T18:24:35.924205",
+      "folder": "sent",
+      "from": {
+        "name": "Grace Xu",
+        "email": "grace.xu@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Novak",
+          "email": "mnovak@lumenmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Quinn Dubois",
+          "email": "quinnd@vargawhitaker.com"
+        }
+      ],
+      "subject": "Re: Project Saffron - LOI countersigned",
+      "body": "Marcus,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nThanks,\nGrace",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m00",
+        "matter_ids": [
+          "i031-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i031-m00"
+          ],
+          "thread_candidates": [
+            "i031-m00"
+          ],
+          "identifier_candidates": [
+            "i031-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i031-e042",
+      "thread_id": "i031-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-12T10:05:21.568990",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Laurent",
+        "email": "arjunl@vargawhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Grace Xu",
+          "email": "grace.xu@vargawhitaker.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello Grace,\n\nStatus on my matters this week:\n\n- CFPB CID: collection 80% complete; first rolling production targeted for October 25.\n- Series C: financing docs in negotiation with Ironbridge's counsel; cap table reconciliation in progress.\n- 527 Mission Street: second turn of landlord's lease draft; SNDA requested from lender.\n\nBest,\nArjun Laurent\nAssociate\nVarga & Whitaker LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i031-m01",
+        "matter_ids": [
+          "i031-m01",
+          "i031-m02",
+          "i031-m03"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i031-m01",
+            "i031-m02",
+            "i031-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i031-m02",
+            "i031-m03"
+          ],
+          "keyword_candidates": [
+            "i031-m01",
+            "i031-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700031
+}

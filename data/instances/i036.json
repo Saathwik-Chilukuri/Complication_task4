@@ -1,0 +1,3542 @@
+{
+  "instance_id": "i036",
+  "firm": {
+    "name": "Delgado & Fischer LLP",
+    "domain": "delgadofischer.com"
+  },
+  "user_contact_id": "i036-c000",
+  "matters": [
+    {
+      "matter_id": "i036-m00",
+      "matter_number": "36124-001",
+      "name": "Pinnacle v. Riverstone ('474 Patent)",
+      "client": "Pinnacle Logistics",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Pinnacle Logistics against Riverstone Robotics asserting U.S. Patent No. 10,474,129.",
+      "counterparty": "Riverstone Robotics",
+      "opposing_counsel_firm": "Vasquez & Iyer LLP",
+      "status": "open",
+      "opened_on": "2026-07-29",
+      "key_terms": [
+        "36124-001",
+        "10,474,129",
+        "'474",
+        "Riverstone Robotics",
+        "Riverstone"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c013",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i036-m01",
+      "matter_number": "61101-001",
+      "name": "Copperleaf - Series C Financing",
+      "client": "Copperleaf Therapeutics",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Copperleaf Therapeutics, led by Tidewater Ventures. Raising ~$40 million.",
+      "counterparty": "Tidewater Ventures",
+      "opposing_counsel_firm": "Vasquez & Young LLP",
+      "status": "open",
+      "opened_on": "2026-06-29",
+      "key_terms": [
+        "61101-001",
+        "Series C",
+        "Tidewater Ventures",
+        "Tidewater"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c016",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i036-c017",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i036-m02",
+      "matter_number": "24863-001",
+      "name": "Ironbridge - Headquarters Lease (281 Townsend Street)",
+      "client": "Ironbridge Foods",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Ironbridge Foods's new headquarters at 281 Townsend Street, landlord Driftwood Properties LLC.",
+      "counterparty": "Driftwood Properties LLC",
+      "opposing_counsel_firm": "Vasquez & Young LLP",
+      "status": "open",
+      "opened_on": "2026-07-30",
+      "key_terms": [
+        "24863-001",
+        "281 Townsend Street",
+        "Driftwood Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c018",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c019",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i036-m03",
+      "matter_number": "64122-001",
+      "name": "Lumen - Acquisition of Redwood Software (Project Atlas)",
+      "client": "Lumen Energy",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Redwood Software by Lumen Energy. Stock purchase, ~$85 million.",
+      "counterparty": "Redwood Software",
+      "opposing_counsel_firm": "Mendoza & Abbott LLP",
+      "status": "open",
+      "opened_on": "2026-07-01",
+      "key_terms": [
+        "64122-001",
+        "Project Atlas",
+        "Atlas",
+        "Redwood Software",
+        "Redwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c022",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i036-m04",
+      "matter_number": "41385-001",
+      "name": "Parallax v. Evergreen (MSA Dispute)",
+      "client": "Parallax Therapeutics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Parallax Therapeutics against vendor Evergreen Foods.",
+      "counterparty": "Evergreen Foods",
+      "opposing_counsel_firm": "Quintero & Ellis LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "41385-001",
+        "Evergreen Foods",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c023",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c024",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c025",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i036-m05",
+      "matter_number": "29519-001",
+      "name": "Lattice v. Quarry ('640 Patent)",
+      "client": "Lattice Payments",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Lattice Payments against Quarry Materials asserting U.S. Patent No. 10,640,229.",
+      "counterparty": "Quarry Materials",
+      "opposing_counsel_firm": "Weiss & Shah LLP",
+      "status": "open",
+      "opened_on": "2026-06-20",
+      "key_terms": [
+        "29519-001",
+        "10,640,229",
+        "'640",
+        "Quarry Materials",
+        "Quarry"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i036-c010",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i036-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i036-c026",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i036-c027",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i036-c028",
+          "role": "technical_expert"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i036-c000",
+      "name": "James Tanaka",
+      "first": "James",
+      "email": "jtanaka@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c001",
+      "name": "Ximena Novak",
+      "first": "Ximena",
+      "email": "ximenan@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c002",
+      "name": "Hannah Ziegler",
+      "first": "Hannah",
+      "email": "hannah.ziegler@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c003",
+      "name": "Ivan Okafor",
+      "first": "Ivan",
+      "email": "ivano@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c004",
+      "name": "Liam Shah",
+      "first": "Liam",
+      "email": "lshah@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c005",
+      "name": "Wei Reyes",
+      "first": "Wei",
+      "email": "weir@pinnaclelogi.com",
+      "organization": "Pinnacle Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c006",
+      "name": "Bianca Lindqvist",
+      "first": "Bianca",
+      "email": "biancal@copperleafther.com",
+      "organization": "Copperleaf Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c007",
+      "name": "Chen Osei",
+      "first": "Chen",
+      "email": "cheno@ironbridgefood.com",
+      "organization": "Ironbridge Foods",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c008",
+      "name": "Yara Ellis",
+      "first": "Yara",
+      "email": "yara.ellis@lumenener.com",
+      "organization": "Lumen Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c009",
+      "name": "Olivia Thompson",
+      "first": "Olivia",
+      "email": "olivia.thompson@parallaxther.com",
+      "organization": "Parallax Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c010",
+      "name": "Gabriel Eriksen",
+      "first": "Gabriel",
+      "email": "gabriele@latticepaym.com",
+      "organization": "Lattice Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c011",
+      "name": "Bianca Kaplan",
+      "first": "Bianca",
+      "email": "bkaplan@pinnaclelogi.com",
+      "organization": "Pinnacle Logistics",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c012",
+      "name": "Isabel Jensen",
+      "first": "Isabel",
+      "email": "isabelj@vasqueziyer.com",
+      "organization": "Vasquez & Iyer LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c013",
+      "name": "Elena Ferreira",
+      "first": "Elena",
+      "email": "elenaf@silverpinetech.com",
+      "organization": "Silverpine Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c014",
+      "name": "Pedro Alvarez",
+      "first": "Pedro",
+      "email": "palvarez@copperleafther.com",
+      "organization": "Copperleaf Therapeutics",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c015",
+      "name": "Farid Ferreira",
+      "first": "Farid",
+      "email": "farid.ferreira@vasquezyoung.com",
+      "organization": "Vasquez & Young LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c016",
+      "name": "Aisha Ellis",
+      "first": "Aisha",
+      "email": "aisha.ellis@tidewatervc.com",
+      "organization": "Tidewater Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c017",
+      "name": "Diego Chowdhury",
+      "first": "Diego",
+      "email": "diego.chowdhury@amberlyvc.com",
+      "organization": "Amberly Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c018",
+      "name": "Lucia Dubois",
+      "first": "Lucia",
+      "email": "luciad@ironbridgefood.com",
+      "organization": "Ironbridge Foods",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c019",
+      "name": "Umar Vasquez",
+      "first": "Umar",
+      "email": "umarv@northwindrealty.com",
+      "organization": "Northwind Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c020",
+      "name": "Emma Delgado",
+      "first": "Emma",
+      "email": "edelgado@lumenener.com",
+      "organization": "Lumen Energy",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c021",
+      "name": "Hiro Ferreira",
+      "first": "Hiro",
+      "email": "hiro.ferreira@mendozaabbott.com",
+      "organization": "Mendoza & Abbott LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c022",
+      "name": "Umar Underwood",
+      "first": "Umar",
+      "email": "umar.underwood@stratustrust.com",
+      "organization": "Stratus Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c023",
+      "name": "Hannah Thompson",
+      "first": "Hannah",
+      "email": "hannah.thompson@parallaxther.com",
+      "organization": "Parallax Therapeutics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c024",
+      "name": "Aisha Shah",
+      "first": "Aisha",
+      "email": "aisha.shah@quinteroellis.com",
+      "organization": "Quintero & Ellis LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c025",
+      "name": "Lucia Rosen",
+      "first": "Lucia",
+      "email": "luciar@brightlineadr.com",
+      "organization": "Brightline Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c026",
+      "name": "Victor Yamamoto",
+      "first": "Victor",
+      "email": "victory@latticepaym.com",
+      "organization": "Lattice Payments",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c027",
+      "name": "Jasmine Ferreira",
+      "first": "Jasmine",
+      "email": "jasminef@weissshah.com",
+      "organization": "Weiss & Shah LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c028",
+      "name": "Kavya Grant",
+      "first": "Kavya",
+      "email": "kgrant@keystonetech.com",
+      "organization": "Keystone Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c029",
+      "name": "Kavya Nakamura",
+      "first": "Kavya",
+      "email": "kavyan@wavecresttech.com",
+      "organization": "Wavecrest Technical Consulting",
+      "org_type": "consulting",
+      "title": "Senior Engineer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c030",
+      "name": "Rachel Underwood",
+      "first": "Rachel",
+      "email": "runderwood@orchardsyst.com",
+      "organization": "Orchard Systems",
+      "org_type": "company",
+      "title": "Implementation Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c031",
+      "name": "Diego Xu",
+      "first": "Diego",
+      "email": "dxu@delgadofischer.com",
+      "organization": "Delgado & Fischer LLP",
+      "org_type": "own_firm",
+      "title": "Professional Development Manager",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i036-c032",
+      "name": "Pedro Novak",
+      "first": "Pedro",
+      "email": "pedro.novak@halcyoncomms.com",
+      "organization": "Halcyon Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i036-c033",
+      "name": "Valerie Huang",
+      "first": "Valerie",
+      "email": "valerie.huang@vantageadr.com",
+      "organization": "Vantage Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i036-e000",
+      "thread_id": "i036-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:21:23.151232",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Xu",
+        "email": "dxu@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CLE reminder: credits due by December 31",
+      "body": "Dear James,\n\nOur records show you still need 3 ethics credits this compliance period. On-demand programs are available on the firm intranet.\n\nBest regards,\nDiego Xu\nProfessional Development Manager\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e001",
+      "thread_id": "i036-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T11:28:46.491772",
+      "folder": "inbox",
+      "from": {
+        "name": "Jasmine Ferreira",
+        "email": "jasminef@weissshah.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Lattice v. Quarry - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nRegards,\nJasmine\nPartner\nWeiss & Shah LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e002",
+      "thread_id": "i036-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T07:59:21.376850",
+      "folder": "inbox",
+      "from": {
+        "name": "Rachel Underwood",
+        "email": "runderwood@orchardsyst.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Transition planning",
+      "body": "Dear James,\n\nWe've been engaged by Parallax to replace Evergreen Foods as the platform vendor. Their team suggested we coordinate with you on what transition data we can request from Evergreen under the MSA.\n\nBest,\nRachel Underwood\nImplementation Manager\nOrchard Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00",
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e003",
+      "thread_id": "i036-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-22T09:49:13.705536",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Ziegler",
+        "email": "hannah.ziegler@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Drafts for your review",
+      "body": "Hi James,\n\nI uploaded the revised drafts to the DMS. Let me know if you'd like me to turn your comments tonight.\n\nBest,\nHannah\nSenior Associate\nDelgado & Fischer LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e004",
+      "thread_id": "i036-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T12:19:34.081286",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Shah",
+        "email": "lshah@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Copperleaf",
+      "body": "Hello James,\n\nPre-bills for Copperleaf Therapeutics are ready for your review:\n\n- 61101-001  Copperleaf - Series C Financing\n\nPlease mark up and return by August 4.\n\nBest,\nLiam\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e005",
+      "thread_id": "i036-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T07:31:47.158278",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Thompson",
+        "email": "olivia.thompson@parallaxther.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi James,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nOlivia\nGeneral Counsel\nParallax Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e006",
+      "thread_id": "i036-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T09:59:01.386670",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Shah",
+          "email": "aisha.shah@quinteroellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hello Aisha,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nThanks,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e007",
+      "thread_id": "i036-t006",
+      "in_reply_to": "i036-e006",
+      "references": [
+        "i036-e006"
+      ],
+      "timestamp": "2026-08-03T16:15:04.461712",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Shah",
+        "email": "aisha.shah@quinteroellis.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Hello James,\n\nUnderstood. I'll send a marked version tonight.\n\nBest regards,\nAisha\nPartner\nQuintero & Ellis LLP\n\nOn Mon, Aug 03, 2026 at 09:59 AM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Hello Aisha,\n>\n> Please see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": [
+            "i036-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e008",
+      "thread_id": "i036-t005",
+      "in_reply_to": "i036-e005",
+      "references": [
+        "i036-e005"
+      ],
+      "timestamp": "2026-08-03T16:38:14.827178",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Thompson",
+          "email": "olivia.thompson@parallaxther.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Dear Olivia,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest regards,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 07:31 AM, Olivia Thompson <olivia.thompson@parallaxther.com> wrote:\n> Hi James,\n>\n> They called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": [
+            "i036-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e009",
+      "thread_id": "i036-t006",
+      "in_reply_to": "i036-e007",
+      "references": [
+        "i036-e006",
+        "i036-e007"
+      ],
+      "timestamp": "2026-08-04T08:49:32.792009",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Shah",
+          "email": "aisha.shah@quinteroellis.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Counsel,\n\nAdding Ximena, who will handle the day-to-day on this.\n\nRegards,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 03, 2026 at 04:15 PM, Aisha Shah <aisha.shah@quinteroellis.com> wrote:\n> Hello James,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": [
+            "i036-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e010",
+      "thread_id": "i036-t006",
+      "in_reply_to": "i036-e009",
+      "references": [
+        "i036-e006",
+        "i036-e007",
+        "i036-e009"
+      ],
+      "timestamp": "2026-08-04T17:57:13.471700",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Shah",
+        "email": "aisha.shah@quinteroellis.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Notice of breach - Master Services Agreement",
+      "body": "Hello James,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nAisha Shah\nPartner\nQuintero & Ellis LLP\n\nOn Tue, Aug 04, 2026 at 08:49 AM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Counsel,\n>\n> Adding Ximena, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": [
+            "i036-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e011",
+      "thread_id": "i036-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-06T16:10:07.767171",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Delgado",
+        "email": "edelgado@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Project Atlas - LOI countersigned",
+      "body": "Hello James,\n\nGood news: Redwood Software countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Thursday.\n\nCan we do a kickoff call tomorrow?\n\nBest,\nEmma Delgado\nVP, Corporate Development\nLumen Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m03"
+          ],
+          "keyword_candidates": [
+            "i036-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e012",
+      "thread_id": "i036-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T09:11:51.145646",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Rosen",
+        "email": "luciar@brightlineadr.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Shah",
+          "email": "aisha.shah@quinteroellis.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello James,\n\nThis confirms receipt of the demand for arbitration in Parallax Therapeutics v. Evergreen Foods. The administrative conference is scheduled for August 31. Please confirm your availability.\n\nBest regards,\nLucia Rosen\nCase Administrator\nBrightline Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e013",
+      "thread_id": "i036-t008",
+      "in_reply_to": "i036-e012",
+      "references": [
+        "i036-e012"
+      ],
+      "timestamp": "2026-08-13T07:15:48.382382",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Lucia Rosen",
+          "email": "luciar@brightlineadr.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Shah",
+          "email": "aisha.shah@quinteroellis.com"
+        }
+      ],
+      "subject": "Re: Demand for arbitration - administrative conference",
+      "body": "Hello Lucia,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": [
+            "i036-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e014",
+      "thread_id": "i036-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T10:15:29.383235",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Ziegler",
+        "email": "hannah.ziegler@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "James,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nHannah Ziegler\nSenior Associate\nDelgado & Fischer LLP",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e015",
+      "thread_id": "i036-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T07:11:38.061360",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Ziegler",
+        "email": "hannah.ziegler@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hello James,\n\nStatus on my matters this week:\n\n- 281 Townsend Street: second turn of landlord's lease draft; SNDA requested from lender.\n- Project Atlas: seller comments on the SPA in; issues list circulated, signing targeted for September 8.\n- '640 patent: protective order negotiated; infringement contentions due August 30.\n\nRegards,\nHannah Ziegler\nSenior Associate\nDelgado & Fischer LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02",
+          "i036-m03",
+          "i036-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m02",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e016",
+      "thread_id": "i036-t009",
+      "in_reply_to": "i036-e014",
+      "references": [
+        "i036-e014"
+      ],
+      "timestamp": "2026-08-14T14:23:29.968221",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hello Hannah,\n\nConfirmed. I'll update the checklist.\n\nBest regards,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 13, 2026 at 10:15 AM, Hannah Ziegler <hannah.ziegler@delgadofischer.com> wrote:\n> James,\n>\n> The lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e017",
+      "thread_id": "i036-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T16:12:45.295098",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Pedro Alvarez",
+          "email": "palvarez@copperleafther.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Okafor",
+          "email": "ivano@delgadofischer.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Dear Pedro,\n\nAttached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m01"
+          ],
+          "keyword_candidates": [
+            "i036-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e018",
+      "thread_id": "i036-t009",
+      "in_reply_to": "i036-e016",
+      "references": [
+        "i036-e014",
+        "i036-e016"
+      ],
+      "timestamp": "2026-08-17T09:19:39.163912",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Ziegler",
+        "email": "hannah.ziegler@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi James,\n\nWorks for me. Let's do Tuesday at 3:30 p.m..\n\nBest,\nHannah\nSenior Associate\nDelgado & Fischer LLP\n\nOn Fri, Aug 14, 2026 at 02:23 PM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Hello Hannah,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e019",
+      "thread_id": "i036-t011",
+      "in_reply_to": "i036-e017",
+      "references": [
+        "i036-e017"
+      ],
+      "timestamp": "2026-08-17T09:25:56.288257",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Alvarez",
+        "email": "palvarez@copperleafther.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Okafor",
+          "email": "ivano@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hi James,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nRegards,\nPedro\n\nOn Fri, Aug 14, 2026 at 04:12 PM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Dear Pedro,\n>\n> Attached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01"
+          ],
+          "thread_candidates": [
+            "i036-m01"
+          ],
+          "identifier_candidates": [
+            "i036-m01"
+          ],
+          "keyword_candidates": [
+            "i036-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e020",
+      "thread_id": "i036-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T09:24:56.035265",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Novak",
+        "email": "ximenan@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "James,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nXimena Novak\nAssociate\nDelgado & Fischer LLP",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00",
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e021",
+      "thread_id": "i036-t009",
+      "in_reply_to": "i036-e018",
+      "references": [
+        "i036-e014",
+        "i036-e016",
+        "i036-e018"
+      ],
+      "timestamp": "2026-08-18T18:07:10.382862",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease abstract",
+      "body": "Hi Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 17, 2026 at 09:19 AM, Hannah Ziegler <hannah.ziegler@delgadofischer.com> wrote:\n> Hi James,\n>\n> Works for me. Let's do Tuesday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02",
+            "i036-m03",
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e022",
+      "thread_id": "i036-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-20T09:40:14.440445",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Nakamura",
+        "email": "kavyan@wavecresttech.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Engagement - source code review",
+      "body": "Dear James,\n\nFollowing up on the call with Hannah: we can start the source code review for the '640 patent matter on September 12. Our conflicts check against Quarry Materials came back clear. Engagement letter attached.\n\nThanks,\nKavya Nakamura\nSenior Engineer\nWavecrest Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e023",
+      "thread_id": "i036-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:23:31.283530",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Thompson",
+        "email": "hannah.thompson@parallaxther.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Thompson",
+          "email": "olivia.thompson@parallaxther.com"
+        }
+      ],
+      "subject": "Evergreen Foods - repeated SLA failures",
+      "body": "Hi James,\n\nEvergreen Foods has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest,\nHannah\nChief Operating Officer\nParallax Therapeutics",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m04"
+          ],
+          "keyword_candidates": [
+            "i036-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e024",
+      "thread_id": "i036-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:31:54.960870",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Jensen",
+        "email": "isabelj@vasqueziyer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Pinnacle v. Riverstone - proposed protective order",
+      "body": "Hi James,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.\n\nRegards,\nIsabel",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e025",
+      "thread_id": "i036-t015",
+      "in_reply_to": "i036-e024",
+      "references": [
+        "i036-e024"
+      ],
+      "timestamp": "2026-08-24T14:40:51.629248",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Isabel Jensen",
+          "email": "isabelj@vasqueziyer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Pinnacle v. Riverstone - proposed protective order",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 24, 2026 at 10:31 AM, Isabel Jensen <isabelj@vasqueziyer.com> wrote:\n> Hi James,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Friday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": [
+            "i036-m00"
+          ],
+          "identifier_candidates": [
+            "i036-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e026",
+      "thread_id": "i036-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T13:27:50.369195",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Yamamoto",
+        "email": "victory@latticepaym.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Eriksen",
+          "email": "gabriele@latticepaym.com"
+        }
+      ],
+      "subject": "Quarry Materials product launch - possible infringement of '640 patent",
+      "body": "James,\n\nOur engineers looked at the product Quarry Materials launched last month and believe it practices claims 1 and 7 of our '640 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nRegards,\nVictor Yamamoto\nChief Technology Officer\nLattice Payments",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e027",
+      "thread_id": "i036-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T14:13:41.684658",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Ferreira",
+        "email": "hiro.ferreira@mendozaabbott.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Redwood / Lumen - SPA comments",
+      "body": "Dear James,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nRegards,\nHiro Ferreira\nPartner\nMendoza & Abbott LLP",
+      "attachments": [
+        "Redwood SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m03"
+          ],
+          "keyword_candidates": [
+            "i036-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e028",
+      "thread_id": "i036-t015",
+      "in_reply_to": "i036-e025",
+      "references": [
+        "i036-e024",
+        "i036-e025"
+      ],
+      "timestamp": "2026-08-26T07:45:49.513146",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Jensen",
+        "email": "isabelj@vasqueziyer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Pinnacle v. Riverstone - proposed protective order",
+      "body": "Dear James,\n\nAdding Ximena, who will handle the day-to-day on this.\n\nBest regards,\nIsabel\n\nOn Mon, Aug 24, 2026 at 02:40 PM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": [
+            "i036-m00"
+          ],
+          "identifier_candidates": [
+            "i036-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e029",
+      "thread_id": "i036-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T13:11:23.990274",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Ferreira",
+        "email": "farid.ferreira@vasquezyoung.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ivan Okafor",
+          "email": "ivano@delgadofischer.com"
+        }
+      ],
+      "subject": "Copperleaf Series C - draft financing documents",
+      "body": "Counsel,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series C. Our client would like to sign by September 14. Please send the updated cap table and disclosure schedule when ready.\n\nBest,\nFarid",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m01"
+          ],
+          "keyword_candidates": [
+            "i036-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e030",
+      "thread_id": "i036-t016",
+      "in_reply_to": "i036-e026",
+      "references": [
+        "i036-e026"
+      ],
+      "timestamp": "2026-08-27T10:25:02.978954",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Victor Yamamoto",
+          "email": "victory@latticepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Eriksen",
+          "email": "gabriele@latticepaym.com"
+        }
+      ],
+      "subject": "Re: Quarry Materials product launch - possible infringement of '640 patent",
+      "body": "Hi Victor,\n\nQuick follow-up on the below. Any update?\n\nBest,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m05"
+          ],
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e031",
+      "thread_id": "i036-t017",
+      "in_reply_to": "i036-e027",
+      "references": [
+        "i036-e027"
+      ],
+      "timestamp": "2026-08-27T13:54:38.856830",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Hiro Ferreira",
+          "email": "hiro.ferreira@mendozaabbott.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Redwood / Lumen - SPA comments",
+      "body": "Counsel,\n\nWorks for me. Let's do Wednesday at noon.\n\nBest,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 25, 2026 at 02:13 PM, Hiro Ferreira <hiro.ferreira@mendozaabbott.com> wrote:\n> Dear James,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Redwood customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": [
+            "i036-m03"
+          ],
+          "identifier_candidates": [
+            "i036-m03"
+          ],
+          "keyword_candidates": [
+            "i036-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e032",
+      "thread_id": "i036-t016",
+      "in_reply_to": "i036-e030",
+      "references": [
+        "i036-e026",
+        "i036-e030"
+      ],
+      "timestamp": "2026-08-27T15:07:46.468297",
+      "folder": "inbox",
+      "from": {
+        "name": "Victor Yamamoto",
+        "email": "victory@latticepaym.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Eriksen",
+          "email": "gabriele@latticepaym.com"
+        }
+      ],
+      "subject": "Re: Quarry Materials product launch - possible infringement of '640 patent",
+      "body": "Hi James,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nVictor\nChief Technology Officer\nLattice Payments\n\nOn Thu, Aug 27, 2026 at 10:25 AM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Hi Victor,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m05"
+          ],
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e033",
+      "thread_id": "i036-t016",
+      "in_reply_to": "i036-e032",
+      "references": [
+        "i036-e026",
+        "i036-e030",
+        "i036-e032"
+      ],
+      "timestamp": "2026-08-28T08:59:02.736936",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Victor Yamamoto",
+          "email": "victory@latticepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Eriksen",
+          "email": "gabriele@latticepaym.com"
+        }
+      ],
+      "subject": "Re: Quarry Materials product launch - possible infringement of '640 patent",
+      "body": "Dear Victor,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Thu, Aug 27, 2026 at 03:07 PM, Victor Yamamoto <victory@latticepaym.com> wrote:\n> Hi James,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m05"
+          ],
+          "identifier_candidates": [
+            "i036-m05"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i036-e034",
+      "thread_id": "i036-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T09:04:09.126387",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Ellis",
+        "email": "aisha.ellis@tidewatervc.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Alvarez",
+          "email": "palvarez@copperleafther.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Hi James,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 12 still realistic?\n\nRegards,\nAisha Ellis",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e035",
+      "thread_id": "i036-t019",
+      "in_reply_to": "i036-e034",
+      "references": [
+        "i036-e034"
+      ],
+      "timestamp": "2026-08-31T08:38:08.361777",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Ellis",
+          "email": "aisha.ellis@tidewatervc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Pedro Alvarez",
+          "email": "palvarez@copperleafther.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Aisha,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 28, 2026 at 09:04 AM, Aisha Ellis <aisha.ellis@tidewatervc.com> wrote:\n> Hi James,\n>\n> Checking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is September 12 still realistic?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m01",
+        "matter_ids": [
+          "i036-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01"
+          ],
+          "thread_candidates": [
+            "i036-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e036",
+      "thread_id": "i036-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:41:15.391873",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Grant",
+        "email": "kgrant@keystonetech.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Dear James,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 23.\n\nThanks,\nKavya Grant\nPrincipal\nKeystone Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e037",
+      "thread_id": "i036-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T10:44:04.202273",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Reyes",
+        "email": "weir@pinnaclelogi.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Dear James,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nThanks,\nWei Reyes\nGeneral Counsel\nPinnacle Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e038",
+      "thread_id": "i036-t021",
+      "in_reply_to": "i036-e037",
+      "references": [
+        "i036-e037"
+      ],
+      "timestamp": "2026-08-31T15:35:55.658051",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Wei Reyes",
+          "email": "weir@pinnaclelogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Hello Wei,\n\nQuick follow-up on the below. Any update?\n\nBest,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 10:44 AM, Wei Reyes <weir@pinnaclelogi.com> wrote:\n> Dear James,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": [
+            "i036-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e039",
+      "thread_id": "i036-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T16:11:19.193672",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Shah",
+        "email": "lshah@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Lumen",
+      "body": "James,\n\nPre-bills for Lumen Energy are ready for your review:\n\n- 64122-001  Lumen - Acquisition of Redwood Software (Project Atlas)\n\nPlease mark up and return by September 4.\n\nRegards,\nLiam Shah\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e040",
+      "thread_id": "i036-t020",
+      "in_reply_to": "i036-e036",
+      "references": [
+        "i036-e036"
+      ],
+      "timestamp": "2026-09-02T10:13:29.237893",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Kavya Grant",
+          "email": "kgrant@keystonetech.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Claim construction - preliminary views",
+      "body": "Dear Kavya,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Aug 31, 2026 at 10:41 AM, Kavya Grant <kgrant@keystonetech.com> wrote:\n> Dear James,\n>\n> Having reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 23.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m05",
+        "matter_ids": [
+          "i036-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m05"
+          ],
+          "thread_candidates": [
+            "i036-m05"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e041",
+      "thread_id": "i036-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-02T16:22:27.450398",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Osei",
+        "email": "cheno@ironbridgefood.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "James,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nThanks,\nChen Osei\nGeneral Counsel\nIronbridge Foods",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e042",
+      "thread_id": "i036-t023",
+      "in_reply_to": "i036-e041",
+      "references": [
+        "i036-e041"
+      ],
+      "timestamp": "2026-09-03T16:24:29.798044",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Chen Osei",
+          "email": "cheno@ironbridgefood.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Chen,\n\nWorks for me. Let's do Monday at 3:30 p.m..\n\nBest,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Sep 02, 2026 at 04:22 PM, Chen Osei <cheno@ironbridgefood.com> wrote:\n> James,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e043",
+      "thread_id": "i036-t023",
+      "in_reply_to": "i036-e042",
+      "references": [
+        "i036-e041",
+        "i036-e042"
+      ],
+      "timestamp": "2026-09-07T09:45:54.466863",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Osei",
+        "email": "cheno@ironbridgefood.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Hello James,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest regards,\nChen Osei\nGeneral Counsel\nIronbridge Foods\n\nOn Thu, Sep 03, 2026 at 04:24 PM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Chen,\n>\n> Works for me. Let's do Monday at 3:30 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e044",
+      "thread_id": "i036-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T19:48:34.560826",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Kaplan",
+        "email": "bkaplan@pinnaclelogi.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Wei Reyes",
+          "email": "weir@pinnaclelogi.com"
+        }
+      ],
+      "subject": "Riverstone Robotics product launch - possible infringement of '474 patent",
+      "body": "Dear James,\n\nOur engineers looked at the product Riverstone Robotics launched last month and believe it practices claims 1 and 7 of our '474 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nBianca Kaplan\nChief Technology Officer\nPinnacle Logistics",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m00"
+          ],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e045",
+      "thread_id": "i036-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:20:18.555268",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Ellis",
+        "email": "yara.ellis@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hello James,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nYara Ellis",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e046",
+      "thread_id": "i036-t025",
+      "in_reply_to": "i036-e045",
+      "references": [
+        "i036-e045"
+      ],
+      "timestamp": "2026-09-15T09:54:23.165820",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Yara Ellis",
+          "email": "yara.ellis@lumenener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Dear Yara,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 10:20 AM, Yara Ellis <yara.ellis@lumenener.com> wrote:\n> Hello James,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": [
+            "i036-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e047",
+      "thread_id": "i036-t025",
+      "in_reply_to": "i036-e046",
+      "references": [
+        "i036-e045",
+        "i036-e046"
+      ],
+      "timestamp": "2026-09-15T14:36:17.466000",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Ellis",
+        "email": "yara.ellis@lumenener.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "James,\n\nUnderstood. I'll send a marked version tonight.\n\nThanks,\nYara Ellis",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m03",
+        "matter_ids": [
+          "i036-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m03"
+          ],
+          "thread_candidates": [
+            "i036-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e048",
+      "thread_id": "i036-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-18T15:15:49.540308",
+      "folder": "inbox",
+      "from": {
+        "name": "Valerie Huang",
+        "email": "valerie.huang@vantageadr.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello James,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nThanks,\nValerie Huang\nSection Chair\nVantage Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e049",
+      "thread_id": "i036-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T08:24:13.558101",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Ferreira",
+        "email": "farid.ferreira@vasquezyoung.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "281 Townsend Street - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nRegards,\nFarid Ferreira",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01",
+            "i036-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m02"
+          ],
+          "keyword_candidates": [
+            "i036-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e050",
+      "thread_id": "i036-t027",
+      "in_reply_to": "i036-e049",
+      "references": [
+        "i036-e049"
+      ],
+      "timestamp": "2026-09-21T19:39:36.803808",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Farid Ferreira",
+          "email": "farid.ferreira@vasquezyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 281 Townsend Street - lease draft",
+      "body": "Counsel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 08:24 AM, Farid Ferreira <farid.ferreira@vasquezyoung.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01",
+            "i036-m02"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [
+            "i036-m02"
+          ],
+          "keyword_candidates": [
+            "i036-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e051",
+      "thread_id": "i036-t027",
+      "in_reply_to": "i036-e050",
+      "references": [
+        "i036-e049",
+        "i036-e050"
+      ],
+      "timestamp": "2026-09-21T20:28:33.831691",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Ferreira",
+        "email": "farid.ferreira@vasquezyoung.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 281 Townsend Street - lease draft",
+      "body": "Hello James,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nFarid Ferreira\n\nOn Mon, Sep 21, 2026 at 07:39 PM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Counsel,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01",
+            "i036-m02"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [
+            "i036-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e052",
+      "thread_id": "i036-t027",
+      "in_reply_to": "i036-e051",
+      "references": [
+        "i036-e049",
+        "i036-e050",
+        "i036-e051"
+      ],
+      "timestamp": "2026-09-22T07:25:59.385794",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Farid Ferreira",
+          "email": "farid.ferreira@vasquezyoung.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 281 Townsend Street - lease draft",
+      "body": "Counsel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 21, 2026 at 08:28 PM, Farid Ferreira <farid.ferreira@vasquezyoung.com> wrote:\n> Hello James,\n>\n> Can we push this to next week? Things are busy on our end.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m01",
+            "i036-m02"
+          ],
+          "thread_candidates": [
+            "i036-m02"
+          ],
+          "identifier_candidates": [
+            "i036-m02"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e053",
+      "thread_id": "i036-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T17:16:58.638131",
+      "folder": "inbox",
+      "from": {
+        "name": "Pedro Novak",
+        "email": "pedro.novak@halcyoncomms.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "James,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nBest regards,\nPedro Novak\nEditor\nHalcyon Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e054",
+      "thread_id": "i036-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T08:05:38.359200",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Farid Ferreira",
+          "email": "farid.ferreira@vasquezyoung.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Ziegler",
+          "email": "hannah.ziegler@delgadofischer.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Hello Farid,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nBest regards,\nJames\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m02",
+        "matter_ids": [
+          "i036-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i036-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e055",
+      "thread_id": "i036-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-30T10:11:25.516045",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Shah",
+        "email": "lshah@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Parallax",
+      "body": "Hello James,\n\nPre-bills for Parallax Therapeutics are ready for your review:\n\n- 41385-001  Parallax v. Evergreen (MSA Dispute)\n\nPlease mark up and return by October 4.\n\nRegards,\nLiam Shah\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m04",
+        "matter_ids": [
+          "i036-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i036-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e056",
+      "thread_id": "i036-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-10-02T07:57:39.755460",
+      "folder": "sent",
+      "from": {
+        "name": "James Tanaka",
+        "email": "jtanaka@delgadofischer.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Kaplan",
+          "email": "bkaplan@pinnaclelogi.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Infringement contentions due October 20",
+      "body": "Hi Bianca,\n\nReminder that our infringement contentions are due October 20. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nJames Tanaka\nPartner\nDelgado & Fischer LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i036-e057",
+      "thread_id": "i036-t031",
+      "in_reply_to": "i036-e056",
+      "references": [
+        "i036-e056"
+      ],
+      "timestamp": "2026-10-02T16:20:40.499562",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Kaplan",
+        "email": "bkaplan@pinnaclelogi.com"
+      },
+      "to": [
+        {
+          "name": "James Tanaka",
+          "email": "jtanaka@delgadofischer.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Ximena Novak",
+          "email": "ximenan@delgadofischer.com"
+        }
+      ],
+      "subject": "Re: Infringement contentions due October 20",
+      "body": "Hello James,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nBest,\nBianca Kaplan\nChief Technology Officer\nPinnacle Logistics\n\nOn Fri, Oct 02, 2026 at 07:57 AM, James Tanaka <jtanaka@delgadofischer.com> wrote:\n> Hi Bianca,\n>\n> Reminder that our infringement contentions are due October 20. We need the source code review scheduled and your engineers' availability for claim charts next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i036-m00",
+        "matter_ids": [
+          "i036-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i036-m00"
+          ],
+          "thread_candidates": [
+            "i036-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i036-m00",
+            "i036-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700036
+}

@@ -1,0 +1,1671 @@
+{
+  "instance_id": "i024",
+  "firm": {
+    "name": "Goldberg & Moreau LLP",
+    "domain": "goldbergmoreau.com"
+  },
+  "user_contact_id": "i024-c000",
+  "matters": [
+    {
+      "matter_id": "i024-m00",
+      "matter_number": "52063-001",
+      "name": "Keystone - Series A Financing",
+      "client": "Keystone Labs",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series A preferred stock financing for Keystone Labs, led by Bluefin Ventures. Raising ~$60 million.",
+      "counterparty": "Bluefin Ventures",
+      "opposing_counsel_firm": "Osei & Whitaker LLP",
+      "status": "open",
+      "opened_on": "2026-07-18",
+      "key_terms": [
+        "52063-001",
+        "Series A",
+        "Bluefin Ventures",
+        "Bluefin"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i024-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i024-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i024-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i024-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i024-c009",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i024-c010",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i024-m01",
+      "matter_number": "28460-001",
+      "name": "Pinnacle v. Cascade ('984 Patent)",
+      "client": "Pinnacle Health",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Pinnacle Health against Cascade Networks asserting U.S. Patent No. 10,984,840.",
+      "counterparty": "Cascade Networks",
+      "opposing_counsel_firm": "Ellis & Xu LLP",
+      "status": "open",
+      "opened_on": "2026-07-19",
+      "key_terms": [
+        "28460-001",
+        "10,984,840",
+        "'984",
+        "Cascade Networks",
+        "Cascade"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i024-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i024-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i024-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i024-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i024-c013",
+          "role": "technical_expert"
+        }
+      ]
+    },
+    {
+      "matter_id": "i024-m02",
+      "matter_number": "32316-001",
+      "name": "Riverstone - Series B Financing",
+      "client": "Riverstone Networks",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Riverstone Networks, led by Solace Ventures. Raising ~$25 million.",
+      "counterparty": "Solace Ventures",
+      "opposing_counsel_firm": "Morgan & Zhang LLP",
+      "status": "open",
+      "opened_on": "2026-06-14",
+      "key_terms": [
+        "32316-001",
+        "Series B",
+        "Solace Ventures",
+        "Solace"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i024-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i024-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i024-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i024-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i024-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i024-c016",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i024-c017",
+          "role": "existing_investor"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i024-c000",
+      "name": "Farid Young",
+      "first": "Farid",
+      "email": "faridy@goldbergmoreau.com",
+      "organization": "Goldberg & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i024-c001",
+      "name": "Uma Laurent",
+      "first": "Uma",
+      "email": "ulaurent@goldbergmoreau.com",
+      "organization": "Goldberg & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i024-c002",
+      "name": "Whitney Reyes",
+      "first": "Whitney",
+      "email": "whitney.reyes@goldbergmoreau.com",
+      "organization": "Goldberg & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i024-c003",
+      "name": "Yusuf Lindqvist",
+      "first": "Yusuf",
+      "email": "ylindqvist@goldbergmoreau.com",
+      "organization": "Goldberg & Moreau LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i024-c004",
+      "name": "Femi Quintero",
+      "first": "Femi",
+      "email": "femi.quintero@keystonelabs.com",
+      "organization": "Keystone Labs",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c005",
+      "name": "Hannah Moreau",
+      "first": "Hannah",
+      "email": "hmoreau@pinnacleheal.com",
+      "organization": "Pinnacle Health",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c006",
+      "name": "Daniel Xu",
+      "first": "Daniel",
+      "email": "danielx@riverstonenetw.com",
+      "organization": "Riverstone Networks",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c007",
+      "name": "Diego Castillo",
+      "first": "Diego",
+      "email": "diego.castillo@keystonelabs.com",
+      "organization": "Keystone Labs",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c008",
+      "name": "Zoe Okafor",
+      "first": "Zoe",
+      "email": "zoeo@oseiwhitaker.com",
+      "organization": "Osei & Whitaker LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c009",
+      "name": "Aisha Haddad",
+      "first": "Aisha",
+      "email": "aishah@bluefinvc.com",
+      "organization": "Bluefin Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c010",
+      "name": "Rachel Chowdhury",
+      "first": "Rachel",
+      "email": "rachelc@marinervc.com",
+      "organization": "Mariner Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c011",
+      "name": "Arjun Whitaker",
+      "first": "Arjun",
+      "email": "awhitaker@pinnacleheal.com",
+      "organization": "Pinnacle Health",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c012",
+      "name": "Liam Vasquez",
+      "first": "Liam",
+      "email": "liamv@ellisxu.com",
+      "organization": "Ellis & Xu LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c013",
+      "name": "Omar Banerjee",
+      "first": "Omar",
+      "email": "omar.banerjee@ironbridgetech.com",
+      "organization": "Ironbridge Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c014",
+      "name": "Valerie Mendoza",
+      "first": "Valerie",
+      "email": "valerie.mendoza@riverstonenetw.com",
+      "organization": "Riverstone Networks",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c015",
+      "name": "Yusuf Nakamura",
+      "first": "Yusuf",
+      "email": "yusufn@morganzhang.com",
+      "organization": "Morgan & Zhang LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c016",
+      "name": "Aisha Vasquez",
+      "first": "Aisha",
+      "email": "aishav@solacevc.com",
+      "organization": "Solace Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c017",
+      "name": "Femi Lee",
+      "first": "Femi",
+      "email": "femil@driftwoodvc.com",
+      "organization": "Driftwood Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c018",
+      "name": "Kavya Morgan",
+      "first": "Kavya",
+      "email": "kavya.morgan@vantagevc.com",
+      "organization": "Vantage Ventures",
+      "org_type": "fund",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c019",
+      "name": "Rafael Brennan",
+      "first": "Rafael",
+      "email": "rafael.brennan@silverpinesoft.com",
+      "organization": "Silverpine Software",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c020",
+      "name": "Yara Chowdhury",
+      "first": "Yara",
+      "email": "ychowdhury@halcyonadr.com",
+      "organization": "Halcyon Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i024-c021",
+      "name": "Whitney Sato",
+      "first": "Whitney",
+      "email": "whitney.sato@lumencomms.com",
+      "organization": "Lumen Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i024-e000",
+      "thread_id": "i024-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-09T08:08:05.736485",
+      "folder": "inbox",
+      "from": {
+        "name": "Rafael Brennan",
+        "email": "rafael.brennan@silverpinesoft.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Dear Farid,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest regards,\nRafael Brennan\nRecruiter\nSilverpine Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e001",
+      "thread_id": "i024-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T08:46:36.213392",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Mendoza",
+          "email": "valerie.mendoza@riverstonenetw.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Valerie,\n\nAttached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nRegards,\nFarid\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m02"
+          ],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e002",
+      "thread_id": "i024-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T07:36:37.114921",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Reyes",
+        "email": "whitney.reyes@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Dear Farid,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest,\nWhitney Reyes",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e003",
+      "thread_id": "i024-t002",
+      "in_reply_to": "i024-e002",
+      "references": [
+        "i024-e002"
+      ],
+      "timestamp": "2026-07-20T08:00:37.908194",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Reyes",
+          "email": "whitney.reyes@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Whitney,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nFarid Young\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Jul 17, 2026 at 07:36 AM, Whitney Reyes <whitney.reyes@goldbergmoreau.com> wrote:\n> Dear Farid,\n>\n> I reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": [
+            "i024-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e004",
+      "thread_id": "i024-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:28:08.874260",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Castillo",
+        "email": "diego.castillo@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Femi Quintero",
+          "email": "femi.quintero@keystonelabs.com"
+        }
+      ],
+      "subject": "Series A term sheet from Bluefin Ventures",
+      "body": "Dear Farid,\n\nWe received the attached term sheet from Bluefin Ventures last night: $60 million at a $140 million pre-money, 1x non-participating preferred, and a board seat for them. Can you take a look and flag anything off-market before I call them back on Tuesday?\n\nThanks,\nDiego Castillo\nChief Executive Officer\nKeystone Labs",
+      "attachments": [
+        "Bluefin Term Sheet.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m00"
+          ],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e005",
+      "thread_id": "i024-t002",
+      "in_reply_to": "i024-e003",
+      "references": [
+        "i024-e002",
+        "i024-e003"
+      ],
+      "timestamp": "2026-07-22T08:10:29.324842",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Reyes",
+        "email": "whitney.reyes@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hi Farid,\n\nAdding Uma, who will handle the day-to-day on this.\n\nBest,\nWhitney Reyes\n\nOn Mon, Jul 20, 2026 at 08:00 AM, Farid Young <faridy@goldbergmoreau.com> wrote:\n> Whitney,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": [
+            "i024-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e006",
+      "thread_id": "i024-t002",
+      "in_reply_to": "i024-e005",
+      "references": [
+        "i024-e002",
+        "i024-e003",
+        "i024-e005"
+      ],
+      "timestamp": "2026-07-23T07:18:49.158458",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Whitney Reyes",
+          "email": "whitney.reyes@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Hi Whitney,\n\nAdding Uma, who will handle the day-to-day on this.\n\nThanks,\nFarid\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 22, 2026 at 08:10 AM, Whitney Reyes <whitney.reyes@goldbergmoreau.com> wrote:\n> Hi Farid,\n>\n> Adding Uma, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": [
+            "i024-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e007",
+      "thread_id": "i024-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T08:57:07.732914",
+      "folder": "inbox",
+      "from": {
+        "name": "Kavya Morgan",
+        "email": "kavya.morgan@vantagevc.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Participation in the Keystone round",
+      "body": "Hi Farid,\n\nWe were introduced to Keystone by Bluefin and would like to take up to $2 million of the Series A. Who should we speak with about the subscription documents?\n\nThanks,\nKavya\nPrincipal\nVantage Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e008",
+      "thread_id": "i024-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:10:32.275987",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Laurent",
+        "email": "ulaurent@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Dear Farid,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nBest,\nUma Laurent\nSenior Associate\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "keywords_match_other_matter",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00",
+            "i024-m01",
+            "i024-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e009",
+      "thread_id": "i024-t005",
+      "in_reply_to": "i024-e008",
+      "references": [
+        "i024-e008"
+      ],
+      "timestamp": "2026-08-12T07:40:39.863372",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Cap table reconciliation",
+      "body": "Dear Uma,\n\nConfirmed. I'll update the checklist.\n\nBest,\nFarid Young\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00",
+            "i024-m01",
+            "i024-m02"
+          ],
+          "thread_candidates": [
+            "i024-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e010",
+      "thread_id": "i024-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T13:18:38.102395",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Vasquez",
+        "email": "liamv@ellisxu.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Pinnacle v. Cascade - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Tuesday.\n\nRegards,\nLiam",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e011",
+      "thread_id": "i024-t006",
+      "in_reply_to": "i024-e010",
+      "references": [
+        "i024-e010"
+      ],
+      "timestamp": "2026-08-12T14:13:40.104783",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Liam Vasquez",
+          "email": "liamv@ellisxu.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Re: Pinnacle v. Cascade - proposed protective order",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nFarid Young\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": [
+            "i024-m01"
+          ],
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e012",
+      "thread_id": "i024-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T07:14:29.914886",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Xu",
+        "email": "danielx@riverstonenetw.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pro rata rights question",
+      "body": "Dear Farid,\n\nOne of our existing investors is asking whether they get to participate in this round. Can you check what their side letter says about pro rata rights?\n\nBest,\nDaniel Xu\nGeneral Counsel\nRiverstone Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m02",
+        "matter_ids": [
+          "i024-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e013",
+      "thread_id": "i024-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T07:01:09.483906",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Chowdhury",
+        "email": "ychowdhury@halcyonadr.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Dear Farid,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nRegards,\nYara\nSection Chair\nHalcyon Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e014",
+      "thread_id": "i024-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T07:03:17.551095",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Quintero",
+        "email": "femi.quintero@keystonelabs.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Quick call?",
+      "body": "Hi Farid,\n\nDo you have 15 minutes this afternoon? I want to run something by you before my meeting with the leadership team.\n\nBest,\nFemi\nGeneral Counsel\nKeystone Labs",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i024-e015",
+      "thread_id": "i024-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T15:34:37.656061",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Whitaker",
+        "email": "awhitaker@pinnacleheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Farid,\n\nIs there anything you need from us this week? I'm traveling Thursday and Friday.\n\nRegards,\nArjun Whitaker\nChief Technology Officer\nPinnacle Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e016",
+      "thread_id": "i024-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:24:10.280292",
+      "folder": "inbox",
+      "from": {
+        "name": "Hannah Moreau",
+        "email": "hmoreau@pinnacleheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Hello Farid,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nHannah\nGeneral Counsel\nPinnacle Health",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e017",
+      "thread_id": "i024-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T08:48:13.805709",
+      "folder": "inbox",
+      "from": {
+        "name": "Whitney Sato",
+        "email": "whitney.sato@lumencomms.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Dear Farid,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nWhitney Sato\nEditor\nLumen Communications",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e018",
+      "thread_id": "i024-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T15:02:51.907381",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Whitaker",
+        "email": "awhitaker@pinnacleheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Moreau",
+          "email": "hmoreau@pinnacleheal.com"
+        }
+      ],
+      "subject": "Cascade Networks product launch - possible infringement of '984 patent",
+      "body": "Hello Farid,\n\nOur engineers looked at the product Cascade Networks launched last month and believe it practices claims 1 and 7 of our '984 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nBest,\nArjun\nChief Technology Officer\nPinnacle Health",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [
+            "i024-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e019",
+      "thread_id": "i024-t013",
+      "in_reply_to": "i024-e018",
+      "references": [
+        "i024-e018"
+      ],
+      "timestamp": "2026-09-07T10:31:28.164570",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Whitaker",
+          "email": "awhitaker@pinnacleheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Moreau",
+          "email": "hmoreau@pinnacleheal.com"
+        }
+      ],
+      "subject": "Re: Cascade Networks product launch - possible infringement of '984 patent",
+      "body": "Arjun,\n\nConfirmed. I'll update the checklist.\n\nRegards,\nFarid\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": [
+            "i024-m01"
+          ],
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [
+            "i024-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e020",
+      "thread_id": "i024-t013",
+      "in_reply_to": "i024-e019",
+      "references": [
+        "i024-e018",
+        "i024-e019"
+      ],
+      "timestamp": "2026-09-07T13:24:26.790057",
+      "folder": "inbox",
+      "from": {
+        "name": "Arjun Whitaker",
+        "email": "awhitaker@pinnacleheal.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Moreau",
+          "email": "hmoreau@pinnacleheal.com"
+        }
+      ],
+      "subject": "Re: Cascade Networks product launch - possible infringement of '984 patent",
+      "body": "Hi Farid,\n\nAdding Uma, who will handle the day-to-day on this.\n\nThanks,\nArjun Whitaker\nChief Technology Officer\nPinnacle Health\n\nOn Mon, Sep 07, 2026 at 10:31 AM, Farid Young <faridy@goldbergmoreau.com> wrote:\n> Arjun,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": [
+            "i024-m01"
+          ],
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [
+            "i024-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e021",
+      "thread_id": "i024-t013",
+      "in_reply_to": "i024-e020",
+      "references": [
+        "i024-e018",
+        "i024-e019",
+        "i024-e020"
+      ],
+      "timestamp": "2026-09-07T14:34:32.744042",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Arjun Whitaker",
+          "email": "awhitaker@pinnacleheal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Hannah Moreau",
+          "email": "hmoreau@pinnacleheal.com"
+        }
+      ],
+      "subject": "Re: Cascade Networks product launch - possible infringement of '984 patent",
+      "body": "Hi Arjun,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nFarid\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m01",
+        "matter_ids": [
+          "i024-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m01"
+          ],
+          "thread_candidates": [
+            "i024-m01"
+          ],
+          "identifier_candidates": [
+            "i024-m01"
+          ],
+          "keyword_candidates": [
+            "i024-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e022",
+      "thread_id": "i024-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T13:36:18.243835",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Okafor",
+        "email": "zoeo@oseiwhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Keystone Series A - draft financing documents",
+      "body": "Hello Farid,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by September 30. Please send the updated cap table and disclosure schedule when ready.\n\nThanks,\nZoe Okafor\nPartner\nOsei & Whitaker LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m00"
+          ],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e023",
+      "thread_id": "i024-t014",
+      "in_reply_to": "i024-e022",
+      "references": [
+        "i024-e022"
+      ],
+      "timestamp": "2026-09-16T07:07:57.566857",
+      "folder": "sent",
+      "from": {
+        "name": "Farid Young",
+        "email": "faridy@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Okafor",
+          "email": "zoeo@oseiwhitaker.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Re: Keystone Series A - draft financing documents",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest,\nFarid Young\nPartner\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Sep 15, 2026 at 01:36 PM, Zoe Okafor <zoeo@oseiwhitaker.com> wrote:\n> Hello Farid,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series A. Our client would like to sign by September 30. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00"
+          ],
+          "thread_candidates": [
+            "i024-m00"
+          ],
+          "identifier_candidates": [
+            "i024-m00"
+          ],
+          "keyword_candidates": [
+            "i024-m00",
+            "i024-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e024",
+      "thread_id": "i024-t014",
+      "in_reply_to": "i024-e023",
+      "references": [
+        "i024-e022",
+        "i024-e023"
+      ],
+      "timestamp": "2026-09-18T08:27:24.399347",
+      "folder": "inbox",
+      "from": {
+        "name": "Zoe Okafor",
+        "email": "zoeo@oseiwhitaker.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Uma Laurent",
+          "email": "ulaurent@goldbergmoreau.com"
+        }
+      ],
+      "subject": "Re: Keystone Series A - draft financing documents",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nZoe Okafor\nPartner\nOsei & Whitaker LLP\n\nOn Wed, Sep 16, 2026 at 07:07 AM, Farid Young <faridy@goldbergmoreau.com> wrote:\n> Counsel,\n>\n> Quick follow-up on the below. Any update?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00"
+          ],
+          "thread_candidates": [
+            "i024-m00"
+          ],
+          "identifier_candidates": [
+            "i024-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i024-e025",
+      "thread_id": "i024-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-24T08:17:31.683596",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Laurent",
+        "email": "ulaurent@goldbergmoreau.com"
+      },
+      "to": [
+        {
+          "name": "Farid Young",
+          "email": "faridy@goldbergmoreau.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Farid,\n\nStatus on my matters this week:\n\n- Series A: financing docs in negotiation with Bluefin's counsel; cap table reconciliation in progress.\n- '984 patent: protective order negotiated; infringement contentions due October 2.\n- Series B: financing docs in negotiation with Solace's counsel; cap table reconciliation in progress.\n\nThanks,\nUma\nSenior Associate\nGoldberg & Moreau LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i024-m00",
+        "matter_ids": [
+          "i024-m00",
+          "i024-m01",
+          "i024-m02"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i024-m00",
+            "i024-m01",
+            "i024-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i024-m00",
+            "i024-m01",
+            "i024-m02"
+          ],
+          "keyword_candidates": [
+            "i024-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700024
+}

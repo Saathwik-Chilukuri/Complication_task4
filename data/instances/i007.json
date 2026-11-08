@@ -1,0 +1,3365 @@
+{
+  "instance_id": "i007",
+  "firm": {
+    "name": "Grant & Rosen LLP",
+    "domain": "grantrosen.com"
+  },
+  "user_contact_id": "i007-c000",
+  "matters": [
+    {
+      "matter_id": "i007-m00",
+      "matter_number": "24329-001",
+      "name": "Evergreen v. Lumen (MSA Dispute)",
+      "client": "Evergreen Biosciences",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Evergreen Biosciences against vendor Lumen Systems.",
+      "counterparty": "Lumen Systems",
+      "opposing_counsel_firm": "Osei & Rosen LLP",
+      "status": "open",
+      "opened_on": "2026-06-25",
+      "key_terms": [
+        "24329-001",
+        "Lumen Systems",
+        "Lumen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c012",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "i007-m01",
+      "matter_number": "62887-001",
+      "name": "Tidewater - Acquisition of Nimbus Payments (Project Orion)",
+      "client": "Tidewater Energy",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Nimbus Payments by Tidewater Energy. Stock purchase, ~$120 million.",
+      "counterparty": "Nimbus Payments",
+      "opposing_counsel_firm": "Quintero & Yamamoto LLP",
+      "status": "open",
+      "opened_on": "2026-07-31",
+      "key_terms": [
+        "62887-001",
+        "Project Orion",
+        "Orion",
+        "Nimbus Payments",
+        "Nimbus"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c013",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c014",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c015",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i007-m02",
+      "matter_number": "80803-001",
+      "name": "Bluefin - FTC Investigation (CID No. 2025-584)",
+      "client": "Bluefin Biosciences",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Bluefin Biosciences's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-06-27",
+      "key_terms": [
+        "80803-001",
+        "2025-584",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c016",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c017",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c018",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i007-m03",
+      "matter_number": "48400-001",
+      "name": "Solace - Series B Financing",
+      "client": "Solace Payments",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series B preferred stock financing for Solace Payments, led by Lattice Ventures. Raising ~$40 million.",
+      "counterparty": "Lattice Ventures",
+      "opposing_counsel_firm": "Kowalski & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-07-10",
+      "key_terms": [
+        "48400-001",
+        "Series B",
+        "Lattice Ventures",
+        "Lattice"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c019",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c020",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c021",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i007-c022",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i007-m04",
+      "matter_number": "71603-001",
+      "name": "Trellis - Headquarters Lease (1954 California Street)",
+      "client": "Trellis Logistics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Trellis Logistics's new headquarters at 1954 California Street, landlord Orchard Properties LLC.",
+      "counterparty": "Orchard Properties LLC",
+      "opposing_counsel_firm": "Kowalski & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-06-24",
+      "key_terms": [
+        "71603-001",
+        "1954 California Street",
+        "Orchard Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c008",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c023",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c024",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c025",
+          "role": "broker"
+        }
+      ]
+    },
+    {
+      "matter_id": "i007-m05",
+      "matter_number": "61306-001",
+      "name": "Pinnacle v. Driftwood ('344 Patent)",
+      "client": "Pinnacle Systems",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Pinnacle Systems against Driftwood Biosciences asserting U.S. Patent No. 10,344,208.",
+      "counterparty": "Driftwood Biosciences",
+      "opposing_counsel_firm": "Castillo & Lee LLP",
+      "status": "open",
+      "opened_on": "2026-06-15",
+      "key_terms": [
+        "61306-001",
+        "10,344,208",
+        "'344",
+        "Driftwood Biosciences",
+        "Driftwood"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i007-c009",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i007-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i007-c026",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i007-c027",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i007-c028",
+          "role": "technical_expert"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i007-c000",
+      "name": "Hannah Lindqvist",
+      "first": "Hannah",
+      "email": "hlindqvist@grantrosen.com",
+      "organization": "Grant & Rosen LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i007-c001",
+      "name": "Kenji Varga",
+      "first": "Kenji",
+      "email": "kenji.varga@grantrosen.com",
+      "organization": "Grant & Rosen LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i007-c002",
+      "name": "Priya Kowalski",
+      "first": "Priya",
+      "email": "priya.kowalski@grantrosen.com",
+      "organization": "Grant & Rosen LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i007-c003",
+      "name": "Ximena Novak",
+      "first": "Ximena",
+      "email": "ximena.novak@grantrosen.com",
+      "organization": "Grant & Rosen LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i007-c004",
+      "name": "Samuel Shah",
+      "first": "Samuel",
+      "email": "samuels@evergreenbios.com",
+      "organization": "Evergreen Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c005",
+      "name": "Ivan Fischer",
+      "first": "Ivan",
+      "email": "ivan.fischer@tidewaterener.com",
+      "organization": "Tidewater Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c006",
+      "name": "Femi Underwood",
+      "first": "Femi",
+      "email": "funderwood@bluefinbios.com",
+      "organization": "Bluefin Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c007",
+      "name": "Ben Ziegler",
+      "first": "Ben",
+      "email": "benz@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c008",
+      "name": "Lucia Ellis",
+      "first": "Lucia",
+      "email": "lucia.ellis@trellislogi.com",
+      "organization": "Trellis Logistics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c009",
+      "name": "Marcus Ellis",
+      "first": "Marcus",
+      "email": "marcus.ellis@pinnaclesyst.com",
+      "organization": "Pinnacle Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c010",
+      "name": "Ximena Kowalski",
+      "first": "Ximena",
+      "email": "ximenak@evergreenbios.com",
+      "organization": "Evergreen Biosciences",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c011",
+      "name": "Diego Abbott",
+      "first": "Diego",
+      "email": "diegoa@oseirosen.com",
+      "organization": "Osei & Rosen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c012",
+      "name": "Ivan Okafor",
+      "first": "Ivan",
+      "email": "ivan.okafor@halcyonadr.com",
+      "organization": "Halcyon Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c013",
+      "name": "Wei Quintero",
+      "first": "Wei",
+      "email": "wei.quintero@tidewaterener.com",
+      "organization": "Tidewater Energy",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c014",
+      "name": "Arjun Iyer",
+      "first": "Arjun",
+      "email": "aiyer@quinteroyamamoto.com",
+      "organization": "Quintero & Yamamoto LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c015",
+      "name": "Sofia Alvarez",
+      "first": "Sofia",
+      "email": "sofia.alvarez@marinertrust.com",
+      "organization": "Mariner Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c016",
+      "name": "Olivia Patel",
+      "first": "Olivia",
+      "email": "olivia.patel@bluefinbios.com",
+      "organization": "Bluefin Biosciences",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c017",
+      "name": "Uma Okafor",
+      "first": "Uma",
+      "email": "uokafor@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c018",
+      "name": "Sofia Dubois",
+      "first": "Sofia",
+      "email": "sofia.dubois@amberlydiscovery.com",
+      "organization": "Amberly Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c019",
+      "name": "Samuel Thompson",
+      "first": "Samuel",
+      "email": "samuelt@solacepaym.com",
+      "organization": "Solace Payments",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c020",
+      "name": "Xavier Nakamura",
+      "first": "Xavier",
+      "email": "xnakamura@kowalskieriksen.com",
+      "organization": "Kowalski & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c021",
+      "name": "Gabriel Banerjee",
+      "first": "Gabriel",
+      "email": "gbanerjee@latticevc.com",
+      "organization": "Lattice Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c022",
+      "name": "Isabel Ito",
+      "first": "Isabel",
+      "email": "isabeli@keystonevc.com",
+      "organization": "Keystone Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c023",
+      "name": "Chen Ellis",
+      "first": "Chen",
+      "email": "chene@trellislogi.com",
+      "organization": "Trellis Logistics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c024",
+      "name": "James Kowalski",
+      "first": "James",
+      "email": "james.kowalski@kowalskieriksen.com",
+      "organization": "Kowalski & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c025",
+      "name": "Bianca Okafor",
+      "first": "Bianca",
+      "email": "bianca.okafor@brightlinerealty.com",
+      "organization": "Brightline Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c026",
+      "name": "Xavier Reyes",
+      "first": "Xavier",
+      "email": "xavier.reyes@pinnaclesyst.com",
+      "organization": "Pinnacle Systems",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c027",
+      "name": "Aisha Laurent",
+      "first": "Aisha",
+      "email": "aisha.laurent@castillolee.com",
+      "organization": "Castillo & Lee LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c028",
+      "name": "Hiro Yamamoto",
+      "first": "Hiro",
+      "email": "hyamamoto@ironbridgetech.com",
+      "organization": "Ironbridge Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c029",
+      "name": "Gabriel Kowalski",
+      "first": "Gabriel",
+      "email": "gkowalski@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c030",
+      "name": "Isabel Moreau",
+      "first": "Isabel",
+      "email": "isabelm@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c031",
+      "name": "Umar Goldberg",
+      "first": "Umar",
+      "email": "umar.goldberg@copperleafadr.com",
+      "organization": "Copperleaf Dispute Resolution",
+      "org_type": "adr",
+      "title": "Section Chair",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c032",
+      "name": "Liam Haddad",
+      "first": "Liam",
+      "email": "liam.haddad@riverstonecomms.com",
+      "organization": "Riverstone Communications",
+      "org_type": "pr",
+      "title": "Editor",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i007-c033",
+      "name": "Xavier Ellis",
+      "first": "Xavier",
+      "email": "xavier.ellis@grantrosen.com",
+      "organization": "Grant & Rosen LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i007-e000",
+      "thread_id": "i007-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-03T13:10:58.436600",
+      "folder": "inbox",
+      "from": {
+        "name": "Liam Haddad",
+        "email": "liam.haddad@riverstonecomms.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deal Digest: earn-outs, escrows and purchase price adjustments in 2026",
+      "body": "Hello Hannah,\n\nIn this issue: why earn-out disputes are rising, market data on escrow sizes and indemnification caps, and what buyers are asking for in due diligence on AI companies.\n\nThanks,\nLiam Haddad",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "keywords_match_other_matter"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e001",
+      "thread_id": "i007-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T10:13:30.264319",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Okafor",
+        "email": "bianca.okafor@brightlinerealty.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Ellis",
+          "email": "chene@trellislogi.com"
+        }
+      ],
+      "subject": "TI allowance and rent commencement",
+      "body": "Hannah,\n\nQuick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?\n\nThanks,\nBianca\nSenior Vice President\nBrightline Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e002",
+      "thread_id": "i007-t001",
+      "in_reply_to": "i007-e001",
+      "references": [
+        "i007-e001"
+      ],
+      "timestamp": "2026-06-29T20:04:58.358856",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Okafor",
+          "email": "bianca.okafor@brightlinerealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Ellis",
+          "email": "chene@trellislogi.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hi Bianca,\n\nCan we push this to next week? Things are busy on our end.\n\nThanks,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jun 29, 2026 at 10:13 AM, Bianca Okafor <bianca.okafor@brightlinerealty.com> wrote:\n> Hannah,\n>\n> Quick update from the landlord's side: they'll go to $100/RSF TI if we accept rent commencement 120 days after delivery instead of 180. Thoughts before I respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e003",
+      "thread_id": "i007-t001",
+      "in_reply_to": "i007-e002",
+      "references": [
+        "i007-e001",
+        "i007-e002"
+      ],
+      "timestamp": "2026-06-30T11:19:28.843556",
+      "folder": "inbox",
+      "from": {
+        "name": "Bianca Okafor",
+        "email": "bianca.okafor@brightlinerealty.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Ellis",
+          "email": "chene@trellislogi.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Hannah,\n\nQuick follow-up on the below. Any update?\n\nThanks,\nBianca\nSenior Vice President\nBrightline Commercial Realty",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e004",
+      "thread_id": "i007-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-01T09:29:58.186110",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Ellis",
+        "email": "xavier.ellis@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Hannah,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nXavier\nPartner\nGrant & Rosen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e005",
+      "thread_id": "i007-t001",
+      "in_reply_to": "i007-e003",
+      "references": [
+        "i007-e001",
+        "i007-e002",
+        "i007-e003"
+      ],
+      "timestamp": "2026-07-02T08:17:25.471609",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Bianca Okafor",
+          "email": "bianca.okafor@brightlinerealty.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Chen Ellis",
+          "email": "chene@trellislogi.com"
+        }
+      ],
+      "subject": "Re: TI allowance and rent commencement",
+      "body": "Dear Bianca,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e006",
+      "thread_id": "i007-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:22:15.271603",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Shah",
+        "email": "samuels@evergreenbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "They called our COO",
+      "body": "Hi Hannah,\n\nThey called our COO directly and floated a settlement. I told them everything goes through counsel. Can you follow up with their lawyers?\n\nBest,\nSamuel\nGeneral Counsel\nEvergreen Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m00",
+        "matter_ids": [
+          "i007-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e007",
+      "thread_id": "i007-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:50:53.690195",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Ellis",
+        "email": "chene@trellislogi.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease LOI - 1954 California Street",
+      "body": "Dear Hannah,\n\nWe've agreed on a non-binding LOI with Orchard Properties LLC for about 42,000 RSF at 1954 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?\n\nRegards,\nChen Ellis\nDirector of Real Estate\nTrellis Logistics",
+      "attachments": [
+        "Signed LOI.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m04"
+          ],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e008",
+      "thread_id": "i007-t003",
+      "in_reply_to": "i007-e006",
+      "references": [
+        "i007-e006"
+      ],
+      "timestamp": "2026-07-07T08:00:46.892015",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Shah",
+          "email": "samuels@evergreenbios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: They called our COO",
+      "body": "Hi Samuel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m00",
+        "matter_ids": [
+          "i007-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00"
+          ],
+          "thread_candidates": [
+            "i007-m00"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e009",
+      "thread_id": "i007-t004",
+      "in_reply_to": "i007-e007",
+      "references": [
+        "i007-e007"
+      ],
+      "timestamp": "2026-07-07T09:08:48.957824",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Chen Ellis",
+          "email": "chene@trellislogi.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Lease LOI - 1954 California Street",
+      "body": "Hi Chen,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 06, 2026 at 08:50 AM, Chen Ellis <chene@trellislogi.com> wrote:\n> Dear Hannah,\n>\n> We've agreed on a non-binding LOI with Orchard Properties LLC for about 42,000 RSF at 1954 California Street: 10-year term, $68/RSF with 3% annual bumps, and a TI allowance of $95/RSF. Can you start reviewing the landlord's form lease?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [
+            "i007-m04"
+          ],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e010",
+      "thread_id": "i007-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T17:15:16.360791",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Dubois",
+        "email": "sofia.dubois@amberlydiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Hannah,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest,\nSofia Dubois\nProject Manager\nAmberly Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e011",
+      "thread_id": "i007-t005",
+      "in_reply_to": "i007-e010",
+      "references": [
+        "i007-e010"
+      ],
+      "timestamp": "2026-07-10T14:42:34.175609",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Dubois",
+          "email": "sofia.dubois@amberlydiscovery.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Collection status - 14 custodians",
+      "body": "Dear Sofia,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nHannah\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Jul 08, 2026 at 05:15 PM, Sofia Dubois <sofia.dubois@amberlydiscovery.com> wrote:\n> Hannah,\n>\n> We completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e012",
+      "thread_id": "i007-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:21:37.807950",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Underwood",
+        "email": "funderwood@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Olivia Patel",
+          "email": "olivia.patel@bluefinbios.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hannah,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2025-584). It asks for documents about our customer data practices going back to 2021. The return date is July 21. Can you call me?\n\nBest regards,\nFemi Underwood\nGeneral Counsel\nBluefin Biosciences",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m02"
+          ],
+          "keyword_candidates": [
+            "i007-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e013",
+      "thread_id": "i007-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T10:28:08.918677",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Banerjee",
+        "email": "gbanerjee@latticevc.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Thompson",
+          "email": "samuelt@solacepaym.com"
+        }
+      ],
+      "subject": "Closing timing",
+      "body": "Hannah,\n\nChecking in on timing. Our investment committee approved the deal and we're ready to wire once the closing conditions are satisfied. Is July 24 still realistic?\n\nRegards,\nGabriel Banerjee\nPartner\nLattice Ventures",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e014",
+      "thread_id": "i007-t007",
+      "in_reply_to": "i007-e013",
+      "references": [
+        "i007-e013"
+      ],
+      "timestamp": "2026-07-15T07:20:24.630561",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Banerjee",
+          "email": "gbanerjee@latticevc.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Thompson",
+          "email": "samuelt@solacepaym.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Gabriel,\n\nAdding Priya, who will handle the day-to-day on this.\n\nBest,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e015",
+      "thread_id": "i007-t007",
+      "in_reply_to": "i007-e014",
+      "references": [
+        "i007-e013",
+        "i007-e014"
+      ],
+      "timestamp": "2026-07-16T11:32:35.271394",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Banerjee",
+        "email": "gbanerjee@latticevc.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Thompson",
+          "email": "samuelt@solacepaym.com"
+        }
+      ],
+      "subject": "Re: Closing timing",
+      "body": "Hello Hannah,\n\nAdding Priya, who will handle the day-to-day on this.\n\nThanks,\nGabriel Banerjee\nPartner\nLattice Ventures\n\nOn Wed, Jul 15, 2026 at 07:20 AM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Hello Gabriel,\n>\n> Adding Priya, who will handle the day-to-day on this.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e016",
+      "thread_id": "i007-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-17T18:34:27.885346",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Reyes",
+        "email": "xavier.reyes@pinnaclesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Ellis",
+          "email": "marcus.ellis@pinnaclesyst.com"
+        }
+      ],
+      "subject": "Driftwood Biosciences product launch - possible infringement of '344 patent",
+      "body": "Dear Hannah,\n\nOur engineers looked at the product Driftwood Biosciences launched last month and believe it practices claims 1 and 7 of our '344 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nRegards,\nXavier Reyes\nChief Technology Officer\nPinnacle Systems",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m05",
+        "matter_ids": [
+          "i007-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m05"
+          ],
+          "keyword_candidates": [
+            "i007-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e017",
+      "thread_id": "i007-t008",
+      "in_reply_to": "i007-e016",
+      "references": [
+        "i007-e016"
+      ],
+      "timestamp": "2026-07-20T10:21:47.184035",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Reyes",
+          "email": "xavier.reyes@pinnaclesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Ellis",
+          "email": "marcus.ellis@pinnaclesyst.com"
+        }
+      ],
+      "subject": "Re: Driftwood Biosciences product launch - possible infringement of '344 patent",
+      "body": "Xavier,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nHannah\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m05",
+        "matter_ids": [
+          "i007-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m05"
+          ],
+          "thread_candidates": [
+            "i007-m05"
+          ],
+          "identifier_candidates": [
+            "i007-m05"
+          ],
+          "keyword_candidates": [
+            "i007-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e018",
+      "thread_id": "i007-t008",
+      "in_reply_to": "i007-e017",
+      "references": [
+        "i007-e016",
+        "i007-e017"
+      ],
+      "timestamp": "2026-07-21T07:39:24.808824",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Reyes",
+        "email": "xavier.reyes@pinnaclesyst.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Ellis",
+          "email": "marcus.ellis@pinnaclesyst.com"
+        }
+      ],
+      "subject": "Re: Driftwood Biosciences product launch - possible infringement of '344 patent",
+      "body": "Hi Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nXavier Reyes\nChief Technology Officer\nPinnacle Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m05",
+        "matter_ids": [
+          "i007-m05"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m05"
+          ],
+          "thread_candidates": [
+            "i007-m05"
+          ],
+          "identifier_candidates": [
+            "i007-m05"
+          ],
+          "keyword_candidates": [
+            "i007-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e019",
+      "thread_id": "i007-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T08:57:36.063881",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Varga",
+        "email": "kenji.varga@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Damages model",
+      "body": "Hi Hannah,\n\nFirst cut at the damages model: lost revenue during the outages is roughly $780,000, plus cover costs for the replacement vendor. The limitation of liability clause may cap us at 12 months of fees unless we can show gross negligence.\n\nRegards,\nKenji\nAssociate\nGrant & Rosen LLP",
+      "attachments": [
+        "Damages Model v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m00",
+        "matter_ids": [
+          "i007-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00",
+            "i007-m01",
+            "i007-m04",
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e020",
+      "thread_id": "i007-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:25:15.324174",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Novak",
+        "email": "ximena.novak@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Trellis",
+      "body": "Hi Hannah,\n\nPre-bills for Trellis Logistics are ready for your review:\n\n- 71603-001  Trellis - Headquarters Lease (1954 California Street)\n\nPlease mark up and return by August 4.\n\nBest,\nXimena Novak\nBilling Coordinator\nGrant & Rosen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e021",
+      "thread_id": "i007-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T16:08:56.194223",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Novak",
+        "email": "ximena.novak@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Tidewater",
+      "body": "Dear Hannah,\n\nPre-bills for Tidewater Energy are ready for your review:\n\n- 62887-001  Tidewater - Acquisition of Nimbus Payments (Project Orion)\n\nPlease mark up and return by August 4.\n\nRegards,\nXimena\nBilling Coordinator\nGrant & Rosen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m01",
+        "matter_ids": [
+          "i007-m01"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e022",
+      "thread_id": "i007-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T11:32:54.815814",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Patel",
+        "email": "olivia.patel@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Dear Hannah,\n\nThe audit committee wants an update at its meeting on September 2. Could you prepare a short summary of status, exposure, and next steps?\n\nThanks,\nOlivia Patel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e023",
+      "thread_id": "i007-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-11T19:17:00.811818",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Reyes",
+          "email": "xavier.reyes@pinnaclesyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Infringement contentions due September 4",
+      "body": "Dear Xavier,\n\nReminder that our infringement contentions are due September 4. We need the source code review scheduled and your engineers' availability for claim charts next week.\n\nBest regards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m05",
+        "matter_ids": [
+          "i007-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e024",
+      "thread_id": "i007-t012",
+      "in_reply_to": "i007-e022",
+      "references": [
+        "i007-e022"
+      ],
+      "timestamp": "2026-08-13T07:00:41.388791",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Patel",
+          "email": "olivia.patel@bluefinbios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Olivia,\n\nThanks. Received; we'll review and come back to you by Wednesday.\n\nBest,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Tue, Aug 11, 2026 at 11:32 AM, Olivia Patel <olivia.patel@bluefinbios.com> wrote:\n> Dear Hannah,\n>\n> The audit committee wants an update at its meeting on September 2. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e025",
+      "thread_id": "i007-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-14T07:11:17.178420",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Quintero",
+        "email": "wei.quintero@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Varga",
+          "email": "kenji.varga@grantrosen.com"
+        }
+      ],
+      "subject": "Project Orion - LOI countersigned",
+      "body": "Hannah,\n\nGood news: Nimbus Payments countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nThanks,\nWei Quintero\nVP, Corporate Development\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m01",
+        "matter_ids": [
+          "i007-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m01"
+          ],
+          "keyword_candidates": [
+            "i007-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e026",
+      "thread_id": "i007-t012",
+      "in_reply_to": "i007-e024",
+      "references": [
+        "i007-e022",
+        "i007-e024"
+      ],
+      "timestamp": "2026-08-14T09:37:05.922477",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Patel",
+        "email": "olivia.patel@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Hannah,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nRegards,\nOlivia Patel\n\nOn Thu, Aug 13, 2026 at 07:00 AM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Dear Olivia,\n>\n> Thanks. Received; we'll review and come back to you by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e027",
+      "thread_id": "i007-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:17:40.310119",
+      "folder": "inbox",
+      "from": {
+        "name": "Isabel Moreau",
+        "email": "isabelm@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Hannah,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nRegards,\nIsabel Moreau\nInvestigator\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m02"
+          ],
+          "keyword_candidates": [
+            "i007-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e028",
+      "thread_id": "i007-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:35:02.095982",
+      "folder": "inbox",
+      "from": {
+        "name": "James Kowalski",
+        "email": "james.kowalski@kowalskieriksen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nRegards,\nJames Kowalski\nPartner\nKowalski & Eriksen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e029",
+      "thread_id": "i007-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T09:47:44.880768",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Thompson",
+          "email": "samuelt@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hello Samuel,\n\nAttached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nBest,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [
+            "i007-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e030",
+      "thread_id": "i007-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-17T10:39:17.206483",
+      "folder": "inbox",
+      "from": {
+        "name": "Kenji Varga",
+        "email": "kenji.varga@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lease abstract",
+      "body": "Dear Hannah,\n\nThe lease abstract for the current draft is attached. Biggest open issues: the operating expense cap, assignment rights on a change of control, and restoration obligations at the end of the term.\n\nBest,\nKenji Varga\nAssociate\nGrant & Rosen LLP",
+      "attachments": [
+        "Lease Abstract.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00",
+            "i007-m01",
+            "i007-m04",
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e031",
+      "thread_id": "i007-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-18T09:27:35.685778",
+      "folder": "inbox",
+      "from": {
+        "name": "Lucia Ellis",
+        "email": "lucia.ellis@trellislogi.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Dear Hannah,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest regards,\nLucia Ellis\nGeneral Counsel\nTrellis Logistics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e032",
+      "thread_id": "i007-t017",
+      "in_reply_to": "i007-e029",
+      "references": [
+        "i007-e029"
+      ],
+      "timestamp": "2026-08-19T07:42:03.029531",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Thompson",
+        "email": "samuelt@solacepaym.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Hello Hannah,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nSamuel Thompson\n\nOn Mon, Aug 17, 2026 at 09:47 AM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Hello Samuel,\n>\n> Attached are the board and stockholder consents approving the Series B. Please circulate for signature; we need a majority of the preferred to sign before closing.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [
+            "i007-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i007-e033",
+      "thread_id": "i007-t017",
+      "in_reply_to": "i007-e032",
+      "references": [
+        "i007-e029",
+        "i007-e032"
+      ],
+      "timestamp": "2026-08-19T16:18:23.961648",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Thompson",
+          "email": "samuelt@solacepaym.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Board and stockholder consents",
+      "body": "Dear Samuel,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Wed, Aug 19, 2026 at 07:42 AM, Samuel Thompson <samuelt@solacepaym.com> wrote:\n> Hello Hannah,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e034",
+      "thread_id": "i007-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T07:22:18.206624",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Nakamura",
+        "email": "xnakamura@kowalskieriksen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Call next week",
+      "body": "Counsel,\n\nAre you available next week to discuss the open issues? Tuesday or Wednesday afternoon works for us.\n\nBest regards,\nXavier\nPartner\nKowalski & Eriksen LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e035",
+      "thread_id": "i007-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-21T07:46:27.912004",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Okafor",
+        "email": "ivan.okafor@halcyonadr.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Abbott",
+          "email": "diegoa@oseirosen.com"
+        }
+      ],
+      "subject": "Demand for arbitration - administrative conference",
+      "body": "Hello Hannah,\n\nThis confirms receipt of the demand for arbitration in Evergreen Biosciences v. Lumen Systems. The administrative conference is scheduled for September 2. Please confirm your availability.\n\nRegards,\nIvan Okafor",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m00",
+        "matter_ids": [
+          "i007-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e036",
+      "thread_id": "i007-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T07:17:33.318399",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Goldberg",
+        "email": "umar.goldberg@copperleafadr.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Employment Law Section luncheon",
+      "body": "Hello Hannah,\n\nJoin us for a panel on retaliation claims and wrongful termination trends, plus practical tips on mediation and deposition strategy. Lunch provided.\n\nBest regards,\nUmar Goldberg\nSection Chair\nCopperleaf Dispute Resolution",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter_keyword_trap",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e037",
+      "thread_id": "i007-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:17:06.450309",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Laurent",
+        "email": "aisha.laurent@castillolee.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Varga",
+          "email": "kenji.varga@grantrosen.com"
+        }
+      ],
+      "subject": "Pinnacle v. Driftwood - proposed protective order",
+      "body": "Counsel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Monday.\n\nBest,\nAisha Laurent\nPartner\nCastillo & Lee LLP",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m05",
+        "matter_ids": [
+          "i007-m05"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m05"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e038",
+      "thread_id": "i007-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T09:07:52.914456",
+      "folder": "inbox",
+      "from": {
+        "name": "Femi Underwood",
+        "email": "funderwood@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Dear Hannah,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nRegards,\nFemi Underwood\nGeneral Counsel\nBluefin Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e039",
+      "thread_id": "i007-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-31T09:28:09.782288",
+      "folder": "inbox",
+      "from": {
+        "name": "Uma Okafor",
+        "email": "uokafor@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "CID No. 2025-584 - meet and confer",
+      "body": "Counsel,\n\nFollowing up on your letter. Staff is willing to discuss narrowing Specifications 4 and 7 but expects a rolling production to begin within 30 days. Please propose dates for a meet and confer.\n\nThanks,\nUma Okafor\nStaff Attorney\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m02"
+          ],
+          "keyword_candidates": [
+            "i007-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e040",
+      "thread_id": "i007-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-01T07:44:41.601383",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Kowalski",
+        "email": "gkowalski@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Counsel,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nBest,\nGabriel\nInvestigator\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m02"
+          ],
+          "keyword_candidates": [
+            "i007-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e041",
+      "thread_id": "i007-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-03T15:47:44.152320",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Patel",
+          "email": "olivia.patel@bluefinbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Custodian interviews next week",
+      "body": "Dear Olivia,\n\nWe'd like to interview the product and data engineering leads next week. Each interview should take about 90 minutes. Please remind them that the interviews are privileged and confidential.\n\nThanks,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e042",
+      "thread_id": "i007-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T07:03:17.575953",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Kowalski",
+        "email": "priya.kowalski@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Hannah,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nRegards,\nPriya Kowalski\nSenior Associate\nGrant & Rosen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00",
+            "i007-m01",
+            "i007-m02",
+            "i007-m03",
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m03"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e043",
+      "thread_id": "i007-t027",
+      "in_reply_to": "i007-e041",
+      "references": [
+        "i007-e041"
+      ],
+      "timestamp": "2026-09-07T08:10:17.214669",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Patel",
+        "email": "olivia.patel@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Dear Hannah,\n\nThanks. Received; we'll review and come back to you by Tuesday.\n\nBest regards,\nOlivia Patel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e044",
+      "thread_id": "i007-t027",
+      "in_reply_to": "i007-e043",
+      "references": [
+        "i007-e041",
+        "i007-e043"
+      ],
+      "timestamp": "2026-09-07T12:33:42.219265",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Patel",
+          "email": "olivia.patel@bluefinbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hi Olivia,\n\nWorks for me. Let's do Monday at 10:30 a.m..\n\nBest regards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e045",
+      "thread_id": "i007-t027",
+      "in_reply_to": "i007-e044",
+      "references": [
+        "i007-e041",
+        "i007-e043",
+        "i007-e044"
+      ],
+      "timestamp": "2026-09-08T12:28:40.633196",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Patel",
+        "email": "olivia.patel@bluefinbios.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Custodian interviews next week",
+      "body": "Hannah,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nBest,\nOlivia\n\nOn Mon, Sep 07, 2026 at 12:33 PM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Hi Olivia,\n>\n> Works for me. Let's do Monday at 10:30 a.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m02",
+        "matter_ids": [
+          "i007-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m02"
+          ],
+          "thread_candidates": [
+            "i007-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e046",
+      "thread_id": "i007-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T13:04:35.351331",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "James Kowalski",
+          "email": "james.kowalski@kowalskieriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Varga",
+          "email": "kenji.varga@grantrosen.com"
+        }
+      ],
+      "subject": "SNDA and estoppel",
+      "body": "Counsel,\n\nWe'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.\n\nRegards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e047",
+      "thread_id": "i007-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-11T20:11:33.853843",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Quintero",
+        "email": "wei.quintero@tidewaterener.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Earn-out question from the board",
+      "body": "Hello Hannah,\n\nThe board asked whether we could structure part of the $120 million purchase price as an earn-out tied to 2027 revenue. What are the main risks from our side, and is it too late to raise with the sellers?\n\nThanks,\nWei Quintero\nVP, Corporate Development\nTidewater Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m01",
+        "matter_ids": [
+          "i007-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e048",
+      "thread_id": "i007-t029",
+      "in_reply_to": "i007-e046",
+      "references": [
+        "i007-e046"
+      ],
+      "timestamp": "2026-09-14T09:17:20.185728",
+      "folder": "inbox",
+      "from": {
+        "name": "James Kowalski",
+        "email": "james.kowalski@kowalskieriksen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Varga",
+          "email": "kenji.varga@grantrosen.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "Counsel,\n\nUnderstood. I'll send a marked version tonight.\n\nRegards,\nJames\nPartner\nKowalski & Eriksen LLP\n\nOn Fri, Sep 11, 2026 at 01:04 PM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Counsel,\n>\n> We'll need an SNDA from the landlord's lender as a condition to lease effectiveness. Please confirm who the lender is and whether they have a standard form.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e049",
+      "thread_id": "i007-t029",
+      "in_reply_to": "i007-e048",
+      "references": [
+        "i007-e046",
+        "i007-e048"
+      ],
+      "timestamp": "2026-09-15T15:26:23.525943",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "James Kowalski",
+          "email": "james.kowalski@kowalskieriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Kenji Varga",
+          "email": "kenji.varga@grantrosen.com"
+        }
+      ],
+      "subject": "Re: SNDA and estoppel",
+      "body": "James,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nHannah\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 14, 2026 at 09:17 AM, James Kowalski <james.kowalski@kowalskieriksen.com> wrote:\n> Counsel,\n>\n> Understood. I'll send a marked version tonight.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m04",
+        "matter_ids": [
+          "i007-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m04"
+          ],
+          "thread_candidates": [
+            "i007-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i007-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e050",
+      "thread_id": "i007-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-17T07:11:15.208011",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Alvarez",
+        "email": "sofia.alvarez@marinertrust.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hi Hannah,\n\nTo open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $450,000. Who is our point of contact on the seller side?\n\nThanks,\nSofia",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m01",
+        "matter_ids": [
+          "i007-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e051",
+      "thread_id": "i007-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-17T12:38:37.335621",
+      "folder": "inbox",
+      "from": {
+        "name": "Priya Kowalski",
+        "email": "priya.kowalski@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Hannah,\n\nStatus on my matters this week:\n\n- Lumen MSA: notice of breach sent, cure period running; damages model in draft.\n- Project Orion: seller comments on the SPA in; issues list circulated, signing targeted for September 29.\n- FTC CID: collection 80% complete; first rolling production targeted for October 12.\n- Series B: financing docs in negotiation with Lattice's counsel; cap table reconciliation in progress.\n- '344 patent: protective order negotiated; infringement contentions due October 10.\n\nRegards,\nPriya\nSenior Associate\nGrant & Rosen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m00",
+        "matter_ids": [
+          "i007-m00",
+          "i007-m01",
+          "i007-m02",
+          "i007-m03",
+          "i007-m05"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i007-m00",
+            "i007-m01",
+            "i007-m02",
+            "i007-m03",
+            "i007-m05"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m00",
+            "i007-m01",
+            "i007-m03",
+            "i007-m05"
+          ],
+          "keyword_candidates": [
+            "i007-m00",
+            "i007-m02",
+            "i007-m05"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e052",
+      "thread_id": "i007-t033",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-28T08:12:17.243224",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Nakamura",
+        "email": "xnakamura@kowalskieriksen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Solace Series B - draft financing documents",
+      "body": "Hi Hannah,\n\nAttached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by October 21. Please send the updated cap table and disclosure schedule when ready.\n\nThanks,\nXavier\nPartner\nKowalski & Eriksen LLP",
+      "attachments": [
+        "SPA.docx",
+        "IRA.docx",
+        "Voting Agreement.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [
+            "i007-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e053",
+      "thread_id": "i007-t033",
+      "in_reply_to": "i007-e052",
+      "references": [
+        "i007-e052"
+      ],
+      "timestamp": "2026-09-29T07:02:31.274564",
+      "folder": "sent",
+      "from": {
+        "name": "Hannah Lindqvist",
+        "email": "hlindqvist@grantrosen.com"
+      },
+      "to": [
+        {
+          "name": "Xavier Nakamura",
+          "email": "xnakamura@kowalskieriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Solace Series B - draft financing documents",
+      "body": "Xavier,\n\nAgreed on the approach. Please go ahead and circulate the revised draft.\n\nRegards,\nHannah Lindqvist\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Sep 28, 2026 at 08:12 AM, Xavier Nakamura <xnakamura@kowalskieriksen.com> wrote:\n> Hi Hannah,\n>\n> Attached please find drafts of the Stock Purchase Agreement, Investors' Rights Agreement and Voting Agreement for the Series B. Our client would like to sign by October 21. Please send the updated cap table and disclosure schedule when ready.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [
+            "i007-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i007-e054",
+      "thread_id": "i007-t033",
+      "in_reply_to": "i007-e053",
+      "references": [
+        "i007-e052",
+        "i007-e053"
+      ],
+      "timestamp": "2026-09-29T17:48:20.503447",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Nakamura",
+        "email": "xnakamura@kowalskieriksen.com"
+      },
+      "to": [
+        {
+          "name": "Hannah Lindqvist",
+          "email": "hlindqvist@grantrosen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Priya Kowalski",
+          "email": "priya.kowalski@grantrosen.com"
+        }
+      ],
+      "subject": "Re: Solace Series B - draft financing documents",
+      "body": "Hello Hannah,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nXavier Nakamura\nPartner\nKowalski & Eriksen LLP\n\nOn Tue, Sep 29, 2026 at 07:02 AM, Hannah Lindqvist <hlindqvist@grantrosen.com> wrote:\n> Xavier,\n>\n> Agreed on the approach. Please go ahead and circulate the revised draft.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i007-m03",
+        "matter_ids": [
+          "i007-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i007-m03"
+          ],
+          "thread_candidates": [
+            "i007-m03"
+          ],
+          "identifier_candidates": [
+            "i007-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700007
+}

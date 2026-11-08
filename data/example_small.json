@@ -1,0 +1,918 @@
+{
+  "instance_id": "ex",
+  "firm": {
+    "name": "Underwood & Jensen LLP",
+    "domain": "underwoodjensen.com"
+  },
+  "user_contact_id": "ex-c000",
+  "matters": [
+    {
+      "matter_id": "ex-m00",
+      "matter_number": "83972-001",
+      "name": "Nimbus v. Sterling (MSA Dispute)",
+      "client": "Nimbus Therapeutics",
+      "matter_type": "contract",
+      "practice_area": "Commercial Litigation",
+      "description": "Breach of master services agreement claims by Nimbus Therapeutics against vendor Sterling Analytics.",
+      "counterparty": "Sterling Analytics",
+      "opposing_counsel_firm": "Kowalski & Morgan LLP",
+      "status": "open",
+      "opened_on": "2026-07-20",
+      "key_terms": [
+        "83972-001",
+        "Sterling Analytics",
+        "Sterling"
+      ],
+      "contacts": [
+        {
+          "contact_id": "ex-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "ex-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "ex-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "ex-c007",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "ex-c008",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "ex-c009",
+          "role": "arbitration_admin"
+        }
+      ]
+    },
+    {
+      "matter_id": "ex-m01",
+      "matter_number": "84868-001",
+      "name": "Corvid - Series C Financing",
+      "client": "Corvid Materials",
+      "matter_type": "financing",
+      "practice_area": "Emerging Companies / Venture",
+      "description": "Series C preferred stock financing for Corvid Materials, led by Brightline Ventures. Raising ~$40 million.",
+      "counterparty": "Brightline Ventures",
+      "opposing_counsel_firm": "Tanaka & Chowdhury LLP",
+      "status": "open",
+      "opened_on": "2026-07-27",
+      "key_terms": [
+        "84868-001",
+        "Series C",
+        "Brightline Ventures",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "ex-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "ex-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "ex-c010",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "ex-c011",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "ex-c012",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "ex-c013",
+          "role": "existing_investor"
+        }
+      ]
+    },
+    {
+      "matter_id": "ex-m02",
+      "matter_number": "83972-002",
+      "name": "Nimbus - Headquarters Lease (1939 University Avenue)",
+      "client": "Nimbus Therapeutics",
+      "matter_type": "lease",
+      "practice_area": "Real Estate",
+      "description": "Office lease negotiation for Nimbus Therapeutics's new headquarters at 1939 University Avenue, landlord Keystone Properties LLC.",
+      "counterparty": "Keystone Properties LLC",
+      "opposing_counsel_firm": "Okafor & Jensen LLP",
+      "status": "open",
+      "opened_on": "2026-06-19",
+      "key_terms": [
+        "83972-002",
+        "1939 University Avenue",
+        "Keystone Properties LLC"
+      ],
+      "contacts": [
+        {
+          "contact_id": "ex-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "ex-c003",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "ex-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "ex-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "ex-c016",
+          "role": "broker"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "ex-c000",
+      "name": "Zoe Reyes",
+      "first": "Zoe",
+      "email": "zoe.reyes@underwoodjensen.com",
+      "organization": "Underwood & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "ex-c001",
+      "name": "Gabriel Nakamura",
+      "first": "Gabriel",
+      "email": "gabriel.nakamura@underwoodjensen.com",
+      "organization": "Underwood & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "ex-c002",
+      "name": "Farid Kaplan",
+      "first": "Farid",
+      "email": "fkaplan@underwoodjensen.com",
+      "organization": "Underwood & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "ex-c003",
+      "name": "Omar Park",
+      "first": "Omar",
+      "email": "omarp@underwoodjensen.com",
+      "organization": "Underwood & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "ex-c004",
+      "name": "Zoe Dubois",
+      "first": "Zoe",
+      "email": "zoe.dubois@underwoodjensen.com",
+      "organization": "Underwood & Jensen LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "ex-c005",
+      "name": "Omar Mendoza",
+      "first": "Omar",
+      "email": "omendoza@corvidmate.com",
+      "organization": "Corvid Materials",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c006",
+      "name": "Daniel Osei",
+      "first": "Daniel",
+      "email": "daniel.osei@nimbusther.com",
+      "organization": "Nimbus Therapeutics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c007",
+      "name": "Marcus Eriksen",
+      "first": "Marcus",
+      "email": "marcus.eriksen@nimbusther.com",
+      "organization": "Nimbus Therapeutics",
+      "org_type": "company",
+      "title": "Chief Operating Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c008",
+      "name": "Valerie Jensen",
+      "first": "Valerie",
+      "email": "vjensen@kowalskimorgan.com",
+      "organization": "Kowalski & Morgan LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c009",
+      "name": "Elena Morgan",
+      "first": "Elena",
+      "email": "elenam@orchardadr.com",
+      "organization": "Orchard Dispute Resolution",
+      "org_type": "adr",
+      "title": "Case Administrator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c010",
+      "name": "Thomas Thompson",
+      "first": "Thomas",
+      "email": "thomast@corvidmate.com",
+      "organization": "Corvid Materials",
+      "org_type": "company",
+      "title": "Chief Executive Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c011",
+      "name": "Samuel Weiss",
+      "first": "Samuel",
+      "email": "sweiss@tanakachowdhury.com",
+      "organization": "Tanaka & Chowdhury LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c012",
+      "name": "Wei Banerjee",
+      "first": "Wei",
+      "email": "wbanerjee@brightlinevc.com",
+      "organization": "Brightline Ventures",
+      "org_type": "fund",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c013",
+      "name": "Hiro Ferreira",
+      "first": "Hiro",
+      "email": "hiro.ferreira@marinervc.com",
+      "organization": "Mariner Ventures",
+      "org_type": "fund",
+      "title": "Managing Director",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c014",
+      "name": "Arjun Whitaker",
+      "first": "Arjun",
+      "email": "arjunw@nimbusther.com",
+      "organization": "Nimbus Therapeutics",
+      "org_type": "company",
+      "title": "Director of Real Estate",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c015",
+      "name": "Farid Lindqvist",
+      "first": "Farid",
+      "email": "farid.lindqvist@okaforjensen.com",
+      "organization": "Okafor & Jensen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c016",
+      "name": "Aisha Ferreira",
+      "first": "Aisha",
+      "email": "aishaf@vantagerealty.com",
+      "organization": "Vantage Commercial Realty",
+      "org_type": "brokerage",
+      "title": "Senior Vice President",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c017",
+      "name": "Ivan Jensen",
+      "first": "Ivan",
+      "email": "ivanj@ironbridgebank.com",
+      "organization": "Ironbridge Bank",
+      "org_type": "lender",
+      "title": "Loan Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "ex-c018",
+      "name": "Daniel Patel",
+      "first": "Daniel",
+      "email": "daniel.patel@stratussoft.com",
+      "organization": "Stratus Software",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "ex-e000",
+      "thread_id": "ex-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T09:00:48.438242",
+      "folder": "inbox",
+      "from": {
+        "name": "Farid Lindqvist",
+        "email": "farid.lindqvist@okaforjensen.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "1939 University Avenue - lease draft",
+      "body": "Counsel,\n\nAttached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.\n\nThanks,\nFarid Lindqvist\nPartner\nOkafor & Jensen LLP",
+      "attachments": [
+        "Office Lease - Landlord Draft.docx"
+      ],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "ex-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "ex-m02"
+          ],
+          "keyword_candidates": [
+            "ex-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e001",
+      "thread_id": "ex-t000",
+      "in_reply_to": "ex-e000",
+      "references": [
+        "ex-e000"
+      ],
+      "timestamp": "2026-07-06T13:48:27.262879",
+      "folder": "sent",
+      "from": {
+        "name": "Zoe Reyes",
+        "email": "zoe.reyes@underwoodjensen.com"
+      },
+      "to": [
+        {
+          "name": "Farid Lindqvist",
+          "email": "farid.lindqvist@okaforjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: 1939 University Avenue - lease draft",
+      "body": "Counsel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nZoe Reyes\nPartner\nUnderwood & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Mon, Jul 06, 2026 at 09:00 AM, Farid Lindqvist <farid.lindqvist@okaforjensen.com> wrote:\n> Counsel,\n>\n> Attached is the landlord's draft lease. Please note the landlord does not agree to the co-tenancy provision raised in the LOI.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "ex-m02"
+          ],
+          "thread_candidates": [
+            "ex-m02"
+          ],
+          "identifier_candidates": [
+            "ex-m02"
+          ],
+          "keyword_candidates": [
+            "ex-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e002",
+      "thread_id": "ex-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T08:11:10.647915",
+      "folder": "sent",
+      "from": {
+        "name": "Zoe Reyes",
+        "email": "zoe.reyes@underwoodjensen.com"
+      },
+      "to": [
+        {
+          "name": "Valerie Jensen",
+          "email": "vjensen@kowalskimorgan.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Farid Kaplan",
+          "email": "fkaplan@underwoodjensen.com"
+        }
+      ],
+      "subject": "Notice of breach - Master Services Agreement",
+      "body": "Hi Valerie,\n\nPlease see the attached notice of material breach under Section 11.2 of the Master Services Agreement between our clients. Under Section 11.3, your client has 30 days to cure.\n\nThanks,\nZoe\nPartner\nUnderwood & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Notice of Breach.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "ex-m00",
+        "matter_ids": [
+          "ex-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "ex-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e003",
+      "thread_id": "ex-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T12:35:01.103140",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Osei",
+        "email": "daniel.osei@nimbusther.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Zoe,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest,\nDaniel\nGeneral Counsel\nNimbus Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00",
+            "ex-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e004",
+      "thread_id": "ex-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-07T17:29:37.612244",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Osei",
+        "email": "daniel.osei@nimbusther.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Signing authority",
+      "body": "Hello Zoe,\n\nWho needs to sign on our side? Our CFO is out next week.\n\nBest,\nDaniel\nGeneral Counsel\nNimbus Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00",
+            "ex-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e005",
+      "thread_id": "ex-t003",
+      "in_reply_to": "ex-e004",
+      "references": [
+        "ex-e004"
+      ],
+      "timestamp": "2026-08-10T10:22:10.791381",
+      "folder": "sent",
+      "from": {
+        "name": "Zoe Reyes",
+        "email": "zoe.reyes@underwoodjensen.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Osei",
+          "email": "daniel.osei@nimbusther.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Signing authority",
+      "body": "Daniel,\n\nUnderstood. I'll send a marked version tonight.\n\nBest,\nZoe Reyes\nPartner\nUnderwood & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.\n\nOn Fri, Aug 07, 2026 at 05:29 PM, Daniel Osei <daniel.osei@nimbusther.com> wrote:\n> Hello Zoe,\n>\n> Who needs to sign on our side? Our CFO is out next week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00",
+            "ex-m02"
+          ],
+          "thread_candidates": [
+            "ex-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e006",
+      "thread_id": "ex-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T08:44:33.796830",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Osei",
+        "email": "daniel.osei@nimbusther.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Zoe,\n\nTwo quick things.\n\n1. On the Sterling dispute, their account team reached out to our COO again.\n2. On the 1939 University Avenue lease, the broker says the landlord moved on TI. Did you see that?\n\nBest,\nDaniel\nGeneral Counsel\nNimbus Therapeutics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m00",
+        "matter_ids": [
+          "ex-m00",
+          "ex-m02"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00",
+            "ex-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "ex-m00",
+            "ex-m02"
+          ],
+          "keyword_candidates": [
+            "ex-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "ex-e007",
+      "thread_id": "ex-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:42:02.031540",
+      "folder": "inbox",
+      "from": {
+        "name": "Marcus Eriksen",
+        "email": "marcus.eriksen@nimbusther.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Osei",
+          "email": "daniel.osei@nimbusther.com"
+        }
+      ],
+      "subject": "Sterling Analytics - repeated SLA failures",
+      "body": "Hi Zoe,\n\nSterling Analytics has missed the uptime SLA under our master services agreement for three straight months, and their latest outage took down order processing for two days. We want to send a formal notice of breach. The MSA is attached.\n\nBest regards,\nMarcus\nChief Operating Officer\nNimbus Therapeutics",
+      "attachments": [
+        "MSA.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "ex-m00",
+        "matter_ids": [
+          "ex-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "ex-m00"
+          ],
+          "keyword_candidates": [
+            "ex-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "ex-e008",
+      "thread_id": "ex-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-25T13:17:57.782296",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Park",
+        "email": "omarp@underwoodjensen.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cap table reconciliation",
+      "body": "Hi Zoe,\n\nI reconciled the cap table against the board consents. There's a 40,000-share discrepancy in the option pool from the 2024 grants. I'd like to fix this before we send the pro forma to the investors' counsel. Do you want to review first?\n\nRegards,\nOmar\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m01",
+        "matter_ids": [
+          "ex-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "ex-m00",
+            "ex-m01",
+            "ex-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "ex-m01"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "ex-e009",
+      "thread_id": "ex-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T11:46:31.097546",
+      "folder": "inbox",
+      "from": {
+        "name": "Ivan Jensen",
+        "email": "ivanj@ironbridgebank.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "SNDA request",
+      "body": "Hi Zoe,\n\nWe received a request for an SNDA in favor of Nimbus Therapeutics. Our standard form is attached; we generally do not accept tenant revisions beyond the notice provisions.\n\nBest,\nIvan Jensen\nLoan Officer\nIronbridge Bank",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "ex-m02",
+        "matter_ids": [
+          "ex-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "ex-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "ex-e010",
+      "thread_id": "ex-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-17T16:22:00.183880",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Patel",
+        "email": "daniel.patel@stratussoft.com"
+      },
+      "to": [
+        {
+          "name": "Zoe Reyes",
+          "email": "zoe.reyes@underwoodjensen.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Hi Zoe,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nBest,\nDaniel Patel\nRecruiter\nStratus Software",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "ex-e011",
+      "thread_id": "ex-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-21T07:23:45.624673",
+      "folder": "sent",
+      "from": {
+        "name": "Zoe Reyes",
+        "email": "zoe.reyes@underwoodjensen.com"
+      },
+      "to": [
+        {
+          "name": "Thomas Thompson",
+          "email": "thomast@corvidmate.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Omar Park",
+          "email": "omarp@underwoodjensen.com"
+        }
+      ],
+      "subject": "Board and stockholder consents",
+      "body": "Hello Thomas,\n\nAttached are the board and stockholder consents approving the Series C. Please circulate for signature; we need a majority of the preferred to sign before closing.\n\nThanks,\nZoe Reyes\nPartner\nUnderwood & Jensen LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [
+        "Board Consent.pdf",
+        "Stockholder Consent.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "ex-m01",
+        "matter_ids": [
+          "ex-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "ex-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "ex-m01"
+          ],
+          "keyword_candidates": [
+            "ex-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 7
+}

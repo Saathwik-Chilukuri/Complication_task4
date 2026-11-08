@@ -1,0 +1,3141 @@
+{
+  "instance_id": "i048",
+  "firm": {
+    "name": "Haddad & Lee LLP",
+    "domain": "haddadlee.com"
+  },
+  "user_contact_id": "i048-c000",
+  "matters": [
+    {
+      "matter_id": "i048-m00",
+      "matter_number": "49292-001",
+      "name": "Aisha Vasquez v. Sterling",
+      "client": "Sterling Systems",
+      "matter_type": "employment",
+      "practice_area": "Employment Litigation",
+      "description": "Wrongful termination and retaliation claims by former employee Aisha Vasquez against Sterling Systems. Case No. 4:26-cv-06406.",
+      "counterparty": "Aisha Vasquez",
+      "opposing_counsel_firm": "Underwood & Sato LLP",
+      "status": "open",
+      "opened_on": "2026-06-23",
+      "key_terms": [
+        "49292-001",
+        "Aisha Vasquez",
+        "Vasquez",
+        "4:26-cv-06406"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i048-c004",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i048-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c008",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i048-c009",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i048-c010",
+          "role": "mediator"
+        }
+      ]
+    },
+    {
+      "matter_id": "i048-m01",
+      "matter_number": "52808-001",
+      "name": "Nimbus - Acquisition of Brightline Materials (Project Orion)",
+      "client": "Nimbus Analytics",
+      "matter_type": "acquisition",
+      "practice_area": "M&A",
+      "description": "Buy-side acquisition of Brightline Materials by Nimbus Analytics. Stock purchase, ~$120 million.",
+      "counterparty": "Brightline Materials",
+      "opposing_counsel_firm": "Morgan & Eriksen LLP",
+      "status": "open",
+      "opened_on": "2026-07-02",
+      "key_terms": [
+        "52808-001",
+        "Project Orion",
+        "Orion",
+        "Brightline Materials",
+        "Brightline"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i048-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i048-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c011",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i048-c012",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i048-c013",
+          "role": "escrow_agent"
+        }
+      ]
+    },
+    {
+      "matter_id": "i048-m02",
+      "matter_number": "35979-001",
+      "name": "Keystone - FTC Investigation (CID No. 2025-387)",
+      "client": "Keystone Energy",
+      "matter_type": "regulatory",
+      "practice_area": "Regulatory / Investigations",
+      "description": "Response to Federal Trade Commission civil investigative demand regarding Keystone Energy's customer data practices.",
+      "counterparty": "Federal Trade Commission",
+      "opposing_counsel_firm": "Federal Trade Commission",
+      "status": "open",
+      "opened_on": "2026-06-28",
+      "key_terms": [
+        "35979-001",
+        "2025-387",
+        "Federal Trade Commission"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i048-c005",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i048-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c014",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i048-c015",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i048-c016",
+          "role": "ediscovery_vendor"
+        }
+      ]
+    },
+    {
+      "matter_id": "i048-m03",
+      "matter_number": "52808-002",
+      "name": "Nimbus - Data Security Incident",
+      "client": "Nimbus Analytics",
+      "matter_type": "breach",
+      "practice_area": "Privacy & Cybersecurity",
+      "description": "Privileged incident response for unauthorized access to Nimbus Analytics's customer database. Forensics by Evergreen Cyber.",
+      "counterparty": "Evergreen Cyber",
+      "opposing_counsel_firm": null,
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "52808-002",
+        "Evergreen Cyber",
+        "Evergreen"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i048-c006",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i048-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c017",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i048-c018",
+          "role": "counterparty"
+        },
+        {
+          "contact_id": "i048-c019",
+          "role": "insurer"
+        }
+      ]
+    },
+    {
+      "matter_id": "i048-m04",
+      "matter_number": "69909-001",
+      "name": "Wavecrest v. Solace ('898 Patent)",
+      "client": "Wavecrest Biosciences",
+      "matter_type": "patent",
+      "practice_area": "IP Litigation",
+      "description": "Patent infringement suit by Wavecrest Biosciences against Solace Software asserting U.S. Patent No. 10,898,326.",
+      "counterparty": "Solace Software",
+      "opposing_counsel_firm": "Yamamoto & Lindqvist LLP",
+      "status": "open",
+      "opened_on": "2026-07-03",
+      "key_terms": [
+        "69909-001",
+        "10,898,326",
+        "'898",
+        "Solace Software",
+        "Solace"
+      ],
+      "contacts": [
+        {
+          "contact_id": "i048-c007",
+          "role": "client_general_counsel"
+        },
+        {
+          "contact_id": "i048-c001",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c002",
+          "role": "internal_team"
+        },
+        {
+          "contact_id": "i048-c020",
+          "role": "client_contact"
+        },
+        {
+          "contact_id": "i048-c021",
+          "role": "opposing_counsel"
+        },
+        {
+          "contact_id": "i048-c022",
+          "role": "technical_expert"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "contact_id": "i048-c000",
+      "name": "Gabriel Kaplan",
+      "first": "Gabriel",
+      "email": "gkaplan@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i048-c001",
+      "name": "Diego Chowdhury",
+      "first": "Diego",
+      "email": "dchowdhury@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i048-c002",
+      "name": "Aisha Chowdhury",
+      "first": "Aisha",
+      "email": "aisha.chowdhury@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Senior Associate",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i048-c003",
+      "name": "Sofia Kaplan",
+      "first": "Sofia",
+      "email": "sofia.kaplan@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Billing Coordinator",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i048-c004",
+      "name": "Yusuf Fischer",
+      "first": "Yusuf",
+      "email": "yusuf.fischer@sterlingsyst.com",
+      "organization": "Sterling Systems",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c005",
+      "name": "Samuel Mendoza",
+      "first": "Samuel",
+      "email": "samuelm@keystoneener.com",
+      "organization": "Keystone Energy",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c006",
+      "name": "Gabriel Ferreira",
+      "first": "Gabriel",
+      "email": "gabrielf@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c007",
+      "name": "Samuel Iyer",
+      "first": "Samuel",
+      "email": "samueli@wavecrestbios.com",
+      "organization": "Wavecrest Biosciences",
+      "org_type": "company",
+      "title": "General Counsel",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c008",
+      "name": "Omar Rosen",
+      "first": "Omar",
+      "email": "omarr@sterlingsyst.com",
+      "organization": "Sterling Systems",
+      "org_type": "company",
+      "title": "Head of People",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c009",
+      "name": "Olivia Banerjee",
+      "first": "Olivia",
+      "email": "oliviab@underwoodsato.com",
+      "organization": "Underwood & Sato LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c010",
+      "name": "Pedro Xu",
+      "first": "Pedro",
+      "email": "pedrox@stratusadr.com",
+      "organization": "Stratus Dispute Resolution",
+      "org_type": "adr",
+      "title": "Mediator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c011",
+      "name": "Omar Kaplan",
+      "first": "Omar",
+      "email": "omark@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "VP, Corporate Development",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c012",
+      "name": "Umar Varga",
+      "first": "Umar",
+      "email": "umar.varga@morganeriksen.com",
+      "organization": "Morgan & Eriksen LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c013",
+      "name": "Ximena Tanaka",
+      "first": "Ximena",
+      "email": "ximena.tanaka@corvidtrust.com",
+      "organization": "Corvid Trust Company",
+      "org_type": "trust",
+      "title": "Vice President, Escrow Services",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c014",
+      "name": "Sofia Varga",
+      "first": "Sofia",
+      "email": "svarga@keystoneener.com",
+      "organization": "Keystone Energy",
+      "org_type": "company",
+      "title": "Chief Compliance Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c015",
+      "name": "Rachel Haddad",
+      "first": "Rachel",
+      "email": "rachelh@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Staff Attorney",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c016",
+      "name": "Hiro Iyer",
+      "first": "Hiro",
+      "email": "hiroi@copperleafdiscovery.com",
+      "organization": "Copperleaf Discovery",
+      "org_type": "ediscovery",
+      "title": "Project Manager",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c017",
+      "name": "Daniel Yamamoto",
+      "first": "Daniel",
+      "email": "dyamamoto@nimbusanal.com",
+      "organization": "Nimbus Analytics",
+      "org_type": "company",
+      "title": "Chief Information Security Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c018",
+      "name": "Olivia Lee",
+      "first": "Olivia",
+      "email": "olivial@evergreencyber.com",
+      "organization": "Evergreen Cyber",
+      "org_type": "forensics",
+      "title": "Incident Response Lead",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c019",
+      "name": "Elena Underwood",
+      "first": "Elena",
+      "email": "eunderwood@riverstonemutual.com",
+      "organization": "Riverstone Mutual Insurance",
+      "org_type": "insurer",
+      "title": "Claims Specialist",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c020",
+      "name": "Yara Varga",
+      "first": "Yara",
+      "email": "yvarga@wavecrestbios.com",
+      "organization": "Wavecrest Biosciences",
+      "org_type": "company",
+      "title": "Chief Technology Officer",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c021",
+      "name": "Wei Zhang",
+      "first": "Wei",
+      "email": "weiz@yamamotolindqvist.com",
+      "organization": "Yamamoto & Lindqvist LLP",
+      "org_type": "law_firm",
+      "title": "Partner",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c022",
+      "name": "Aisha Weiss",
+      "first": "Aisha",
+      "email": "aisha.weiss@amberlytech.com",
+      "organization": "Amberly Technical Consulting",
+      "org_type": "consulting",
+      "title": "Principal",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c023",
+      "name": "Yusuf Delgado",
+      "first": "Yusuf",
+      "email": "ydelgado@bluefinreporting.com",
+      "organization": "Bluefin Court Reporting",
+      "org_type": "court_reporting",
+      "title": "Scheduling Coordinator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c024",
+      "name": "Chen Delgado",
+      "first": "Chen",
+      "email": "chend@ftc.gov",
+      "organization": "Federal Trade Commission",
+      "org_type": "agency",
+      "title": "Investigator",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c025",
+      "name": "Xavier Kowalski",
+      "first": "Xavier",
+      "email": "xkowalski@trellisnetw.com",
+      "organization": "Trellis Networks",
+      "org_type": "company",
+      "title": "Recruiter",
+      "is_internal": false
+    },
+    {
+      "contact_id": "i048-c026",
+      "name": "Yara Ito",
+      "first": "Yara",
+      "email": "yara.ito@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "IT Service Desk",
+      "is_internal": true
+    },
+    {
+      "contact_id": "i048-c027",
+      "name": "Emma Goldberg",
+      "first": "Emma",
+      "email": "emma.goldberg@haddadlee.com",
+      "organization": "Haddad & Lee LLP",
+      "org_type": "own_firm",
+      "title": "Partner",
+      "is_internal": true
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "i048-e000",
+      "thread_id": "i048-t000",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-26T18:36:18.284570",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Fischer",
+        "email": "yusuf.fischer@sterlingsyst.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Invoice question",
+      "body": "Gabriel,\n\nGot your latest invoice. Can you break out the time entries by workstream? Finance needs it for accruals.\n\nBest,\nYusuf Fischer\nGeneral Counsel\nSterling Systems",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e001",
+      "thread_id": "i048-t001",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-06-29T09:43:15.504251",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Banerjee",
+        "email": "oliviab@underwoodsato.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Aisha Vasquez v. Sterling - Case No. 4:26-cv-06406",
+      "body": "Counsel,\n\nPlease see attached the complaint filed today in Aisha Vasquez v. Sterling Systems, Case No. 4:26-cv-06406. We are open to early mediation if your client is interested. Please confirm whether you will accept service on behalf of Sterling.\n\nRegards,\nOlivia Banerjee\nPartner\nUnderwood & Sato LLP",
+      "attachments": [
+        "Complaint.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [
+            "i048-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e002",
+      "thread_id": "i048-t001",
+      "in_reply_to": "i048-e001",
+      "references": [
+        "i048-e001"
+      ],
+      "timestamp": "2026-06-30T07:15:35.417669",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Olivia Banerjee",
+          "email": "oliviab@underwoodsato.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Aisha Vasquez v. Sterling - Case No. 4:26-cv-06406",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nThanks,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": [
+            "i048-m00"
+          ],
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e003",
+      "thread_id": "i048-t001",
+      "in_reply_to": "i048-e002",
+      "references": [
+        "i048-e001",
+        "i048-e002"
+      ],
+      "timestamp": "2026-07-01T18:48:51.920816",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Banerjee",
+        "email": "oliviab@underwoodsato.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Aisha Vasquez v. Sterling - Case No. 4:26-cv-06406",
+      "body": "Counsel,\n\nQuick follow-up on the below. Any update?\n\nBest regards,\nOlivia Banerjee\nPartner\nUnderwood & Sato LLP\n\nOn Tue, Jun 30, 2026 at 07:15 AM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Counsel,\n>\n> See my comments inline. The main issue is still timing; otherwise fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": [
+            "i048-m00"
+          ],
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e004",
+      "thread_id": "i048-t002",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-06T08:19:28.652508",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Mendoza",
+        "email": "samuelm@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Sofia Varga",
+          "email": "svarga@keystoneener.com"
+        }
+      ],
+      "subject": "Civil investigative demand received",
+      "body": "Hello Gabriel,\n\nWe received a Civil Investigative Demand from the Federal Trade Commission this morning (CID No. 2025-387). It asks for documents about our customer data practices going back to 2021. The return date is July 15. Can you call me?\n\nThanks,\nSamuel\nGeneral Counsel\nKeystone Energy",
+      "attachments": [
+        "CID.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m02"
+          ],
+          "keyword_candidates": [
+            "i048-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e005",
+      "thread_id": "i048-t003",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-08T11:30:21.990287",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Chowdhury",
+        "email": "aisha.chowdhury@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Privilege log - first production",
+      "body": "Hi Gabriel,\n\nThe draft privilege log for the first production is attached (312 entries). I want to discuss how we're treating emails with the outside privacy consultant before we send it to staff.\n\nBest,\nAisha",
+      "attachments": [
+        "Privilege Log v1.xlsx"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m02",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i048-m02"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e006",
+      "thread_id": "i048-t003",
+      "in_reply_to": "i048-e005",
+      "references": [
+        "i048-e005"
+      ],
+      "timestamp": "2026-07-10T08:43:06.562866",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Hello Aisha,\n\nThanks. Received; we'll review and come back to you by Thursday.\n\nRegards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m02",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i048-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e007",
+      "thread_id": "i048-t004",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-10T12:25:02.214505",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Gabriel,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nThanks,\nGabriel\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e008",
+      "thread_id": "i048-t005",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:24:13.451961",
+      "folder": "inbox",
+      "from": {
+        "name": "Olivia Lee",
+        "email": "olivial@evergreencyber.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Daniel Yamamoto",
+          "email": "dyamamoto@nimbusanal.com"
+        }
+      ],
+      "subject": "Preliminary forensic findings",
+      "body": "Hello Gabriel,\n\nPer your direction, attached are preliminary findings. Initial access was through a compromised VPN credential; the attacker exfiltrated roughly 220,000 records containing names, emails and hashed passwords. Our final report will follow.\n\nBest regards,\nOlivia",
+      "attachments": [
+        "Preliminary Findings - PRIVILEGED.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i048-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e009",
+      "thread_id": "i048-t006",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-13T09:48:45.040105",
+      "folder": "inbox",
+      "from": {
+        "name": "Hiro Iyer",
+        "email": "hiroi@copperleafdiscovery.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Collection status - 14 custodians",
+      "body": "Dear Gabriel,\n\nWe completed collection for 11 of 14 custodians. Total volume is about 1.8 TB before deduplication. Three custodians have mobile devices we still need to image. Processing estimate attached.\n\nBest regards,\nHiro Iyer\nProject Manager\nCopperleaf Discovery",
+      "attachments": [
+        "Processing Estimate.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e010",
+      "thread_id": "i048-t003",
+      "in_reply_to": "i048-e006",
+      "references": [
+        "i048-e005",
+        "i048-e006"
+      ],
+      "timestamp": "2026-07-13T10:37:50.624146",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Chowdhury",
+        "email": "aisha.chowdhury@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Privilege log - first production",
+      "body": "Dear Gabriel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest regards,\nAisha Chowdhury\n\nOn Fri, Jul 10, 2026 at 08:43 AM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Hello Aisha,\n>\n> Thanks. Received; we'll review and come back to you by Thursday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m02",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i048-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e011",
+      "thread_id": "i048-t004",
+      "in_reply_to": "i048-e007",
+      "references": [
+        "i048-e007"
+      ],
+      "timestamp": "2026-07-13T10:49:02.946407",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Ferreira",
+          "email": "gabrielf@nimbusanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hi Gabriel,\n\nConfirmed. I'll update the checklist.\n\nThanks,\nGabriel\nPartner\nHaddad & Lee LLP\n\nOn Fri, Jul 10, 2026 at 12:25 PM, Gabriel Ferreira <gabrielf@nimbusanal.com> wrote:\n> Gabriel,\n>\n> Some enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": [
+            "i048-m03"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e012",
+      "thread_id": "i048-t004",
+      "in_reply_to": "i048-e011",
+      "references": [
+        "i048-e007",
+        "i048-e011"
+      ],
+      "timestamp": "2026-07-14T11:44:34.822385",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Customer contracts - notice obligations",
+      "body": "Hello Gabriel,\n\nThanks. Separately, on Project Orion, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nBest regards,\nGabriel Ferreira\nGeneral Counsel\nNimbus Analytics\n\nOn Mon, Jul 13, 2026 at 10:49 AM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Hi Gabriel,\n>\n> Confirmed. I'll update the checklist.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01",
+          "i048-m03"
+        ],
+        "scenario": "topic_drift",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "thread_topic_changed",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": [
+            "i048-m03"
+          ],
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e013",
+      "thread_id": "i048-t007",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-15T07:23:15.851526",
+      "folder": "inbox",
+      "from": {
+        "name": "Yusuf Delgado",
+        "email": "ydelgado@bluefinreporting.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition confirmation",
+      "body": "Hi Gabriel,\n\nThis confirms the deposition of Aisha Vasquez on August 2 at 9:30 a.m. in Case No. 4:26-cv-06406. A realtime feed and videographer have been requested. Please let us know of any changes.\n\nBest regards,\nYusuf Delgado\nScheduling Coordinator\nBluefin Court Reporting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e014",
+      "thread_id": "i048-t008",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-16T07:03:45.082901",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Daniel Yamamoto",
+          "email": "dyamamoto@nimbusanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Ferreira",
+          "email": "gabrielf@nimbusanal.com"
+        }
+      ],
+      "subject": "Regulator notifications",
+      "body": "Hi Daniel,\n\nGiven the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Evergreen.\n\nRegards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e015",
+      "thread_id": "i048-t008",
+      "in_reply_to": "i048-e014",
+      "references": [
+        "i048-e014"
+      ],
+      "timestamp": "2026-07-17T17:27:18.479784",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Yamamoto",
+        "email": "dyamamoto@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Ferreira",
+          "email": "gabrielf@nimbusanal.com"
+        }
+      ],
+      "subject": "Re: Regulator notifications",
+      "body": "Gabriel,\n\nWorks for me. Let's do Friday at 2:00 p.m..\n\nRegards,\nDaniel Yamamoto\n\nOn Thu, Jul 16, 2026 at 07:03 AM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Hi Daniel,\n>\n> Given the number of affected residents, we'll need to notify several state attorneys general. I'd recommend holding off on any public statement until we've finalized scope with Evergreen.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m03"
+          ],
+          "thread_candidates": [
+            "i048-m03"
+          ],
+          "identifier_candidates": [
+            "i048-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e016",
+      "thread_id": "i048-t009",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-20T09:44:44.977091",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hello Gabriel,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nThanks,\nGabriel\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e017",
+      "thread_id": "i048-t010",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-27T09:54:04.575926",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Chowdhury",
+        "email": "dchowdhury@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Deposition outline",
+      "body": "Dear Gabriel,\n\nThe draft outline for the plaintiff's deposition is in the folder. I focused on the 2025 performance reviews and the timing of the complaint to HR. Let me know if you want to add anything on damages.\n\nThanks,\nDiego Chowdhury\nAssociate\nHaddad & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [
+            "i048-m00"
+          ],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e018",
+      "thread_id": "i048-t011",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-28T18:43:40.738008",
+      "folder": "inbox",
+      "from": {
+        "name": "Xavier Kowalski",
+        "email": "xkowalski@trellisnetw.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Confidential opportunity",
+      "body": "Gabriel,\n\nI'm working with a leading in-house legal team looking for a deputy general counsel. Would you be open to a confidential conversation?\n\nRegards,\nXavier\nRecruiter\nTrellis Networks",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e019",
+      "thread_id": "i048-t012",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-30T07:50:25.009708",
+      "folder": "inbox",
+      "from": {
+        "name": "Elena Underwood",
+        "email": "eunderwood@riverstonemutual.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Cyber claim - panel counsel approval",
+      "body": "Hello Gabriel,\n\nWe've opened a claim under the cyber policy. Please send your rates for panel approval and an initial budget. Note the policy requires our consent before engaging vendors other than Evergreen.\n\nThanks,\nElena Underwood\nClaims Specialist\nRiverstone Mutual Insurance",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m03"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e020",
+      "thread_id": "i048-t013",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-07-31T13:21:27.522883",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Kaplan",
+        "email": "sofia.kaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Pre-bills for review - Wavecrest",
+      "body": "Gabriel,\n\nPre-bills for Wavecrest Biosciences are ready for your review:\n\n- 69909-001  Wavecrest v. Solace ('898 Patent)\n\nPlease mark up and return by August 4.\n\nBest,\nSofia Kaplan\nBilling Coordinator\nHaddad & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "billing",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e021",
+      "thread_id": "i048-t014",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-03T20:47:14.774629",
+      "folder": "inbox",
+      "from": {
+        "name": "Samuel Iyer",
+        "email": "samueli@wavecrestbios.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Budget through trial",
+      "body": "Gabriel,\n\nFinance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.\n\nBest regards,\nSamuel Iyer\nGeneral Counsel\nWavecrest Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e022",
+      "thread_id": "i048-t014",
+      "in_reply_to": "i048-e021",
+      "references": [
+        "i048-e021"
+      ],
+      "timestamp": "2026-08-05T13:10:53.581149",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Samuel Iyer",
+          "email": "samueli@wavecrestbios.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Budget through trial",
+      "body": "Samuel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Mon, Aug 03, 2026 at 08:47 PM, Samuel Iyer <samueli@wavecrestbios.com> wrote:\n> Gabriel,\n>\n> Finance asked for a litigation budget through trial. Can you send something by the end of the month? Rough numbers are fine.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m04"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e023",
+      "thread_id": "i048-t015",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-10T09:06:00.053124",
+      "folder": "inbox",
+      "from": {
+        "name": "Chen Delgado",
+        "email": "chend@ftc.gov"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Production format",
+      "body": "Counsel,\n\nI'm working with the staff attorney on this matter. Please confirm that productions will follow the agency's technical specifications for load files. A copy is attached.\n\nThanks,\nChen Delgado\nInvestigator\nFederal Trade Commission",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "new_sender",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m02"
+          ],
+          "keyword_candidates": [
+            "i048-m02"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e024",
+      "thread_id": "i048-t016",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-12T09:30:44.529727",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "A couple of things",
+      "body": "Gabriel,\n\nTwo quick things.\n\n1. On the security incident, our insurer is asking for an updated budget.\n2. On Project Orion, the sellers are asking whether we've finished confirmatory diligence. Where are we?\n\nRegards,\nGabriel Ferreira\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03",
+          "i048-m01"
+        ],
+        "scenario": "multi_matter",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e025",
+      "thread_id": "i048-t017",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-13T08:47:12.146913",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Customer contracts - notice obligations",
+      "body": "Hello Gabriel,\n\nSome enterprise customers have contractual notice requirements of 72 hours. Can your team review the top 20 customer agreements today?\n\nRegards,\nGabriel Ferreira\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e026",
+      "thread_id": "i048-t018",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-19T19:32:42.343282",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "HSR filing timing",
+      "body": "Hi Gabriel,\n\nDo we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.\n\nBest,\nGabriel Ferreira\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e027",
+      "thread_id": "i048-t018",
+      "in_reply_to": "i048-e026",
+      "references": [
+        "i048-e026"
+      ],
+      "timestamp": "2026-08-20T12:24:08.286624",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Ferreira",
+          "email": "gabrielf@nimbusanal.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: HSR filing timing",
+      "body": "Hi Gabriel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nBest,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Wed, Aug 19, 2026 at 07:32 PM, Gabriel Ferreira <gabrielf@nimbusanal.com> wrote:\n> Hi Gabriel,\n>\n> Do we need an HSR filing for this deal? If so, can we file before signing? I want to make sure the closing timeline in the board deck is realistic.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": [
+            "i048-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e028",
+      "thread_id": "i048-t019",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T09:09:24.869485",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Weiss",
+        "email": "aisha.weiss@amberlytech.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Claim construction - preliminary views",
+      "body": "Hi Gabriel,\n\nHaving reviewed the specification, I think 'adaptive sampling interval' is the critical term. Under its plain meaning the accused device likely meets it. I'll have a draft declaration to you by September 1.\n\nThanks,\nAisha\nPrincipal\nAmberly Technical Consulting",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e029",
+      "thread_id": "i048-t020",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-24T10:31:46.911661",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Tanaka",
+        "email": "ximena.tanaka@corvidtrust.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Escrow account opening - KYC documents",
+      "body": "Hi Gabriel,\n\nTo open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?\n\nBest,\nXimena\nVice President, Escrow Services\nCorvid Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e030",
+      "thread_id": "i048-t021",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-26T08:05:32.325084",
+      "folder": "inbox",
+      "from": {
+        "name": "Aisha Chowdhury",
+        "email": "aisha.chowdhury@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Prior art search results",
+      "body": "Gabriel,\n\nThe prior art search came back. Two references are worth a look: a 2014 IEEE paper and a 2016 Japanese publication. Neither discloses the feedback loop in claim 1, but the Japanese reference comes close on claim 7. Summary attached.\n\nBest regards,\nAisha Chowdhury",
+      "attachments": [
+        "Prior Art Summary.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m02",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "history"
+    },
+    {
+      "email_id": "i048-e031",
+      "thread_id": "i048-t020",
+      "in_reply_to": "i048-e029",
+      "references": [
+        "i048-e029"
+      ],
+      "timestamp": "2026-08-26T08:29:08.889875",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Ximena Tanaka",
+          "email": "ximena.tanaka@corvidtrust.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Hello Ximena,\n\nAdding Diego, who will handle the day-to-day on this.\n\nRegards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Mon, Aug 24, 2026 at 10:31 AM, Ximena Tanaka <ximena.tanaka@corvidtrust.com> wrote:\n> Hi Gabriel,\n>\n> To open the escrow account for the Orion transaction we will need KYC documentation for both buyer and seller, including certificates of good standing and beneficial ownership forms. The escrow amount in the current draft is $1.2 million. Who is our point of contact on the seller side?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": [
+            "i048-m01"
+          ],
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e032",
+      "thread_id": "i048-t020",
+      "in_reply_to": "i048-e031",
+      "references": [
+        "i048-e029",
+        "i048-e031"
+      ],
+      "timestamp": "2026-08-27T07:54:45.525054",
+      "folder": "inbox",
+      "from": {
+        "name": "Ximena Tanaka",
+        "email": "ximena.tanaka@corvidtrust.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Escrow account opening - KYC documents",
+      "body": "Dear Gabriel,\n\nCan we push this to next week? Things are busy on our end.\n\nRegards,\nXimena Tanaka\nVice President, Escrow Services\nCorvid Trust Company",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": [
+            "i048-m01"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e033",
+      "thread_id": "i048-t022",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-27T18:38:05.068338",
+      "folder": "inbox",
+      "from": {
+        "name": "Daniel Yamamoto",
+        "email": "dyamamoto@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Gabriel Ferreira",
+          "email": "gabrielf@nimbusanal.com"
+        }
+      ],
+      "subject": "URGENT - security incident",
+      "body": "Dear Gabriel,\n\nWe detected unauthorized access to our customer database last night. It's contained, and we've engaged Evergreen Cyber for forensics. We'd like you to direct the investigation so it's covered by privilege. Can you join a call at 5:00 p.m.?\n\nBest regards,\nDaniel",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m03"
+          ],
+          "keyword_candidates": [
+            "i048-m03"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e034",
+      "thread_id": "i048-t023",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-08-28T08:50:29.506510",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Varga",
+        "email": "svarga@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Audit committee update",
+      "body": "Hello Gabriel,\n\nThe audit committee wants an update at its meeting on September 5. Could you prepare a short summary of status, exposure, and next steps?\n\nThanks,\nSofia\nChief Compliance Officer\nKeystone Energy",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e035",
+      "thread_id": "i048-t023",
+      "in_reply_to": "i048-e034",
+      "references": [
+        "i048-e034"
+      ],
+      "timestamp": "2026-08-31T10:18:55.267498",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Sofia Varga",
+          "email": "svarga@keystoneener.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Hello Sofia,\n\nWorks for me. Let's do Friday at 2:00 p.m..\n\nThanks,\nGabriel\nPartner\nHaddad & Lee LLP\n\nOn Fri, Aug 28, 2026 at 08:50 AM, Sofia Varga <svarga@keystoneener.com> wrote:\n> Hello Gabriel,\n>\n> The audit committee wants an update at its meeting on September 5. Could you prepare a short summary of status, exposure, and next steps?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": [
+            "i048-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e036",
+      "thread_id": "i048-t023",
+      "in_reply_to": "i048-e035",
+      "references": [
+        "i048-e034",
+        "i048-e035"
+      ],
+      "timestamp": "2026-08-31T17:55:19.434491",
+      "folder": "inbox",
+      "from": {
+        "name": "Sofia Varga",
+        "email": "svarga@keystoneener.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Re: Audit committee update",
+      "body": "Dear Gabriel,\n\nCan we push this to next week? Things are busy on our end.\n\nBest regards,\nSofia Varga\nChief Compliance Officer\nKeystone Energy\n\nOn Mon, Aug 31, 2026 at 10:18 AM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Hello Sofia,\n>\n> Works for me. Let's do Friday at 2:00 p.m..",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m02",
+        "matter_ids": [
+          "i048-m02"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "moderate",
+        "ambiguity_reasons": [
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m02"
+          ],
+          "thread_candidates": [
+            "i048-m02"
+          ],
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e037",
+      "thread_id": "i048-t024",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-04T08:02:30.231782",
+      "folder": "inbox",
+      "from": {
+        "name": "Umar Varga",
+        "email": "umar.varga@morganeriksen.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Chowdhury",
+          "email": "dchowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Brightline / Nimbus - SPA comments",
+      "body": "Counsel,\n\nAttached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Brightline customer contracts that require consent on a change of control.\n\nHappy to walk through on a call this week.\n\nBest,\nUmar Varga",
+      "attachments": [
+        "Brightline SPA - Seller Comments.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [
+            "i048-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e038",
+      "thread_id": "i048-t024",
+      "in_reply_to": "i048-e037",
+      "references": [
+        "i048-e037"
+      ],
+      "timestamp": "2026-09-07T08:16:14.741511",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Umar Varga",
+          "email": "umar.varga@morganeriksen.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Chowdhury",
+          "email": "dchowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Re: Brightline / Nimbus - SPA comments",
+      "body": "Counsel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Fri, Sep 04, 2026 at 08:02 AM, Umar Varga <umar.varga@morganeriksen.com> wrote:\n> Counsel,\n>\n> Attached is our markup of the SPA. The main open points are (1) the indemnification cap, which we have at 8% of the purchase price, (2) the survival period for fundamental reps, and (3) treatment of the Brightline customer contracts that require consent on a change of control.\n>\n> Happy to walk through on a call this week.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": [
+            "i048-m01"
+          ],
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [
+            "i048-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e039",
+      "thread_id": "i048-t025",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T09:56:53.312252",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Zhang",
+        "email": "weiz@yamamotolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Wavecrest v. Solace - proposed protective order",
+      "body": "Dear Gabriel,\n\nAttached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Wednesday.\n\nRegards,\nWei",
+      "attachments": [
+        "Proposed Protective Order.docx"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e040",
+      "thread_id": "i048-t026",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-07T20:32:35.977487",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Rosen",
+        "email": "omarr@sterlingsyst.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Fischer",
+          "email": "yusuf.fischer@sterlingsyst.com"
+        }
+      ],
+      "subject": "Demand letter - Aisha Vasquez",
+      "body": "Dear Gabriel,\n\nWe received the attached demand letter from counsel for Aisha Vasquez, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?\n\nThanks,\nOmar",
+      "attachments": [
+        "Demand Letter.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [
+            "i048-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e041",
+      "thread_id": "i048-t026",
+      "in_reply_to": "i048-e040",
+      "references": [
+        "i048-e040"
+      ],
+      "timestamp": "2026-09-08T09:39:05.720495",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Omar Rosen",
+          "email": "omarr@sterlingsyst.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Yusuf Fischer",
+          "email": "yusuf.fischer@sterlingsyst.com"
+        }
+      ],
+      "subject": "Re: Demand letter - Aisha Vasquez",
+      "body": "Dear Omar,\n\nWorks for me. Let's do Thursday at 9:00 a.m..\n\nBest regards,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Mon, Sep 07, 2026 at 08:32 PM, Omar Rosen <omarr@sterlingsyst.com> wrote:\n> Dear Gabriel,\n>\n> We received the attached demand letter from counsel for Aisha Vasquez, who was terminated in August. The letter alleges wrongful termination and retaliation and demands $1.2 million. I've put a hold on the personnel file. How should we respond?",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00"
+          ],
+          "thread_candidates": [
+            "i048-m00"
+          ],
+          "identifier_candidates": [
+            "i048-m00"
+          ],
+          "keyword_candidates": [
+            "i048-m00"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e042",
+      "thread_id": "i048-t025",
+      "in_reply_to": "i048-e039",
+      "references": [
+        "i048-e039"
+      ],
+      "timestamp": "2026-09-08T14:31:39.961457",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Wei Zhang",
+          "email": "weiz@yamamotolindqvist.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Re: Wavecrest v. Solace - proposed protective order",
+      "body": "Counsel,\n\nThanks for the quick turnaround. Let me check with the team and revert.\n\nThanks,\nGabriel Kaplan\nPartner\nHaddad & Lee LLP\n\nOn Mon, Sep 07, 2026 at 09:56 AM, Wei Zhang <weiz@yamamotolindqvist.com> wrote:\n> Dear Gabriel,\n>\n> Attached is our proposed stipulated protective order. We've included a two-tier designation and a prosecution bar. Let us know if your client can agree by Wednesday.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m04"
+          ],
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e043",
+      "thread_id": "i048-t027",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-08T16:32:26.697892",
+      "folder": "inbox",
+      "from": {
+        "name": "Omar Kaplan",
+        "email": "omark@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Chowdhury",
+          "email": "dchowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Project Orion - LOI countersigned",
+      "body": "Dear Gabriel,\n\nGood news: Brightline Materials countersigned the LOI this morning. We're targeting signing in roughly six weeks, so we'd like your team to start on the stock purchase agreement and get a diligence request list out. Their CFO expects the list by Monday.\n\nCan we do a kickoff call tomorrow?\n\nBest regards,\nOmar Kaplan",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [
+            "i048-m01"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e044",
+      "thread_id": "i048-t028",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-09T15:00:41.886989",
+      "folder": "inbox",
+      "from": {
+        "name": "Gabriel Ferreira",
+        "email": "gabrielf@nimbusanal.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Gabriel,\n\nAny update on where things stand? Our CEO asked me this morning.\n\nBest,\nGabriel Ferreira\nGeneral Counsel\nNimbus Analytics",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m03",
+        "matter_ids": [
+          "i048-m03"
+        ],
+        "scenario": "generic_content",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "no_matter_specific_text"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01",
+            "i048-m03"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": false,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e045",
+      "thread_id": "i048-t025",
+      "in_reply_to": "i048-e042",
+      "references": [
+        "i048-e039",
+        "i048-e042"
+      ],
+      "timestamp": "2026-09-09T15:22:03.259405",
+      "folder": "inbox",
+      "from": {
+        "name": "Wei Zhang",
+        "email": "weiz@yamamotolindqvist.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Aisha Chowdhury",
+          "email": "aisha.chowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Re: Wavecrest v. Solace - proposed protective order",
+      "body": "Hi Gabriel,\n\nThanks. Received; we'll review and come back to you by Monday.\n\nBest,\nWei Zhang\n\nOn Tue, Sep 08, 2026 at 02:31 PM, Gabriel Kaplan <gkaplan@haddadlee.com> wrote:\n> Counsel,\n>\n> Thanks for the quick turnaround. Let me check with the team and revert.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m04"
+          ],
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e046",
+      "thread_id": "i048-t027",
+      "in_reply_to": "i048-e043",
+      "references": [
+        "i048-e043"
+      ],
+      "timestamp": "2026-09-09T18:22:29.114411",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Omar Kaplan",
+          "email": "omark@nimbusanal.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Diego Chowdhury",
+          "email": "dchowdhury@haddadlee.com"
+        }
+      ],
+      "subject": "Re: Project Orion - LOI countersigned",
+      "body": "Hello Omar,\n\nAdding Diego, who will handle the day-to-day on this.\n\nBest regards,\nGabriel\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m01",
+        "matter_ids": [
+          "i048-m01"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m01"
+          ],
+          "thread_candidates": [
+            "i048-m01"
+          ],
+          "identifier_candidates": [
+            "i048-m01"
+          ],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e047",
+      "thread_id": "i048-t029",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-10T09:29:38.597821",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Varga",
+        "email": "yvarga@wavecrestbios.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Iyer",
+          "email": "samueli@wavecrestbios.com"
+        }
+      ],
+      "subject": "Solace Software product launch - possible infringement of '898 patent",
+      "body": "Dear Gabriel,\n\nOur engineers looked at the product Solace Software launched last month and believe it practices claims 1 and 7 of our '898 patent. Teardown notes attached. Can we discuss options, including a cease-and-desist letter?\n\nThanks,\nYara\nChief Technology Officer\nWavecrest Biosciences",
+      "attachments": [
+        "Teardown Notes.pdf"
+      ],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "matter_thread",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [
+            "i048-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e048",
+      "thread_id": "i048-t029",
+      "in_reply_to": "i048-e047",
+      "references": [
+        "i048-e047"
+      ],
+      "timestamp": "2026-09-11T18:06:32.056949",
+      "folder": "sent",
+      "from": {
+        "name": "Gabriel Kaplan",
+        "email": "gkaplan@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Yara Varga",
+          "email": "yvarga@wavecrestbios.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Iyer",
+          "email": "samueli@wavecrestbios.com"
+        }
+      ],
+      "subject": "Re: Solace Software product launch - possible infringement of '898 patent",
+      "body": "Dear Yara,\n\nCan we push this to next week? Things are busy on our end.\n\nBest,\nGabriel\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m04"
+          ],
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [
+            "i048-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e049",
+      "thread_id": "i048-t030",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T08:14:53.445678",
+      "folder": "inbox",
+      "from": {
+        "name": "Diego Chowdhury",
+        "email": "dchowdhury@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Weekly matter status",
+      "body": "Gabriel,\n\nStatus on my matters this week:\n\n- Vasquez: complaint served; mediation being scheduled, deposition outline in draft.\n- Project Orion: seller comments on the SPA in; issues list circulated, signing targeted for October 4.\n- Security incident: forensics report pending; consumer notification letters in draft.\n- '898 patent: protective order negotiated; infringement contentions due October 1.\n\nRegards,\nDiego\nAssociate\nHaddad & Lee LLP\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m00",
+        "matter_ids": [
+          "i048-m00",
+          "i048-m01",
+          "i048-m03",
+          "i048-m04"
+        ],
+        "scenario": "multi_matter_status",
+        "difficulty": "ambiguous",
+        "ambiguity_reasons": [
+          "participants_span_multiple_matters",
+          "spans_multiple_matters",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "thread_candidates": null,
+          "identifier_candidates": [
+            "i048-m00",
+            "i048-m01",
+            "i048-m04"
+          ],
+          "keyword_candidates": [
+            "i048-m00",
+            "i048-m03",
+            "i048-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": false
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e050",
+      "thread_id": "i048-t029",
+      "in_reply_to": "i048-e048",
+      "references": [
+        "i048-e047",
+        "i048-e048"
+      ],
+      "timestamp": "2026-09-14T10:02:44.493515",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Varga",
+        "email": "yvarga@wavecrestbios.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samuel Iyer",
+          "email": "samueli@wavecrestbios.com"
+        }
+      ],
+      "subject": "Re: Solace Software product launch - possible infringement of '898 patent",
+      "body": "Gabriel,\n\nSee my comments inline. The main issue is still timing; otherwise fine.\n\nRegards,\nYara Varga\nChief Technology Officer\nWavecrest Biosciences",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": "i048-m04",
+        "matter_ids": [
+          "i048-m04"
+        ],
+        "scenario": "thread_reply",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [],
+        "signals": {
+          "participant_candidates": [
+            "i048-m04"
+          ],
+          "thread_candidates": [
+            "i048-m04"
+          ],
+          "identifier_candidates": [
+            "i048-m04"
+          ],
+          "keyword_candidates": [
+            "i048-m04"
+          ],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e051",
+      "thread_id": "i048-t031",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-14T10:20:42.285053",
+      "folder": "inbox",
+      "from": {
+        "name": "Emma Goldberg",
+        "email": "emma.goldberg@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Lunch Thursday?",
+      "body": "Dear Gabriel,\n\nAre you free for lunch Thursday? Want to catch up on the associate review process.\n\nThanks,\nEmma Goldberg\nPartner\nHaddad & Lee LLP",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    },
+    {
+      "email_id": "i048-e052",
+      "thread_id": "i048-t032",
+      "in_reply_to": null,
+      "references": [],
+      "timestamp": "2026-09-15T12:02:07.903779",
+      "folder": "inbox",
+      "from": {
+        "name": "Yara Ito",
+        "email": "yara.ito@haddadlee.com"
+      },
+      "to": [
+        {
+          "name": "Gabriel Kaplan",
+          "email": "gkaplan@haddadlee.com"
+        }
+      ],
+      "cc": [],
+      "subject": "Scheduled maintenance this Saturday",
+      "body": "Hi Gabriel,\n\nThe document management system will be unavailable Saturday from 8 a.m. to noon for upgrades. Please save your work and log out Friday evening.\n\nBest,\nYara Ito\n\nCONFIDENTIALITY NOTICE: This message may contain attorney-client privileged or confidential information. If you received it in error, please delete it.",
+      "attachments": [],
+      "label": {
+        "primary_matter_id": null,
+        "matter_ids": [],
+        "scenario": "no_matter",
+        "difficulty": "obvious",
+        "ambiguity_reasons": [
+          "unknown_participants",
+          "no_matter_specific_text",
+          "internal_sender"
+        ],
+        "signals": {
+          "participant_candidates": [],
+          "thread_candidates": null,
+          "identifier_candidates": [],
+          "keyword_candidates": [],
+          "metadata_points_to_truth": true,
+          "text_points_to_truth": true
+        }
+      },
+      "split": "incoming"
+    }
+  ],
+  "seed": 700048
+}
